@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Wakka",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/hats/black_bicorn",
@@ -154,7 +154,7 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"gui": {
-			"rotation": [30, 135, 0],
+			"rotation": [30, 45, 0],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
