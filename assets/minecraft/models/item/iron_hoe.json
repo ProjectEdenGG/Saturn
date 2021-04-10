@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_hoe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data": 901}, "model": "item/minigolf/putter"},
+		{"predicate": {"custom_model_data": 902}, "model": "item/minigolf/iron"},
+		{"predicate": {"custom_model_data": 903}, "model": "item/minigolf/wedge"}
+	]
+}
