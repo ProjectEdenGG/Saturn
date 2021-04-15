@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/template_banner",
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "item/modern/prideflag_ace"},
+   	{ "predicate": {"custom_model_data": 2}, "model": "item/modern/prideflag_bi"},
+   	{ "predicate": {"custom_model_data": 3}, "model": "item/modern/prideflag_lesbian1"},
+   	{ "predicate": {"custom_model_data": 4}, "model": "item/modern/prideflag_lgbt"},
+   	{ "predicate": {"custom_model_data": 5}, "model": "item/modern/prideflag_nonbinary"},
+   	{ "predicate": {"custom_model_data": 6}, "model": "item/modern/prideflag_pan"},
+   	{ "predicate": {"custom_model_data": 7}, "model": "item/modern/prideflag_trans"},
+   	{ "predicate": {"custom_model_data": 8}, "model": "item/modern/pridepennant_ace"},
+   	{ "predicate": {"custom_model_data": 9}, "model": "item/modern/pridepennant_bi"},
+   	{ "predicate": {"custom_model_data": 10}, "model": "item/modern/pridepennant_lesbian1"},
+   	{ "predicate": {"custom_model_data": 11}, "model": "item/modern/pridepennant_lgbt"},
+   	{ "predicate": {"custom_model_data": 12}, "model": "item/modern/pridepennant_nonbinary"},
+   	{ "predicate": {"custom_model_data": 13}, "model": "item/modern/pridepennant_pan"},
+   	{ "predicate": {"custom_model_data": 14}, "model": "item/modern/pridepennant_trans"}
+  ]
+}

@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/oak_sign"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/modern/bistrosign"}
+    { "predicate": {"custom_model_data": 1}, "model": "item/modern/bistrosign"},
+    { "predicate": {"custom_model_data": 2}, "model": "item/modern/bistrosign1"}
   ]
 }
