@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Wakka",
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "custom/flagsbig",
@@ -81,7 +81,7 @@
 			"to": [8.06218, 15.77301, 5.66354],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [7.98286, 11.76213, 4.67008]},
 			"faces": {
-				"north": {"uv": [3.75, 3.125, 7.39988, 3.42475], "texture": "#0"},
+				"north": {"uv": [14.625, 0, 14.75, 2.25], "texture": "#0"},
 				"east": {"uv": [11.858, 0, 11.5, 2.22488], "texture": "#0"},
 				"south": {"uv": [15.703, 0, 11.803, 2.35], "texture": "#0"},
 				"west": {"uv": [14.733, 0, 14.375, 2.22488], "texture": "#0"},
