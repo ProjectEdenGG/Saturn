@@ -4,6 +4,6 @@
     "layer0": "minecraft:block/tripwire_hook"
   },
   "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/misc/hook"}
+		{ "predicate": {"custom_model_data": 1}, "model": "item/costume/pirate/hook"}
   ]
 }

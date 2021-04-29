@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/minecart"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 901}, "model": "item/bearfair21/ferriswheel_cart"}
+  	{ "predicate": {"custom_model_data": 901}, "model": "item/events/bearfair21/ferriswheel_cart"}
   ]
 }
