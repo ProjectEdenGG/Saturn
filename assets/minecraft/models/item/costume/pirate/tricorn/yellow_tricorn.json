@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/hats/yellow_tricorn",
-		"particle": "item/hats/yellow_tricorn"
+		"0": "item/costume/pirateyellow_tricorn",
+		"particle": "item/costume/pirateyellow_tricorn"
 	},
 	"elements": [
 		{

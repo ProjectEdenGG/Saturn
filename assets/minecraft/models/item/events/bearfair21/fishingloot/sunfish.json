@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/bearfair21/fishingloot/sunfish"
+        "layer0": "item/events/bearfair21/fishingloot/sunfish"
     },
     "display": {
         "head": {

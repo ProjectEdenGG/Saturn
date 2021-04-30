@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/bearfair21/fishingloot/woodskip"
+        "layer0": "item/events/bearfair21/fishingloot/woodskip"
     },
     "display": {
         "head": {

@@ -6,6 +6,7 @@
   "overrides": [
     { "predicate": {"custom_model_data": 1}, "model": "item/modern/pizza_box"},
     { "predicate": {"custom_model_data": 2}, "model": "item/modern/pizza_box_stack"},
-    { "predicate": {"custom_model_data": 3}, "model": "item/modern/pizza_pepper"}
+    { "predicate": {"custom_model_data": 3}, "model": "item/modern/pizza_pepper"},
+    { "predicate": {"custom_model_data": 4}, "model": "item/tabletop/food/bread"}
   ]
 }
