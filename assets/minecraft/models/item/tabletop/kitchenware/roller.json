@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/kitchen/roller"
+    "layer0": "item/tabletop/kitchenware/roller"
   }
 }

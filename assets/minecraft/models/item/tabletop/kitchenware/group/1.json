@@ -2,7 +2,7 @@
 	"credit": "Made by Wakka",
 	"textures": {
 		"0": "custom/potions",
-		"1": "item/tabletop/wine_bottle",
+		"1": "item/tabletop/kitchenware/wine_bottle",
 		"particle": "custom/potions"
 	},
 	"elements": [

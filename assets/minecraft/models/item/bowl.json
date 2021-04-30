@@ -6,6 +6,9 @@
   "overrides": [
   	{ "predicate": {"custom_model_data": 1}, "model": "item/tabletop/kitchenware/grinder"},
   	{ "predicate": {"custom_model_data": 2}, "model": "item/tabletop/kitchenware/mixingbowl"},
-  	{ "predicate": {"custom_model_data": 3}, "model": "item/tabletop/kitchenware/bowl"}
+  	{ "predicate": {"custom_model_data": 3}, "model": "item/tabletop/kitchenware/bowl"},
+  	{ "predicate": {"custom_model_data": 4}, "model": "item/tabletop/food/stew_mushroom"},
+  	{ "predicate": {"custom_model_data": 5}, "model": "item/tabletop/food/stew_beet"},
+  	{ "predicate": {"custom_model_data": 6}, "model": "item/tabletop/food/stew_rabbit"}
   ]
 }

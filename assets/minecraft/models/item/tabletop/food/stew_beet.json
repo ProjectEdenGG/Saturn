@@ -2,6 +2,7 @@
 	"credit": "Made by Wakka",
 	"textures": {
 		"0": "item/tabletop/kitchenware/bowl",
+		"1": "item/tabletop/food/stew",
 		"particle": "item/tabletop/kitchenware/bowl"
 	},
 	"elements": [
@@ -233,6 +234,30 @@
 				"up": {"uv": [16, 13, 15, 12], "texture": "#0"},
 				"down": {"uv": [14, 15, 13, 16], "texture": "#0"}
 			}
+		},
+		{
+			"from": [6, 1.75, 5],
+			"to": [10, 2.75, 11],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [9, 6, 5, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [10, 1.75, 6],
+			"to": [11, 2.75, 10],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [10, 8, 9, 4], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 1.75, 6],
+			"to": [6, 2.75, 10],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [10, 4, 9, 0], "texture": "#1"}
+			}
 		}
 	],
 	"display": {
@@ -269,7 +294,13 @@
 		{
 			"name": "bowl",
 			"origin": [8, 8, 8],
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+				{
+					"name": "stew",
+					"origin": [8, 0, 8],
+					"children": [19, 20, 21]
+				}
+			]
 		}
 	]
 }

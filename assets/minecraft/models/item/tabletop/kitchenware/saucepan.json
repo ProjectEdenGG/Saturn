@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/kitchen/saucepan"
+    "layer0": "item/tabletop/kitchenware/saucepan"
   }
 }
