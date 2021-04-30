@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/bundle"
+    "layer0": "item/misc/bundle"
   }
 }
 

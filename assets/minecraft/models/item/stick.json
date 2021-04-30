@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "item/kitchen/roller"}
+  	{ "predicate": {"custom_model_data": 1}, "model": "item/tabletop/kitchenware/roller"}
   ]
 }
