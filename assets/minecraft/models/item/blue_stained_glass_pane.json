@@ -144,7 +144,6 @@
         { "predicate": {"custom_model_data": 404}, "model": "item/tabletop/kitchenware/mug_1"},
         { "predicate": {"custom_model_data": 405}, "model": "item/tabletop/kitchenware/mug_2"},
         { "predicate": {"custom_model_data": 406}, "model": "item/tabletop/kitchenware/mug_3"},
-        { "predicate": {"custom_model_data": 407}, "model": "item/tabletop/kitchenware/mug_4"},
         { "predicate": {"custom_model_data": 450}, "model": "item/tabletop/kitchenware/group/1"},
         { "predicate": {"custom_model_data": 451}, "model": "item/tabletop/kitchenware/group/2"},
         { "predicate": {"custom_model_data": 452}, "model": "item/tabletop/kitchenware/group/3"},
