@@ -4,7 +4,8 @@
     "layer0": "minecraft:item/bowl"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "item/kitchen/grinder"},
-  	{ "predicate": {"custom_model_data": 2}, "model": "item/kitchen/mixingbowl"}
+  	{ "predicate": {"custom_model_data": 1}, "model": "item/tabletop/kitchenware/grinder"},
+  	{ "predicate": {"custom_model_data": 2}, "model": "item/tabletop/kitchenware/mixingbowl"},
+  	{ "predicate": {"custom_model_data": 3}, "model": "item/tabletop/kitchenware/bowl"}
   ]
 }
