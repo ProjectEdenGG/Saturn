@@ -5,8 +5,8 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data": 901}, "model": "item/minigame/minigolf/putter"},
-		{"predicate": {"custom_model_data": 902}, "model": "item/minigame/minigolf/iron"},
-		{"predicate": {"custom_model_data": 903}, "model": "item/minigame/minigolf/wedge"}
+		{"predicate": {"custom_model_data": 901}, "model": "item/minigames/minigolf/putter"},
+		{"predicate": {"custom_model_data": 902}, "model": "item/minigames/minigolf/iron"},
+		{"predicate": {"custom_model_data": 903}, "model": "item/minigames/minigolf/wedge"}
 	]
 }

@@ -607,7 +607,7 @@
 			"translation": [0, 4.25, 0]
 		},
 		"gui": {
-			"rotation": [45, -135, 0],
+			"rotation": [45, 134, 0],
 			"translation": [0, 1, 0]
 		},
 		"head": {

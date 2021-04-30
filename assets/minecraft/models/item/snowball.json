@@ -5,16 +5,16 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data": 901}, "model": "item/minigame/minigolf/ball_white"},
-		{"predicate": {"custom_model_data": 902}, "model": "item/minigame/minigolf/ball_black"},
-		{"predicate": {"custom_model_data": 903}, "model": "item/minigame/minigolf/ball_red"},
-		{"predicate": {"custom_model_data": 904}, "model": "item/minigame/minigolf/ball_orange"},
-		{"predicate": {"custom_model_data": 905}, "model": "item/minigame/minigolf/ball_yellow"},
-		{"predicate": {"custom_model_data": 906}, "model": "item/minigame/minigolf/ball_green"},
-		{"predicate": {"custom_model_data": 907}, "model": "item/minigame/minigolf/ball_light_blue"},
-		{"predicate": {"custom_model_data": 908}, "model": "item/minigame/minigolf/ball_blue"},
-		{"predicate": {"custom_model_data": 909}, "model": "item/minigame/minigolf/ball_purple"},
-		{"predicate": {"custom_model_data": 910}, "model": "item/minigame/minigolf/ball_pink"},
-		{"predicate": {"custom_model_data": 911}, "model": "item/minigame/minigolf/ball_rainbow"}
+		{"predicate": {"custom_model_data": 901}, "model": "item/minigames/minigolf/ball_white"},
+		{"predicate": {"custom_model_data": 902}, "model": "item/minigames/minigolf/ball_black"},
+		{"predicate": {"custom_model_data": 903}, "model": "item/minigames/minigolf/ball_red"},
+		{"predicate": {"custom_model_data": 904}, "model": "item/minigames/minigolf/ball_orange"},
+		{"predicate": {"custom_model_data": 905}, "model": "item/minigames/minigolf/ball_yellow"},
+		{"predicate": {"custom_model_data": 906}, "model": "item/minigames/minigolf/ball_green"},
+		{"predicate": {"custom_model_data": 907}, "model": "item/minigames/minigolf/ball_light_blue"},
+		{"predicate": {"custom_model_data": 908}, "model": "item/minigames/minigolf/ball_blue"},
+		{"predicate": {"custom_model_data": 909}, "model": "item/minigames/minigolf/ball_purple"},
+		{"predicate": {"custom_model_data": 910}, "model": "item/minigames/minigolf/ball_pink"},
+		{"predicate": {"custom_model_data": 911}, "model": "item/minigames/minigolf/ball_rainbow"}
 	]
 }
