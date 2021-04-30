@@ -2,8 +2,8 @@
 	"credit": "Made by Wakka",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/tabletop/bread",
-		"particle": "item/tabletop/bread"
+		"0": "item/tabletop/food/bread",
+		"particle": "item/tabletop/food/bread"
 	},
 	"elements": [
 		{
