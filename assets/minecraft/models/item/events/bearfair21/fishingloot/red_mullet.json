@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/bearfair21/fishingloot/red_mullet"
+        "layer0": "item/events/bearfair21/fishingloot/red_mullet"
     },
     "display": {
         "head": {
