@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/misc/diamond_totem_of_undying"
+    "layer0": "item/functional/diamond_totem_of_undying"
   }
 }
