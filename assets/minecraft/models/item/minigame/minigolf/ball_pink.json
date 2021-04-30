@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/minigolf/ball_pink"
+		"layer0": "item/minigame/minigolf/ball_pink"
 	}
 }

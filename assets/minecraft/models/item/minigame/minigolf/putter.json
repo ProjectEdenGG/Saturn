@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/minigolf/putter"
+		"layer0": "item/minigame/minigolf/putter"
 	},
 	"display": {
 		"thirdperson_righthand": {
