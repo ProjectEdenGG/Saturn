@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/backpacks/backpack_light_gray"
+    "layer0": "item/functional/backpack_pink"
   }
 }
