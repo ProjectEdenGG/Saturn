@@ -4,6 +4,20 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "item/tabletop/kitchenware/roller"}
+  	{ "predicate": {"custom_model_data": 1}, "model": "item/tabletop/kitchenware/roller"},
+  	{ "predicate": {"custom_model_data": 2}, "model": "item/misc/balloon_red"},
+  	{ "predicate": {"custom_model_data": 3}, "model": "item/misc/balloon_orange"},
+  	{ "predicate": {"custom_model_data": 4}, "model": "item/misc/balloon_yellow"},
+  	{ "predicate": {"custom_model_data": 5}, "model": "item/misc/balloon_lime"},
+  	{ "predicate": {"custom_model_data": 6}, "model": "item/misc/balloon_green"},
+  	{ "predicate": {"custom_model_data": 7}, "model": "item/misc/balloon_cyan"},
+  	{ "predicate": {"custom_model_data": 8}, "model": "item/misc/balloon_light_blue"},
+  	{ "predicate": {"custom_model_data": 9}, "model": "item/misc/balloon_blue"},
+  	{ "predicate": {"custom_model_data": 10}, "model": "item/misc/balloon_purple"},
+  	{ "predicate": {"custom_model_data": 11}, "model": "item/misc/balloon_magenta"},
+  	{ "predicate": {"custom_model_data": 12}, "model": "item/misc/balloon_pink"},
+  	{ "predicate": {"custom_model_data": 13}, "model": "item/misc/balloon_brown"},
+  	{ "predicate": {"custom_model_data": 14}, "model": "item/misc/balloon_black"},
+  	{ "predicate": {"custom_model_data": 15}, "model": "item/misc/balloon_white"}
   ]
 }
