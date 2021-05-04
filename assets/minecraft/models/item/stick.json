@@ -46,6 +46,8 @@
     { "predicate": {"custom_model_data": 40}, "model": "item/modern/balloons/short/pink"},
     { "predicate": {"custom_model_data": 41}, "model": "item/modern/balloons/short/brown"},
     { "predicate": {"custom_model_data": 42}, "model": "item/modern/balloons/short/black"},
-    { "predicate": {"custom_model_data": 43}, "model": "item/modern/balloons/short/white"}
+    { "predicate": {"custom_model_data": 43}, "model": "item/modern/balloons/short/white"},
+    { "predicate": {"custom_model_data": 44}, "model": "item/modern/balloons/group/1"},
+    { "predicate": {"custom_model_data": 45}, "model": "item/modern/balloons/group/2"}
   ]
 }
