@@ -1,0 +1,77 @@
+{
+	"credit": "Made by Wakka",
+	"texture_size": [462, 584],
+	"textures": {
+		"0": "custom/banner_base",
+		"1": "item/misc/banner_designs_1",
+		"particle": "custom/banner_base"
+	},
+	"elements": [
+		{
+			"name": "slate",
+			"from": [-0.875, -12.425, 6],
+			"to": [16.9, 23.125, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 2.45887, 3.89041], "texture": "#1"},
+				"east": {"uv": [2.49351, 3.91781, 2.63203, 7.80822], "texture": "#1"},
+				"south": {"uv": [0, 3.91781, 2.45887, 7.80822], "texture": "#1"},
+				"west": {"uv": [2.49351, 3.91781, 2.63203, 7.80822], "texture": "#1"},
+				"up": {"uv": [2.45887, 7.9726, 0, 7.86301], "texture": "#1"},
+				"down": {"uv": [2.45887, 7.9726, 0, 7.86301], "texture": "#1"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [-0.875, 21.125, 7],
+			"to": [16.9, 23.125, 9],
+			"faces": {
+				"north": {"uv": [5.5, 11.5, 0.5, 11], "texture": "#0"},
+				"east": {"uv": [0.5, 11.5, 0, 11], "texture": "#0"},
+				"south": {"uv": [11, 11, 6, 11.5], "texture": "#0"},
+				"west": {"uv": [6, 11.5, 5.5, 11], "texture": "#0"},
+				"up": {"uv": [10.5, 11, 5.5, 10.5], "texture": "#0"},
+				"down": {"uv": [5.5, 11, 0.5, 10.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 9.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.37, 0.37, 0.37]
+		},
+		"head": {
+			"translation": [0, 30.25, 0]
+		},
+		"fixed": {
+			"translation": [0, -11.25, -1.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "banner",
+			"origin": [0, 0, 0],
+			"children": [0, 1]
+		}
+	]
+}
