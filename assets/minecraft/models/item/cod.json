@@ -16,10 +16,12 @@
         { "predicate": {"custom_model_data": 10}, "model": "item/events/bearfair21/fishingloot/red_mullet"},
         { "predicate": {"custom_model_data": 11}, "model": "item/events/bearfair21/fishingloot/midnight_carp"},
         { "predicate": {"custom_model_data": 12}, "model": "item/events/bearfair21/fishingloot/sunfish"},
-        { "predicate": {"custom_model_data": 13}, "model": "item/events/bearfair21/fishingloot/tiger_trout"},
-        { "predicate": {"custom_model_data": 14}, "model": "item/events/bearfair21/fishingloot/glacierfish"},
-        { "predicate": {"custom_model_data": 15}, "model": "item/events/bearfair21/fishingloot/crimsonfish"},
-        { "predicate": {"custom_model_data": 16}, "model": "item/events/bearfair21/fishingloot/blobfish"}
+        { "predicate": {"custom_model_data": 13}, "model": "item/events/bearfair21/fishingloot/stonefish"},
+        { "predicate": {"custom_model_data": 14}, "model": "item/events/bearfair21/fishingloot/tiger_trout"},
+        { "predicate": {"custom_model_data": 15}, "model": "item/events/bearfair21/fishingloot/glacierfish"},
+        { "predicate": {"custom_model_data": 16}, "model": "item/events/bearfair21/fishingloot/crimsonfish"},
+        { "predicate": {"custom_model_data": 17}, "model": "item/events/bearfair21/fishingloot/blobfish"}
+
     ],
     "display": {
         "head": {
