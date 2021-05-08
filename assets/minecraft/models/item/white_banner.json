@@ -51,6 +51,9 @@
     { "predicate": {"custom_model_data": 224}, "model": "item/modern/bunting/pride/queer"},
     { "predicate": {"custom_model_data": 301}, "model": "item/misc/banners/logo_standing"},
     { "predicate": {"custom_model_data": 302}, "model": "item/misc/banners/logo_hanging"},
-    { "predicate": {"custom_model_data": 401}, "model": "item/modern/bunting/country/mexico"}
+    { "predicate": {"custom_model_data": 401}, "model": "item/modern/bunting/country/mexico"},
+    { "predicate": {"custom_model_data": 501}, "model": "item/modern/bunting/color/1"},
+    { "predicate": {"custom_model_data": 502}, "model": "item/modern/bunting/color/2"},
+    { "predicate": {"custom_model_data": 503}, "model": "item/modern/bunting/color/3"}
   ]
 }
