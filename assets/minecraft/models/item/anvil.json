@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/anvil",
+  "textures": {
+    "layer0": "minecraft:item/anvil"
+  },
+  "overrides": [
+  	{ "predicate": {"custom_model_data": 1}, "model": "item/modern/cabinets/1"},
+  	{ "predicate": {"custom_model_data": 2}, "model": "item/modern/cabinets/2"},
+  	{ "predicate": {"custom_model_data": 3}, "model": "item/modern/cabinets/3"},
+  	{ "predicate": {"custom_model_data": 4}, "model": "item/modern/cabinets/4"},
+  	{ "predicate": {"custom_model_data": 5}, "model": "item/modern/cabinets/5"},
+  	{ "predicate": {"custom_model_data": 6}, "model": "item/modern/cabinets/6"},
+  	{ "predicate": {"custom_model_data": 7}, "model": "item/modern/cabinets/7"},
+  	{ "predicate": {"custom_model_data": 8}, "model": "item/modern/cabinets/8"},
+  	{ "predicate": {"custom_model_data": 9}, "model": "item/modern/cabinets/9"}
+  ]
+}
