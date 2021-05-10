@@ -54,6 +54,9 @@
     { "predicate": {"custom_model_data": 401}, "model": "item/modern/bunting/country/mexico"},
     { "predicate": {"custom_model_data": 501}, "model": "item/modern/bunting/color/1"},
     { "predicate": {"custom_model_data": 502}, "model": "item/modern/bunting/color/2"},
-    { "predicate": {"custom_model_data": 503}, "model": "item/modern/bunting/color/3"}
+    { "predicate": {"custom_model_data": 503}, "model": "item/modern/bunting/color/3"},
+    { "predicate": {"custom_model_data": 504}, "model": "item/modern/bunting/color/4"},
+    { "predicate": {"custom_model_data": 505}, "model": "item/modern/bunting/color/5"},
+    { "predicate": {"custom_model_data": 506}, "model": "item/modern/bunting/color/6"}
   ]
 }
