@@ -57,6 +57,8 @@
     { "predicate": {"custom_model_data": 503}, "model": "item/modern/bunting/color/3"},
     { "predicate": {"custom_model_data": 504}, "model": "item/modern/bunting/color/4"},
     { "predicate": {"custom_model_data": 505}, "model": "item/modern/bunting/color/5"},
-    { "predicate": {"custom_model_data": 506}, "model": "item/modern/bunting/color/6"}
+    { "predicate": {"custom_model_data": 506}, "model": "item/modern/bunting/color/6"},
+    { "predicate": {"custom_model_data": 507}, "model": "item/modern/bunting/color/7"},
+    { "predicate": {"custom_model_data": 508}, "model": "item/modern/bunting/color/8"}
   ]
 }
