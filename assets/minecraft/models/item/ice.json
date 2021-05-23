@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:block/ice",
+	"textures": {
+		"layer0": "minecraft:item/ice"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data": 901}, "model": "item/minigames/amongus/upload"},
+		{"predicate": {"custom_model_data": 902}, "model": "item/minigames/amongus/divertpower"}
+	]
+}
