@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/black_concrete",
-		"1": "custom/gray_concrete",
-		"2": "custom/sea_lantern1",
-		"3": "custom/light_gray_concrete",
-		"particle": "custom/black_concrete"
+		"0": "custom/ghoulcraft/black_concrete",
+		"1": "custom/ghoulcraft/gray_concrete",
+		"2": "custom/ghoulcraft/sea_lantern",
+		"3": "custom/ghoulcraft/light_gray_concrete",
+		"particle": "custom/ghoulcraft/black_concrete"
 	},
 	"elements": [
 		{

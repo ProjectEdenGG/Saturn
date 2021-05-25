@@ -2,8 +2,8 @@
 	"credit": "Made by Wakka",
 	"textures": {
 		"0": "custom/paintings1",
-		"1": "custom/stripped_oak_log",
-		"2": "custom/anvil",
+		"1": "custom/vanilla/stripped_oak_log",
+		"2": "custom/ghoulcraft/anvil",
 		"particle": "custom/paintings1"
 	},
 	"elements": [

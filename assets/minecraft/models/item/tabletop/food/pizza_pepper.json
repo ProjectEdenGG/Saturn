@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/grass_path_top",
-		"1": "custom/cactus_bottom",
-		"2": "custom/red_concrete_powder",
-		"3": "custom/bone_block_side",
+		"0": "custom/ghoulcraft/grass_path_top",
+		"1": "custom/ghoulcraft/cactus_bottom",
+		"2": "custom/ghoulcraft/red_concrete_powder",
+		"3": "custom/ghoulcraft/bone_block_side",
 		"4": "custom/pizzabox",
-		"particle": "custom/grass_path_top"
+		"particle": "custom/ghoulcraft/grass_path_top"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"1": "custom/polished_andesite",
-		"3": "custom/anvil",
-		"4": "custom/iron_ingot_0"
+		"1": "custom/vanilla/polished_andesite",
+		"3": "custom/ghoulcraft/anvil",
+		"4": "custom/ghoulcraft/iron_ingot"
 	},
 	"elements": [
 		{

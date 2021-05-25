@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/redstone_block",
-		"1": "custom/acacia_planks",
-		"particle": "custom/redstone_block"
+		"0": "custom/ghoulcraft/redstone_block",
+		"1": "custom/ghoulcraft/acacia_planks",
+		"particle": "custom/ghoulcraft/redstone_block"
 	},
 	"elements": [
 		{

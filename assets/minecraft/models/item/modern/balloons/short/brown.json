@@ -2,9 +2,9 @@
 	"credit": "Made by Wakka",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/lead_knot",
+		"0": "custom/vanilla/lead_knot",
 		"1": "item/modern/balloons/brown",
-		"particle": "custom/lead_knot"
+		"particle": "custom/vanilla/lead_knot"
 	},
 	"elements": [
 		{
