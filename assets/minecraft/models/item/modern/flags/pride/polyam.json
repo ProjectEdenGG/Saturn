@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/flagsbig",
-		"1": "custom/iron_ingot_0",
+		"1": "custom/ghoulcraft/iron_ingot",
 		"2": "custom/pi",
 		"particle": "custom/flagsbig"
 	},

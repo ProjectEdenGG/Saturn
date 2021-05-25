@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"0": "custom/blue_concrete_powder",
-		"1": "custom/acacia_planks",
-		"2": "custom/book_and_quill_0",
-		"particle": "custom/blue_concrete_powder"
+		"0": "custom/ghoulcraft/blue_concrete_powder",
+		"1": "custom/ghoulcraft/acacia_planks",
+		"2": "custom/ghoulcraft/book_and_quill",
+		"particle": "custom/ghoulcraft/blue_concrete_powder"
 	},
 	"elements": [
 		{

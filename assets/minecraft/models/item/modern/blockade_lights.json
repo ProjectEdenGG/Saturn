@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/white_concrete",
-		"1": "custom/orange_wool",
+		"0": "custom/ghoulcraft/white_concrete",
+		"1": "custom/ghoulcraft/orange_wool",
 		"2": "custom/hazard",
-		"3": "custom/sea_lantern1",
-		"particle": "custom/white_concrete"
+		"3": "custom/ghoulcraft/sea_lantern",
+		"particle": "custom/ghoulcraft/white_concrete"
 	},
 	"elements": [
 		{

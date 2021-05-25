@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/white_concrete",
+		"0": "custom/ghoulcraft/white_concrete",
 		"2": "custom/hazard",
-		"particle": "custom/white_concrete"
+		"particle": "custom/ghoulcraft/white_concrete"
 	},
 	"elements": [
 		{

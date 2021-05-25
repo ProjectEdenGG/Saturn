@@ -2,10 +2,10 @@
 	"credit": "Made by Wakka",
 	"texture_size": [32, 28],
 	"textures": {
-		"1": "custom/anvil",
+		"1": "custom/ghoulcraft/anvil",
 		"2": "custom/intellij",
-		"3": "custom/black_concrete",
-		"particle": "custom/black_concrete"
+		"3": "custom/ghoulcraft/black_concrete",
+		"particle": "custom/ghoulcraft/black_concrete"
 	},
 	"elements": [
 		{

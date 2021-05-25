@@ -1,13 +1,13 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"0": "custom/blue_orchid",
-		"1": "custom/allium",
-		"2": "custom/poppy",
-		"3": "custom/podzol_top",
-		"4": "custom/polished_andesite",
+		"0": "custom/vanilla/blue_orchid",
+		"1": "custom/vanilla/allium",
+		"2": "custom/vanilla/poppy",
+		"3": "custom/vanilla/podzol_top",
+		"4": "custom/vanilla/polished_andesite",
 		"5": "custom/headstone",
-		"particle": "custom/blue_orchid"
+		"particle": "custom/vanilla/blue_orchid"
 	},
 	"elements": [
 		{

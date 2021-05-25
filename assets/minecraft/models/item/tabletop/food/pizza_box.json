@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "custom/bone_block_side",
+		"3": "custom/ghoulcraft/bone_block_side",
 		"4": "custom/pizzabox"
 	},
 	"elements": [

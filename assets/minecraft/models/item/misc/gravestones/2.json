@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"0": "custom/podzol_top",
+		"0": "custom/vanilla/podzol_top",
 		"1": "custom/headstone",
-		"2": "custom/polished_andesite",
-		"particle": "custom/podzol_top"
+		"2": "custom/vanilla/polished_andesite",
+		"particle": "custom/vanilla/podzol_top"
 	},
 	"elements": [
 		{

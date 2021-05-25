@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/iron_ingot_0",
-		"1": "custom/anvil",
-		"particle": "custom/iron_ingot_0"
+		"0": "custom/ghoulcraft/iron_ingot",
+		"1": "custom/ghoulcraft/anvil",
+		"particle": "custom/ghoulcraft/iron_ingot"
 	},
 	"elements": [
 		{

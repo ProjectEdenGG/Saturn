@@ -1,14 +1,14 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"0": "custom/iron_ingot_0",
-		"1": "custom/light_gray_concrete",
-		"2": "custom/black_concrete_powder",
-		"3": "custom/apple_0",
+		"0": "custom/ghoulcraft/iron_ingot",
+		"1": "custom/ghoulcraft/light_gray_concrete",
+		"2": "custom/ghoulcraft/black_concrete_powder",
+		"3": "custom/ghoulcraft/apple",
 		"5": "custom/total",
 		"6": "custom/registerscreen",
-		"7": "custom/book_and_quill_0",
-		"particle": "custom/iron_ingot_0"
+		"7": "custom/ghoulcraft/book_and_quill",
+		"particle": "custom/ghoulcraft/iron_ingot"
 	},
 	"elements": [
 		{

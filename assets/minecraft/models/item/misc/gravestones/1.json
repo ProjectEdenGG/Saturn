@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"0": "custom/polished_andesite",
-		"1": "custom/stone",
-		"particle": "custom/polished_andesite"
+		"0": "custom/vanilla/polished_andesite",
+		"1": "custom/vanilla/stone",
+		"particle": "custom/vanilla/polished_andesite"
 	},
 	"elements": [
 		{

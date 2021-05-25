@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"1": "custom/spruce_door_top",
-		"2": "custom/spruce_log",
+		"1": "custom/vanilla/spruce_door_top",
+		"2": "custom/vanilla/spruce_log",
 		"particle": "custom/cabinets"
 	},
 	"elements": [
