@@ -9,6 +9,7 @@
         { "predicate": {"custom_model_data": 3}, "model": "item/flora/mushroom_teal"},
         { "predicate": {"custom_model_data": 4}, "model": "item/flora/strange_plant_orange"},
         { "predicate": {"custom_model_data": 5}, "model": "item/flora/strange_plant_purple"},
-        { "predicate": {"custom_model_data": 6}, "model": "item/flora/strange_plant_green"}
+        { "predicate": {"custom_model_data": 6}, "model": "item/flora/strange_plant_green"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/flora/cattail"}
 	]
 }
