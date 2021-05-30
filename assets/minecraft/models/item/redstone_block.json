@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/redstone_block",
   "textures": {
-	"layer0": "minecraft:item/ice"
+	"layer0": "minecraft:item/redstone_block"
 	},
 
 	"overrides": [
