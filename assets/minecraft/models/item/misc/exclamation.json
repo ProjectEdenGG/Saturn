@@ -68,13 +68,20 @@
 	],
 	"gui_light": "front",
 	"display": {
+		"ground": {
+			"translation": [0, -2.5, 0]
+		},
 		"gui": {
-			"translation": [0, -18.5, 0],
+			"translation": [0, -5.5, 0],
 			"scale": [1.6, 1.6, 1.6]
 		},
 		"head": {
-			"translation": [0, -6.25, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0, -29.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0, -7, 0],
+			"scale": [2, 2, 2]
 		}
 	}
 }

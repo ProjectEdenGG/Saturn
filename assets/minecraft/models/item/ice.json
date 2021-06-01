@@ -7,6 +7,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 901}, "model": "item/minigames/amongus/upload"},
 		{"predicate": {"custom_model_data": 902}, "model": "item/minigames/amongus/divertpower"},
-		{"predicate": {"custom_model_data": 903}, "model": "item/minigames/amongus/card"}
+		{"predicate": {"custom_model_data": 903}, "model": "item/minigames/amongus/card"},
+		{"predicate": {"custom_model_data": 904}, "model": "item/minigames/amongus/reactor"}
 	]
 }
