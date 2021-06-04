@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/note_block",
+  "textures": {
+  	"layer0": "minecraft:item/ice"
+  },
+  "overrides": [
+  		{"predicate": {"custom_model_data": 101}, "model": "item/events/bearfair21/drumset"},
+		{"predicate": {"custom_model_data": 102}, "model": "item/events/bearfair21/keyboard"},
+		{"predicate": {"custom_model_data": 103}, "model": "item/events/bearfair21/guitar_on_stand"},
+		{"predicate": {"custom_model_data": 104}, "model": "item/events/bearfair21/guitar"},
+		{"predicate": {"custom_model_data": 105}, "model": "item/events/bearfair21/bass"}
+  ]
+}
