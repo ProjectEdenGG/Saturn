@@ -69,9 +69,9 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [75, -25, 0],
-			"translation": [0, 1.75, 0.25],
-			"scale": [0.2, 0.2, 0.2]
+			"rotation": [90, 45, 0],
+			"translation": [0, 3, 3.75],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [75, -25, 0],
