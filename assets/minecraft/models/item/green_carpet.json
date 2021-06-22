@@ -1,6 +1,9 @@
 {
   "parent": "minecraft:block/green_carpet",
   "overrides": [
-  	{"predicate": {"custom_model_data": 1}, "model": "item/modern/motherboard"}
+  	{"predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/motherboard"},
+  	{"predicate": {"custom_model_data": 2}, "model": "item/modern/electronics/controller_unit"},
+  	{"predicate": {"custom_model_data": 3}, "model": "item/modern/electronics/gpu"},
+  	{"predicate": {"custom_model_data": 4}, "model": "item/modern/electronics/ram"}
   ]
 }

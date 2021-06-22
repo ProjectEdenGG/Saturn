@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"0": "item/modern/cpu_red",
-		"1": "item/modern/cpu_red_pins"
+		"0": "item/modern/electronics/cpu_red",
+		"1": "item/modern/electronics/cpu_red_pins"
 	},
 	"elements": [
 		{

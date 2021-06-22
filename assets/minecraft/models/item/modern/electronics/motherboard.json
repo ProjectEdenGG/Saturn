@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"0": "item/modern/motherboard_red",
-		"1": "item/modern/motherboard_red_bottom"
+		"0": "item/modern/electronics/motherboard_red",
+		"1": "item/modern/electronics/motherboard_red_bottom"
 	},
 	"elements": [
 		{
