@@ -4,6 +4,6 @@
     "layer0": "minecraft:block/glass"
   },
   "overrides": [
-  	{"predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/screen"}
+  	{"predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/parts/screen"}
   ]
 }

@@ -4,7 +4,7 @@
    	"layer0": "minecraft:item/end_rod"
   },
    "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "item/events/bearfair21/cable"},
-  	{ "predicate": {"custom_model_data": 2}, "model": "item/events/bearfair21/cable_broken"}
+  	{ "predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/cable"},
+  	{ "predicate": {"custom_model_data": 2}, "model": "item/modern/electronics/cable_broken"}
   ]
 }

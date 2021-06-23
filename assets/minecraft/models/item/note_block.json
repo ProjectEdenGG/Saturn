@@ -9,6 +9,6 @@
 		{"predicate": {"custom_model_data": 103}, "model": "item/events/bearfair21/guitar_on_stand"},
 		{"predicate": {"custom_model_data": 104}, "model": "item/events/bearfair21/guitar"},
 		{"predicate": {"custom_model_data": 105}, "model": "item/events/bearfair21/bass"},
-    {"predicate": {"custom_model_data": 106}, "model": "item/modern/rotary_phone"}
+    {"predicate": {"custom_model_data": 106}, "model": "item/modern/electronics/rotary_phone"}
   ]
 }
