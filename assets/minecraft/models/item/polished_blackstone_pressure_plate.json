@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/polished_blackstone_pressure_plate",
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/modern/laptop"}
+    { "predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/laptop"}
   ]
 }
