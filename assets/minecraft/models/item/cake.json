@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/cake"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/events/bearfair21/cake"}
+    { "predicate": {"custom_model_data": 1}, "model": "item/events/bearfair21/cake"},
+    { "predicate": {"custom_model_data": 2}, "model": "item/tabletop/food/cake_double_chocolate"}
   ]
 }
