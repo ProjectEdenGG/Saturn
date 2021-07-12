@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Wakka",
 	"textures": {
-		"1": "item/functional/windchimes_iron",
-		"2": "item/functional/windchimes_copper",
-		"particle": "item/functional/windchimes_copper"
+		"1": "item/functional/windchimes/windchimes_iron",
+		"2": "item/functional/windchimes/windchimes_gold",
+		"particle": "item/functional/windchimes/windchimes_gold"
 	},
 	"elements": [
 		{

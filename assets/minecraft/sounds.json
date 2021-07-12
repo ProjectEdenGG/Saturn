@@ -6,27 +6,47 @@
 	},
 	"custom.windchimes_metal_1": {
 		"sounds": [
-			"custom/windchimes_metal_1"
+			"custom/windchimes/windchimes_metal_1"
 		]
 	},
 	"custom.windchimes_metal_2": {
 		"sounds": [
-			"custom/windchimes_metal_2"
+			"custom/windchimes/windchimes_metal_2"
 		]
 	},
 	"custom.windchimes_metal_3": {
 		"sounds": [
-			"custom/windchimes_metal_3"
+			"custom/windchimes/windchimes_metal_3"
 		]
 	},
 	"custom.windchimes_metal_4": {
 		"sounds": [
-			"custom/windchimes_metal_4"
+			"custom/windchimes/windchimes_metal_4"
 		]
 	},
 	"custom.windchimes_metal_5": {
 		"sounds": [
-			"custom/windchimes_metal_5"
+			"custom/windchimes/windchimes_metal_5"
+		]
+	},
+	"custom.explode_1": {
+		"sounds": [
+			"custom/explosion/explode_1"
+		]
+	},
+	"custom.explode_2": {
+		"sounds": [
+			"custom/explosion/explode_2"
+		]
+	},
+	"custom.explode_3": {
+		"sounds": [
+			"custom/explosion/explode_3"
+		]
+	},
+	"custom.explode_4": {
+		"sounds": [
+			"custom/explosion/explode_4"
 		]
 	}
 }

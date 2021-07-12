@@ -5,6 +5,6 @@
     "layer0": "minecraft:item/shulker_box"
   },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/functional/backpack_pink"}
+        { "predicate": {"custom_model_data": 1}, "model": "item/functional/backpacks/backpack_pink"}
     ]
 }
