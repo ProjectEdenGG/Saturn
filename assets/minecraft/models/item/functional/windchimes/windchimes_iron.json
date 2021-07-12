@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/functional/windchimes_iron"
+		"1": "item/functional/windchimes/windchimes_iron"
 	},
 	"elements": [
 		{
