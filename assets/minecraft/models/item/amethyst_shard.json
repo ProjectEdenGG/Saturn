@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/amethyst_shard"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/modern/windchimes_metal"}
+    { "predicate": {"custom_model_data": 1}, "model": "item/functional/windchimes_metal"}
   ]
 }
