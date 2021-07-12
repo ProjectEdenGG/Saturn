@@ -3,5 +3,30 @@
 		"sounds": [
 			"custom/dk_jungle_64"
 		]
+	},
+	"custom.windchimes_metal_1": {
+		"sounds": [
+			"custom/windchimes_metal_1"
+		]
+	},
+	"custom.windchimes_metal_2": {
+		"sounds": [
+			"custom/windchimes_metal_2"
+		]
+	},
+	"custom.windchimes_metal_3": {
+		"sounds": [
+			"custom/windchimes_metal_3"
+		]
+	},
+	"custom.windchimes_metal_4": {
+		"sounds": [
+			"custom/windchimes_metal_4"
+		]
+	},
+	"custom.windchimes_metal_5": {
+		"sounds": [
+			"custom/windchimes_metal_5"
+		]
 	}
 }
