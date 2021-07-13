@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Wakka",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "custom/vanilla/stone",
 		"2": "custom/vanilla/green_terracotta",
@@ -583,42 +583,35 @@
 		{
 			"name": "birdhouse",
 			"origin": [0, 0, 0],
-			"color": 0,
 			"children": [
 				{
 					"name": "roof",
 					"origin": [2, 3, 3],
-					"color": 0,
 					"children": [0, 1, 2, 3, 4, 5, 6]
 				},
 				{
 					"name": "front",
 					"origin": [2, 3, 3],
-					"color": 0,
 					"children": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 				},
 				{
 					"name": "back",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 				},
 				{
 					"name": "right",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [33, 34, 35, 36, 37, 38]
 				},
 				{
 					"name": "left",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [39, 40, 41]
 				},
 				{
 					"name": "hole",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [42, 43, 44, 45, 46, 47, 48, 49]
 				}, 50]
 		}
