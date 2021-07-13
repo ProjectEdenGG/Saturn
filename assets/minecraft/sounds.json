@@ -1,52 +1,322 @@
 {
-        "custom.dk_jungle_64": {
-		"sounds": [
-			"custom/dk_jungle_64"
-		]
-	},
-	"custom.windchimes_metal_1": {
-		"sounds": [
-			"custom/windchimes/windchimes_metal_1"
-		]
-	},
-	"custom.windchimes_metal_2": {
-		"sounds": [
-			"custom/windchimes/windchimes_metal_2"
-		]
-	},
-	"custom.windchimes_metal_3": {
-		"sounds": [
-			"custom/windchimes/windchimes_metal_3"
-		]
-	},
-	"custom.windchimes_metal_4": {
-		"sounds": [
-			"custom/windchimes/windchimes_metal_4"
-		]
-	},
-	"custom.windchimes_metal_5": {
-		"sounds": [
-			"custom/windchimes/windchimes_metal_5"
-		]
-	},
-	"custom.explode_1": {
-		"sounds": [
-			"custom/explosion/explode_1"
-		]
-	},
-	"custom.explode_2": {
-		"sounds": [
-			"custom/explosion/explode_2"
-		]
-	},
-	"custom.explode_3": {
-		"sounds": [
-			"custom/explosion/explode_3"
-		]
-	},
-	"custom.explode_4": {
-		"sounds": [
-			"custom/explosion/explode_4"
-		]
-	}
+   "custom.dk_jungle_64": {
+      "sounds": [
+         "custom/dk_jungle_64"
+      ]
+   },
+   "custom.windchimes_metal_1": {
+      "sounds": [
+         "custom/windchimes/windchimes_metal_1"
+      ]
+   },
+   "custom.windchimes_metal_2": {
+      "sounds": [
+         "custom/windchimes/windchimes_metal_2"
+      ]
+   },
+   "custom.windchimes_metal_3": {
+      "sounds": [
+         "custom/windchimes/windchimes_metal_3"
+      ]
+   },
+   "custom.windchimes_metal_4": {
+      "sounds": [
+         "custom/windchimes/windchimes_metal_4"
+      ]
+   },
+   "custom.windchimes_metal_5": {
+      "sounds": [
+         "custom/windchimes/windchimes_metal_5"
+      ]
+   },
+   "custom.explode_1": {
+      "sounds": [
+         "custom/explosion/explode_1"
+      ]
+   },
+   "custom.explode_2": {
+      "sounds": [
+         "custom/explosion/explode_2"
+      ]
+   },
+   "custom.explode_3": {
+      "sounds": [
+         "custom/explosion/explode_3"
+      ]
+   },
+   "custom.explode_4": {
+      "sounds": [
+         "custom/explosion/explode_4"
+      ]
+   },
+   "custom.birdhouse_bird_1": {
+      "sounds": [
+         "custom/birdhouse/bird_1.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_2": {
+      "sounds": [
+         "custom/birdhouse/bird_2.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_3": {
+      "sounds": [
+         "custom/birdhouse/bird_3.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_4": {
+      "sounds": [
+         "custom/birdhouse/bird_4.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_5": {
+      "sounds": [
+         "custom/birdhouse/bird_5.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_6": {
+      "sounds": [
+         "custom/birdhouse/bird_6.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_7": {
+      "sounds": [
+         "custom/birdhouse/bird_7.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_8": {
+      "sounds": [
+         "custom/birdhouse/bird_8.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_9": {
+      "sounds": [
+         "custom/birdhouse/bird_9.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_10": {
+      "sounds": [
+         "custom/birdhouse/bird_10.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_11": {
+      "sounds": [
+         "custom/birdhouse/bird_11.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_12": {
+      "sounds": [
+         "custom/birdhouse/bird_12.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_13": {
+      "sounds": [
+         "custom/birdhouse/bird_13.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_14": {
+      "sounds": [
+         "custom/birdhouse/bird_14.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_15": {
+      "sounds": [
+         "custom/birdhouse/bird_15.ogg"
+      ]
+   },
+   "custom.birdhouse_bird_16": {
+      "sounds": [
+         "custom/birdhouse/bird_16.ogg"
+      ]
+   },
+   "custom.birdhouse_blackbird_1": {
+      "sounds": [
+         "custom/birdhouse/blackbird_1.ogg"
+      ]
+   },
+   "custom.birdhouse_bluebird_1": {
+      "sounds": [
+         "custom/birdhouse/bluebird_1.ogg"
+      ]
+   },
+   "custom.birdhouse_bluebird_2": {
+      "sounds": [
+         "custom/birdhouse/bluebird_2.ogg"
+      ]
+   },
+   "custom.birdhouse_bluebird_3": {
+      "sounds": [
+         "custom/birdhouse/bluebird_3.ogg"
+      ]
+   },
+   "custom.birdhouse_budgerigar_1": {
+      "sounds": [
+         "custom/birdhouse/budgerigar_1.ogg"
+      ]
+   },
+   "custom.birdhouse_budgerigar_2": {
+      "sounds": [
+         "custom/birdhouse/budgerigar_2.ogg"
+      ]
+   },
+   "custom.birdhouse_cardinal_1": {
+      "sounds": [
+         "custom/birdhouse/cardinal_1.ogg"
+      ]
+   },
+   "custom.birdhouse_finch_1": {
+      "sounds": [
+         "custom/birdhouse/finch_1.ogg"
+      ]
+   },
+   "custom.birdhouse_finch_2": {
+      "sounds": [
+         "custom/birdhouse/finch_2.ogg"
+      ]
+   },
+   "custom.birdhouse_goldcrest_1": {
+      "sounds": [
+         "custom/birdhouse/goldcrest_1.ogg"
+      ]
+   },
+   "custom.birdhouse_gouldian_finch_1": {
+      "sounds": [
+         "custom/birdhouse/gouldian_finch_1.ogg"
+      ]
+   },
+   "custom.birdhouse_greater_racket_tailed_drongo_1": {
+      "sounds": [
+         "custom/birdhouse/greater_racket_tailed_drongo_1.ogg"
+      ]
+   },
+   "custom.birdhouse_grey_cheeked_bulbul_1": {
+      "sounds": [
+         "custom/birdhouse/grey_cheeked_bulbul_1.ogg"
+      ]
+   },
+   "custom.birdhouse_grey_cheeked_bulbul_2": {
+      "sounds": [
+         "custom/birdhouse/grey_cheeked_bulbul_2.ogg"
+      ]
+   },
+   "custom.birdhouse_killdeer_1": {
+      "sounds": [
+         "custom/birdhouse/killdeer_1.ogg"
+      ]
+   },
+   "custom.birdhouse_kookaburra_1": {
+      "sounds": [
+         "custom/birdhouse/kookaburra_1.ogg"
+      ]
+   },
+   "custom.birdhouse_leaf_warbler_1": {
+      "sounds": [
+         "custom/birdhouse/leaf_warbler_1.ogg"
+      ]
+   },
+   "custom.birdhouse_leaf_warbler_2": {
+      "sounds": [
+         "custom/birdhouse/leaf_warbler_2.ogg"
+      ]
+   },
+   "custom.birdhouse_macaw_1": {
+      "sounds": [
+         "custom/birdhouse/macaw_1.ogg"
+      ]
+   },
+   "custom.birdhouse_magpie_1": {
+      "sounds": [
+         "custom/birdhouse/magpie_1.ogg"
+      ]
+   },
+   "custom.birdhouse_mockingbird_1": {
+      "sounds": [
+         "custom/birdhouse/mockingbird_1.ogg"
+      ]
+   },
+   "custom.birdhouse_mockingbird_2": {
+      "sounds": [
+         "custom/birdhouse/mockingbird_2.ogg"
+      ]
+   },
+   "custom.birdhouse_mockingbird_3": {
+      "sounds": [
+         "custom/birdhouse/mockingbird_3.ogg"
+      ]
+   },
+   "custom.birdhouse_mockingbird_4": {
+      "sounds": [
+         "custom/birdhouse/mockingbird_4.ogg"
+      ]
+   },
+   "custom.birdhouse_mockingbird_5": {
+      "sounds": [
+         "custom/birdhouse/mockingbird_5.ogg"
+      ]
+   },
+   "custom.birdhouse_mockingbird_6": {
+      "sounds": [
+         "custom/birdhouse/mockingbird_6.ogg"
+      ]
+   },
+   "custom.birdhouse_mockingbird_7": {
+      "sounds": [
+         "custom/birdhouse/mockingbird_7.ogg"
+      ]
+   },
+   "custom.birdhouse_robin_1": {
+      "sounds": [
+         "custom/birdhouse/robin_1.ogg"
+      ]
+   },
+   "custom.birdhouse_robin_2": {
+      "sounds": [
+         "custom/birdhouse/robin_2.ogg"
+      ]
+   },
+   "custom.birdhouse_shrike_1": {
+      "sounds": [
+         "custom/birdhouse/shrike_1.ogg"
+      ]
+   },
+   "custom.birdhouse_shrike_2": {
+      "sounds": [
+         "custom/birdhouse/shrike_2.ogg"
+      ]
+   },
+   "custom.birdhouse_sparrow_1": {
+      "sounds": [
+         "custom/birdhouse/sparrow_1.ogg"
+      ]
+   },
+   "custom.birdhouse_willow_tit_1": {
+      "sounds": [
+         "custom/birdhouse/willow_tit_1.ogg"
+      ]
+   },
+   "custom.birdhouse_willow_tit_2": {
+      "sounds": [
+         "custom/birdhouse/willow_tit_2.ogg"
+      ]
+   },
+   "custom.birdhouse_woodpecker_1": {
+      "sounds": [
+         "custom/birdhouse/woodpecker_1.ogg"
+      ]
+   },
+   "custom.birdhouse_woodpecker_2": {
+      "sounds": [
+         "custom/birdhouse/woodpecker_2.ogg"
+      ]
+   },
+   "custom.birdhouse_woodpecker_peck_1": {
+      "sounds": [
+         "custom/birdhouse/woodpecker_peck_1.ogg"
+      ]
+   },
+   "custom.birdhouse_woodpecker_peck_2": {
+      "sounds": [
+         "custom/birdhouse/woodpecker_peck_2.ogg"
+      ]
+   }
 }
