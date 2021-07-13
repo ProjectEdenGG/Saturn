@@ -4,322 +4,322 @@
          "custom/dk_jungle_64"
       ]
    },
-   "custom.ambient_windchimes_metal_1": {
+   "custom.ambient.windchimes.metal_1": {
       "sounds": [
          "ambient/windchimes/metal_1"
       ]
    },
-   "custom.ambient_windchimes_metal_2": {
+   "custom.ambient.windchimes.metal_2": {
       "sounds": [
          "ambient/windchimes/metal_2"
       ]
    },
-   "custom.ambient_windchimes_metal_3": {
+   "custom.ambient.windchimes.metal_3": {
       "sounds": [
          "ambient/windchimes/metal_3"
       ]
    },
-   "custom.ambient_windchimes_metal_4": {
+   "custom.ambient.windchimes.metal_4": {
       "sounds": [
          "ambient/windchimes/metal_4"
       ]
    },
-   "custom.ambient_windchimes_metal_5": {
+   "custom.ambient.windchimes.metal_5": {
       "sounds": [
          "ambient/windchimes/metal_5"
       ]
    },
-   "custom.explode_1": {
+   "custom.explosion.explosion_1": {
       "sounds": [
          "custom/explosion/explode_1"
       ]
    },
-   "custom.explode_2": {
+   "custom.explosion.explosion_2": {
       "sounds": [
          "custom/explosion/explode_2"
       ]
    },
-   "custom.explode_3": {
+   "custom.explosion.explosion_3": {
       "sounds": [
          "custom/explosion/explode_3"
       ]
    },
-   "custom.explode_4": {
+   "custom.explosion.explosion_4": {
       "sounds": [
          "custom/explosion/explode_4"
       ]
    },
-   "custom.ambient_birds_bird_1": {
+   "custom.ambient.birds.bird_1": {
       "sounds": [
          "ambient/birds/bird_1"
       ]
    },
-   "custom.ambient_birds_bird_2": {
+   "custom.ambient.birds.bird_2": {
       "sounds": [
          "ambient/birds/bird_2"
       ]
    },
-   "custom.ambient_birds_bird_3": {
+   "custom.ambient.birds.bird_3": {
       "sounds": [
          "ambient/birds/bird_3"
       ]
    },
-   "custom.ambient_birds_bird_4": {
+   "custom.ambient.birds.bird_4": {
       "sounds": [
          "ambient/birds/bird_4"
       ]
    },
-   "custom.ambient_birds_bird_5": {
+   "custom.ambient.birds.bird_5": {
       "sounds": [
          "ambient/birds/bird_5"
       ]
    },
-   "custom.ambient_birds_bird_6": {
+   "custom.ambient.birds.bird_6": {
       "sounds": [
          "ambient/birds/bird_6"
       ]
    },
-   "custom.ambient_birds_bird_7": {
+   "custom.ambient.birds.bird_7": {
       "sounds": [
          "ambient/birds/bird_7"
       ]
    },
-   "custom.ambient_birds_bird_8": {
+   "custom.ambient.birds.bird_8": {
       "sounds": [
          "ambient/birds/bird_8"
       ]
    },
-   "custom.ambient_birds_bird_9": {
+   "custom.ambient.birds.bird_9": {
       "sounds": [
          "ambient/birds/bird_9"
       ]
    },
-   "custom.ambient_birds_bird_10": {
+   "custom.ambient.birds.bird_10": {
       "sounds": [
          "ambient/birds/bird_10"
       ]
    },
-   "custom.ambient_birds_bird_11": {
+   "custom.ambient.birds.bird_11": {
       "sounds": [
          "ambient/birds/bird_11"
       ]
    },
-   "custom.ambient_birds_bird_12": {
+   "custom.ambient.birds.bird_12": {
       "sounds": [
          "ambient/birds/bird_12"
       ]
    },
-   "custom.ambient_birds_bird_13": {
+   "custom.ambient.birds.bird_13": {
       "sounds": [
          "ambient/birds/bird_13"
       ]
    },
-   "custom.ambient_birds_bird_14": {
+   "custom.ambient.birds.bird_14": {
       "sounds": [
          "ambient/birds/bird_14"
       ]
    },
-   "custom.ambient_birds_bird_15": {
+   "custom.ambient.birds.bird_15": {
       "sounds": [
          "ambient/birds/bird_15"
       ]
    },
-   "custom.ambient_birds_bird_16": {
+   "custom.ambient.birds.bird_16": {
       "sounds": [
          "ambient/birds/bird_16"
       ]
    },
-   "custom.ambient_birds_blackbird_1": {
+   "custom.ambient.birds.blackbird_1": {
       "sounds": [
          "ambient/birds/blackbird_1"
       ]
    },
-   "custom.ambient_birds_bluebird_1": {
+   "custom.ambient.birds.bluebird_1": {
       "sounds": [
          "ambient/birds/bluebird_1"
       ]
    },
-   "custom.ambient_birds_bluebird_2": {
+   "custom.ambient.birds.bluebird_2": {
       "sounds": [
          "ambient/birds/bluebird_2"
       ]
    },
-   "custom.ambient_birds_bluebird_3": {
+   "custom.ambient.birds.bluebird_3": {
       "sounds": [
          "ambient/birds/bluebird_3"
       ]
    },
-   "custom.ambient_birds_budgerigar_1": {
+   "custom.ambient.birds.budgerigar_1": {
       "sounds": [
          "ambient/birds/budgerigar_1"
       ]
    },
-   "custom.ambient_birds_budgerigar_2": {
+   "custom.ambient.birds.budgerigar_2": {
       "sounds": [
          "ambient/birds/budgerigar_2"
       ]
    },
-   "custom.ambient_birds_cardinal_1": {
+   "custom.ambient.birds.cardinal_1": {
       "sounds": [
          "ambient/birds/cardinal_1"
       ]
    },
-   "custom.ambient_birds_finch_1": {
+   "custom.ambient.birds.finch_1": {
       "sounds": [
          "ambient/birds/finch_1"
       ]
    },
-   "custom.ambient_birds_finch_2": {
+   "custom.ambient.birds.finch_2": {
       "sounds": [
          "ambient/birds/finch_2"
       ]
    },
-   "custom.ambient_birds_goldcrest_1": {
+   "custom.ambient.birds.goldcrest_1": {
       "sounds": [
          "ambient/birds/goldcrest_1"
       ]
    },
-   "custom.ambient_birds_gouldian_finch_1": {
+   "custom.ambient.birds.gouldian_finch_1": {
       "sounds": [
          "ambient/birds/gouldian_finch_1"
       ]
    },
-   "custom.ambient_birds_greater_racket_tailed_drongo_1": {
+   "custom.ambient.birds.greater_racket_tailed_drongo_1": {
       "sounds": [
          "ambient/birds/greater_racket_tailed_drongo_1"
       ]
    },
-   "custom.ambient_birds_grey_cheeked_bulbul_1": {
+   "custom.ambient.birds.grey_cheeked_bulbul_1": {
       "sounds": [
          "ambient/birds/grey_cheeked_bulbul_1"
       ]
    },
-   "custom.ambient_birds_grey_cheeked_bulbul_2": {
+   "custom.ambient.birds.grey_cheeked_bulbul_2": {
       "sounds": [
          "ambient/birds/grey_cheeked_bulbul_2"
       ]
    },
-   "custom.ambient_birds_killdeer_1": {
+   "custom.ambient.birds.killdeer_1": {
       "sounds": [
          "ambient/birds/killdeer_1"
       ]
    },
-   "custom.ambient_birds_kookaburra_1": {
+   "custom.ambient.birds.kookaburra_1": {
       "sounds": [
          "ambient/birds/kookaburra_1"
       ]
    },
-   "custom.ambient_birds_leaf_warbler_1": {
+   "custom.ambient.birds.leaf_warbler_1": {
       "sounds": [
          "ambient/birds/leaf_warbler_1"
       ]
    },
-   "custom.ambient_birds_leaf_warbler_2": {
+   "custom.ambient.birds.leaf_warbler_2": {
       "sounds": [
          "ambient/birds/leaf_warbler_2"
       ]
    },
-   "custom.ambient_birds_macaw_1": {
+   "custom.ambient.birds.macaw_1": {
       "sounds": [
          "ambient/birds/macaw_1"
       ]
    },
-   "custom.ambient_birds_magpie_1": {
+   "custom.ambient.birds.magpie_1": {
       "sounds": [
          "ambient/birds/magpie_1"
       ]
    },
-   "custom.ambient_birds_mockingbird_1": {
+   "custom.ambient.birds.mockingbird_1": {
       "sounds": [
          "ambient/birds/mockingbird_1"
       ]
    },
-   "custom.ambient_birds_mockingbird_2": {
+   "custom.ambient.birds.mockingbird_2": {
       "sounds": [
          "ambient/birds/mockingbird_2"
       ]
    },
-   "custom.ambient_birds_mockingbird_3": {
+   "custom.ambient.birds.mockingbird_3": {
       "sounds": [
          "ambient/birds/mockingbird_3"
       ]
    },
-   "custom.ambient_birds_mockingbird_4": {
+   "custom.ambient.birds.mockingbird_4": {
       "sounds": [
          "ambient/birds/mockingbird_4"
       ]
    },
-   "custom.ambient_birds_mockingbird_5": {
+   "custom.ambient.birds.mockingbird_5": {
       "sounds": [
          "ambient/birds/mockingbird_5"
       ]
    },
-   "custom.ambient_birds_mockingbird_6": {
+   "custom.ambient.birds.mockingbird_6": {
       "sounds": [
          "ambient/birds/mockingbird_6"
       ]
    },
-   "custom.ambient_birds_mockingbird_7": {
+   "custom.ambient.birds.mockingbird_7": {
       "sounds": [
          "ambient/birds/mockingbird_7"
       ]
    },
-   "custom.ambient_birds_robin_1": {
+   "custom.ambient.birds.robin_1": {
       "sounds": [
          "ambient/birds/robin_1"
       ]
    },
-   "custom.ambient_birds_robin_2": {
+   "custom.ambient.birds.robin_2": {
       "sounds": [
          "ambient/birds/robin_2"
       ]
    },
-   "custom.ambient_birds_shrike_1": {
+   "custom.ambient.birds.shrike_1": {
       "sounds": [
          "ambient/birds/shrike_1"
       ]
    },
-   "custom.ambient_birds_shrike_2": {
+   "custom.ambient.birds.shrike_2": {
       "sounds": [
          "ambient/birds/shrike_2"
       ]
    },
-   "custom.ambient_birds_sparrow_1": {
+   "custom.ambient.birds.sparrow_1": {
       "sounds": [
          "ambient/birds/sparrow_1"
       ]
    },
-   "custom.ambient_birds_willow_tit_1": {
+   "custom.ambient.birds.willow_tit_1": {
       "sounds": [
          "ambient/birds/willow_tit_1"
       ]
    },
-   "custom.ambient_birds_willow_tit_2": {
+   "custom.ambient.birds.willow_tit_2": {
       "sounds": [
          "ambient/birds/willow_tit_2"
       ]
    },
-   "custom.ambient_birds_woodpecker_1": {
+   "custom.ambient.birds.woodpecker_1": {
       "sounds": [
          "ambient/birds/woodpecker_1"
       ]
    },
-   "custom.ambient_birds_woodpecker_2": {
+   "custom.ambient.birds.woodpecker_2": {
       "sounds": [
          "ambient/birds/woodpecker_2"
       ]
    },
-   "custom.ambient_birds_woodpecker_peck_1": {
+   "custom.ambient.birds.woodpecker_peck_1": {
       "sounds": [
          "ambient/birds/woodpecker_peck_1"
       ]
    },
-   "custom.ambient_birds_woodpecker_peck_2": {
+   "custom.ambient.birds.woodpecker_peck_2": {
       "sounds": [
          "ambient/birds/woodpecker_peck_2"
       ]
    },
-   "custom.ambient_birds_wren_1": {
+   "custom.ambient.birds.wren_1": {
       "sounds": [
          "ambient/birds/wren_1"
       ]
