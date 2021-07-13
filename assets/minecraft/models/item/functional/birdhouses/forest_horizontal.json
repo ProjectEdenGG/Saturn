@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Wakka",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/vanilla/spruce_planks",
 		"1": "custom/vanilla/birch_planks",
@@ -27,7 +27,7 @@
 				"east": {"uv": [3, 12, 4, 15], "texture": "#1"},
 				"south": {"uv": [1, 8, 13, 11], "texture": "#1"},
 				"west": {"uv": [7, 12, 8, 15], "texture": "#1"},
-				"down": {"uv": [22, 4, 10, 5], "texture": "#1"}
+				"down": {"uv": [16, 6, 4, 7], "texture": "#1"}
 			}
 		},
 		{
@@ -142,7 +142,7 @@
 				"south": {"uv": [2, 4, 16, 8], "texture": "#0"},
 				"west": {"uv": [13, 4, 14, 8], "texture": "#1"},
 				"up": {"uv": [13.5, 3, 10, 2.75], "texture": "#missing"},
-				"down": {"uv": [24, 3, 10, 4], "texture": "#1"}
+				"down": {"uv": [16, 11, 2, 12], "texture": "#1"}
 			}
 		},
 		{
@@ -449,8 +449,8 @@
 			"translation": [0, 15.25, 0]
 		},
 		"fixed": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 0, -6.5],
+			"rotation": [-90, -180, 0],
+			"translation": [0, 0, -10],
 			"scale": [1.25, 1.25, 1.25]
 		}
 	},
@@ -458,42 +458,35 @@
 		{
 			"name": "birdhouse",
 			"origin": [0, 0, 0],
-			"color": 0,
 			"children": [
 				{
 					"name": "front",
 					"origin": [2, 3, 3],
-					"color": 0,
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 				},
 				{
 					"name": "back",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [10, 11, 12, 13, 14, 15, 16, 17, 18]
 				},
 				{
 					"name": "right",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [19, 20, 21]
 				},
 				{
 					"name": "left",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [22, 23, 24]
 				},
 				{
 					"name": "roof",
 					"origin": [2, 3, 3],
-					"color": 0,
 					"children": [25, 26]
 				},
 				{
 					"name": "hole",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [27, 28, 29, 30, 31, 32, 33, 34]
 				}, 35, 36]
 		}

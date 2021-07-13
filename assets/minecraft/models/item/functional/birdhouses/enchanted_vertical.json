@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Wakka",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "custom/vanilla/cyan_concrete_powder",
 		"2": "custom/vanilla/dark_prismarine",
@@ -508,42 +508,35 @@
 		{
 			"name": "birdhouse",
 			"origin": [0, 0, 0],
-			"color": 0,
 			"children": [
 				{
 					"name": "roof",
 					"origin": [8.53571, 15.74115, 3.5],
-					"color": 0,
 					"children": [0, 1, 2, 3, 4, 5, 6, 7]
 				},
 				{
 					"name": "north",
 					"origin": [0, 7, 0],
-					"color": 0,
 					"children": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 				},
 				{
 					"name": "east",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [20, 21, 22]
 				},
 				{
 					"name": "west",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [23, 24, 25]
 				},
 				{
 					"name": "south",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [26, 27, 28, 29, 30, 31, 32, 33]
 				},
 				{
 					"name": "hole",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [34, 35, 36, 37, 38, 39, 40, 41]
 				}, 42]
 		}
