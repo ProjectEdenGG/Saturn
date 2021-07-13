@@ -4,14 +4,14 @@
     "layer0": "minecraft:item/oak_wood"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "item/functional/birdhouses/forest_vertical"},
-    { "predicate": {"custom_model_data": 2}, "model": "item/functional/birdhouses/forest_horizontal"},
+    { "predicate": {"custom_model_data": 1}, "model": "item/functional/birdhouses/forest_horizontal"},
+  	{ "predicate": {"custom_model_data": 2}, "model": "item/functional/birdhouses/forest_vertical"},
     { "predicate": {"custom_model_data": 3}, "model": "item/functional/birdhouses/forest_hanging"},
-  	{ "predicate": {"custom_model_data": 4}, "model": "item/functional/birdhouses/enchanted_vertical"},
-  	{ "predicate": {"custom_model_data": 5}, "model": "item/functional/birdhouses/enchanted_horizontal"},
+  	{ "predicate": {"custom_model_data": 4}, "model": "item/functional/birdhouses/enchanted_horizontal"},
+  	{ "predicate": {"custom_model_data": 5}, "model": "item/functional/birdhouses/enchanted_vertical"},
     { "predicate": {"custom_model_data": 6}, "model": "item/functional/birdhouses/enchanted_hanging"},
-  	{ "predicate": {"custom_model_data": 7}, "model": "item/functional/birdhouses/depths_vertical"},
-    { "predicate": {"custom_model_data": 8}, "model": "item/functional/birdhouses/depths_horizontal"},
+    { "predicate": {"custom_model_data": 7}, "model": "item/functional/birdhouses/depths_horizontal"},
+  	{ "predicate": {"custom_model_data": 8}, "model": "item/functional/birdhouses/depths_vertical"},
     { "predicate": {"custom_model_data": 9}, "model": "item/functional/birdhouses/depths_hanging"}
   ]
 }
