@@ -31,22 +31,22 @@
    },
    "custom.explosion.explosion_1": {
       "sounds": [
-         "custom/explosion/explode_1"
+         "custom/explosion/explosion_1"
       ]
    },
    "custom.explosion.explosion_2": {
       "sounds": [
-         "custom/explosion/explode_2"
+         "custom/explosion/explosion_2"
       ]
    },
    "custom.explosion.explosion_3": {
       "sounds": [
-         "custom/explosion/explode_3"
+         "custom/explosion/explosion_3"
       ]
    },
    "custom.explosion.explosion_4": {
       "sounds": [
-         "custom/explosion/explode_4"
+         "custom/explosion/explosion_4"
       ]
    },
    "custom.ambient.birds.bird_1": {
