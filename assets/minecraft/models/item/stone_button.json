@@ -77,10 +77,10 @@
         { "predicate": {"custom_model_data": 70}, "model": "item/costumes/pirate/bicorn/pink_bicorn"},
         { "predicate": {"custom_model_data": 71}, "model": "item/costumes/pirate/bicorn_side/pink_bicorn_side"},
         { "predicate": {"custom_model_data": 72}, "model": "item/costumes/pirate/tricorn/pink_tricorn"},
-        { "predicate": {"custom_model_data": 73}, "model": "item/costumes/axolotl/axolotl_hat_lucy"},
-        { "predicate": {"custom_model_data": 74}, "model": "item/costumes/axolotl/axolotl_hat_wild"},
-        { "predicate": {"custom_model_data": 75}, "model": "item/costumes/axolotl/axolotl_hat_gold"},
-        { "predicate": {"custom_model_data": 76}, "model": "item/costumes/axolotl/axolotl_hat_cyan"},
-        { "predicate": {"custom_model_data": 77}, "model": "item/costumes/axolotl/axolotl_hat_blue"}
+        { "predicate": {"custom_model_data": 100}, "model": "item/costumes/axolotl/axolotl_hat_lucy"},
+        { "predicate": {"custom_model_data": 101}, "model": "item/costumes/axolotl/axolotl_hat_wild"},
+        { "predicate": {"custom_model_data": 102}, "model": "item/costumes/axolotl/axolotl_hat_gold"},
+        { "predicate": {"custom_model_data": 103}, "model": "item/costumes/axolotl/axolotl_hat_cyan"},
+        { "predicate": {"custom_model_data": 104}, "model": "item/costumes/axolotl/axolotl_hat_blue"}
     ]
 }
