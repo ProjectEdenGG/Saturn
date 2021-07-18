@@ -15,6 +15,6 @@
 4. Update periodically by clicking on the `update.bat` file in `.minecraft/resourcepacks/Saturn/`
   
 ## Contact
-[<img src="https://discordapp.com/api/guilds/132680070480396288/widget.png?style=banner3">](https://discord.bnn.gg)
+[<img src="https://discordapp.com/api/guilds/132680070480396288/widget.png?style=banner3">](https://discord.projecteden.gg)
 
 or Wakka#0239
