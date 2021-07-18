@@ -7,7 +7,7 @@
     
   `curl https://dl.projecteden.gg/saturn.bat --output saturn.bat && saturn.bat`
   
-3. On Minecarft:
+3. On Minecraft:
     1. Go into your options, and set Saturn as an active resource pack
     2. Edit your server list entry, and turn `Server Resource Packs` to `Disabled`
     3. Join the server, and run command `/rp local true` to tell the server you have the resource pack installed locally
