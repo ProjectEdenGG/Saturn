@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/medieval/weaponrack_1"},
-    { "predicate": {"custom_model_data": 2}, "model": "item/medieval/weaponrack_2"}
+    { "predicate": {"custom_model_data": 1}, "model": "item/medieval/weaponracks/weaponrack_1"},
+    { "predicate": {"custom_model_data": 2}, "model": "item/medieval/weaponracks/weaponrack_2"}
   ]
 }
