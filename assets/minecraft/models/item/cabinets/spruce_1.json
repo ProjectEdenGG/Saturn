@@ -1,0 +1,84 @@
+{
+	"credit": "Made by Wakka",
+	"textures": {
+		"1": "custom/vanilla/netherite_block",
+		"3": "custom/vanilla/spruce_trapdoor",
+		"particle": "custom/vanilla/spruce_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [1, 1, 0],
+			"to": [15, 15, 1],
+			"faces": {
+				"north": {"uv": [1, 1, 15, 15], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [1, 1, 2, 15], "rotation": 180, "texture": "#3"},
+				"south": {"uv": [1, 1, 15, 15], "rotation": 180, "texture": "#3"},
+				"west": {"uv": [14, 1, 15, 15], "rotation": 180, "texture": "#3"},
+				"up": {"uv": [1, 1, 15, 2], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [1, 1, 15, 2], "rotation": 180, "texture": "#3"}
+			}
+		},
+		{
+			"from": [2, 3, 2],
+			"to": [3, 13, 3],
+			"faces": {
+				"north": {"uv": [2, 3, 3, 13], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [9, 3, 10, 13], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [3, 3, 4, 13], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [7, 3, 8, 13], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [2, 3, 3, 4], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [2, 2, 3, 3], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 12, 1],
+			"to": [3, 14, 2],
+			"faces": {
+				"east": {"uv": [11, 6, 12, 8], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [2, 4, 3, 6], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [8, 4, 9, 6], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [2, 3, 3, 4], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [2, 2, 3, 3], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 2, 1],
+			"to": [3, 4, 2],
+			"faces": {
+				"east": {"uv": [12, 8, 13, 10], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [9, 9, 10, 11], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [10, 7, 11, 9], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [2, 3, 3, 4], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [2, 2, 3, 3], "rotation": 180, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -15.5],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "cabinet",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "door",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": [0]
+				},
+				{
+					"name": "handle",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": [1, 2, 3]
+				}
+			]
+		}
+	]
+}
