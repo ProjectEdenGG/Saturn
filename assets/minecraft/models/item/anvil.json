@@ -4,14 +4,19 @@
     "layer0": "minecraft:item/anvil"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "item/wip/cabinets/1"},
-  	{ "predicate": {"custom_model_data": 2}, "model": "item/wip/cabinets/2"},
-  	{ "predicate": {"custom_model_data": 3}, "model": "item/wip/cabinets/3"},
-  	{ "predicate": {"custom_model_data": 4}, "model": "item/wip/cabinets/4"},
-  	{ "predicate": {"custom_model_data": 5}, "model": "item/wip/cabinets/5"},
-  	{ "predicate": {"custom_model_data": 6}, "model": "item/wip/cabinets/6"},
-  	{ "predicate": {"custom_model_data": 7}, "model": "item/wip/cabinets/7"},
-  	{ "predicate": {"custom_model_data": 8}, "model": "item/wip/cabinets/8"},
-  	{ "predicate": {"custom_model_data": 9}, "model": "item/wip/cabinets/9"}
+  	{ "predicate": {"custom_model_data": 11}, "model": "item/cabinets/handle_1"},
+  	{ "predicate": {"custom_model_data": 12}, "model": "item/cabinets/handle_2"},
+  	{ "predicate": {"custom_model_data": 21}, "model": "item/cabinets/modern_1"},
+  	{ "predicate": {"custom_model_data": 22}, "model": "item/cabinets/modern_2"},
+  	{ "predicate": {"custom_model_data": 23}, "model": "item/cabinets/modern_3"},
+  	{ "predicate": {"custom_model_data": 24}, "model": "item/cabinets/modern_4"},
+  	{ "predicate": {"custom_model_data": 31}, "model": "item/cabinets/oak_1"},
+  	{ "predicate": {"custom_model_data": 32}, "model": "item/cabinets/oak_2"},
+  	{ "predicate": {"custom_model_data": 33}, "model": "item/cabinets/oak_3"},
+    { "predicate": {"custom_model_data": 34}, "model": "item/cabinets/oak_4"},
+    { "predicate": {"custom_model_data": 41}, "model": "item/cabinets/spruce_1"},
+    { "predicate": {"custom_model_data": 42}, "model": "item/cabinets/spruce_2"},
+    { "predicate": {"custom_model_data": 43}, "model": "item/cabinets/spruce_3"},
+    { "predicate": {"custom_model_data": 44}, "model": "item/cabinets/spruce_4"}
   ]
 }
