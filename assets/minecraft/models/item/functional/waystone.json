@@ -1,0 +1,161 @@
+{
+	"credit": "Made by Wakka",
+	"texture_size": [64, 64],
+	"textures": {
+		"texture": "custom/waystone_andesite"
+	},
+	"elements": [
+		{
+			"name": "pillarTop",
+			"from": [3, 9, 3],
+			"to": [13, 24, 13],
+			"faces": {
+				"north": {"uv": [10.5, 3, 13, 6.75], "texture": "#texture"},
+				"east": {"uv": [10.5, 3, 13, 6.75], "texture": "#texture"},
+				"south": {"uv": [10.5, 3, 13, 6.75], "texture": "#texture"},
+				"west": {"uv": [10.5, 3, 13, 6.75], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "topBottom",
+			"from": [2, 24, 2],
+			"to": [14, 26, 14],
+			"faces": {
+				"north": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture", "cullface": "up"},
+				"east": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture", "cullface": "up"},
+				"south": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture", "cullface": "up"},
+				"west": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [7.5, 0, 10.5, 3], "texture": "#texture", "cullface": "up"}
+			}
+		},
+		{
+			"name": "topMiddle",
+			"from": [1, 26, 1],
+			"to": [15, 28, 15],
+			"faces": {
+				"north": {"uv": [4, 4.5, 7.5, 5], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [4, 4.5, 7.5, 5], "texture": "#texture", "cullface": "up"},
+				"south": {"uv": [4, 4.5, 7.5, 5], "texture": "#texture", "cullface": "up"},
+				"west": {"uv": [4, 4.5, 7.5, 5], "texture": "#texture", "cullface": "up"},
+				"up": {"uv": [4, 0, 7.5, 3.5], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [4, 0, 7.5, 3.5], "texture": "#texture", "cullface": "up"}
+			}
+		},
+		{
+			"name": "topTop",
+			"from": [3, 28, 3],
+			"to": [13, 30, 13],
+			"faces": {
+				"north": {"uv": [7.75, 2.5, 10.25, 3], "texture": "#texture", "cullface": "up"},
+				"east": {"uv": [7.75, 2.5, 10.25, 3], "texture": "#texture", "cullface": "up"},
+				"south": {"uv": [7.75, 2.5, 10.25, 3], "texture": "#texture", "cullface": "up"},
+				"west": {"uv": [7.75, 2.5, 10.25, 3], "texture": "#texture", "cullface": "up"},
+				"up": {"uv": [10.5, 0, 13, 2.5], "texture": "#texture", "cullface": "up"}
+			}
+		},
+		{
+			"name": "topToppest",
+			"from": [3.975, 30, 3.975],
+			"to": [12.025, 32, 12.025],
+			"faces": {
+				"north": {"uv": [13, 0, 15, 0.5], "texture": "#texture", "cullface": "up"},
+				"east": {"uv": [13, 0, 15, 0.5], "texture": "#texture", "cullface": "up"},
+				"south": {"uv": [13, 0, 15, 0.5], "texture": "#texture", "cullface": "up"},
+				"west": {"uv": [13, 0, 15, 0.5], "texture": "#texture", "cullface": "up"},
+				"up": {"uv": [13, 0, 15, 2], "texture": "#texture", "cullface": "up"}
+			}
+		},
+		{
+			"name": "baseBottom",
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 4.75], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [0, 4, 4, 4.75], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [0, 4, 4, 4.75], "texture": "#texture"},
+				"west": {"uv": [0, 4, 4, 4.75], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#texture"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"name": "baseMiddle",
+			"from": [1, 3, 1],
+			"to": [15, 7, 15],
+			"faces": {
+				"north": {"uv": [4, 3.5, 7.5, 4.5], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [4, 3.5, 7.5, 4.5], "texture": "#texture"},
+				"south": {"uv": [4, 3.5, 7.5, 4.5], "texture": "#texture"},
+				"west": {"uv": [4, 3.5, 7.5, 4.5], "texture": "#texture"},
+				"up": {"uv": [4, 0, 7.5, 3.5], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "baseTop",
+			"from": [2, 7, 2],
+			"to": [14, 9, 14],
+			"faces": {
+				"north": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture"},
+				"east": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture"},
+				"south": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture"},
+				"west": {"uv": [7.5, 3, 10.5, 3.5], "texture": "#texture"},
+				"up": {"uv": [7.5, 0, 10.5, 3], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [49, 0, 0],
+			"translation": [0, -0.5, -1.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [49, 0, 0],
+			"translation": [0, -0.5, -1.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [23, 21, 0],
+			"translation": [0, -3, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"translation": [0, 15.5, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "waystone",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [
+				{
+					"name": "top",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0, 1, 2, 3, 4]
+				},
+				{
+					"name": "bottom",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [5, 6, 7]
+				}
+			]
+		}
+	]
+}
