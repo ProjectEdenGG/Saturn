@@ -82,6 +82,12 @@
         { "predicate": {"custom_model_data": 102}, "model": "item/costumes/axolotl/axolotl_hat_gold"},
         { "predicate": {"custom_model_data": 103}, "model": "item/costumes/axolotl/axolotl_hat_cyan"},
         { "predicate": {"custom_model_data": 104}, "model": "item/costumes/axolotl/axolotl_hat_blue"},
-        { "predicate": {"custom_model_data": 105}, "model": "item/costumes/misc/tiny"}
+        { "predicate": {"custom_model_data": 105}, "model": "item/costumes/misc/tiny"},
+        { "predicate": {"custom_model_data": 106}, "model": "item/costumes/misc/fox"},
+        { "predicate": {"custom_model_data": 107}, "model": "item/costumes/misc/ocelot"},
+        { "predicate": {"custom_model_data": 108}, "model": "item/costumes/misc/piglin"},
+        { "predicate": {"custom_model_data": 109}, "model": "item/costumes/misc/wolf"},
+        { "predicate": {"custom_model_data": 110}, "model": "item/costumes/misc/speed"},
+        { "predicate": {"custom_model_data": 111}, "model": "item/costumes/misc/plaguedoctor"}
     ]
 }
