@@ -6,7 +6,8 @@
     "overrides": [
   	{ "predicate": {"custom_model_data": 1}, "model": "item/events/bearfair21/fishingloot/soggy_newspaper"},
   	{ "predicate": {"custom_model_data": 2}, "model": "item/misc/envelope_1"},
-  	{ "predicate": {"custom_model_data": 3}, "model": "item/misc/envelope_2"}
+  	{ "predicate": {"custom_model_data": 3}, "model": "item/misc/envelope_2"},
+    { "predicate": {"custom_model_data": 4}, "model": "item/medieval/scroll"}
   ]
 
 }
