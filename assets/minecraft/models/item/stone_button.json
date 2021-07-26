@@ -84,11 +84,13 @@
         { "predicate": {"custom_model_data": 104}, "model": "item/costumes/hat/axolotl/blue"},
         { "predicate": {"custom_model_data": 200}, "model": "item/costumes/hat/misc/tiny"},
         { "predicate": {"custom_model_data": 201}, "model": "item/costumes/hat/misc/fox"},
-        { "predicate": {"custom_model_data": 202}, "model": "item/costumes/hat/misc/ocelot"},
-        { "predicate": {"custom_model_data": 203}, "model": "item/costumes/hat/misc/piglin"},
-        { "predicate": {"custom_model_data": 204}, "model": "item/costumes/hat/misc/wolf"},
-        { "predicate": {"custom_model_data": 205}, "model": "item/costumes/hat/misc/speed"},
-        { "predicate": {"custom_model_data": 206}, "model": "item/costumes/hat/misc/plague_doctor"},
-        { "predicate": {"custom_model_data": 207}, "model": "item/costumes/hat/misc/gg"}
+        { "predicate": {"custom_model_data": 202}, "model": "item/costumes/hat/misc/fox_snow"},
+        { "predicate": {"custom_model_data": 203}, "model": "item/costumes/hat/misc/ocelot"},
+        { "predicate": {"custom_model_data": 204}, "model": "item/costumes/hat/misc/piglin"},
+        { "predicate": {"custom_model_data": 205}, "model": "item/costumes/hat/misc/wolf"},
+        { "predicate": {"custom_model_data": 206}, "model": "item/costumes/hat/misc/speed"},
+        { "predicate": {"custom_model_data": 207}, "model": "item/costumes/hat/misc/plague_doctor"},
+        { "predicate": {"custom_model_data": 208}, "model": "item/costumes/hat/misc/gg"},
+        { "predicate": {"custom_model_data": 209}, "model": "item/costumes/hat/misc/witch"}
     ]
 }
