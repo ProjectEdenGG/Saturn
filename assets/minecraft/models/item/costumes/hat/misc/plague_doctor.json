@@ -2,8 +2,8 @@
 	"credit": "Made by Wakka",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/costumes/plaguedoctor",
-		"particle": "item/costumes/plaguedoctor"
+		"0": "item/costumes/plague_doctor",
+		"particle": "item/costumes/plague_doctor"
 	},
 	"elements": [
 		{
