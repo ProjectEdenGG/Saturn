@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/amongus/black",
-		"1": "custom/amongus/visor",
-		"particle": "custom/amongus/black"
+		"0": "item/costumes/amongus/black",
+		"1": "item/costumes/amongus/visor",
+		"particle": "item/costumes/amongus/black"
 	},
 	"elements": [
 		{
