@@ -5,6 +5,7 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 1}, "model": "item/events/bearfair21/cake"},
-    { "predicate": {"custom_model_data": 2}, "model": "item/tabletop/food/cake_double_chocolate"}
+    { "predicate": {"custom_model_data": 2}, "model": "item/tabletop/food/cake_double_chocolate"},
+    { "predicate": {"custom_model_data": 3}, "model": "item/tabletop/food/cake_triple"}
   ]
 }
