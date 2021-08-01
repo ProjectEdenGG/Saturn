@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/oak_button_inventory",
+  "textures": {
+    "particle": "minecraft:item/oak_button",
+    "layer0": "minecraft:item/oak_button"
+  },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/costumes/exclusive/hat/antler_fancy_white"}
+    ]
+}

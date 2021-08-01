@@ -97,6 +97,11 @@
         { "predicate": {"custom_model_data": 212}, "model": "item/costumes/hat/misc/halo_circle"},
         { "predicate": {"custom_model_data": 213}, "model": "item/costumes/hat/misc/halo_circleoid"},
         { "predicate": {"custom_model_data": 214}, "model": "item/costumes/hat/misc/nerd"},
+        { "predicate": {"custom_model_data": 215}, "model": "item/costumes/hat/misc/crown_queen"},
+        { "predicate": {"custom_model_data": 216}, "model": "item/costumes/hat/misc/straw"},
+        { "predicate": {"custom_model_data": 217}, "model": "item/costumes/hat/misc/santa"},
+        { "predicate": {"custom_model_data": 218}, "model": "item/costumes/hat/misc/mushroom"},
+        { "predicate": {"custom_model_data": 219}, "model": "item/costumes/hat/misc/groucho"},
         { "predicate": {"custom_model_data": 300}, "model": "item/costumes/hat/amongus/red"},
         { "predicate": {"custom_model_data": 301}, "model": "item/costumes/hat/amongus/orange"},
         { "predicate": {"custom_model_data": 302}, "model": "item/costumes/hat/amongus/yellow"},
@@ -111,6 +116,16 @@
         { "predicate": {"custom_model_data": 401}, "model": "item/costumes/hat/lightsabers/dark_blue"},
         { "predicate": {"custom_model_data": 402}, "model": "item/costumes/hat/lightsabers/purple"},
         { "predicate": {"custom_model_data": 403}, "model": "item/costumes/hat/lightsabers/light_blue"},
-        { "predicate": {"custom_model_data": 404}, "model": "item/costumes/hat/lightsabers/red"}
+        { "predicate": {"custom_model_data": 404}, "model": "item/costumes/hat/lightsabers/red"},
+        { "predicate": {"custom_model_data": 501}, "model": "item/costumes/hat/antlers/black"},
+        { "predicate": {"custom_model_data": 502}, "model": "item/costumes/hat/antlers/brown"},
+        { "predicate": {"custom_model_data": 503}, "model": "item/costumes/hat/antlers/white"},
+        { "predicate": {"custom_model_data": 601}, "model": "item/costumes/hat/horns/curled"},
+        { "predicate": {"custom_model_data": 602}, "model": "item/costumes/hat/horns/demon"},
+        { "predicate": {"custom_model_data": 603}, "model": "item/costumes/hat/horns/wavy"},
+        { "predicate": {"custom_model_data": 701}, "model": "item/costumes/hat/ushanka/black"},
+        { "predicate": {"custom_model_data": 702}, "model": "item/costumes/hat/ushanka/cyan"},
+        { "predicate": {"custom_model_data": 703}, "model": "item/costumes/hat/ushanka/pink"},
+        { "predicate": {"custom_model_data": 704}, "model": "item/costumes/hat/ushanka/red"}
     ]
 }
