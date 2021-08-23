@@ -1,0 +1,50 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/flags/medieval_1",
+		"1": "custom/vanilla/oak_log",
+		"particle": "custom/flags/medieval_1"
+	},
+	"elements": [
+		{
+			"from": [1, -16, 0],
+			"to": [15, 31, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 31.5, 0.125]},
+			"faces": {
+				"north": {"uv": [3.75, 0, 7.5, 11.75], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 11.75], "texture": "#0"},
+				"south": {"uv": [7.5, 0, 3.75, 11.75], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 11.75], "texture": "#0"},
+				"up": {"uv": [4, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [4, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 31, -0.25],
+			"to": [16, 32, 0.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 31.5, 0.125]},
+			"faces": {
+				"north": {"uv": [0, 15, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 15, 1, 16], "texture": "#1"},
+				"south": {"uv": [16, 15, 0, 16], "texture": "#1"},
+				"west": {"uv": [15, 15, 16, 16], "texture": "#1"},
+				"up": {"uv": [16, 15, 0, 16], "texture": "#1"},
+				"down": {"uv": [16, 15, 0, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [0, -32, 15.5],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "flag",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
