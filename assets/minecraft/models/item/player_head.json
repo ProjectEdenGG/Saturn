@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "gui_light": "front",
+  "display": {
+    "gui": {
+        "rotation": [0, 0, 0],
+        "scale": [1.7, 1.7, 1.7],
+        "translation": [0, 7, 0]
+    }
+  }
+}
