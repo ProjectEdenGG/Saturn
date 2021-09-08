@@ -20,6 +20,15 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/custom/e002.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/twemoji/1f004.png",
 			"height": 7,
 			"ascent": 7,
