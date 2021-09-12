@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/e000.png",
+			"file": "minecraft:font/custom/old_logo.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -11,7 +11,52 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/e001.png",
+			"file": "minecraft:font/custom/bot.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/twitter.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/instagram.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/snapchat.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/youtube.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/twitch.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
@@ -20,11 +65,47 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/e002.png",
+			"file": "minecraft:font/custom/tiktok.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [
-				""
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/discord.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/steam.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/reddit.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/github.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				""
 			]
 		},
 		{
