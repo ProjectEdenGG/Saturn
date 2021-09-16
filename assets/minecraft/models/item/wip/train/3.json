@@ -9,7 +9,7 @@
 		"9": "custom/vanilla/red_terracotta",
 		"10": "custom/vanilla/stone",
 		"11": "custom/vanilla/blast_furnace_top",
-		"12": "custom/vanilla/blast_furnace_front",
+		"12": "custom/vanilla/blast_furnace_front_on",
 		"13": "custom/vanilla/oak_planks",
 		"particle": "custom/vanilla/spruce_planks"
 	},
@@ -1515,11 +1515,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.67123, 8.82192]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#12"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#11"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#12"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#11"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#11"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#11"}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#12"}
 			}
 		},
 		{
@@ -1944,11 +1940,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.67123, 8.82192]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#12"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#11"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#12"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#11"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#11"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#11"}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#12"}
 			}
 		},
 		{
