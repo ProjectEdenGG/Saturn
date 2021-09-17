@@ -6,6 +6,7 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "item/misc/invisibarrier"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/misc/exclamation"}
+		{"predicate": {"custom_model_data": 2}, "model": "item/misc/exclamation"},
+    	{"predicate": {"custom_model_data": 3}, "model": "item/misc/max_size"}
 	]
 }
