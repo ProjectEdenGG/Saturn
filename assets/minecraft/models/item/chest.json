@@ -10,10 +10,7 @@
         { "predicate": {"custom_model_data": 103}, "model": "item/events/bearfair21/present_cube_3"},
         { "predicate": {"custom_model_data": 201}, "model": "item/events/bearfair21/present_rect_1"},
         { "predicate": {"custom_model_data": 202}, "model": "item/events/bearfair21/present_rect_2"},
-        { "predicate": {"custom_model_data": 203}, "model": "item/events/bearfair21/present_rect_3"},
-        { "predicate": {"custom_model_data": 311}, "model": "item/wip/presents/1_1"},
-        { "predicate": {"custom_model_data": 312}, "model": "item/wip/presents/1_2"},
-        { "predicate": {"custom_model_data": 313}, "model": "item/wip/presents/1_3"}
+        { "predicate": {"custom_model_data": 203}, "model": "item/events/bearfair21/present_rect_3"}
     ],
     "display": {
         "gui": {
