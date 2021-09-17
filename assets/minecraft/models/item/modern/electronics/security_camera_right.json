@@ -1,5 +1,4 @@
 {
-	"credit": "Made by Wakka",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
