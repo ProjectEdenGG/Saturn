@@ -1,5 +1,4 @@
 {
-	"parent": "./cit_item",
 	"textures": {
 		"0": "custom/ghoulcraft/grass_5",
 		"1": "custom/ghoulcraft/feathers",

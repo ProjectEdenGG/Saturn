@@ -1,5 +1,4 @@
 {
-	"parent": "./cit_item",
 	"textures": {
 		"3": "custom/ghoulcraft/colors"
 	},
