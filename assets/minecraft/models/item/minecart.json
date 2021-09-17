@@ -22,6 +22,7 @@
     { "predicate": {"custom_model_data": 16}, "model": "item/wip/train/16"},
     { "predicate": {"custom_model_data": 17}, "model": "item/wip/train/17"},
     { "predicate": {"custom_model_data": 18}, "model": "item/wip/train/18"},
+    { "predicate": {"custom_model_data": 19}, "model": "item/wip/train/rail"},
   	{ "predicate": {"custom_model_data": 901}, "model": "item/events/bearfair21/ferriswheel_cart"}
   ]
 }
