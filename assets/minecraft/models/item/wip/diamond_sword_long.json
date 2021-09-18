@@ -446,11 +446,16 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [0, -180, 0]
+			"rotation": [0, -180, 0],
+			"translation": [-2, -2, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
 			"rotation": [28.25, 26, 93.25],
 			"translation": [8, 8.75, 0.5]
+		},
+		"fixed": {
+			"translation": [3, -3, 0]
 		}
 	},
 	"groups": [
