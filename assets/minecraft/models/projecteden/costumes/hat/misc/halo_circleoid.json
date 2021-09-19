@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "projecteden/vanilla/gold_block",
-		"particle": "projecteden/vanilla/gold_block"
+		"0": "projecteden/vanilla/block/gold_block",
+		"particle": "projecteden/vanilla/block/gold_block"
 	},
 	"elements": [
 		{
