@@ -1,8 +1,9 @@
-{"variants":{
-		"instrument=didgeridoo,note=24,powered=true":[
-			{"model":"projecteden/blocks/arcade_floor"},
-			{"model":"projecteden/blocks/arcade_floor","y":90},
-			{"model":"projecteden/blocks/arcade_floor","y":270}
-		]
-	}
+{
+    "variants": {
+        "instrument=didgeridoo,note=24,powered=true": [
+            { "model": "projecteden/blocks/arcade_floor" },
+            { "model": "projecteden/blocks/arcade_floor", "y": 90 },
+            { "model": "projecteden/blocks/arcade_floor", "y": 270 }
+        ]
+    }
 }
