@@ -4,8 +4,8 @@
     "layer0": "minecraft:block/brown_mushroom"
   },
 	"overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/flora/glowshroom_green"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/flora/glowshroom_blue"},
-        { "predicate": {"custom_model_data": 3}, "model": "item/flora/mushroom_teal"}
+        { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/flora/glowshroom_green"},
+        { "predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/flora/glowshroom_blue"},
+        { "predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/flora/mushroom_teal"}
 	]
 }

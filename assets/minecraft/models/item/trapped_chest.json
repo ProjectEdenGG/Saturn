@@ -1,6 +1,6 @@
 {
     "parent": "item/chest",
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/events/pugmas21/present_advent"}
+        { "predicate": {"custom_model_data": 1}, "model": "projecteden/events/pugmas21/present_advent"}
     ]
 }

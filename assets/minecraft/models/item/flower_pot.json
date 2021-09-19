@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/flower_pot"
   },
   "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "item/tabletop/kitchenware/bakeware"},
-  	{ "predicate": {"custom_model_data": 2}, "model": "item/tabletop/kitchenware/juicer"}
+  	{ "predicate": {"custom_model_data": 1}, "model": "projecteden/items/kitchenware/bakeware"},
+  	{ "predicate": {"custom_model_data": 2}, "model": "projecteden/items/kitchenware/juicer"}
   ]
 }

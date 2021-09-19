@@ -4,6 +4,6 @@
     "layer0": "minecraft:block/cyan_stained_glass"
   },
 	"overrides": [
-        { "predicate": {"custom_model_data": 101}, "model": "item/costumes/hat/misc/gg"}
+        { "predicate": {"custom_model_data": 101}, "model": "projecteden/costumes/hat/misc/gg"}
 	]
 }

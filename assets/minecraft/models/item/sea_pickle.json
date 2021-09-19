@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/sea_pickle"
   },
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "item/events/bearfair21/fishingloot/sea_cucumber"}
+        { "predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/sea_cucumber"}
     ]
 }

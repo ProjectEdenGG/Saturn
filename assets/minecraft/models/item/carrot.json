@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/carrot"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/wip/stockpile_carrots"}
+    { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/stockpile/carrots"}
   ]
 }

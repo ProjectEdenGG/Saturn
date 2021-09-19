@@ -4,6 +4,6 @@
     "layer0": "minecraft:block/black_stained_glass"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/griffin_setup"}
+    { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/electronics/griffin_setup"}
   ]
 }

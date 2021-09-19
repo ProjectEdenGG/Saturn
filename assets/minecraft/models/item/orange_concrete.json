@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/orange_concrete",
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/modern/blockade"},
-    { "predicate": {"custom_model_data": 2}, "model": "item/modern/blockade_lights"},
-    { "predicate": {"custom_model_data": 3}, "model": "item/modern/trafficcone"}
+    { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/blockade"},
+    { "predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/blockade_lights"},
+    { "predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/trafficcone"}
   ]
 }
