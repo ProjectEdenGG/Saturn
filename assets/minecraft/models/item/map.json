@@ -11,6 +11,7 @@
         { "predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/cabinets/icon"},
         { "predicate": {"custom_model_data": 6}, "model": "projecteden/events/bearfair21/icon"},
         { "predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/icon"},
-        { "predicate": {"custom_model_data": 8}, "model": "projecteden/costumes/icon"}
+        { "predicate": {"custom_model_data": 8}, "model": "projecteden/costumes/icon"},
+        { "predicate": {"custom_model_data": 9}, "model": "projecteden/items/icon"}
     ]
 }
