@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/light_gray_carpet",
   "overrides": [
-  	{"predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/parts/cpu"},
-  	{"predicate": {"custom_model_data": 2}, "model": "item/modern/electronics/parts/hard_drive"},
-  	{"predicate": {"custom_model_data": 3}, "model": "item/modern/electronics/parts/solid_state_drive"}
+  	{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/electronics/parts/cpu"},
+  	{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/electronics/parts/hard_drive"},
+  	{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/electronics/parts/solid_state_drive"}
   ]
 }

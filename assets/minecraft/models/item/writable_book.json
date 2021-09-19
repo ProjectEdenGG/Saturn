@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/writable_book"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/modern/electronics/register_black"}
+    { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/electronics/register_black"}
   ]
 }

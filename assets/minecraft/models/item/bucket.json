@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/bucket"
   },
   "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/tabletop/kitchenware/pot"},
-		{ "predicate": {"custom_model_data": 2}, "model": "item/tabletop/kitchenware/saucepan"},
-		{ "predicate": {"custom_model_data": 3}, "model": "item/tabletop/kitchenware/skillet"}
+		{ "predicate": {"custom_model_data": 1}, "model": "projecteden/items/kitchenware/pot"},
+		{ "predicate": {"custom_model_data": 2}, "model": "projecteden/items/kitchenware/saucepan"},
+		{ "predicate": {"custom_model_data": 3}, "model": "projecteden/items/kitchenware/skillet"}
 	]
 }

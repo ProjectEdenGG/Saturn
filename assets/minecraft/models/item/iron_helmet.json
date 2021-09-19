@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/iron_helmet"
   },
     "overrides": [
-  		{ "predicate": {"custom_model_data": 1}, "model": "item/armor/wither/helmet"}
+  		{ "predicate": {"custom_model_data": 1}, "model": "projecteden/items/armor/wither/helmet"}
   	]
 }

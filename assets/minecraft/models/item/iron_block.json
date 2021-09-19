@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/iron_block",
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/modern/postbox"}
+    { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/postbox"}
   ]
 }

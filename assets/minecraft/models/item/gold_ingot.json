@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/gold_ingot"
   },
   "overrides": [
-  	{"predicate": {"custom_model_data": 1}, "model": "item/events/pride21/trophy"},
-  	{"predicate": {"custom_model_data": 2}, "model": "item/events/bearfair21/trophy_minigolf"}
+  	{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/trophies/pride21"},
+  	{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/trophies/bearfair21_minigolf"}
   ]
 }

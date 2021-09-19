@@ -5,9 +5,9 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 901}, "model": "item/modern/electronics/security_camera"},
-		{"predicate": {"custom_model_data": 902}, "model": "item/modern/electronics/security_camera_left"},
-		{"predicate": {"custom_model_data": 903}, "model": "item/modern/electronics/security_camera_right"},
-		{"predicate": {"custom_model_data": 904}, "model": "item/modern/electronics/wires"}
+		{"predicate": {"custom_model_data": 901}, "model": "projecteden/decoration/electronics/security_camera"},
+		{"predicate": {"custom_model_data": 902}, "model": "projecteden/decoration/electronics/security_camera_left"},
+		{"predicate": {"custom_model_data": 903}, "model": "projecteden/decoration/electronics/security_camera_right"},
+		{"predicate": {"custom_model_data": 904}, "model": "projecteden/decoration/electronics/wires"}
 	]
 }

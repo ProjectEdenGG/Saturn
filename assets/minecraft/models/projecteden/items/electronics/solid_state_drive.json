@@ -1,0 +1,59 @@
+{
+	"textures": {
+		"0": "projecteden/items/electronics/solid_state_drive"
+	},
+	"elements": [
+		{
+			"name": "Cube",
+			"from": [3, 0, 2],
+			"to": [13, 2, 14],
+			"faces": {
+				"north": {"uv": [2.5, 0, 13, 2.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [12.5, 2, 15, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2.5, 13.5, 13, 16], "texture": "#0"},
+				"west": {"uv": [0.5, 2, 3, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2.5, 2, 13, 14], "texture": "#0"},
+				"down": {"uv": [2.5, 2, 13, 14], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 45, 0],
+			"translation": [0, 3, 3.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 45, 0],
+			"translation": [0, 3, 3.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, 5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, 5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, 4, 0]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 15.25, 0]
+		},
+		"fixed": {
+			"rotation": [-90, -180, 0],
+			"translation": [0, 0, -4.75],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

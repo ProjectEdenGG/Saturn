@@ -4,10 +4,10 @@
     "layer0": "minecraft:item/bread"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/tabletop/food/pizza_box"},
-    { "predicate": {"custom_model_data": 2}, "model": "item/tabletop/food/pizza_box_stack"},
-    { "predicate": {"custom_model_data": 3}, "model": "item/tabletop/food/pizza_pepper"},
-    { "predicate": {"custom_model_data": 4}, "model": "item/tabletop/food/bread"},
-    { "predicate": {"custom_model_data": 5}, "model": "item/tabletop/food/bread_cut"}
+    { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/food/pizza_box"},
+    { "predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/food/pizza_box_stack"},
+    { "predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/food/pizza_pepper"},
+    { "predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/food/bread"},
+    { "predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/food/bread_cut"}
   ]
 }
