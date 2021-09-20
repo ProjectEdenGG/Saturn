@@ -1,6 +1,9 @@
 {
     "parent": "item/chest",
     "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "projecteden/events/pugmas21/present_advent"}
+        { "predicate": {"custom_model_data": 1}, "model": "projecteden/events/pugmas21/present_advent"},
+        { "predicate": {"custom_model_data": 2}, "model": "projecteden/events/pugmas21/present_outlined"},
+        { "predicate": {"custom_model_data": 3}, "model": "projecteden/events/pugmas21/present_colored"},
+        { "predicate": {"custom_model_data": 4}, "model": "projecteden/events/pugmas21/present_opened"}
     ]
 }
