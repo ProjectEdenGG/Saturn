@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/pugmas_advent.png",
+			"file":"projecteden/ui/gui/pugmas_advent.png",
 			"ascent":19,
 			"height":133,
 			"chars":["盆"]
