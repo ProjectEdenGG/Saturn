@@ -2,6 +2,7 @@
   "parent": "minecraft:block/spawner",
   "overrides": [
         { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/entity/penguin_emperor"},
-        { "predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/entity/elf"}
+        { "predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/entity/penguin_baby"},
+        { "predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/entity/elf"}
   ]
 }
