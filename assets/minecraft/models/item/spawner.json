@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/spawner",
+  "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/entity/penguin_emperor"}
+  ]
+}
