@@ -172,602 +172,602 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f3b5.png",
+			"file": "projecteden/font/emojis/twemoji/musical_note.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🎵"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f3b6.png",
+			"file": "projecteden/font/emojis/twemoji/notes.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🎶"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f3c5.png",
+			"file": "projecteden/font/emojis/twemoji/sports_medal.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🏅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f440.png",
+			"file": "projecteden/font/emojis/twemoji/eyes.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👀"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f446.png",
+			"file": "projecteden/font/emojis/twemoji/point_up.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👆"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f447.png",
+			"file": "projecteden/font/emojis/twemoji/point_down.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f44b.png",
+			"file": "projecteden/font/emojis/twemoji/wave.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👋"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f44c.png",
+			"file": "projecteden/font/emojis/twemoji/ok_hand.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👌"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f44d.png",
+			"file": "projecteden/font/emojis/twemoji/+1.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👍"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f44e.png",
+			"file": "projecteden/font/emojis/twemoji/-1.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👎"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f44f.png",
+			"file": "projecteden/font/emojis/twemoji/clap.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👏"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f480.png",
+			"file": "projecteden/font/emojis/twemoji/skull.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💀"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f494.png",
+			"file": "projecteden/font/emojis/twemoji/broken_heart.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f496.png",
+			"file": "projecteden/font/emojis/twemoji/sparkling_heart.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💖"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f4a4.png",
+			"file": "projecteden/font/emojis/twemoji/zzz.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💤"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f4aa.png",
+			"file": "projecteden/font/emojis/twemoji/muscle.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💪"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f4af.png",
+			"file": "projecteden/font/emojis/twemoji/100.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💯"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f507.png",
+			"file": "projecteden/font/emojis/twemoji/mute.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f509.png",
+			"file": "projecteden/font/emojis/twemoji/sound.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f50a.png",
+			"file": "projecteden/font/emojis/twemoji/loud_sound.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔊"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f510.png",
+			"file": "projecteden/font/emojis/twemoji/closed_lock_with_key.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔐"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f511.png",
+			"file": "projecteden/font/emojis/twemoji/key.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔑"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f512.png",
+			"file": "projecteden/font/emojis/twemoji/lock.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔒"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f513.png",
+			"file": "projecteden/font/emojis/twemoji/unlock.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔓"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f514.png",
+			"file": "projecteden/font/emojis/twemoji/bell.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f515.png",
+			"file": "projecteden/font/emojis/twemoji/no_bell.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔕"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f517.png",
+			"file": "projecteden/font/emojis/twemoji/link.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔗"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f525.png",
+			"file": "projecteden/font/emojis/twemoji/fire.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔥"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f602.png",
+			"file": "projecteden/font/emojis/twemoji/joy.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😂"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f603.png",
+			"file": "projecteden/font/emojis/twemoji/smiley.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😃"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f605.png",
+			"file": "projecteden/font/emojis/twemoji/sweat_smile.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f607.png",
+			"file": "projecteden/font/emojis/twemoji/innocent.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f609.png",
+			"file": "projecteden/font/emojis/twemoji/wink.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f60a.png",
+			"file": "projecteden/font/emojis/twemoji/blush.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😊"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f60d.png",
+			"file": "projecteden/font/emojis/twemoji/heart_eyes.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😍"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f60e.png",
+			"file": "projecteden/font/emojis/twemoji/sunglasses.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😎"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f610.png",
+			"file": "projecteden/font/emojis/twemoji/neutral_face.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😐"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f614.png",
+			"file": "projecteden/font/emojis/twemoji/pensive.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f61b.png",
+			"file": "projecteden/font/emojis/twemoji/stuck_out_tongue.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😛"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f61f.png",
+			"file": "projecteden/font/emojis/twemoji/worried.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😟"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f621.png",
+			"file": "projecteden/font/emojis/twemoji/rage.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😡"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f622.png",
+			"file": "projecteden/font/emojis/twemoji/cry.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😢"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f626.png",
+			"file": "projecteden/font/emojis/twemoji/frowning.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😦"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f62c.png",
+			"file": "projecteden/font/emojis/twemoji/grimacing.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😬"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f62d.png",
+			"file": "projecteden/font/emojis/twemoji/sob.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😭"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f62e.png",
+			"file": "projecteden/font/emojis/twemoji/open_mouth.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😮"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f642.png",
+			"file": "projecteden/font/emojis/twemoji/slightly_smiling.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙂"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f643.png",
+			"file": "projecteden/font/emojis/twemoji/upside_down.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙃"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f644.png",
+			"file": "projecteden/font/emojis/twemoji/eye_roll.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙄"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f680.png",
+			"file": "projecteden/font/emojis/twemoji/rocket.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🚀"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f6ab.png",
+			"file": "projecteden/font/emojis/twemoji/no_entry_sign.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🚫"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f6d1.png",
+			"file": "projecteden/font/emojis/twemoji/octagonal_sign.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🛑"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f6e0.png",
+			"file": "projecteden/font/emojis/twemoji/hammer_and_wrench.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🛠"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f913.png",
+			"file": "projecteden/font/emojis/twemoji/nerd.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤓"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f914.png",
+			"file": "projecteden/font/emojis/twemoji/thinking.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f920.png",
+			"file": "projecteden/font/emojis/twemoji/face_with_cowboy_hat.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤠"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f923.png",
+			"file": "projecteden/font/emojis/twemoji/rolling_on_the_floor_laughing.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤣"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f926.png",
+			"file": "projecteden/font/emojis/twemoji/face_palm.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤦"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f92a.png",
+			"file": "projecteden/font/emojis/twemoji/zany_face.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤪"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f92f.png",
+			"file": "projecteden/font/emojis/twemoji/exploding_head.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤯"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f937.png",
+			"file": "projecteden/font/emojis/twemoji/shrug.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤷"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f941.png",
+			"file": "projecteden/font/emojis/twemoji/drum_with_drumsticks.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥁"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f947.png",
+			"file": "projecteden/font/emojis/twemoji/first_place_medal.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f948.png",
+			"file": "projecteden/font/emojis/twemoji/second_place_medal.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥈"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f949.png",
+			"file": "projecteden/font/emojis/twemoji/third_place_medal.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f970.png",
+			"file": "projecteden/font/emojis/twemoji/smiling_face_with_hearts.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥰"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f973.png",
+			"file": "projecteden/font/emojis/twemoji/partying_face.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥳"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f974.png",
+			"file": "projecteden/font/emojis/twemoji/woozy_face.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥴"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f97a.png",
+			"file": "projecteden/font/emojis/twemoji/pleading_face.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥺"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/1f9d0.png",
+			"file": "projecteden/font/emojis/twemoji/face_with_monocle.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🧐"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2603.png",
+			"file": "projecteden/font/emojis/twemoji/snowman_with_snow.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["☃"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2694.png",
+			"file": "projecteden/font/emojis/twemoji/crossed_swords.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⚔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/26a0.png",
+			"file": "projecteden/font/emojis/twemoji/warning.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⚠"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/26c4.png",
+			"file": "projecteden/font/emojis/twemoji/snowman.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛄"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/26d4.png",
+			"file": "projecteden/font/emojis/twemoji/no_entry.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/26f3.png",
+			"file": "projecteden/font/emojis/twemoji/golf.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛳"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2705.png",
+			"file": "projecteden/font/emojis/twemoji/white_check_mark.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2709.png",
+			"file": "projecteden/font/emojis/twemoji/email.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/270c.png",
+			"file": "projecteden/font/emojis/twemoji/v.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✌"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2744.png",
+			"file": "projecteden/font/emojis/twemoji/snowflake.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["❄"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/274c.png",
+			"file": "projecteden/font/emojis/twemoji/x.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["❌"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/27a1.png",
+			"file": "projecteden/font/emojis/twemoji/arrow_right.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["➡"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2b05.png",
+			"file": "projecteden/font/emojis/twemoji/arrow_left.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2b06.png",
+			"file": "projecteden/font/emojis/twemoji/arrow_up.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬆"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2b07.png",
+			"file": "projecteden/font/emojis/twemoji/arrow_down.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/2b50.png",
+			"file": "projecteden/font/emojis/twemoji/star.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⭐"]
