@@ -1,14 +1,14 @@
 {
-  "parent": "minecraft:block/note_block",
-  "textures": {
-  	"layer0": "minecraft:item/ice"
-  },
-  "overrides": [
-  		{"predicate": {"custom_model_data": 101}, "model": "projecteden/events/bearfair21/drumset"},
+	"parent": "minecraft:block/note_block",
+	"textures": {
+		"layer0": "minecraft:item/ice"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 101}, "model": "projecteden/events/bearfair21/drumset"},
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/events/bearfair21/keyboard"},
 		{"predicate": {"custom_model_data": 103}, "model": "projecteden/events/bearfair21/guitar_on_stand"},
 		{"predicate": {"custom_model_data": 104}, "model": "projecteden/events/bearfair21/guitar"},
 		{"predicate": {"custom_model_data": 105}, "model": "projecteden/events/bearfair21/bass"},
-    {"predicate": {"custom_model_data": 106}, "model": "projecteden/decoration/electronics/rotary_phone"}
-  ]
+		{"predicate": {"custom_model_data": 106}, "model": "projecteden/decoration/electronics/rotary_phone"}
+	]
 }

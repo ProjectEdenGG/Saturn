@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/black_stained_glass"
-  },
-  "overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/electronics/griffin_setup"}
-  ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:block/black_stained_glass"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/electronics/griffin_setup"}
+	]
 }

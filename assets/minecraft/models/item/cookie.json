@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/cookie"
-  },
-    "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "projecteden/items/food/cookie_1"}
-  ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cookie"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/food/cookie_1"}
+	]
 }

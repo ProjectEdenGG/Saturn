@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/book"
-  },
-    "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/lost_book"}
-  ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/book"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/lost_book"}
+	]
 }

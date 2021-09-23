@@ -1,10 +1,10 @@
 {
-  "parent": "minecraft:block/end_rod",
-   "textures": {
-   	"layer0": "minecraft:item/end_rod"
-  },
-   "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/electronics/cable"},
-  	{ "predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/electronics/cable_broken"}
-  ]
+	"parent": "minecraft:block/end_rod",
+	"textures": {
+		"layer0": "minecraft:item/end_rod"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/electronics/cable"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/electronics/cable_broken"}
+	]
 }

@@ -1,13 +1,12 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/paper"
-  },
-    "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/soggy_newspaper"},
-  	{ "predicate": {"custom_model_data": 2}, "model": "projecteden/items/envelope_1"},
-  	{ "predicate": {"custom_model_data": 3}, "model": "projecteden/items/envelope_2"},
-    { "predicate": {"custom_model_data": 4}, "model": "projecteden/items/scroll"}
-  ]
-
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/paper"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/soggy_newspaper"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/envelope_1"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/envelope_2"},
+		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/scroll"}
+	]
 }
