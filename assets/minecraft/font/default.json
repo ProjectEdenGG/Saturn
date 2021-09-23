@@ -88,686 +88,686 @@
 
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/old_logo.png",
+			"file": "projecteden/font/emojis/custom/old_logo.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/bot.png",
+			"file": "projecteden/font/emojis/custom/bot.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/twitter.png",
+			"file": "projecteden/font/emojis/custom/twitter.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/instagram.png",
+			"file": "projecteden/font/emojis/custom/instagram.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/snapchat.png",
+			"file": "projecteden/font/emojis/custom/snapchat.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/youtube.png",
+			"file": "projecteden/font/emojis/custom/youtube.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/twitch.png",
+			"file": "projecteden/font/emojis/custom/twitch.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/tiktok.png",
+			"file": "projecteden/font/emojis/custom/tiktok.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/discord.png",
+			"file": "projecteden/font/emojis/custom/discord.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/steam.png",
+			"file": "projecteden/font/emojis/custom/steam.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/reddit.png",
+			"file": "projecteden/font/emojis/custom/reddit.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/github.png",
+			"file": "projecteden/font/emojis/custom/github.png",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f3b5.png",
+			"file": "projecteden/font/emojis/twemoji/1f3b5.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🎵"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f3b6.png",
+			"file": "projecteden/font/emojis/twemoji/1f3b6.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🎶"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f3c5.png",
+			"file": "projecteden/font/emojis/twemoji/1f3c5.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🏅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f440.png",
+			"file": "projecteden/font/emojis/twemoji/1f440.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👀"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f446.png",
+			"file": "projecteden/font/emojis/twemoji/1f446.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👆"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f447.png",
+			"file": "projecteden/font/emojis/twemoji/1f447.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f44b.png",
+			"file": "projecteden/font/emojis/twemoji/1f44b.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👋"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f44c.png",
+			"file": "projecteden/font/emojis/twemoji/1f44c.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👌"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f44d.png",
+			"file": "projecteden/font/emojis/twemoji/1f44d.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👍"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f44e.png",
+			"file": "projecteden/font/emojis/twemoji/1f44e.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👎"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f44f.png",
+			"file": "projecteden/font/emojis/twemoji/1f44f.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👏"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f480.png",
+			"file": "projecteden/font/emojis/twemoji/1f480.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💀"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f494.png",
+			"file": "projecteden/font/emojis/twemoji/1f494.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f496.png",
+			"file": "projecteden/font/emojis/twemoji/1f496.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💖"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f4a4.png",
+			"file": "projecteden/font/emojis/twemoji/1f4a4.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💤"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f4aa.png",
+			"file": "projecteden/font/emojis/twemoji/1f4aa.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💪"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f4af.png",
+			"file": "projecteden/font/emojis/twemoji/1f4af.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💯"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f507.png",
+			"file": "projecteden/font/emojis/twemoji/1f507.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f509.png",
+			"file": "projecteden/font/emojis/twemoji/1f509.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f50a.png",
+			"file": "projecteden/font/emojis/twemoji/1f50a.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔊"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f510.png",
+			"file": "projecteden/font/emojis/twemoji/1f510.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔐"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f511.png",
+			"file": "projecteden/font/emojis/twemoji/1f511.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔑"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f512.png",
+			"file": "projecteden/font/emojis/twemoji/1f512.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔒"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f513.png",
+			"file": "projecteden/font/emojis/twemoji/1f513.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔓"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f514.png",
+			"file": "projecteden/font/emojis/twemoji/1f514.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f515.png",
+			"file": "projecteden/font/emojis/twemoji/1f515.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔕"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f517.png",
+			"file": "projecteden/font/emojis/twemoji/1f517.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔗"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f525.png",
+			"file": "projecteden/font/emojis/twemoji/1f525.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔥"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f602.png",
+			"file": "projecteden/font/emojis/twemoji/1f602.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😂"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f603.png",
+			"file": "projecteden/font/emojis/twemoji/1f603.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😃"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f605.png",
+			"file": "projecteden/font/emojis/twemoji/1f605.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f607.png",
+			"file": "projecteden/font/emojis/twemoji/1f607.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f609.png",
+			"file": "projecteden/font/emojis/twemoji/1f609.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f60a.png",
+			"file": "projecteden/font/emojis/twemoji/1f60a.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😊"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f60d.png",
+			"file": "projecteden/font/emojis/twemoji/1f60d.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😍"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f60e.png",
+			"file": "projecteden/font/emojis/twemoji/1f60e.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😎"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f610.png",
+			"file": "projecteden/font/emojis/twemoji/1f610.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😐"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f614.png",
+			"file": "projecteden/font/emojis/twemoji/1f614.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f61b.png",
+			"file": "projecteden/font/emojis/twemoji/1f61b.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😛"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f61f.png",
+			"file": "projecteden/font/emojis/twemoji/1f61f.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😟"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f621.png",
+			"file": "projecteden/font/emojis/twemoji/1f621.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😡"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f622.png",
+			"file": "projecteden/font/emojis/twemoji/1f622.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😢"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f626.png",
+			"file": "projecteden/font/emojis/twemoji/1f626.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😦"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f62c.png",
+			"file": "projecteden/font/emojis/twemoji/1f62c.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😬"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f62d.png",
+			"file": "projecteden/font/emojis/twemoji/1f62d.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😭"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f62e.png",
+			"file": "projecteden/font/emojis/twemoji/1f62e.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😮"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f642.png",
+			"file": "projecteden/font/emojis/twemoji/1f642.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙂"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f643.png",
+			"file": "projecteden/font/emojis/twemoji/1f643.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙃"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f644.png",
+			"file": "projecteden/font/emojis/twemoji/1f644.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙄"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f680.png",
+			"file": "projecteden/font/emojis/twemoji/1f680.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🚀"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f6ab.png",
+			"file": "projecteden/font/emojis/twemoji/1f6ab.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🚫"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f6d1.png",
+			"file": "projecteden/font/emojis/twemoji/1f6d1.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🛑"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f6e0.png",
+			"file": "projecteden/font/emojis/twemoji/1f6e0.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🛠"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f913.png",
+			"file": "projecteden/font/emojis/twemoji/1f913.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤓"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f914.png",
+			"file": "projecteden/font/emojis/twemoji/1f914.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f920.png",
+			"file": "projecteden/font/emojis/twemoji/1f920.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤠"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f923.png",
+			"file": "projecteden/font/emojis/twemoji/1f923.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤣"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f926.png",
+			"file": "projecteden/font/emojis/twemoji/1f926.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤦"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f92a.png",
+			"file": "projecteden/font/emojis/twemoji/1f92a.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤪"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f92f.png",
+			"file": "projecteden/font/emojis/twemoji/1f92f.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤯"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f937.png",
+			"file": "projecteden/font/emojis/twemoji/1f937.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤷"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f941.png",
+			"file": "projecteden/font/emojis/twemoji/1f941.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥁"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f947.png",
+			"file": "projecteden/font/emojis/twemoji/1f947.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f948.png",
+			"file": "projecteden/font/emojis/twemoji/1f948.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥈"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f949.png",
+			"file": "projecteden/font/emojis/twemoji/1f949.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f970.png",
+			"file": "projecteden/font/emojis/twemoji/1f970.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥰"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f973.png",
+			"file": "projecteden/font/emojis/twemoji/1f973.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥳"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f974.png",
+			"file": "projecteden/font/emojis/twemoji/1f974.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥴"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f97a.png",
+			"file": "projecteden/font/emojis/twemoji/1f97a.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥺"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/1f9d0.png",
+			"file": "projecteden/font/emojis/twemoji/1f9d0.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🧐"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2603.png",
+			"file": "projecteden/font/emojis/twemoji/2603.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["☃"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2694.png",
+			"file": "projecteden/font/emojis/twemoji/2694.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⚔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/26a0.png",
+			"file": "projecteden/font/emojis/twemoji/26a0.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⚠"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/26c4.png",
+			"file": "projecteden/font/emojis/twemoji/26c4.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛄"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/26d4.png",
+			"file": "projecteden/font/emojis/twemoji/26d4.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/26f3.png",
+			"file": "projecteden/font/emojis/twemoji/26f3.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛳"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2705.png",
+			"file": "projecteden/font/emojis/twemoji/2705.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2709.png",
+			"file": "projecteden/font/emojis/twemoji/2709.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✉"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/270c.png",
+			"file": "projecteden/font/emojis/twemoji/270c.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✌"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2744.png",
+			"file": "projecteden/font/emojis/twemoji/2744.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["❄"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/274c.png",
+			"file": "projecteden/font/emojis/twemoji/274c.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["❌"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/27a1.png",
+			"file": "projecteden/font/emojis/twemoji/27a1.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["➡"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2b05.png",
+			"file": "projecteden/font/emojis/twemoji/2b05.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬅"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2b06.png",
+			"file": "projecteden/font/emojis/twemoji/2b06.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬆"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2b07.png",
+			"file": "projecteden/font/emojis/twemoji/2b07.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬇"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/twemoji/2b50.png",
+			"file": "projecteden/font/emojis/twemoji/2b50.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⭐"]
