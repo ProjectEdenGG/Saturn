@@ -9,81 +9,81 @@
 		},
 
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-1,
-		   "chars":["ꈁ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-1,
+			"chars":["ꈁ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-2,
-		   "chars":["委"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-2,
+			"chars":["委"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-2,
-		   "chars":["麖"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-2,
+			"chars":["麖"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-3,
-		   "chars":["ꈂ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-3,
+			"chars":["ꈂ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-4,
-		   "chars":["ꈃ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-4,
+			"chars":["ꈃ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-5,
-		   "chars":["ꈄ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-5,
+			"chars":["ꈄ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-6,
-		   "chars":["ꈅ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-6,
+			"chars":["ꈅ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-7,
-		   "chars":["ꈆ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-7,
+			"chars":["ꈆ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-8,
-		   "chars":["ꈇ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-8,
+			"chars":["ꈇ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-9,
-		   "chars":["ꈈ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-9,
+			"chars":["ꈈ"]
 		},
 		{
-		   "type":"bitmap",
-		   "file":"projecteden/font/space_split.png",
-		   "ascent":-32768,
-		   "height":-10,
-		   "chars":["ꈉ"]
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-10,
+			"chars":["ꈉ"]
 		},
 
 		{
