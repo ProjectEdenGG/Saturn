@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/tripwire_hook"
-  },
-  "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "projecteden/costumes/hand/misc/pirate_hook"}
-  ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:block/tripwire_hook"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/costumes/hand/misc/pirate_hook"}
+	]
 }

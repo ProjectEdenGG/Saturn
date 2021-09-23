@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/netherite_ingot"
-  },
-  "overrides": [
-  	{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/electronics/battery"}
-  ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/netherite_ingot"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/electronics/battery"}
+	]
 }

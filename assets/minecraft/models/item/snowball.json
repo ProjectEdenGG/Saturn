@@ -3,7 +3,6 @@
 	"textures": {
 		"layer0": "item/snowball"
 	},
-	
 	"overrides": [
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/minigames/minigolf/ball_white"},
 		{"predicate": {"custom_model_data": 902}, "model": "projecteden/minigames/minigolf/ball_black"},

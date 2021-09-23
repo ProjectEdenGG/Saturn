@@ -1,11 +1,11 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/bucket"
-  },
-  "overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "projecteden/items/kitchenware/pot"},
-		{ "predicate": {"custom_model_data": 2}, "model": "projecteden/items/kitchenware/saucepan"},
-		{ "predicate": {"custom_model_data": 3}, "model": "projecteden/items/kitchenware/skillet"}
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/bucket"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/kitchenware/pot"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/kitchenware/saucepan"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/kitchenware/skillet"}
 	]
 }

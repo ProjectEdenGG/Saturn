@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/iron_shovel"
-  },
-    "overrides": [
-  	{ "predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/rusty_spoon"}
-  ]
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/iron_shovel"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/rusty_spoon"}
+	]
 }
