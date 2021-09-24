@@ -1,6 +1,13 @@
 {
   "parent": "minecraft:block/oak_leaves",
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "projecteden/events/pugmas21/wreath"}
+    {"predicate": {"custom_model_data": 1}, "model": "projecteden/events/pugmas21/wreath"},
+    {"predicate": {"custom_model_data": 2}, "model": "projecteden/events/pugmas21/garland/double"},
+    {"predicate": {"custom_model_data": 3}, "model": "projecteden/events/pugmas21/garland/triple"},
+    {"predicate": {"custom_model_data": 4}, "model": "projecteden/events/pugmas21/garland/ribbon_left"},
+    {"predicate": {"custom_model_data": 5}, "model": "projecteden/events/pugmas21/garland/left"},
+    {"predicate": {"custom_model_data": 6}, "model": "projecteden/events/pugmas21/garland/middle"},
+    {"predicate": {"custom_model_data": 7}, "model": "projecteden/events/pugmas21/garland/right"},
+    {"predicate": {"custom_model_data": 8}, "model": "projecteden/events/pugmas21/garland/ribbon_right"}
   ]
 }
