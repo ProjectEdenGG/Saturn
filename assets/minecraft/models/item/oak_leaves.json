@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/oak_leaves",
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "projecteden/events/pugmas21/wreath"}
+  ]
+}
