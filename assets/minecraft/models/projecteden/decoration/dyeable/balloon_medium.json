@@ -2,7 +2,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "projecteden/vanilla/block/lead_knot",
-		"1": "projecteden/decoration/balloons/white",
+		"1": "projecteden/decoration/dyeable/balloon",
 		"particle": "projecteden/vanilla/block/lead_knot"
 	},
 	"elements": [
