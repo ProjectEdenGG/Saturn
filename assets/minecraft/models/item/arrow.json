@@ -4,6 +4,9 @@
 		"layer0": "minecraft:item/arrow"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/events/pugmas21/candycane/red"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/events/pugmas21/candycane/green"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/events/pugmas21/candycane/blue"},
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/numbers/green/0"},
 		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/ui/numbers/green/1"},
 		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/ui/numbers/green/2"},
