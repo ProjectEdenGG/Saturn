@@ -10,7 +10,7 @@
 		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/food/candy/chocolate_bar"},
 		{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/food/candy/sugar_plums"},
 
-		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/food/cookies/cream_apriocot"},
+		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/food/cookies/cream_apricot"},
 		{"predicate": {"custom_model_data": 7}, "model": "projecteden/items/food/cookies/cream_blueberry"},
 		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/food/cookies/cream_chocolate"},
 		{"predicate": {"custom_model_data": 9}, "model": "projecteden/items/food/cookies/cream_fudge"},
