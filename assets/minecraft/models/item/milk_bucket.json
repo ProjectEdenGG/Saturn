@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/milk_bucket"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/food/ingredient/milk_carton"}
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/food/ingredients/milk_carton"}
 	]
 }
