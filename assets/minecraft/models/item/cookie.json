@@ -4,6 +4,57 @@
 		"layer0": "minecraft:item/cookie"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/food/cookie_1"}
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/food/candy/candy_apple"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/food/candy/caramel_apple"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/food/candy/candy_corn"},
+		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/food/candy/chocolate_bar"},
+		{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/food/candy/sugar_plums"},
+
+		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/food/cookies/cream_apriocot"},
+		{"predicate": {"custom_model_data": 7}, "model": "projecteden/items/food/cookies/cream_blueberry"},
+		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/food/cookies/cream_chocolate"},
+		{"predicate": {"custom_model_data": 9}, "model": "projecteden/items/food/cookies/cream_fudge"},
+		{"predicate": {"custom_model_data": 10}, "model": "projecteden/items/food/cookies/cream_raspberry"},
+		{"predicate": {"custom_model_data": 11}, "model": "projecteden/items/food/cookies/cream_vanilla"},
+		{"predicate": {"custom_model_data": 12}, "model": "projecteden/items/food/cookies/ginger_steve"},
+		{"predicate": {"custom_model_data": 13}, "model": "projecteden/items/food/cookies/ginger_alex"},
+		{"predicate": {"custom_model_data": 14}, "model": "projecteden/items/food/cookies/ginger_creeper"},
+		{"predicate": {"custom_model_data": 15}, "model": "projecteden/items/food/cookies/macaron_blueberry"},
+		{"predicate": {"custom_model_data": 16}, "model": "projecteden/items/food/cookies/macaron_chocolate"},
+		{"predicate": {"custom_model_data": 17}, "model": "projecteden/items/food/cookies/macaron_coffee"},
+		{"predicate": {"custom_model_data": 18}, "model": "projecteden/items/food/cookies/macaron_lavender"},
+		{"predicate": {"custom_model_data": 19}, "model": "projecteden/items/food/cookies/macaron_lemon"},
+		{"predicate": {"custom_model_data": 20}, "model": "projecteden/items/food/cookies/macaron_pistachio"},
+		{"predicate": {"custom_model_data": 21}, "model": "projecteden/items/food/cookies/macaron_strawberry"},
+		{"predicate": {"custom_model_data": 22}, "model": "projecteden/items/food/cookies/macaron_vanilla"},
+		{"predicate": {"custom_model_data": 23}, "model": "projecteden/items/food/cookies/wafer_chocolate"},
+		{"predicate": {"custom_model_data": 24}, "model": "projecteden/items/food/cookies/wafer_strawberry"},
+		{"predicate": {"custom_model_data": 25}, "model": "projecteden/items/food/cookies/wafer_vanilla"},
+		{"predicate": {"custom_model_data": 26}, "model": "projecteden/items/food/cookies/chocolate"},
+		{"predicate": {"custom_model_data": 27}, "model": "projecteden/items/food/cookies/double_chocolate"},
+		{"predicate": {"custom_model_data": 28}, "model": "projecteden/items/food/cookies/oatmeal"},
+		{"predicate": {"custom_model_data": 29}, "model": "projecteden/items/food/cookies/peanut"},
+		{"predicate": {"custom_model_data": 30}, "model": "projecteden/items/food/cookies/red_velvet"},
+
+		{"predicate": {"custom_model_data": 31}, "model": "projecteden/items/food/donuts/boston_cream"},
+		{"predicate": {"custom_model_data": 32}, "model": "projecteden/items/food/donuts/chocolate"},
+		{"predicate": {"custom_model_data": 33}, "model": "projecteden/items/food/donuts/chocolate_glaze"},
+		{"predicate": {"custom_model_data": 34}, "model": "projecteden/items/food/donuts/jelly"},
+		{"predicate": {"custom_model_data": 35}, "model": "projecteden/items/food/donuts/maple_cream"},
+		{"predicate": {"custom_model_data": 36}, "model": "projecteden/items/food/donuts/maple_glaze"},
+		{"predicate": {"custom_model_data": 37}, "model": "projecteden/items/food/donuts/powdered"},
+		{"predicate": {"custom_model_data": 38}, "model": "projecteden/items/food/donuts/sprinkles"},
+		{"predicate": {"custom_model_data": 39}, "model": "projecteden/items/food/donuts/vanilla"},
+
+		{"predicate": {"custom_model_data": 40}, "model": "projecteden/items/food/drinks/eggnog"},
+		{"predicate": {"custom_model_data": 41}, "model": "projecteden/items/food/drinks/hot_chocolate"},
+		{"predicate": {"custom_model_data": 42}, "model": "projecteden/items/food/drinks/milkshake_chocolate"},
+		{"predicate": {"custom_model_data": 43}, "model": "projecteden/items/food/drinks/milkshake_strawberry"},
+		{"predicate": {"custom_model_data": 44}, "model": "projecteden/items/food/drinks/milkshake_vanilla"},
+
+		{"predicate": {"custom_model_data": 45}, "model": "projecteden/items/food/icecream/chocolate"},
+		{"predicate": {"custom_model_data": 46}, "model": "projecteden/items/food/icecream/strawberry"},
+		{"predicate": {"custom_model_data": 47}, "model": "projecteden/items/food/icecream/vanilla"},
+		{"predicate": {"custom_model_data": 48}, "model": "projecteden/items/food/icecream/neapolitan"}
 	]
 }

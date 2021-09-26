@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pumpkin_pie"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "projecteden/items/food/cakes/brownie"},
+    {"predicate": {"custom_model_data": 2}, "model": "projecteden/items/food/cakes/christmas_pudding"},
+    {"predicate": {"custom_model_data": 3}, "model": "projecteden/items/food/cakes/double_chocolate"},
+    {"predicate": {"custom_model_data": 4}, "model": "projecteden/items/food/cakes/fruitcake"},
+    {"predicate": {"custom_model_data": 5}, "model": "projecteden/items/food/cakes/trifle"},
+
+    {"predicate": {"custom_model_data": 6}, "model": "projecteden/items/food/pies/apple"},
+    {"predicate": {"custom_model_data": 7}, "model": "projecteden/items/food/pies/banana"},
+    {"predicate": {"custom_model_data": 8}, "model": "projecteden/items/food/pies/blueberry"},
+    {"predicate": {"custom_model_data": 9}, "model": "projecteden/items/food/pies/butterscotch"},
+    {"predicate": {"custom_model_data": 10}, "model": "projecteden/items/food/pies/chocolate"},
+    {"predicate": {"custom_model_data": 11}, "model": "projecteden/items/food/pies/lemon"},
+    {"predicate": {"custom_model_data": 12}, "model": "projecteden/items/food/pies/lime"},
+    {"predicate": {"custom_model_data": 13}, "model": "projecteden/items/food/pies/pecan"},
+    {"predicate": {"custom_model_data": 14}, "model": "projecteden/items/food/pies/raspberry"},
+    {"predicate": {"custom_model_data": 15}, "model": "projecteden/items/food/pies/rhubarb"},
+    {"predicate": {"custom_model_data": 16}, "model": "projecteden/items/food/pies/sweet_potato"}
+  ]
+}
