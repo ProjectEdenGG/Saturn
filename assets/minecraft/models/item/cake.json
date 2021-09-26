@@ -5,7 +5,6 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/trophies/bearfair21_cake"},
-		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/food/cake_double_chocolate"},
 		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/food/cake_triple"}
 	]
 }
