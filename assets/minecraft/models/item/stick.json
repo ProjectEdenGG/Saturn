@@ -55,6 +55,6 @@
 		{"predicate": {"custom_model_data": 49}, "model": "projecteden/events/pugmas21/candycane/cannon"},
 		{"predicate": {"custom_model_data": 50}, "model": "projecteden/events/pugmas21/candycane/red"},
 		{"predicate": {"custom_model_data": 51}, "model": "projecteden/events/pugmas21/candycane/green"},
-		{"predicate": {"custom_model_data": 52}, "model": "projecteden/events/pugmas21/candycane/blue"}
+		{"predicate": {"custom_model_data": 52}, "model": "projecteden/events/pugmas21/candycane/yellow"}
 	]
 }
