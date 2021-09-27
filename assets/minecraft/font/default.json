@@ -102,7 +102,7 @@
 
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/old_logo.png",
+			"file": "projecteden/font/emojis/custom/logo.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [""]
@@ -183,6 +183,13 @@
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/spotify.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
