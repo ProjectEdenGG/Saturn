@@ -1,7 +1,6 @@
 {
 	"textures": {
-		"0": "projecteden/decorationprojecteden/decoration/potions",
-		"particle": "projecteden/decoration/potions"
+		"0": "projecteden/decoration/potions"
 	},
 	"elements": [
 		{
@@ -395,20 +394,24 @@
 		{
 			"name": "potion",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "cork",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [0, 1, 2]
 				},
 				{
 					"name": "glass",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
 				},
 				{
 					"name": "liquid",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [28, 29, 30]
 				}
 			]
