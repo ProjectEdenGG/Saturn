@@ -323,5 +323,15 @@
       "sounds": [
          "custom/ambient/birds/wren_1"
       ]
+   },
+   "custom.train.chug": {
+      "sounds": [
+         "custom/train/chug"
+      ]
+   },
+   "custom.train.whistle": {
+      "sounds": [
+         "custom/train/whistle"
+      ]
    }
 }

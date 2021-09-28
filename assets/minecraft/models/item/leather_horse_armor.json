@@ -9,6 +9,13 @@
 		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/dyeable/balloon_short"},
 		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/dyeable/balloon_medium"},
 		{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/dyeable/balloon_tall"},
-		{"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/dyeable/potion_medium_3"}
+		{"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/dyeable/potions/medium_1"},
+		{"predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/dyeable/potions/medium_2"},
+		{"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/dyeable/potions/medium_3"},
+		{"predicate": {"custom_model_data": 9}, "model": "projecteden/decoration/dyeable/potions/medium_4"},
+		{"predicate": {"custom_model_data": 10}, "model": "projecteden/decoration/dyeable/potions/medium_5"},
+		{"predicate": {"custom_model_data": 11}, "model": "projecteden/decoration/dyeable/potions/small_1"},
+		{"predicate": {"custom_model_data": 12}, "model": "projecteden/decoration/dyeable/potions/small_2"},
+		{"predicate": {"custom_model_data": 13}, "model": "projecteden/decoration/dyeable/potions/small_3"}
 	]
 }
