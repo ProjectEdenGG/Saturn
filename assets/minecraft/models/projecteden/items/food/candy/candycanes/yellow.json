@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "projecteden/events/pugmas21/candycane/green"
+		"layer0": "projecteden/items/food/candy/candycanes/yellow"
 	},
 	"gui_light": "front",
 	"display": {

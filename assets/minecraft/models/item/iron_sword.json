@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/kitchenware/cuttingboard"},
-		{"predicate": {"custom_model_data": 2}, "model": "projecteden/events/pugmas21/candycane/red"}
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/weapons/candycane"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/weapons/christmas_tree"}
 	]
 }

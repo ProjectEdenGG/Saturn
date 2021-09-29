@@ -10,9 +10,6 @@
 		{"predicate": {"custom_model_data": 46}, "model": "projecteden/decoration/balloons/group_3"},
 		{"predicate": {"custom_model_data": 47}, "model": "projecteden/events/bearfair21/fishingloot/driftwood"},
 		{"predicate": {"custom_model_data": 48}, "model": "projecteden/events/pugmas21/train/crossing"},
-		{"predicate": {"custom_model_data": 49}, "model": "projecteden/events/pugmas21/candycane/cannon"},
-		{"predicate": {"custom_model_data": 50}, "model": "projecteden/events/pugmas21/candycane/red"},
-		{"predicate": {"custom_model_data": 51}, "model": "projecteden/events/pugmas21/candycane/green"},
-		{"predicate": {"custom_model_data": 52}, "model": "projecteden/events/pugmas21/candycane/yellow"}
+		{"predicate": {"custom_model_data": 49}, "model": "projecteden/events/pugmas21/candycane/cannon"}
 	]
 }
