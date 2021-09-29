@@ -189,7 +189,7 @@
 			"scale": [0.37, 0.37, 0.37]
 		},
 		"head": {
-			"translation": [16, 48, -24.75],
+			"translation": [16, 21, 16],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {

@@ -9,7 +9,6 @@
 		{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/food/candy/candy_corn"},
 		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/food/candy/chocolate_bar"},
 		{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/food/candy/sugar_plums"},
-
 		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/food/cookies/cream_apricot"},
 		{"predicate": {"custom_model_data": 7}, "model": "projecteden/items/food/cookies/cream_blueberry"},
 		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/food/cookies/cream_chocolate"},
@@ -35,7 +34,6 @@
 		{"predicate": {"custom_model_data": 28}, "model": "projecteden/items/food/cookies/oatmeal"},
 		{"predicate": {"custom_model_data": 29}, "model": "projecteden/items/food/cookies/peanut"},
 		{"predicate": {"custom_model_data": 30}, "model": "projecteden/items/food/cookies/red_velvet"},
-
 		{"predicate": {"custom_model_data": 31}, "model": "projecteden/items/food/donuts/boston_cream"},
 		{"predicate": {"custom_model_data": 32}, "model": "projecteden/items/food/donuts/chocolate"},
 		{"predicate": {"custom_model_data": 33}, "model": "projecteden/items/food/donuts/chocolate_glaze"},
@@ -45,16 +43,18 @@
 		{"predicate": {"custom_model_data": 37}, "model": "projecteden/items/food/donuts/powdered"},
 		{"predicate": {"custom_model_data": 38}, "model": "projecteden/items/food/donuts/sprinkles"},
 		{"predicate": {"custom_model_data": 39}, "model": "projecteden/items/food/donuts/vanilla"},
-
 		{"predicate": {"custom_model_data": 40}, "model": "projecteden/items/food/drinks/eggnog"},
 		{"predicate": {"custom_model_data": 41}, "model": "projecteden/items/food/drinks/hot_chocolate"},
 		{"predicate": {"custom_model_data": 42}, "model": "projecteden/items/food/drinks/milkshake_chocolate"},
 		{"predicate": {"custom_model_data": 43}, "model": "projecteden/items/food/drinks/milkshake_strawberry"},
 		{"predicate": {"custom_model_data": 44}, "model": "projecteden/items/food/drinks/milkshake_vanilla"},
-
 		{"predicate": {"custom_model_data": 45}, "model": "projecteden/items/food/icecream/chocolate"},
 		{"predicate": {"custom_model_data": 46}, "model": "projecteden/items/food/icecream/strawberry"},
 		{"predicate": {"custom_model_data": 47}, "model": "projecteden/items/food/icecream/vanilla"},
-		{"predicate": {"custom_model_data": 48}, "model": "projecteden/items/food/icecream/neapolitan"}
+		{"predicate": {"custom_model_data": 48}, "model": "projecteden/items/food/icecream/neapolitan"},
+
+		{"predicate": {"custom_model_data": 100}, "model": "projecteden/items/food/candy/candycanes/red"},
+		{"predicate": {"custom_model_data": 101}, "model": "projecteden/items/food/candy/candycanes/green"},
+		{"predicate": {"custom_model_data": 102}, "model": "projecteden/items/food/candy/candycanes/yellow"}
 	]
 }

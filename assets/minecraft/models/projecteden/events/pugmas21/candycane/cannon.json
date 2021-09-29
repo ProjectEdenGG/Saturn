@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "projecteden/events/pugmas21/candycane/cannon",
-		"particle": "projecteden/events/pugmas21/candycane/cannon"
+		"0": "projecteden/events/pugmas21/cannon",
+		"particle": "projecteden/events/pugmas21/cannon"
 	},
 	"elements": [
 		{
