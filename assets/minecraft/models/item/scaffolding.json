@@ -5,9 +5,10 @@
     {"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/tables/corner_2"},
     {"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/tables/corner_3"},
     {"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/tables/corner_4"},
-    {"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/tables/double"},
-    {"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/tables/single"},
-    {"predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/tables/middle"},
-    {"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/tables/center"}
+    {"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/tables/middle"},
+    {"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/tables/center"},
+    {"predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/tables/1x1"},
+    {"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/tables/1x2"},
+    {"predicate": {"custom_model_data": 9}, "model": "projecteden/decoration/tables/2x2"}
   ]
 }
