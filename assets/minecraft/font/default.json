@@ -196,56 +196,97 @@
 			"file": "projecteden/font/emojis/custom/presence_active.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
-		},
-		{
+			"chars": [""]
+		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_afk.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
-		},
-		{
+			"chars": [""]
+		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_dnd.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
-		},
-		{
+			"chars": [""]
+		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_dnd_afk.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
-		},
-		{
+			"chars": [""]
+		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
-		},
-		{
+			"chars": [""]
+		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live_afk.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
-		},
-		{
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_live_dnd.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_live_dnd_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
-		},
-		{
+			"chars": [""]
+		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_afk.png",
 			"height": 8,
 			"ascent": 8,
-			"chars": [""]
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished_dnd.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished_live.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished_live_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
