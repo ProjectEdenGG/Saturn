@@ -193,6 +193,62 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_active.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_dnd.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_dnd_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_live.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_live_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/presence_vanished_afk.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/musical_note.png",
 			"height": 7,
 			"ascent": 7,
