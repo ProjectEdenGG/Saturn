@@ -264,14 +264,14 @@
 		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd.png",
-			"discordId": "892994697214173236",
+			"discordId": "893253380716261416",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
 		},		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_afk.png",
-			"discordId": "892994697449070642",
+			"discordId": "893253380124868630",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
