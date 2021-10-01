@@ -198,105 +198,120 @@
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_afk.png",
 			"discordId": "892994697738453012",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_dnd.png",
 			"discordId": "892994697650393108",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_dnd_afk.png",
 			"discordId": "892994697646198804",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live.png",
 			"discordId": "892994697453244467",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live_afk.png",
 			"discordId": "892994697570684969",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live_dnd.png",
 			"discordId": "892994697532944464",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live_dnd_afk.png",
 			"discordId": "892994697184825365",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished.png",
 			"discordId": "892994697570684968",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_afk.png",
 			"discordId": "892994697532932106",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd.png",
 			"discordId": "893253380716261416",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_afk.png",
 			"discordId": "893253380124868630",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live.png",
 			"discordId": "892994697214173237",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live_afk.png",
 			"discordId": "892994697453244466",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_live.png",
 			"discordId": "892994697457455114",
 			"height": 8,
 			"ascent": 8,
 			"chars": [""]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_live_afk.png",
 			"discordId": "892994697449046016",
@@ -307,6 +322,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/musical_note.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🎵"]
@@ -314,6 +330,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/notes.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🎶"]
@@ -321,6 +338,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/sports_medal.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🏅"]
@@ -328,6 +346,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/eyes.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👀"]
@@ -335,6 +354,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/point_up.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👆"]
@@ -342,6 +362,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/point_down.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👇"]
@@ -349,6 +370,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/wave.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👋"]
@@ -356,6 +378,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/ok_hand.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👌"]
@@ -363,6 +386,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/+1.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👍"]
@@ -370,6 +394,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/-1.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👎"]
@@ -377,6 +402,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/clap.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["👏"]
@@ -384,6 +410,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/skull.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💀"]
@@ -391,6 +418,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/broken_heart.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💔"]
@@ -398,6 +426,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/sparkling_heart.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💖"]
@@ -405,6 +434,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/zzz.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💤"]
@@ -412,6 +442,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/muscle.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💪"]
@@ -419,6 +450,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/100.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["💯"]
@@ -426,6 +458,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/mute.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔇"]
@@ -433,6 +466,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/sound.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔉"]
@@ -440,6 +474,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/loud_sound.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔊"]
@@ -447,6 +482,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/closed_lock_with_key.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔐"]
@@ -454,6 +490,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/key.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔑"]
@@ -461,6 +498,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/lock.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔒"]
@@ -468,6 +506,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/unlock.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔓"]
@@ -475,6 +514,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/bell.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔔"]
@@ -482,6 +522,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/no_bell.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔕"]
@@ -489,6 +530,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/link.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔗"]
@@ -496,6 +538,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/fire.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🔥"]
@@ -503,6 +546,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/joy.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😂"]
@@ -510,6 +554,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/smiley.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😃"]
@@ -517,6 +562,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/sweat_smile.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😅"]
@@ -524,6 +570,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/innocent.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😇"]
@@ -531,6 +578,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/wink.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😉"]
@@ -538,6 +586,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/blush.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😊"]
@@ -545,6 +594,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/heart_eyes.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😍"]
@@ -552,6 +602,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/sunglasses.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😎"]
@@ -559,6 +610,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/neutral_face.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😐"]
@@ -566,6 +618,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/pensive.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😔"]
@@ -573,6 +626,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/stuck_out_tongue.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😛"]
@@ -580,6 +634,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/worried.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😟"]
@@ -587,6 +642,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/rage.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😡"]
@@ -594,6 +650,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/cry.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😢"]
@@ -601,6 +658,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/frowning.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😦"]
@@ -608,6 +666,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/grimacing.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😬"]
@@ -615,6 +674,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/sob.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😭"]
@@ -622,6 +682,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/open_mouth.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["😮"]
@@ -629,6 +690,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/slightly_smiling.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙂"]
@@ -636,6 +698,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/upside_down.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙃"]
@@ -643,6 +706,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/eye_roll.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🙄"]
@@ -650,6 +714,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/rocket.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🚀"]
@@ -657,6 +722,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/no_entry_sign.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🚫"]
@@ -664,6 +730,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/octagonal_sign.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🛑"]
@@ -671,6 +738,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/hammer_and_wrench.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🛠"]
@@ -678,6 +746,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/nerd.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤓"]
@@ -685,6 +754,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/thinking.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤔"]
@@ -692,6 +762,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/face_with_cowboy_hat.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤠"]
@@ -699,6 +770,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/rolling_on_the_floor_laughing.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤣"]
@@ -706,6 +778,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/face_palm.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤦"]
@@ -713,6 +786,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/zany_face.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤪"]
@@ -720,6 +794,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/exploding_head.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤯"]
@@ -727,6 +802,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/shrug.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🤷"]
@@ -734,6 +810,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/drum_with_drumsticks.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥁"]
@@ -741,6 +818,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/first_place_medal.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥇"]
@@ -748,6 +826,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/second_place_medal.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥈"]
@@ -755,6 +834,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/third_place_medal.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥉"]
@@ -762,6 +842,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/smiling_face_with_hearts.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥰"]
@@ -769,6 +850,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/partying_face.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥳"]
@@ -776,6 +858,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/woozy_face.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥴"]
@@ -783,6 +866,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/pleading_face.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🥺"]
@@ -790,6 +874,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/face_with_monocle.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["🧐"]
@@ -797,6 +882,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/snowman_with_snow.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["☃"]
@@ -804,6 +890,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/crossed_swords.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⚔"]
@@ -811,6 +898,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/warning.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⚠"]
@@ -818,6 +906,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/snowman.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛄"]
@@ -825,6 +914,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/no_entry.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛔"]
@@ -832,6 +922,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/golf.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⛳"]
@@ -839,6 +930,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/white_check_mark.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✅"]
@@ -846,6 +938,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/email.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✉"]
@@ -853,6 +946,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/v.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["✌"]
@@ -860,6 +954,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/snowflake.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["❄"]
@@ -867,6 +962,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/x.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["❌"]
@@ -874,6 +970,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/arrow_right.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["➡"]
@@ -881,6 +978,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/arrow_left.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬅"]
@@ -888,6 +986,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/arrow_up.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬆"]
@@ -895,6 +994,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/arrow_down.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⬇"]
@@ -902,6 +1002,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/star.png",
+			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⭐"]
