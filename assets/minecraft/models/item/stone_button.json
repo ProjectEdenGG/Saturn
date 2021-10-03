@@ -144,6 +144,26 @@
 		{"predicate": {"custom_model_data": 814}, "model": "projecteden/costumes/hat/disney/pooh"},
 		{"predicate": {"custom_model_data": 815}, "model": "projecteden/costumes/hat/disney/stitch"},
 		{"predicate": {"custom_model_data": 816}, "model": "projecteden/costumes/hat/disney/tigerlily"},
-		{"predicate": {"custom_model_data": 817}, "model": "projecteden/costumes/hat/disney/yoda_ears"}
+		{"predicate": {"custom_model_data": 817}, "model": "projecteden/costumes/hat/disney/yoda_ears"},
+		{"predicate": {"custom_model_data": 900}, "model": "projecteden/costumes/exclusive/hat/pumpkins/axolotl"},
+		{"predicate": {"custom_model_data": 901}, "model": "projecteden/costumes/exclusive/hat/pumpkins/bee"},
+		{"predicate": {"custom_model_data": 902}, "model": "projecteden/costumes/exclusive/hat/pumpkins/bigsmile"},
+		{"predicate": {"custom_model_data": 903}, "model": "projecteden/costumes/exclusive/hat/pumpkins/cat"},
+		{"predicate": {"custom_model_data": 904}, "model": "projecteden/costumes/exclusive/hat/pumpkins/creeper"},
+		{"predicate": {"custom_model_data": 905}, "model": "projecteden/costumes/exclusive/hat/pumpkins/creepy"},
+		{"predicate": {"custom_model_data": 906}, "model": "projecteden/costumes/exclusive/hat/pumpkins/face"},
+		{"predicate": {"custom_model_data": 907}, "model": "projecteden/costumes/exclusive/hat/pumpkins/flat"},
+		{"predicate": {"custom_model_data": 908}, "model": "projecteden/costumes/exclusive/hat/pumpkins/ghost"},
+		{"predicate": {"custom_model_data": 909}, "model": "projecteden/costumes/exclusive/hat/pumpkins/grinch"},
+		{"predicate": {"custom_model_data": 910}, "model": "projecteden/costumes/exclusive/hat/pumpkins/happy"},
+		{"predicate": {"custom_model_data": 911}, "model": "projecteden/costumes/exclusive/hat/pumpkins/heart"},
+		{"predicate": {"custom_model_data": 912}, "model": "projecteden/costumes/exclusive/hat/pumpkins/herobrine"},
+		{"predicate": {"custom_model_data": 913}, "model": "projecteden/costumes/exclusive/hat/pumpkins/observer"},
+		{"predicate": {"custom_model_data": 914}, "model": "projecteden/costumes/exclusive/hat/pumpkins/silly"},
+		{"predicate": {"custom_model_data": 915}, "model": "projecteden/costumes/exclusive/hat/pumpkins/slime"},
+		{"predicate": {"custom_model_data": 916}, "model": "projecteden/costumes/exclusive/hat/pumpkins/steve"},
+		{"predicate": {"custom_model_data": 917}, "model": "projecteden/costumes/exclusive/hat/pumpkins/sunglasses"},
+		{"predicate": {"custom_model_data": 918}, "model": "projecteden/costumes/exclusive/hat/pumpkins/toothy"},
+		{"predicate": {"custom_model_data": 919}, "model": "projecteden/costumes/exclusive/hat/pumpkins/upsidedown"}
 	]
 }
