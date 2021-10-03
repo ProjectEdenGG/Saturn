@@ -147,7 +147,7 @@
 		{"predicate": {"custom_model_data": 817}, "model": "projecteden/costumes/hat/disney/yoda_ears"},
 		{"predicate": {"custom_model_data": 900}, "model": "projecteden/costumes/exclusive/hat/pumpkins/axolotl"},
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/costumes/exclusive/hat/pumpkins/bee"},
-		{"predicate": {"custom_model_data": 902}, "model": "projecteden/costumes/exclusive/hat/pumpkins/bigsmile"},
+		{"predicate": {"custom_model_data": 902}, "model": "projecteden/costumes/exclusive/hat/pumpkins/sans"},
 		{"predicate": {"custom_model_data": 903}, "model": "projecteden/costumes/exclusive/hat/pumpkins/cat"},
 		{"predicate": {"custom_model_data": 904}, "model": "projecteden/costumes/exclusive/hat/pumpkins/creeper"},
 		{"predicate": {"custom_model_data": 905}, "model": "projecteden/costumes/exclusive/hat/pumpkins/creepy"},
