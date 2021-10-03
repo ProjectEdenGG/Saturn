@@ -102,6 +102,7 @@
 		{"predicate": {"custom_model_data": 217}, "model": "projecteden/costumes/hat/misc/santa"},
 		{"predicate": {"custom_model_data": 218}, "model": "projecteden/costumes/hat/misc/mushroom"},
 		{"predicate": {"custom_model_data": 219}, "model": "projecteden/costumes/hat/misc/groucho"},
+		{"predicate": {"custom_model_data": 220}, "model": "projecteden/costumes/hat/misc/walrus"},
 		{"predicate": {"custom_model_data": 300}, "model": "projecteden/costumes/hat/amongus/red"},
 		{"predicate": {"custom_model_data": 301}, "model": "projecteden/costumes/hat/amongus/orange"},
 		{"predicate": {"custom_model_data": 302}, "model": "projecteden/costumes/hat/amongus/yellow"},
