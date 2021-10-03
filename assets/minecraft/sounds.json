@@ -325,13 +325,22 @@
       ]
    },
    "custom.train.chug": {
+      "subtitle": "Train chugs",
       "sounds": [
          "custom/train/chug"
       ]
    },
    "custom.train.whistle": {
+      "subtitle": "Train whistles",
       "sounds": [
          "custom/train/whistle"
+      ]
+   },
+   "custom.misc.party_horn": {
+      "subtitle": "Party Horn blows",
+      "sounds": [
+         "custom/misc/party_horn_1",
+         "custom/misc/party_horn_2"
       ]
    }
 }
