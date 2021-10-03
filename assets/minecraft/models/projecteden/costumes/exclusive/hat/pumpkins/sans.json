@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "projecteden/vanilla/block/pumpkin_side",
 		"1": "projecteden/vanilla/block/pumpkin_top",
-		"2": "projecteden/costumes/pumpkins/bigsmile",
+		"2": "projecteden/costumes/pumpkins/sans",
 		"particle": "projecteden/vanilla/block/pumpkin_side"
 	},
 	"elements": [
