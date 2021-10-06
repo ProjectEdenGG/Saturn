@@ -1,7 +1,7 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "projecteden/decoration/entity/elves/1"
+		"1": "projecteden/decoration/christmas/elves/1"
 	},
 	"elements": [
 		{
