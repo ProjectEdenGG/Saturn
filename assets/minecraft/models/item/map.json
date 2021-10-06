@@ -12,7 +12,7 @@
 		{"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/icon"},
 		{"predicate": {"custom_model_data": 7}, "model": "projecteden/costumes/icon"},
 		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/icon"},
-		{"predicate": {"custom_model_data": 9}, "model": "projecteden/decoration/chirstmas/icon"},
+		{"predicate": {"custom_model_data": 9}, "model": "projecteden/decoration/christmas/icon"},
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/100"}
 	]
 }
