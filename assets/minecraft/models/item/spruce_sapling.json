@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/spruce_sapling"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/christmas/tree/color"},
+    {"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/christmas/tree/white"}
+  ]
+}
