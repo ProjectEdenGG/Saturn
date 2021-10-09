@@ -5,6 +5,8 @@
 		"layer1": "item/leather_boots_overlay"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/old_boots"}
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/old_boots"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/christmas/stockings_single"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/christmas/stockings_double"}
 	]
 }

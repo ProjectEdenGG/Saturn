@@ -59,6 +59,9 @@
 		{"predicate": {"custom_model_data": 505}, "model": "projecteden/decoration/flags/bunting/color/5"},
 		{"predicate": {"custom_model_data": 506}, "model": "projecteden/decoration/flags/bunting/color/6"},
 		{"predicate": {"custom_model_data": 507}, "model": "projecteden/decoration/flags/bunting/color/7"},
-		{"predicate": {"custom_model_data": 508}, "model": "projecteden/decoration/flags/bunting/color/8"}
+		{"predicate": {"custom_model_data": 508}, "model": "projecteden/decoration/flags/bunting/color/8"},
+		{"predicate": {"custom_model_data": 601}, "model": "projecteden/decoration/flags/bunting/phrases/happy_holidays"},
+		{"predicate": {"custom_model_data": 602}, "model": "projecteden/decoration/flags/bunting/phrases/happy_new_year"},
+		{"predicate": {"custom_model_data": 603}, "model": "projecteden/decoration/flags/bunting/phrases/merry_christmas"}
 	]
 }

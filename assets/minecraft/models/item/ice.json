@@ -4,6 +4,13 @@
 		"layer0": "minecraft:item/ice"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/icicle_small"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/icicle_large"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/icicle_multi"},
+		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/christmas/iciclelight_center"},
+		{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/christmas/iciclelight_left"},
+		{"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/christmas/iciclelight_right"},
+
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/minigames/amongus/upload"},
 		{"predicate": {"custom_model_data": 902}, "model": "projecteden/minigames/amongus/divertpower"},
 		{"predicate": {"custom_model_data": 903}, "model": "projecteden/minigames/amongus/card"},
