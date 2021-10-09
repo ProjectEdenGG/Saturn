@@ -4,7 +4,8 @@
     "layer0": "minecraft:block/spruce_sapling"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/christmas/tree/color"},
-    {"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/christmas/tree/white"}
+    {"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/christmas/tree_color"},
+    {"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/christmas/tree_white"},
+    {"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/christmas/mistletoe"}
   ]
 }
