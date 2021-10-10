@@ -4,8 +4,8 @@
 		"1": "projecteden/ghoulcraft/light_gray_concrete",
 		"2": "projecteden/ghoulcraft/black_concrete_powder",
 		"3": "projecteden/ghoulcraft/apple",
-		"5": "projecteden/decoration/electornics/total",
-		"6": "projecteden/decoration/electornics/registerscreen",
+		"5": "projecteden/decoration/electronics/total",
+		"6": "projecteden/decoration/electronics/registerscreen",
 		"7": "projecteden/ghoulcraft/book_and_quill",
 		"particle": "projecteden/ghoulcraft/iron_ingot"
 	},
@@ -719,26 +719,31 @@
 		{
 			"name": "Keyboard",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		},
 		{
 			"name": "Drawer",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [9, 10, 11]
 		},
 		{
 			"name": "Monitor",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 		},
 		{
 			"name": "Price",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [27, 28, 29, 30, 31, 32, 33, 34]
 		},
 		{
 			"name": "Reciept Printer",
 			"origin": [8.00092, 1.41579, 3.79584],
+			"color": 0,
 			"children": [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
 		}, 48, 49, 50, 51]
 }

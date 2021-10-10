@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"0": "projecteden/decoration/electornics/phone",
+		"0": "projecteden/decoration/electronics/phone",
 		"1": "projecteden/ghoulcraft/redstone_block",
-		"particle": "projecteden/decoration/electornics/phone"
+		"particle": "projecteden/decoration/electronics/phone"
 	},
 	"elements": [
 		{
@@ -604,25 +604,30 @@
 		{
 			"name": "Rotary Phone",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "Base",
 					"origin": [13, 9, 18],
+					"color": 0,
 					"children": [0, 1, 2, 3, 4, 5]
 				},
 				{
 					"name": "Cord",
 					"origin": [14.44597, 0.75, 6.08426],
+					"color": 0,
 					"children": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
 				},
 				{
 					"name": "Numbers",
 					"origin": [8.25, 3.25004, 3.18642],
+					"color": 0,
 					"children": [35, 36, 37, 38]
 				},
 				{
 					"name": "Earpiece",
 					"origin": [3.9, 7.1, 18.1],
+					"color": 0,
 					"children": [39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]
 				}
 			]
