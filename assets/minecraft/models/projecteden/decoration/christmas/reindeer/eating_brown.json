@@ -5,19 +5,6 @@
 	},
 	"elements": [
 		{
-			"from": [20.7712, 3.67449, 5.60073],
-			"to": [24.7712, 7.92449, 10.44448],
-			"rotation": {"angle": 0, "axis": "z", "origin": [22.7712, 5.79949, 8.0226]},
-			"faces": {
-				"north": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
-				"east": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
-				"south": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
-				"west": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
-				"up": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"}
-			}
-		},
-		{
 			"from": [13.6149, -3.08239, 5.1476],
 			"to": [15.6149, -2.08239, 6.88979],
 			"rotation": {"angle": 0, "axis": "z", "origin": [9.07162, -0.78629, 8.00698]},
@@ -225,7 +212,6 @@
 			}
 		},
 		{
-			"name": "Tail",
 			"from": [1.38969, 9.07716, 7.00698],
 			"to": [4.38969, 14.07716, 9.00698],
 			"rotation": {"angle": 45, "axis": "z", "origin": [2.88969, 9.57716, 8.00698]},
@@ -269,21 +255,22 @@
 				"north": {"uv": [0, 2, 2.5, 4], "texture": "#1"},
 				"east": {"uv": [5, 0, 6.75, 2], "rotation": 180, "texture": "#1"},
 				"south": {"uv": [0, 0, 2.5, 2], "texture": "#1"},
+				"west": {"uv": [2.75, 0.25, 4.25, 1.5], "texture": "#1"},
 				"up": {"uv": [2.5, 0, 4, 1.5], "rotation": 90, "texture": "#1"},
 				"down": {"uv": [5, 0, 6.75, 2], "rotation": 90, "texture": "#1"}
 			}
 		},
 		{
-			"from": [22.92559, 2.92343, 5.00093],
-			"to": [28.32559, 7.24343, 11.03003],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [25.35559, 5.08343, 8.01548]},
+			"from": [20.7712, 3.67449, 5.60073],
+			"to": [24.7712, 7.92449, 10.44448],
+			"rotation": {"angle": 0, "axis": "z", "origin": [22.7712, 5.79949, 8.0226]},
 			"faces": {
-				"north": {"uv": [6.75, 2, 7.75, 3.25], "rotation": 90, "texture": "#1"},
-				"east": {"uv": [6.75, 3.25, 8.25, 4.25], "texture": "#1"},
-				"south": {"uv": [7.75, 2, 8.75, 3.25], "rotation": 270, "texture": "#1"},
-				"west": {"uv": [3, 0, 4, 1.5], "rotation": 270, "texture": "#1"},
-				"up": {"uv": [6.75, 4.25, 8.25, 5.5], "rotation": 270, "texture": "#1"},
-				"down": {"uv": [6.75, 4.25, 8.25, 5.5], "rotation": 270, "texture": "#1"}
+				"north": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0.5, 0, 1.5, 1], "rotation": 90, "texture": "#1"}
 			}
 		},
 		{
@@ -465,18 +452,6 @@
 			}
 		},
 		{
-			"from": [21.84559, 2.92343, 5.95133],
-			"to": [22.92559, 7.24343, 10.07963],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [25.35559, 5.08343, 8.01548]},
-			"faces": {
-				"north": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"},
-				"south": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"},
-				"west": {"uv": [3, 0, 4, 1], "rotation": 270, "texture": "#1"},
-				"up": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"}
-			}
-		},
-		{
 			"from": [24.07167, 6.81, 4.85133],
 			"to": [25.15167, 11.13, 7.21963],
 			"rotation": {"angle": -45, "axis": "x", "origin": [22.61167, 6.22, 8.01548]},
@@ -503,7 +478,31 @@
 			}
 		},
 		{
-			"name": "Snout",
+			"from": [22.92559, 2.92343, 5.00093],
+			"to": [28.32559, 7.24343, 11.03003],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [25.35559, 5.08343, 8.01548]},
+			"faces": {
+				"north": {"uv": [6.75, 2, 7.75, 3.25], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [6.75, 3.25, 8.25, 4.25], "texture": "#1"},
+				"south": {"uv": [7.75, 2, 8.75, 3.25], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [3, 0, 4, 1.5], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [6.75, 4.25, 8.25, 5.5], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [6.75, 4.25, 8.25, 5.5], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"from": [21.84559, 2.92343, 5.95133],
+			"to": [22.92559, 7.24343, 10.07963],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [25.35559, 5.08343, 8.01548]},
+			"faces": {
+				"north": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [3, 0, 4, 1], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2.75, 0.25, 3.75, 0.5], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
 			"from": [27.66623, 1.22857, 5.95133],
 			"to": [30.90623, 3.92857, 10.07963],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [29.28623, 2.57857, 8.01548]},
@@ -517,7 +516,6 @@
 			}
 		},
 		{
-			"name": "Snout",
 			"from": [27.28355, 0.55469, 6.45133],
 			"to": [30.52355, 1.25469, 9.57963],
 			"rotation": {"angle": -45, "axis": "z", "origin": [28.90355, 1.65469, 8.01548]},
@@ -571,105 +569,78 @@
 	},
 	"groups": [
 		{
-			"name": "Reindeer",
-			"origin": [8, 8, 8],
+			"name": "Front Legs",
+			"origin": [17.81847, 8, 17.13281],
 			"color": 0,
 			"children": [
 				{
-					"name": "Neck",
-					"origin": [11.98326, 13.88311, 8.13281],
+					"name": "Left Leg",
+					"origin": [17.81847, 8, 13.13281],
 					"color": 0,
-					"children": [0]
+					"children": [0, 1, 2]
+				},
+				{
+					"name": "Right Leg",
+					"origin": [17.81847, 8, 17.13281],
+					"color": 0,
+					"children": [3, 4, 5]
 				}
 			]
 		},
 		{
-			"name": "reindeer standing",
-			"origin": [8, 8, 8],
+			"name": "Back Legs",
+			"origin": [1.56847, 10.5, 10.63281],
 			"color": 0,
 			"children": [
 				{
-					"name": "Reindeer",
-					"origin": [8, 8, 8],
+					"name": "Left Leg",
+					"origin": [5.44873, -2.23152, 7.63281],
 					"color": 0,
-					"children": [
-						{
-							"name": "Front Legs",
-							"origin": [17.81847, 8, 17.13281],
-							"color": 0,
-							"children": [
-								{
-									"name": "Left Leg",
-									"origin": [17.81847, 8, 13.13281],
-									"color": 0,
-									"children": [1, 2, 3]
-								},
-								{
-									"name": "Right Leg",
-									"origin": [17.81847, 8, 17.13281],
-									"color": 0,
-									"children": [4, 5, 6]
-								}
-							]
-						},
-						{
-							"name": "Back Legs",
-							"origin": [1.56847, 10.5, 10.63281],
-							"color": 0,
-							"children": [
-								{
-									"name": "Left Leg",
-									"origin": [5.44873, -2.23152, 7.63281],
-									"color": 0,
-									"children": [7, 8, 9, 10]
-								},
-								{
-									"name": "Right Leg",
-									"origin": [5.44873, -2.23152, 7.63281],
-									"color": 0,
-									"children": [11, 12, 13, 14]
-								}
-							]
-						},
-						{
-							"name": "Body",
-							"origin": [-0.29361, 12.57716, 8.13281],
-							"color": 0,
-							"children": [15, 16, 17]
-						},
-						{
-							"name": "Neck",
-							"origin": [11.98326, 13.88311, 8.13281],
-							"color": 0,
-							"children": [18, 19, 20]
-						},
-						{
-							"name": "Head",
-							"origin": [13.67229, 24.33343, 8.14131],
-							"color": 0,
-							"children": [21,
-								{
-									"name": "Antler Left",
-									"origin": [14.10162, 29.36087, 6.62676],
-									"color": 0,
-									"children": [22, 23, 24, 25, 26, 27, 28]
-								},
-								{
-									"name": "Antler Right",
-									"origin": [14.10162, 29.36087, 6.62676],
-									"color": 0,
-									"children": [29, 30, 31, 32, 33, 34, 35]
-								}, 36,
-								{
-									"name": "Ears",
-									"origin": [10.92837, 25.47, 7.88006],
-									"color": 0,
-									"children": [37, 38]
-								}, 39, 40]
-						}
-					]
+					"children": [6, 7, 8, 9]
+				},
+				{
+					"name": "Right Leg",
+					"origin": [5.44873, -2.23152, 7.63281],
+					"color": 0,
+					"children": [10, 11, 12, 13]
 				}
 			]
+		},
+		{
+			"name": "Body",
+			"origin": [-0.29361, 12.57716, 8.13281],
+			"color": 0,
+			"children": [14, 15, 16]
+		},
+		{
+			"name": "Neck",
+			"origin": [11.98326, 13.88311, 8.13281],
+			"color": 0,
+			"children": [17, 18, 19, 20]
+		},
+		{
+			"name": "Head",
+			"origin": [13.67229, 24.33343, 8.14131],
+			"color": 0,
+			"children": [
+				{
+					"name": "Antler Left",
+					"origin": [14.10162, 29.36087, 6.62676],
+					"color": 0,
+					"children": [21, 22, 23, 24, 25, 26, 27]
+				},
+				{
+					"name": "Antler Right",
+					"origin": [14.10162, 29.36087, 6.62676],
+					"color": 0,
+					"children": [28, 29, 30, 31, 32, 33, 34]
+				},
+				{
+					"name": "Ears",
+					"origin": [10.92837, 25.47, 7.88006],
+					"color": 0,
+					"children": [35, 36]
+				}, 37, 38, 39, 40]
 		}
 	]
 }

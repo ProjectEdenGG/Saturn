@@ -11,9 +11,12 @@
 		{"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/christmas/elves/6"},
 		{"predicate": {"custom_model_data": 20}, "model": "projecteden/decoration/christmas/reindeer/eating_brown"},
 		{"predicate": {"custom_model_data": 21}, "model": "projecteden/decoration/christmas/reindeer/eating_rudolph"},
+		{"predicate": {"custom_model_data": 22}, "model": "projecteden/decoration/christmas/reindeer/eating_white"},
 		{"predicate": {"custom_model_data": 23}, "model": "projecteden/decoration/christmas/reindeer/running_brown"},
 		{"predicate": {"custom_model_data": 24}, "model": "projecteden/decoration/christmas/reindeer/running_rudolph"},
+		{"predicate": {"custom_model_data": 25}, "model": "projecteden/decoration/christmas/reindeer/running_white"},
 		{"predicate": {"custom_model_data": 26}, "model": "projecteden/decoration/christmas/reindeer/standing_brown"},
-		{"predicate": {"custom_model_data": 27}, "model": "projecteden/decoration/christmas/reindeer/standing_rudolph"}
+		{"predicate": {"custom_model_data": 27}, "model": "projecteden/decoration/christmas/reindeer/standing_rudolph"},
+		{"predicate": {"custom_model_data": 28}, "model": "projecteden/decoration/christmas/reindeer/standing_white"}
 	]
 }
