@@ -1,3 +1,4 @@
 .idea
 *.iml
 ResourcePack.zip
+deploy/
