@@ -179,8 +179,8 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/github.png",
-			"height": 8,
+			"file": "projecteden/font/emojis/custom/dev.png",
+			"height": 9,
 			"ascent": 8,
 			"chars": [""]
 		},
