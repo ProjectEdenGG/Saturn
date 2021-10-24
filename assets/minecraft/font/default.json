@@ -99,6 +99,13 @@
 			"height":-10,
 			"chars":["ꈉ"]
 		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/black_box.png",
+			"ascent":250,
+			"height":2000,
+			"chars":["鄜"]
+		},
 
 		{
 			"type": "bitmap",
