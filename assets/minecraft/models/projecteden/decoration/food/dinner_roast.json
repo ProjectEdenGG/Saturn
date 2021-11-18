@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"0": "projecteden/ghoulcraft/iron_ingot",
-		"1": "projecteden/ghoulcraft/carrot_0",
+		"1": "projecteden/ghoulcraft/carrot",
 		"2": "projecteden/ghoulcraft/potato",
 		"3": "projecteden/ghoulcraft/dark_oak_log_top",
 		"particle": "projecteden/ghoulcraft/iron_ingot"

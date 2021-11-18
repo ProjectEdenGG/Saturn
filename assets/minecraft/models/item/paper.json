@@ -41,11 +41,11 @@
 		{"predicate": {"custom_model_data": 130}, "model": "projecteden/decoration/food/pies/pie_lemon"},
 		{"predicate": {"custom_model_data": 131}, "model": "projecteden/decoration/food/pies/pie_pecan"},
 		{"predicate": {"custom_model_data": 132}, "model": "projecteden/decoration/food/pies/pie_pumpkin"},
-		{"predicate": {"custom_model_data": 133}, "model": "projecteden/decoration/food/kitchenware/mixingbowl"},
-		{"predicate": {"custom_model_data": 134}, "model": "projecteden/decoration/food/kitchenware/pan_cake"},
-		{"predicate": {"custom_model_data": 135}, "model": "projecteden/decoration/food/kitchenware/pan_casserole"},
-		{"predicate": {"custom_model_data": 136}, "model": "projecteden/decoration/food/kitchenware/pan_cookie"},
-		{"predicate": {"custom_model_data": 137}, "model": "projecteden/decoration/food/kitchenware/pan_muffin"},
-		{"predicate": {"custom_model_data": 138}, "model": "projecteden/decoration/food/kitchenware/pan_pie"}
+		{"predicate": {"custom_model_data": 133}, "model": "projecteden/decoration/kitchenware/mixingbowl"},
+		{"predicate": {"custom_model_data": 134}, "model": "projecteden/decoration/kitchenware/pan_cake"},
+		{"predicate": {"custom_model_data": 135}, "model": "projecteden/decoration/kitchenware/pan_casserole"},
+		{"predicate": {"custom_model_data": 136}, "model": "projecteden/decoration/kitchenware/pan_cookie"},
+		{"predicate": {"custom_model_data": 137}, "model": "projecteden/decoration/kitchenware/pan_muffin"},
+		{"predicate": {"custom_model_data": 138}, "model": "projecteden/decoration/kitchenware/pan_pie"}
 	]
 }
