@@ -1,0 +1,11 @@
+{"parent":"block/cube",
+	"textures":{
+		"particle": "block/note_block",
+		"up":"projecteden/blocks/presents/48_2",
+		"down":"projecteden/blocks/presents/48_2",
+		"north":"projecteden/blocks/presents/48_2",
+		"south":"projecteden/blocks/presents/48_2",
+		"east":"projecteden/blocks/presents/48_2",
+		"west":"projecteden/blocks/presents/48_0"
+	}
+}
