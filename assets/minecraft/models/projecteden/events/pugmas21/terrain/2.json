@@ -9,8 +9,8 @@
 	},
 	"elements": [
 		{
-			"from": [-15.95, 4, -8],
-			"to": [-11.95, 8, 1],
+			"from": [-16, 4, -8],
+			"to": [-12, 8, 1],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "east"},
@@ -1632,7 +1632,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [68, -180, 0],
-			"translation": [0, 6, -1.25],
+			"translation": [0, 0, -1.25],
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"thirdperson_lefthand": {
@@ -1660,6 +1660,10 @@
 		},
 		"head": {
 			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, -10.75, -2.5],
+			"scale": [0.667, 0.667, 0.667]
 		}
 	},
 	"groups": [
