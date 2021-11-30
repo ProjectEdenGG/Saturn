@@ -33,6 +33,8 @@
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/events/pugmas21/terrain/2"},
 		{"predicate": {"custom_model_data": 202}, "model": "projecteden/events/pugmas21/terrain/3"},
 		{"predicate": {"custom_model_data": 203}, "model": "projecteden/events/pugmas21/terrain/4"},
+		{"predicate": {"custom_model_data": 204}, "model": "projecteden/events/pugmas21/terrain/5"},
+		{"predicate": {"custom_model_data": 205}, "model": "projecteden/events/pugmas21/terrain/6"},
 
 		{"predicate": {"custom_model_data": 300}, "model": "projecteden/decoration/christmas/toy_train"},
 		
