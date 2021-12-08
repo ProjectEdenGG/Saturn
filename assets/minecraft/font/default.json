@@ -207,6 +207,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/queup.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [""]
+		},
+		{
+			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_active.png",
 			"discordId": "896466289508356106",
 			"height": 8,
