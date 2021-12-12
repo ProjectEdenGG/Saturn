@@ -46,6 +46,8 @@
 		{"predicate": {"custom_model_data": 135}, "model": "projecteden/decoration/kitchenware/pan_casserole"},
 		{"predicate": {"custom_model_data": 136}, "model": "projecteden/decoration/kitchenware/pan_cookie"},
 		{"predicate": {"custom_model_data": 137}, "model": "projecteden/decoration/kitchenware/pan_muffin"},
-		{"predicate": {"custom_model_data": 138}, "model": "projecteden/decoration/kitchenware/pan_pie"}
+		{"predicate": {"custom_model_data": 138}, "model": "projecteden/decoration/kitchenware/pan_pie"},
+
+		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/flora/mushroom_3d"}
 	]
 }
