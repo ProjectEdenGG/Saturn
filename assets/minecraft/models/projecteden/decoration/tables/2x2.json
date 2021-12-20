@@ -5,100 +5,109 @@
 	},
 	"elements": [
 		{
+			"name": "dyeable",
 			"from": [-14, 0, 28],
 			"to": [-12, 14, 30],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"north": {"uv": [0.75, 11, 0.25, 14.5], "texture": "#particle"},
-				"east": {"uv": [1.75, 11, 2.25, 14.5], "texture": "#particle"},
-				"south": {"uv": [1.75, 11, 1.25, 14.5], "texture": "#particle"},
-				"west": {"uv": [0.75, 11, 1.25, 14.5], "texture": "#particle"},
-				"down": {"uv": [0.75, 14.5, 1.25, 15], "rotation": 270, "texture": "#particle"}
+				"north": {"uv": [0.75, 11, 0.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"east": {"uv": [1.75, 11, 2.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"south": {"uv": [1.75, 11, 1.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"west": {"uv": [0.75, 11, 1.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"down": {"uv": [0.75, 14.5, 1.25, 15], "rotation": 270, "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [-12, 9, 3],
 			"to": [12, 14, 3.01],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"north": {"uv": [0.25, 9.25, 6.25, 10.5], "texture": "#particle"},
-				"south": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle"}
+				"north": {"uv": [0.25, 9.25, 6.25, 10.5], "texture": "#particle", "tintindex": 0},
+				"south": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [-12, 9, 29],
 			"to": [12, 14, 29.01],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"north": {"uv": [0.25, 9.25, 6.25, 10.5], "texture": "#particle"},
-				"south": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle"}
+				"north": {"uv": [0.25, 9.25, 6.25, 10.5], "texture": "#particle", "tintindex": 0},
+				"south": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [12, 0, 2],
 			"to": [14, 14, 4],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"north": {"uv": [1.75, 11, 1.25, 14.5], "texture": "#particle"},
-				"east": {"uv": [0.75, 11, 1.25, 14.5], "texture": "#particle"},
-				"south": {"uv": [0.75, 11, 0.25, 14.5], "texture": "#particle"},
-				"west": {"uv": [1.75, 11, 2.25, 14.5], "texture": "#particle"},
-				"down": {"uv": [1.25, 15, 0.75, 14.5], "rotation": 270, "texture": "#particle"}
+				"north": {"uv": [1.75, 11, 1.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"east": {"uv": [0.75, 11, 1.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"south": {"uv": [0.75, 11, 0.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"west": {"uv": [1.75, 11, 2.25, 14.5], "texture": "#particle", "tintindex": 0},
+				"down": {"uv": [1.25, 15, 0.75, 14.5], "rotation": 270, "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [12, 0, 28],
 			"to": [14, 14, 30],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"north": {"uv": [0.25, 11, 0.75, 14.5], "texture": "#particle"},
-				"east": {"uv": [1.25, 11, 0.75, 14.5], "texture": "#particle"},
-				"south": {"uv": [1.25, 11, 1.75, 14.5], "texture": "#particle"},
-				"west": {"uv": [2.25, 11, 1.75, 14.5], "texture": "#particle"},
-				"down": {"uv": [0.75, 15, 1.25, 14.5], "rotation": 270, "texture": "#particle"}
+				"north": {"uv": [0.25, 11, 0.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"east": {"uv": [1.25, 11, 0.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"south": {"uv": [1.25, 11, 1.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"west": {"uv": [2.25, 11, 1.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"down": {"uv": [0.75, 15, 1.25, 14.5], "rotation": 270, "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [-16, 14, 0],
 			"to": [16, 16, 32],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"north": {"uv": [8.5, 8.25, 4.5, 8.75], "texture": "#particle"},
-				"east": {"uv": [4.25, 8.25, 0.25, 8.75], "texture": "#particle"},
-				"south": {"uv": [8.5, 8.25, 4.5, 8.75], "texture": "#particle"},
-				"west": {"uv": [4.25, 8.25, 0.25, 8.75], "texture": "#particle"},
-				"up": {"uv": [0.25, 8.25, 8.25, 0.25], "texture": "#particle"},
-				"down": {"uv": [0.25, 8.25, 8.25, 0.25], "texture": "#particle"}
+				"north": {"uv": [8.5, 8.25, 4.5, 8.75], "texture": "#particle", "tintindex": 0},
+				"east": {"uv": [4.25, 8.25, 0.25, 8.75], "texture": "#particle", "tintindex": 0},
+				"south": {"uv": [8.5, 8.25, 4.5, 8.75], "texture": "#particle", "tintindex": 0},
+				"west": {"uv": [4.25, 8.25, 0.25, 8.75], "texture": "#particle", "tintindex": 0},
+				"up": {"uv": [0.25, 8.25, 8.25, 0.25], "texture": "#particle", "tintindex": 0},
+				"down": {"uv": [0.25, 8.25, 8.25, 0.25], "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [-14, 0, 2],
 			"to": [-12, 14, 4],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"north": {"uv": [1.25, 11, 1.75, 14.5], "texture": "#particle"},
-				"east": {"uv": [2.25, 11, 1.75, 14.5], "texture": "#particle"},
-				"south": {"uv": [0.25, 11, 0.75, 14.5], "texture": "#particle"},
-				"west": {"uv": [1.25, 11, 0.75, 14.5], "texture": "#particle"},
-				"down": {"uv": [1.25, 14.5, 0.75, 15], "rotation": 270, "texture": "#particle"}
+				"north": {"uv": [1.25, 11, 1.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"east": {"uv": [2.25, 11, 1.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"south": {"uv": [0.25, 11, 0.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"west": {"uv": [1.25, 11, 0.75, 14.5], "texture": "#particle", "tintindex": 0},
+				"down": {"uv": [1.25, 14.5, 0.75, 15], "rotation": 270, "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [-13, 9, 4],
 			"to": [-12.99, 14, 28],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"east": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle"},
-				"west": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle"}
+				"east": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle", "tintindex": 0},
+				"west": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle", "tintindex": 0}
 			}
 		},
 		{
+			"name": "dyeable",
 			"from": [13, 9, 4],
 			"to": [13.01, 14, 28],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, 8]},
 			"faces": {
-				"east": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle"},
-				"west": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle"}
+				"east": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle", "tintindex": 0},
+				"west": {"uv": [6.25, 9.25, 0.25, 10.5], "texture": "#particle", "tintindex": 0}
 			}
 		}
 	],
@@ -141,13 +150,5 @@
 			"translation": [0, 0, -16],
 			"scale": [2, 2, 2]
 		}
-	},
-	"groups": [
-		{
-			"name": "group",
-			"origin": [8, 15, 8],
-			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
-		}
-	]
+	}
 }
