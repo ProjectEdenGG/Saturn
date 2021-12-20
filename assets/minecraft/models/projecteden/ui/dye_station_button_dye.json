@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "projecteden/items/rainbow_dye_2"
+    "layer0": "projecteden/ui/gui/dye_station_button_dye"
   }
 }
