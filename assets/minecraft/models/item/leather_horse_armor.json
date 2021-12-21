@@ -44,6 +44,11 @@
 		{"predicate": {"custom_model_data": 301}, "model": "projecteden/decoration/tables/1x2"},
 		{"predicate": {"custom_model_data": 302}, "model": "projecteden/decoration/tables/2x2"},
 		{"predicate": {"custom_model_data": 303}, "model": "projecteden/decoration/tables/2x3"},
-		{"predicate": {"custom_model_data": 304}, "model": "projecteden/decoration/tables/3x3"}
+		{"predicate": {"custom_model_data": 304}, "model": "projecteden/decoration/tables/3x3"},
+
+		{"predicate": {"custom_model_data": 400}, "model": "projecteden/decoration/chairs/chair_basic"},
+		{"predicate": {"custom_model_data": 401}, "model": "projecteden/decoration/chairs/chair_middle"},
+		
+		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/chairs/bench"}
 	]
 }
