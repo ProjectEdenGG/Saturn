@@ -11,7 +11,7 @@
 			"faces": {
 				"north": {"uv": [0, 1.5, 16, 3], "texture": "#particle", "tintindex": 0},
 				"east": {"uv": [0, 0, 9, 1], "rotation": 90, "texture": "#particle", "tintindex": 0},
-				"south": {"uv": [0, 1.5, 16, 3], "texture": "#particle"},
+				"south": {"uv": [0, 1.5, 16, 3], "texture": "#particle", "tintindex": 0},
 				"west": {"uv": [0, 0, 9, 1], "rotation": 270, "texture": "#particle", "tintindex": 0},
 				"up": {"uv": [0, 3, 16, 3.5], "texture": "#particle", "tintindex": 0},
 				"down": {"uv": [0, 4, 16, 4.5], "rotation": 180, "texture": "#particle", "tintindex": 0}
