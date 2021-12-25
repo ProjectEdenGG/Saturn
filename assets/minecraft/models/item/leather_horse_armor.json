@@ -35,10 +35,10 @@
 		{"predicate": {"custom_model_data": 35}, "model": "projecteden/decoration/dyeable/potions/groups/17"},
 		{"predicate": {"custom_model_data": 36}, "model": "projecteden/decoration/dyeable/potions/groups/18"},
 
-		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/axolotl"},
-		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/creeper"},
-		{"predicate": {"custom_model_data": 202}, "model": "projecteden/decoration/plushies/enderman"},
-		{"predicate": {"custom_model_data": 203}, "model": "projecteden/decoration/plushies/sheep"},
+		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
+		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
+		{"predicate": {"custom_model_data": 202}, "model": "projecteden/decoration/plushies/mob/enderman"},
+		{"predicate": {"custom_model_data": 203}, "model": "projecteden/decoration/plushies/mob/sheep"},
 
 		{"predicate": {"custom_model_data": 300}, "model": "projecteden/decoration/tables/1x1"},
 		{"predicate": {"custom_model_data": 301}, "model": "projecteden/decoration/tables/1x2"},
