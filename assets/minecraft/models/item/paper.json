@@ -50,6 +50,14 @@
 		{"predicate": {"custom_model_data": 137}, "model": "projecteden/decoration/kitchenware/pan_muffin"},
 		{"predicate": {"custom_model_data": 138}, "model": "projecteden/decoration/kitchenware/pan_pie"},
 
-		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/flora/mushroom_3d"}
+		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/flora/mushroom_3d"},
+
+
+		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/plushies/mob/axolotl"},
+		{"predicate": {"custom_model_data": 510}, "model": "projecteden/decoration/plushies/mob/creeper"},
+		{"predicate": {"custom_model_data": 516}, "model": "projecteden/decoration/plushies/mob/enderman"},
+		{"predicate": {"custom_model_data": 547}, "model": "projecteden/decoration/plushies/mob/sheep"},
+
+		{"predicate": {"custom_model_data": 686}, "model": "projecteden/decoration/plushies/mob/zombified_piglin"}
 	]
 }

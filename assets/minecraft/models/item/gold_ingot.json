@@ -6,6 +6,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/trophies/pride21"},
 		{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/trophies/bearfair21_minigolf"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/trophies/pugmas21"},
 		{"predicate": {"custom_model_data": 100}, "model": "projecteden/ui/event_token"}
 	]
 }

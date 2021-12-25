@@ -1,8 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "projecteden/decoration/plushies/enderman",
-		"particle": "projecteden/decoration/plushies/enderman"
+		"0": "projecteden/decoration/plushies/mob/enderman",
+		"particle": "projecteden/decoration/plushies/mob/enderman"
 	},
 	"elements": [
 		{
@@ -137,6 +137,14 @@
 					"origin": [8, 9, 10],
 					"color": 0,
 					"children": [0]
-				}, 1, 2, 3]
-		}, 4, 5, 6]
+				},
+				1,
+				2,
+				3
+			]
+		},
+		4,
+		5,
+		6
+	]
 }
