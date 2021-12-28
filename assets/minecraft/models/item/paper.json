@@ -52,6 +52,7 @@
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/flora/mushroom_3d"},
 
+		{"predicate": {"custom_model_data": 300}, "model": "projecteden/decoration/wall_lamp"},
 
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 510}, "model": "projecteden/decoration/plushies/mob/creeper"},
