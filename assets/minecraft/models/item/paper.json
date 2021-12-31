@@ -59,6 +59,38 @@
 		{"predicate": {"custom_model_data": 516}, "model": "projecteden/decoration/plushies/mob/enderman"},
 		{"predicate": {"custom_model_data": 547}, "model": "projecteden/decoration/plushies/mob/sheep"},
 
-		{"predicate": {"custom_model_data": 686}, "model": "projecteden/decoration/plushies/mob/zombified_piglin"}
+		{"predicate": {"custom_model_data": 686}, "model": "projecteden/decoration/plushies/mob/zombified_piglin"},
+
+		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/images/storegallery/chat/emotes"},
+		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/ui/images/storegallery/chat/join_quit"},
+		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/ui/images/storegallery/chat/nickname"},
+		{"predicate": {"custom_model_data": 1003}, "model": "projecteden/ui/images/storegallery/chat/prefix"},
+
+		{"predicate": {"custom_model_data": 1020}, "model": "projecteden/ui/images/storegallery/inventory/auto_inventory"},
+		{"predicate": {"custom_model_data": 1021}, "model": "projecteden/ui/images/storegallery/inventory/auto_torch"},
+		{"predicate": {"custom_model_data": 1022}, "model": "projecteden/ui/images/storegallery/inventory/firework_bow"},
+		{"predicate": {"custom_model_data": 1023}, "model": "projecteden/ui/images/storegallery/inventory/hat"},
+		{"predicate": {"custom_model_data": 1024}, "model": "projecteden/ui/images/storegallery/inventory/item_name"},
+		{"predicate": {"custom_model_data": 1025}, "model": "projecteden/ui/images/storegallery/inventory/vaults"},
+		{"predicate": {"custom_model_data": 1026}, "model": "projecteden/ui/images/storegallery/inventory/workbenches"},
+
+		{"predicate": {"custom_model_data": 1040}, "model": "projecteden/ui/images/storegallery/misc/boosts"},
+		{"predicate": {"custom_model_data": 1041}, "model": "projecteden/ui/images/storegallery/misc/creative_plots"},
+		{"predicate": {"custom_model_data": 1042}, "model": "projecteden/ui/images/storegallery/misc/custom_donation"},
+		{"predicate": {"custom_model_data": 1043}, "model": "projecteden/ui/images/storegallery/misc/plus_five_homes"},
+
+		{"predicate": {"custom_model_data": 1060}, "model": "projecteden/ui/images/storegallery/pets_disguises/pets"},
+		{"predicate": {"custom_model_data": 1061}, "model": "projecteden/ui/images/storegallery/pets_disguises/disguises"},
+
+		{"predicate": {"custom_model_data": 1080}, "model": "projecteden/ui/images/storegallery/visuals/costumes"},
+		{"predicate": {"custom_model_data": 1081}, "model": "projecteden/ui/images/storegallery/visuals/entity_name"},
+		{"predicate": {"custom_model_data": 1082}, "model": "projecteden/ui/images/storegallery/visuals/fireworks"},
+		{"predicate": {"custom_model_data": 1083}, "model": "projecteden/ui/images/storegallery/visuals/invisible_armor"},
+		{"predicate": {"custom_model_data": 1084}, "model": "projecteden/ui/images/storegallery/visuals/npcs"},
+		{"predicate": {"custom_model_data": 1085}, "model": "projecteden/ui/images/storegallery/visuals/player_head"},
+		{"predicate": {"custom_model_data": 1086}, "model": "projecteden/ui/images/storegallery/visuals/player_plushies"},
+		{"predicate": {"custom_model_data": 1087}, "model": "projecteden/ui/images/storegallery/visuals/rainbow_armor"},
+		{"predicate": {"custom_model_data": 1088}, "model": "projecteden/ui/images/storegallery/visuals/rainbow_beacon"},
+		{"predicate": {"custom_model_data": 1089}, "model": "projecteden/ui/images/storegallery/visuals/wings"}
 	]
 }
