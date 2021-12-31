@@ -10,6 +10,7 @@
 		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/scroll"},
 		{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/magic_dye"},
 		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/magic_stain"},
+		{"predicate": {"custom_model_data": 7}, "model": "projecteden/ui/click_me"},
 
 		{"predicate": {"custom_model_data": 101}, "model": "projecteden/decoration/food/brownies_chocolate"},
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/decoration/food/brownies_vanilla"},
