@@ -49,6 +49,8 @@
 		{"predicate": {"custom_model_data": 400}, "model": "projecteden/decoration/chairs/chair_basic"},
 		{"predicate": {"custom_model_data": 401}, "model": "projecteden/decoration/chairs/chair_middle"},
 		
-		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/chairs/bench"}
+		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/chairs/bench"},
+
+		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/decoration/portal/portal"}
 	]
 }
