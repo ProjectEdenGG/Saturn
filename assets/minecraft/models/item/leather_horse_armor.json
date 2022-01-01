@@ -53,6 +53,8 @@
 
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/decoration/portal/portal"},
 		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/decoration/portal/portal_hub_center"},
-		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/decoration/portal/portal_hub_corner"}
+		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/decoration/portal/portal_hub_corner"},
+
+		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"}
 	]
 }
