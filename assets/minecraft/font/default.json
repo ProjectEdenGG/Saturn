@@ -1,5 +1,22 @@
 {
 	"providers": [
+	    {
+	        "type":"bitmap",
+	        "file":"projecteden/ui/gui/gl/scroll.png",
+	        "ascent":19,
+	        "height":133,
+	        "chars": [
+	            "魉辆沩漷秬籽醭泽转洼髌泗穙邸甬粽轩乏袭说魋廋糠稿 配丸蝻"
+	        ]
+	    },
+	    
+	    {
+	        "type":"bitmap",
+	        "file":"projecteden/ui/gui/gl/test.png",
+	        "ascent":19,
+	        "height":133,
+	        "chars":["久"]
+	    },
 		{
 			"type":"bitmap",
 			"file":"projecteden/ui/gui/pugmas_advent_1.png",
