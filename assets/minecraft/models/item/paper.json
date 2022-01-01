@@ -92,6 +92,13 @@
 		{"predicate": {"custom_model_data": 1086}, "model": "projecteden/ui/images/storegallery/visuals/player_plushies"},
 		{"predicate": {"custom_model_data": 1087}, "model": "projecteden/ui/images/storegallery/visuals/rainbow_armor"},
 		{"predicate": {"custom_model_data": 1088}, "model": "projecteden/ui/images/storegallery/visuals/rainbow_beacon"},
-		{"predicate": {"custom_model_data": 1089}, "model": "projecteden/ui/images/storegallery/visuals/wings"}
+		{"predicate": {"custom_model_data": 1089}, "model": "projecteden/ui/images/storegallery/visuals/wings"},
+
+		{"predicate": {"custom_model_data": 1200}, "model": "projecteden/ui/images/storegallery/info/info"},
+		{"predicate": {"custom_model_data": 1201}, "model": "projecteden/ui/images/storegallery/info/interactive_examples"},
+		{"predicate": {"custom_model_data": 1202}, "model": "projecteden/ui/images/storegallery/info/questions_suggestions"},
+		{"predicate": {"custom_model_data": 1203}, "model": "projecteden/ui/images/storegallery/info/store_credits"},
+		{"predicate": {"custom_model_data": 1204}, "model": "projecteden/ui/images/storegallery/info/wiki"},
+		{"predicate": {"custom_model_data": 1205}, "model": "projecteden/ui/images/storegallery/info/your_perks"}
 	]
 }
