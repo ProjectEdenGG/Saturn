@@ -10,6 +10,7 @@
 		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/scroll"},
 		{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/magic_dye"},
 		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/magic_stain"},
+		{"predicate": {"custom_model_data": 7}, "model": "projecteden/ui/click_me"},
 
 		{"predicate": {"custom_model_data": 101}, "model": "projecteden/decoration/food/brownies_chocolate"},
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/decoration/food/brownies_vanilla"},
@@ -59,6 +60,46 @@
 		{"predicate": {"custom_model_data": 516}, "model": "projecteden/decoration/plushies/mob/enderman"},
 		{"predicate": {"custom_model_data": 547}, "model": "projecteden/decoration/plushies/mob/sheep"},
 
-		{"predicate": {"custom_model_data": 686}, "model": "projecteden/decoration/plushies/mob/zombified_piglin"}
+		{"predicate": {"custom_model_data": 686}, "model": "projecteden/decoration/plushies/mob/zombified_piglin"},
+
+		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/images/storegallery/chat/emotes"},
+		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/ui/images/storegallery/chat/join_quit"},
+		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/ui/images/storegallery/chat/nickname"},
+		{"predicate": {"custom_model_data": 1003}, "model": "projecteden/ui/images/storegallery/chat/prefix"},
+
+		{"predicate": {"custom_model_data": 1020}, "model": "projecteden/ui/images/storegallery/inventory/auto_inventory"},
+		{"predicate": {"custom_model_data": 1021}, "model": "projecteden/ui/images/storegallery/inventory/auto_torch"},
+		{"predicate": {"custom_model_data": 1022}, "model": "projecteden/ui/images/storegallery/inventory/firework_bow"},
+		{"predicate": {"custom_model_data": 1023}, "model": "projecteden/ui/images/storegallery/inventory/hat"},
+		{"predicate": {"custom_model_data": 1024}, "model": "projecteden/ui/images/storegallery/inventory/item_name"},
+		{"predicate": {"custom_model_data": 1025}, "model": "projecteden/ui/images/storegallery/inventory/vaults"},
+		{"predicate": {"custom_model_data": 1026}, "model": "projecteden/ui/images/storegallery/inventory/workbenches"},
+
+		{"predicate": {"custom_model_data": 1040}, "model": "projecteden/ui/images/storegallery/misc/boosts"},
+		{"predicate": {"custom_model_data": 1041}, "model": "projecteden/ui/images/storegallery/misc/creative_plots"},
+		{"predicate": {"custom_model_data": 1042}, "model": "projecteden/ui/images/storegallery/misc/custom_donation"},
+		{"predicate": {"custom_model_data": 1043}, "model": "projecteden/ui/images/storegallery/misc/plus_five_homes"},
+
+		{"predicate": {"custom_model_data": 1060}, "model": "projecteden/ui/images/storegallery/pets_disguises/pets"},
+		{"predicate": {"custom_model_data": 1061}, "model": "projecteden/ui/images/storegallery/pets_disguises/disguises"},
+
+		{"predicate": {"custom_model_data": 1080}, "model": "projecteden/ui/images/storegallery/visuals/costumes"},
+		{"predicate": {"custom_model_data": 1081}, "model": "projecteden/ui/images/storegallery/visuals/entity_name"},
+		{"predicate": {"custom_model_data": 1082}, "model": "projecteden/ui/images/storegallery/visuals/fireworks"},
+		{"predicate": {"custom_model_data": 1083}, "model": "projecteden/ui/images/storegallery/visuals/invisible_armor"},
+		{"predicate": {"custom_model_data": 1084}, "model": "projecteden/ui/images/storegallery/visuals/npcs"},
+		{"predicate": {"custom_model_data": 1085}, "model": "projecteden/ui/images/storegallery/visuals/player_head"},
+		{"predicate": {"custom_model_data": 1086}, "model": "projecteden/ui/images/storegallery/visuals/player_plushies"},
+		{"predicate": {"custom_model_data": 1087}, "model": "projecteden/ui/images/storegallery/visuals/rainbow_armor"},
+		{"predicate": {"custom_model_data": 1088}, "model": "projecteden/ui/images/storegallery/visuals/rainbow_beacon"},
+		{"predicate": {"custom_model_data": 1089}, "model": "projecteden/ui/images/storegallery/visuals/wings"},
+
+		{"predicate": {"custom_model_data": 1199}, "model": "projecteden/ui/images/storegallery/cart"},
+		{"predicate": {"custom_model_data": 1200}, "model": "projecteden/ui/images/storegallery/info/info"},
+		{"predicate": {"custom_model_data": 1201}, "model": "projecteden/ui/images/storegallery/info/interactive_examples"},
+		{"predicate": {"custom_model_data": 1202}, "model": "projecteden/ui/images/storegallery/info/questions_suggestions"},
+		{"predicate": {"custom_model_data": 1203}, "model": "projecteden/ui/images/storegallery/info/store_credits"},
+		{"predicate": {"custom_model_data": 1204}, "model": "projecteden/ui/images/storegallery/info/wiki"},
+		{"predicate": {"custom_model_data": 1205}, "model": "projecteden/ui/images/storegallery/info/your_perks"}
 	]
 }

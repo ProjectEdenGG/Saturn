@@ -130,6 +130,13 @@
 			"height":2000,
 			"chars":["鄜"]
 		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/images/storegallery/cart_tooltip.png",
+			"ascent":1,
+			"height":40,
+			"chars":["醋"]
+		},
 
 		{
 			"type": "bitmap",
