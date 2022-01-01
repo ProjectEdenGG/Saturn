@@ -94,6 +94,7 @@
 		{"predicate": {"custom_model_data": 1088}, "model": "projecteden/ui/images/storegallery/visuals/rainbow_beacon"},
 		{"predicate": {"custom_model_data": 1089}, "model": "projecteden/ui/images/storegallery/visuals/wings"},
 
+		{"predicate": {"custom_model_data": 1199}, "model": "projecteden/ui/images/storegallery/cart"},
 		{"predicate": {"custom_model_data": 1200}, "model": "projecteden/ui/images/storegallery/info/info"},
 		{"predicate": {"custom_model_data": 1201}, "model": "projecteden/ui/images/storegallery/info/interactive_examples"},
 		{"predicate": {"custom_model_data": 1202}, "model": "projecteden/ui/images/storegallery/info/questions_suggestions"},
