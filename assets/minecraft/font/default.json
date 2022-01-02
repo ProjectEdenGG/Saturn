@@ -19,6 +19,35 @@
 	    },
 		{
 			"type":"bitmap",
+			"file":"projecteden/ui/gui/test_center.png",
+			"ascent":13,
+			"height":221,
+			"chars":["棹"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/test_left.png",
+			"ascent":13,
+			"height":221,
+			"chars":["楩"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/test_right.png",
+			"ascent":13,
+			"height":221,
+			"chars":["栓"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-533,
+			"chars":["柱"]
+		},
+		
+		{
+			"type":"bitmap",
 			"file":"projecteden/ui/gui/pugmas_advent_1.png",
 			"ascent":19,
 			"height":133,
