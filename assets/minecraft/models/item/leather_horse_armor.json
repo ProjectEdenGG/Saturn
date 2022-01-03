@@ -1054,6 +1054,12 @@
 		{"predicate": {"custom_model_data": 2996}, "model": "projecteden/ui/numbers/996"},
 		{"predicate": {"custom_model_data": 2997}, "model": "projecteden/ui/numbers/997"},
 		{"predicate": {"custom_model_data": 2998}, "model": "projecteden/ui/numbers/998"},
-		{"predicate": {"custom_model_data": 2999}, "model": "projecteden/ui/numbers/999"}
+		{"predicate": {"custom_model_data": 2999}, "model": "projecteden/ui/numbers/999"},
+
+		{"predicate": {"custom_model_data": 4000}, "model": "projecteden/costumes/hat/pirate/cavalier"},
+		{"predicate": {"custom_model_data": 4001}, "model": "projecteden/costumes/hat/pirate/bicorn"},
+		{"predicate": {"custom_model_data": 4002}, "model": "projecteden/costumes/hat/pirate/bicorn_side"},
+		{"predicate": {"custom_model_data": 4003}, "model": "projecteden/costumes/hat/pirate/tricorn"},
+		{"predicate": {"custom_model_data": 4004}, "model": "projecteden/costumes/hat/misc/amongus"}
 	]
 }
