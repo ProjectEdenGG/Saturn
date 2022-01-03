@@ -1080,6 +1080,238 @@
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⭐"]
+		},
+		
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_00.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄀"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_01.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄁"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_02.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄂"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_03.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄃"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_04.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄄"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_05.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄅"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_06.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄆"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_07.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄇"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_08.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄈"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_09.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄉"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_10.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄊"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_11.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄋"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_12.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄌"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_13.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄍"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_14.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄎"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_15.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄏"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_16.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄐"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_17.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄑"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_18.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄒"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_19.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄓"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_20.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄔"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_21.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄕"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_22.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄖"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_23.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄗"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_24.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄘"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_25.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄙"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_26.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄚"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_27.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄿"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_28.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄛"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_29.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄝"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_30.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄞"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_31.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["鄟"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/compass/compass_empty.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["邿"]
 		}
 	]
 }
