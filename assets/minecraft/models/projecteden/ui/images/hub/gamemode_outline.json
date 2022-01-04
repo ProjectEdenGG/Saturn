@@ -1,6 +1,21 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "projecteden/ui/images/hub/gamemode_template",
 	"textures": {
 		"0": "projecteden/ui/images/hub/gamemode_outline"
-	}
+	},
+	"elements": [
+		{
+			"from": [0, -16, -0.075],
+			"to": [32, 32, 0.075],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [15.76238, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.23762, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.23762], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0.23762], "texture": "#0"}
+			}
+		}
+	]
 }
