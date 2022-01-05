@@ -66,7 +66,7 @@
 			"ascent":19,
 			"height":79,
 			"chars":["岔"]
-		}, 
+		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/ui/gui/dye_station.png",
