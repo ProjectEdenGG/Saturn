@@ -62,6 +62,10 @@
 
 		{"predicate": {"custom_model_data": 686}, "model": "projecteden/decoration/plushies/mob/zombified_piglin"},
 
+		{"predicate": {"custom_model_data": 800}, "model": "projecteden/decoration/portal/portal_blue_1x1"},
+		{"predicate": {"custom_model_data": 801}, "model": "projecteden/decoration/portal/portal_blue_1x2"},
+		{"predicate": {"custom_model_data": 802}, "model": "projecteden/decoration/portal/portal_blue_2x2"},
+
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/images/storegallery/chat/emotes"},
 		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/ui/images/storegallery/chat/join_quit"},
 		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/ui/images/storegallery/chat/nickname"},
