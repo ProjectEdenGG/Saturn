@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/ui/images/hub/gamemode_template",
+	"textures": {
+		"0": "projecteden/ui/images/hub/gamemode_creative"
+	}
+}
