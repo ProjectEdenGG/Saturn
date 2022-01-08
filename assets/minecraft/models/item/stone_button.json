@@ -15,7 +15,6 @@
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/costumes/hat/axolotl/gold"},
 		{"predicate": {"custom_model_data": 103}, "model": "projecteden/costumes/hat/axolotl/cyan"},
 		{"predicate": {"custom_model_data": 104}, "model": "projecteden/costumes/hat/axolotl/blue"},
-		{"predicate": {"custom_model_data": 200}, "model": "projecteden/costumes/hat/misc/tiny"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/costumes/hat/misc/fox"},
 		{"predicate": {"custom_model_data": 202}, "model": "projecteden/costumes/hat/misc/fox_snow"},
 		{"predicate": {"custom_model_data": 203}, "model": "projecteden/costumes/hat/misc/ocelot"},

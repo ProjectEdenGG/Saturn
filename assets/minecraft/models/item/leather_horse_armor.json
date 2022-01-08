@@ -1057,6 +1057,7 @@
 		{"predicate": {"custom_model_data": 4002}, "model": "projecteden/costumes/hat/pirate/bicorn_side"},
 		{"predicate": {"custom_model_data": 4003}, "model": "projecteden/costumes/hat/pirate/tricorn"},
 		{"predicate": {"custom_model_data": 4004}, "model": "projecteden/costumes/hat/misc/amongus"},
-		{"predicate": {"custom_model_data": 4005}, "model": "projecteden/costumes/hat/misc/mushroom"}
+		{"predicate": {"custom_model_data": 4005}, "model": "projecteden/costumes/hat/misc/mushroom"},
+		{"predicate": {"custom_model_data": 4006}, "model": "projecteden/costumes/hat/misc/tiny"}
 	]
 }
