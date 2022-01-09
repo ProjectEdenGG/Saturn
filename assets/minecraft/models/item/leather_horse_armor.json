@@ -1061,6 +1061,6 @@
 		{"predicate": {"custom_model_data": 4004}, "model": "projecteden/costumes/hat/misc/amongus"},
 		{"predicate": {"custom_model_data": 4005}, "model": "projecteden/costumes/hat/misc/mushroom"},
 		{"predicate": {"custom_model_data": 4006}, "model": "projecteden/costumes/hat/misc/tiny"},
-		{"predicate": {"custom_model_data": 4007}, "model": "projecteden/costumes/hat/lightsabers/red"}
+		{"predicate": {"custom_model_data": 4007}, "model": "projecteden/costumes/hat/misc/lightsaber"}
 	]
 }
