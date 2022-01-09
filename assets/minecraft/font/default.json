@@ -74,6 +74,13 @@
 			"height":133,
 			"chars":["섈"]
 		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/dye_costume.png",
+			"ascent":19,
+			"height":133,
+			"chars":["膛"]
+		},
 
 		{
 			"type":"bitmap",
