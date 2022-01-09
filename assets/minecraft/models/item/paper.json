@@ -51,8 +51,6 @@
 		{"predicate": {"custom_model_data": 137}, "model": "projecteden/decoration/kitchenware/pan_muffin"},
 		{"predicate": {"custom_model_data": 138}, "model": "projecteden/decoration/kitchenware/pan_pie"},
 
-		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/flora/mushroom_3d"},
-
 		{"predicate": {"custom_model_data": 300}, "model": "projecteden/decoration/wall_lamp"},
 
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/plushies/mob/axolotl"},
