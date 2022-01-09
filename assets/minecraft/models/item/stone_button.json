@@ -39,7 +39,7 @@
 		{"predicate": {"custom_model_data": 401}, "model": "projecteden/costumes/hat/lightsabers/dark_blue"},
 		{"predicate": {"custom_model_data": 402}, "model": "projecteden/costumes/hat/lightsabers/purple"},
 		{"predicate": {"custom_model_data": 403}, "model": "projecteden/costumes/hat/lightsabers/light_blue"},
-		{"predicate": {"custom_model_data": 404}, "model": "projecteden/costumes/hat/lightsabers/red"},
+
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/costumes/hat/antlers/black"},
 		{"predicate": {"custom_model_data": 502}, "model": "projecteden/costumes/hat/antlers/brown"},
 		{"predicate": {"custom_model_data": 503}, "model": "projecteden/costumes/hat/antlers/white"},
