@@ -28,7 +28,6 @@
 		{"predicate": {"custom_model_data": 211}, "model": "projecteden/costumes/hat/misc/diamond_sword_in_head"},
 		{"predicate": {"custom_model_data": 212}, "model": "projecteden/costumes/hat/misc/halo_circle"},
 		{"predicate": {"custom_model_data": 213}, "model": "projecteden/costumes/hat/misc/halo_circleoid"},
-		{"predicate": {"custom_model_data": 214}, "model": "projecteden/costumes/hat/misc/nerd"},
 		{"predicate": {"custom_model_data": 215}, "model": "projecteden/costumes/hat/misc/crown_queen"},
 		{"predicate": {"custom_model_data": 216}, "model": "projecteden/costumes/hat/misc/straw"},
 		{"predicate": {"custom_model_data": 217}, "model": "projecteden/costumes/hat/misc/santa"},
