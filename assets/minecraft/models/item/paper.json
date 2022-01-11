@@ -108,6 +108,8 @@
 		{"predicate": {"custom_model_data": 1300}, "model": "projecteden/ui/images/hub/gamemode_survival"},
 		{"predicate": {"custom_model_data": 1301}, "model": "projecteden/ui/images/hub/gamemode_minigames"},
 		{"predicate": {"custom_model_data": 1302}, "model": "projecteden/ui/images/hub/gamemode_oneblock"},
-		{"predicate": {"custom_model_data": 1303}, "model": "projecteden/ui/images/hub/gamemode_creative"}
+		{"predicate": {"custom_model_data": 1303}, "model": "projecteden/ui/images/hub/gamemode_creative"},
+
+		{"predicate": {"custom_model_data": 1400}, "model": "projecteden/ui/images/gamelobby/test_mechanic"}
 	]
 }
