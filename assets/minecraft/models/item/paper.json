@@ -64,6 +64,9 @@
 		{"predicate": {"custom_model_data": 801}, "model": "projecteden/decoration/portal/portal_blue_1x2"},
 		{"predicate": {"custom_model_data": 802}, "model": "projecteden/decoration/portal/portal_blue_2x2"},
 
+		{"predicate": {"custom_model_data": 900}, "model": "projecteden/ui/socialmedia/youtube"},
+		{"predicate": {"custom_model_data": 901}, "model": "projecteden/ui/socialmedia/discord"},
+
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/images/storegallery/chat/emotes"},
 		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/ui/images/storegallery/chat/join_quit"},
 		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/ui/images/storegallery/chat/nickname"},
