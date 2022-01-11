@@ -4,8 +4,8 @@
 		"layer0": "item/leather_horse_armor"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/ui/dye_station_button_dye"},
-		{"predicate": {"custom_model_data": 2}, "model": "projecteden/ui/dye_station_button_stain"},
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/ui/gui/dye_station/button_dye"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/ui/gui/dye_station/button_stain"},
 		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/dyeable/balloon_short"},
 		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/dyeable/balloon_medium"},
 		{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/dyeable/balloon_tall"},
