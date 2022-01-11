@@ -2,7 +2,7 @@
 	"providers": [
 	    {
 	        "type":"bitmap",
-	        "file":"projecteden/ui/gui/gl/scroll.png",
+	        "file":"projecteden/ui/gui/gamelobby/scroll.png",
 	        "ascent":19,
 	        "height":133,
 	        "chars": [
@@ -12,7 +12,7 @@
 	    
 	    {
 	        "type":"bitmap",
-	        "file":"projecteden/ui/gui/gl/test.png",
+	        "file":"projecteden/ui/gui/gamelobby/test.png",
 	        "ascent":19,
 	        "height":133,
 	        "chars":["久"]
@@ -69,14 +69,14 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/dye_station.png",
+			"file":"projecteden/ui/gui/dye_station/dye_station.png",
 			"ascent":19,
 			"height":133,
 			"chars":["섈"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/dye_costume.png",
+			"file":"projecteden/ui/gui/dye_station/dye_costume.png",
 			"ascent":19,
 			"height":133,
 			"chars":["膛"]

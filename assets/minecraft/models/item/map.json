@@ -18,6 +18,7 @@
 		{"predicate": {"custom_model_data": 12}, "model": "projecteden/decoration/plushies/player/sitting/icon"},
 		{"predicate": {"custom_model_data": 13}, "model": "projecteden/decoration/plushies/player/standing/icon"},
 		{"predicate": {"custom_model_data": 14}, "model": "projecteden/ui/icon"},
-		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/100"}
+
+		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/gui/100"}
 	]
 }

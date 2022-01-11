@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"2": "projecteden/functional/dye_station_misc",
-		"3": "projecteden/functional/dye_station"
+		"2": "projecteden/functional/dye_station/dye_station/dye_station_misc",
+		"3": "projecteden/functional/dye_station/dye_station/dye_station"
 	},
 	"elements": [
 		{

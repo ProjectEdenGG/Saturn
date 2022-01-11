@@ -5,6 +5,6 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/electronics/screen"},
-		{"predicate": {"custom_model_data": 2}, "model": "projecteden/ui/4x3"}
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/ui/gui/gamelobby/4x3"}
 	]
 }
