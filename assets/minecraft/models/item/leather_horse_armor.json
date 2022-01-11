@@ -1062,7 +1062,6 @@
 		{"predicate": {"custom_model_data": 4005}, "model": "projecteden/costumes/hat/misc/mushroom"},
 		{"predicate": {"custom_model_data": 4006}, "model": "projecteden/costumes/hat/misc/tiny"},
 		{"predicate": {"custom_model_data": 4007}, "model": "projecteden/costumes/hat/misc/lightsaber"},
-		{"predicate": {"custom_model_data": 4008}, "model": "projecteden/costumes/hat/misc/nerd"},
-		{"predicate": {"custom_model_data": 4009}, "model": "projecteden/costumes/hat/misc/bracelet_rainbow"}
+		{"predicate": {"custom_model_data": 4008}, "model": "projecteden/costumes/hat/misc/nerd"}
 	]
 }
