@@ -84,7 +84,8 @@
 		{"predicate": {"custom_model_data": 918}, "model": "projecteden/costumes/exclusive/hat/pumpkins/toothy"},
 		{"predicate": {"custom_model_data": 919}, "model": "projecteden/costumes/exclusive/hat/pumpkins/upsidedown"},
 
-		{"predicate": {"custom_model_data": 920}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet"},
-		{"predicate": {"custom_model_data": 921}, "model": "projecteden/costumes/hat/misc/rainbow_headband"}
+		{"predicate": {"custom_model_data": 920}, "model": "projecteden/costumes/hat/misc/rainbow_headband"},
+		{"predicate": {"custom_model_data": 921}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_steve"},
+		{"predicate": {"custom_model_data": 922}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_alex"}
 	]
 }
