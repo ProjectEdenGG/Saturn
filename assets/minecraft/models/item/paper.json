@@ -66,6 +66,7 @@
 
 		{"predicate": {"custom_model_data": 900}, "model": "projecteden/ui/socialmedia/youtube"},
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/ui/socialmedia/discord"},
+		{"predicate": {"custom_model_data": 902}, "model": "projecteden/ui/socialmedia/instagram"},
 		{"predicate": {"custom_model_data": 903}, "model": "projecteden/ui/socialmedia/steam"},
 
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/images/storegallery/chat/emotes"},
