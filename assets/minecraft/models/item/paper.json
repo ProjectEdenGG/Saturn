@@ -68,6 +68,8 @@
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/ui/socialmedia/discord"},
 		{"predicate": {"custom_model_data": 902}, "model": "projecteden/ui/socialmedia/instagram"},
 		{"predicate": {"custom_model_data": 903}, "model": "projecteden/ui/socialmedia/steam"},
+		{"predicate": {"custom_model_data": 904}, "model": "projecteden/ui/socialmedia/tiktok"},
+		{"predicate": {"custom_model_data": 905}, "model": "projecteden/ui/socialmedia/twitter"},
 
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/images/storegallery/chat/emotes"},
 		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/ui/images/storegallery/chat/join_quit"},
