@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "block/door_bottom",
 	"ambientocclusion": false,
 	"textures": {
@@ -56,9 +55,9 @@
 			"to": [3, 16, 16],
 			"faces": {
 				"north": {"uv": [14, 0, 13, 16], "texture": "#bottom"},
-				"east": {"uv": [16, 0, 13, 16], "texture": "#bottom"},
-				"south": {"uv": [15, 0, 16, 16], "texture": "#bottom"},
-				"west": {"uv": [13, 0, 16, 16], "texture": "#bottom"},
+				"east": {"uv": [0, 0, 3, 16], "texture": "#bottom"},
+				"south": {"uv": [1, 0, 0, 16], "texture": "#bottom"},
+				"west": {"uv": [3, 0, 0, 16], "texture": "#bottom"},
 				"up": {"uv": [13, 0, 16, 1], "rotation": 90, "texture": "#bottom"}
 			}
 		},
@@ -106,5 +105,6 @@
 				"up": {"uv": [12, 0, 13, 1], "texture": "#bottom"}
 			}
 		}
-	]
+	],
+	"display": {}
 }
