@@ -4,12 +4,11 @@
 		"2": "projecteden/ui/images/hub/gamemode_back",
 		"particle": "projecteden/vanilla/block/spruce_planks"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "picture",
-			"from": [-8, -16, 8],
-			"to": [24, 32, 8],
+			"from": [-7.3, -15.3, 8],
+			"to": [23.325, 31.3, 8],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
@@ -109,6 +108,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-10, -180, 0],
@@ -147,10 +147,12 @@
 			"scale": [2, 2, 2]
 		}
 	},
-	"groups": [0,
+	"groups": [
+		0,
 		{
 			"name": "back",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 		}
 	]
