@@ -51,6 +51,9 @@
 		
 		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/chairs/bench"},
 
+		{"predicate": {"custom_model_data": 500}, "model": "projecteden/decoration/chairs/stool_basic"},
+		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/chairs/stool_middle"},
+
 		{"predicate": {"custom_model_data": 700}, "model": "projecteden/decoration/flora/mushroom_3d"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
