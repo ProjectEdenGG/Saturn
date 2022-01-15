@@ -13,13 +13,18 @@
 		{"predicate": {"custom_model_data": 7}, "model": "projecteden/costumes/icon"},
 		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/icon"},
 		{"predicate": {"custom_model_data": 9}, "model": "projecteden/decoration/christmas/icon"},
+
 		{"predicate": {"custom_model_data": 10}, "model": "projecteden/decoration/plushies/icon"},
 		{"predicate": {"custom_model_data": 11}, "model": "projecteden/decoration/plushies/player/icon"},
 		{"predicate": {"custom_model_data": 12}, "model": "projecteden/decoration/plushies/player/sitting/icon"},
 		{"predicate": {"custom_model_data": 13}, "model": "projecteden/decoration/plushies/player/standing/icon"},
-		{"predicate": {"custom_model_data": 14}, "model": "projecteden/ui/icon"},
-		{"predicate": {"custom_model_data": 15}, "model": "minecraft:item/diamond_sword"},
-		{"predicate": {"custom_model_data": 16}, "model": "projecteden/costumes/hat/icon"},
+		{"predicate": {"custom_model_data": 14}, "model": "projecteden/decoration/plushies/player/dabbing/icon"},
+		{"predicate": {"custom_model_data": 15}, "model": "projecteden/decoration/plushies/player/handstand/icon"},
+		{"predicate": {"custom_model_data": 16}, "model": "projecteden/decoration/plushies/player/walking/icon"},
+
+		{"predicate": {"custom_model_data": 30}, "model": "projecteden/ui/icon"},
+		{"predicate": {"custom_model_data": 31}, "model": "minecraft:item/diamond_sword"},
+		{"predicate": {"custom_model_data": 32}, "model": "projecteden/costumes/hat/icon"},
 
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/gui/100"}
 	]
