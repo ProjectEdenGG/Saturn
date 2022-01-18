@@ -1,7 +1,7 @@
 {
 	"parent": "projecteden/decoration/plushies/player/template_display",
 	"textures": {
-		"0": "projecteden/decoration/plushies/player/players/e9e07315-d32c-4df7-bd05-acfe51108234",
+		"0": "projecteden/decoration/plushies/player/template_steve_full",
 		"1": "projecteden/decoration/globe",
 		"particle": "projecteden/decoration/globe"
 	},
@@ -133,7 +133,7 @@
 			}
 		},
 		{
-			"name": "left_leg",
+			"name": "right_leg",
 			"from": [7.85156, 1.69, 2.59228],
 			"to": [10.81156, 4.65, 7.47228],
 			"rotation": {"angle": 0, "axis": "x", "origin": [9.48156, 3.42, 5.98728]},
@@ -147,7 +147,7 @@
 			}
 		},
 		{
-			"name": "left_leg",
+			"name": "right_leg",
 			"from": [7.85156, 1.63428, 2.31214],
 			"to": [10.81156, 4.59428, 3.19214],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [9.33156, 3.11428, 2.75214]},
@@ -161,7 +161,7 @@
 			}
 		},
 		{
-			"name": "left_leg",
+			"name": "right_leg",
 			"from": [7.85156, 2.1827, 1.78176],
 			"to": [10.81156, 5.1427, 2.66176],
 			"rotation": {"angle": -45, "axis": "x", "origin": [9.33156, 3.6627, 3.22176]},
@@ -175,7 +175,7 @@
 			}
 		},
 		{
-			"name": "left_leg",
+			"name": "right_leg",
 			"from": [7.85156, 2.27811, 0.87597],
 			"to": [10.81156, 3.15811, 3.83597],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [9.33156, 2.71811, 2.35597]},
@@ -189,7 +189,7 @@
 			}
 		},
 		{
-			"name": "left_leg",
+			"name": "right_leg",
 			"from": [7.85156, -2.02703, 0.82025],
 			"to": [10.81156, 2.87797, 3.78025],
 			"rotation": {"angle": 0, "axis": "x", "origin": [9.33156, 2.43797, 2.30025]},
@@ -217,7 +217,7 @@
 			}
 		},
 		{
-			"name": "right_leg",
+			"name": "left_leg",
 			"from": [5.11031, -2.01225, 6.284],
 			"to": [8.07031, 0.94775, 10.164],
 			"rotation": {"angle": 0, "axis": "x", "origin": [6.51531, 2.64275, 3.744]},
@@ -231,7 +231,7 @@
 			}
 		},
 		{
-			"name": "right_leg",
+			"name": "left_leg",
 			"from": [5.11031, -0.24022, 4.51197],
 			"to": [8.07031, 4.63978, 7.47197],
 			"rotation": {"angle": 0, "axis": "x", "origin": [6.51531, 3.92978, 9.59197]},
@@ -245,7 +245,7 @@
 			}
 		},
 		{
-			"name": "right_leg",
+			"name": "left_leg",
 			"from": [5.11031, -0.75784, 4.72638],
 			"to": [8.07031, 0.12216, 7.68638],
 			"rotation": {"angle": -45, "axis": "x", "origin": [6.59031, -0.31784, 6.20638]},
@@ -259,7 +259,7 @@
 			}
 		},
 		{
-			"name": "right_leg",
+			"name": "left_leg",
 			"from": [5.11031, -0.44423, 4.95038],
 			"to": [8.07031, 0.43577, 7.91038],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [6.59031, -1.00423, 6.43038]},
@@ -273,7 +273,7 @@
 			}
 		},
 		{
-			"name": "right_leg",
+			"name": "left_leg",
 			"from": [5.11031, -1.95652, 6.00387],
 			"to": [8.07031, 1.00348, 6.88387],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [6.59031, -0.47652, 6.44387]},
@@ -301,7 +301,6 @@
 			}
 		}
 	],
-	"display": {},
 	"groups": [
 		{
 			"name": "steve",
@@ -333,13 +332,13 @@
 					"children": [6, 7]
 				},
 				{
-					"name": "Left Leg",
+					"name": "Right Leg",
 					"origin": [8, 10, 10],
 					"color": 0,
 					"children": [8, 9, 10, 11, 12, 13]
 				},
 				{
-					"name": "Right Leg",
+					"name": "Left Leg",
 					"origin": [8, 8, 8],
 					"color": 0,
 					"children": [14, 15, 16, 17, 18, 19]
