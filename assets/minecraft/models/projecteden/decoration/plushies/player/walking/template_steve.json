@@ -1,7 +1,7 @@
 {
 	"parent": "projecteden/decoration/plushies/player/template_display",
 	"textures": {
-		"0": "projecteden/decoration/plushies/player/template_steve"
+		"0": "projecteden/decoration/plushies/player/template_steve_full"
 	},
 	"elements": [
 		{
@@ -131,7 +131,7 @@
 			}
 		},
 		{
-			"name": "left_leg",
+			"name": "right_leg",
 			"from": [7.85156, 0, 7.50728],
 			"to": [10.81156, 8.88, 10.46728],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [9.48156, 7.67, 8.98728]},
@@ -159,7 +159,7 @@
 			}
 		},
 		{
-			"name": "right_leg",
+			"name": "left_leg",
 			"from": [5.11031, 0, 7.50728],
 			"to": [8.07031, 8.88, 10.46728],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [6.51531, 7.67, 8.98728]},
@@ -204,13 +204,13 @@
 					"children": [6, 7]
 				},
 				{
-					"name": "Left Leg",
+					"name": "Right Leg",
 					"origin": [8, 10, 10],
 					"color": 0,
 					"children": [8, 9]
 				},
 				{
-					"name": "Right Leg",
+					"name": "Left Leg",
 					"origin": [8, 8, 8],
 					"color": 0,
 					"children": [10, 11]
