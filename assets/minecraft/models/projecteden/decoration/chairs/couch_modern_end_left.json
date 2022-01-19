@@ -29,7 +29,7 @@
 				"east": {"uv": [8, 4, 16, 16], "rotation": 270, "texture": "#2", "tintindex": 0},
 				"south": {"uv": [8, 10, 16, 16], "rotation": 270, "texture": "#2", "tintindex": 0},
 				"west": {"uv": [8, 0, 16, 12], "rotation": 270, "texture": "#2", "tintindex": 0},
-				"up": {"uv": [0, 0, 16, 6], "rotation": 270, "texture": "#2", "tintindex": 0},
+				"up": {"uv": [0, 10, 16, 16], "rotation": 270, "texture": "#2", "tintindex": 0},
 				"down": {"uv": [0, 0, 7.9375, 3], "rotation": 270, "texture": "#2", "tintindex": 0}
 			}
 		},
