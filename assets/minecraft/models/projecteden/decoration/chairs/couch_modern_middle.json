@@ -1,0 +1,123 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "projecteden/decoration/table_set_color",
+		"2": "projecteden/vanilla/block/white_shulker_box"
+	},
+	"elements": [
+		{
+			"name": "dyeable",
+			"from": [-0.025, 11.5, 6.7],
+			"to": [16.025, 25.5, 11.7],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 4.5], "rotation": 90, "texture": "#2", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 4.5], "rotation": 270, "texture": "#2", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 4.5], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [0, 0, 8, 2.5], "rotation": 180, "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "dyeable",
+			"from": [0, 2, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 11, 16, 16], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [0, 11, 16, 16], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [0, 11, 16, 16], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [0, 11, 16, 16], "texture": "#2", "tintindex": 0},
+				"up": {"uv": [0, 2, 16, 16], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"from": [13, 0, 1],
+			"to": [15, 2, 3],
+			"faces": {
+				"north": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"east": {"uv": [8.25, 5, 8.75, 5.5], "texture": "#1"},
+				"south": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"west": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"up": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"down": {"uv": [13.25, 4.5, 13.75, 5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [1, 0, 1],
+			"to": [3, 2, 3],
+			"faces": {
+				"north": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"east": {"uv": [8.25, 5, 8.75, 5.5], "texture": "#1"},
+				"south": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"west": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"up": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"down": {"uv": [13.25, 4.5, 13.75, 5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [1, 0, 13],
+			"to": [3, 2, 15],
+			"faces": {
+				"north": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"east": {"uv": [8.25, 5, 8.75, 5.5], "texture": "#1"},
+				"south": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"west": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"up": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"down": {"uv": [13.25, 4.5, 13.75, 5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [13, 0, 13],
+			"to": [15, 2, 15],
+			"faces": {
+				"north": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"east": {"uv": [8.25, 5, 8.75, 5.5], "texture": "#1"},
+				"south": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"west": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"up": {"uv": [8.25, 5.75, 8.75, 6.25], "texture": "#1"},
+				"down": {"uv": [13.25, 4.5, 13.75, 5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [37.75, 0, 0],
+			"translation": [0, 0.75, -2],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [37.75, 0, 0],
+			"translation": [0, 0.75, -2],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-175, 75.5, -180],
+			"translation": [0.25, 2.5, -0.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-175, 75.5, -180],
+			"translation": [0.25, 2.5, -0.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [-155.25, 40.5, -180],
+			"translation": [0, -1.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 12.5, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
+		}
+	}
+}
