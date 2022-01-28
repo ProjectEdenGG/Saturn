@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-        "down": "projecteden/blocks/infested_deepslate_top",
-        "up": "projecteden/blocks/infested_deepslate_top",
-        "north": "projecteden/blocks/infested_deepslate",
-        "east": "projecteden/blocks/infested_deepslate",
-        "south": "projecteden/blocks/infested_deepslate",
-        "west": "projecteden/blocks/infested_deepslate"
+        "down": "minecraft:block/infested_deepslate_top",
+        "up": "minecraft:block/infested_deepslate_top",
+        "north": "minecraft:block/infested_deepslate",
+        "east": "minecraft:block/infested_deepslate",
+        "south": "minecraft:block/infested_deepslate",
+        "west": "minecraft:block/infested_deepslate"
   }
 }

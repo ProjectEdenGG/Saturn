@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "projecteden/blocks/infested_cobblestone"
+		"all": "minecraft:block/infested_cobblestone"
 	}
 }
