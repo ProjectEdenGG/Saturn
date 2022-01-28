@@ -52,6 +52,8 @@
 		{"predicate": {"custom_model_data": 138}, "model": "projecteden/decoration/kitchenware/pan_pie"},
 
 		{"predicate": {"custom_model_data": 300}, "model": "projecteden/decoration/wall_lamp"},
+		{"predicate": {"custom_model_data": 301}, "model": "projecteden/decoration/chairs/stump"},
+		{"predicate": {"custom_model_data": 302}, "model": "projecteden/decoration/chairs/stump_roots"},
 
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 510}, "model": "projecteden/decoration/plushies/mob/creeper"},
