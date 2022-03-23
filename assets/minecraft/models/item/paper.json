@@ -119,6 +119,13 @@
 		{"predicate": {"custom_model_data": 1302}, "model": "projecteden/ui/images/hub/gamemode_oneblock"},
 		{"predicate": {"custom_model_data": 1303}, "model": "projecteden/ui/images/hub/gamemode_creative"},
 
-		{"predicate": {"custom_model_data": 1400}, "model": "projecteden/ui/images/gamelobby/test_mechanic"}
+		{"predicate": {"custom_model_data": 1400}, "model": "projecteden/ui/images/gamelobby/1v1"},
+		{"predicate": {"custom_model_data": 1401}, "model": "projecteden/ui/images/gamelobby/capture_the_flag"},
+		{"predicate": {"custom_model_data": 1402}, "model": "projecteden/ui/images/gamelobby/infection"},
+		{"predicate": {"custom_model_data": 1403}, "model": "projecteden/ui/images/gamelobby/mazes"},
+		{"predicate": {"custom_model_data": 1404}, "model": "projecteden/ui/images/gamelobby/paintball"},
+		{"predicate": {"custom_model_data": 1405}, "model": "projecteden/ui/images/gamelobby/parkour"},
+		{"predicate": {"custom_model_data": 1406}, "model": "projecteden/ui/images/gamelobby/spleef"},
+		{"predicate": {"custom_model_data": 1407}, "model": "projecteden/ui/images/gamelobby/team_deathmatch"}
 	]
 }
