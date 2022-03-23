@@ -15,6 +15,7 @@
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/costumes/hat/axolotl/gold"},
 		{"predicate": {"custom_model_data": 103}, "model": "projecteden/costumes/hat/axolotl/cyan"},
 		{"predicate": {"custom_model_data": 104}, "model": "projecteden/costumes/hat/axolotl/blue"},
+
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/costumes/hat/misc/fox"},
 		{"predicate": {"custom_model_data": 202}, "model": "projecteden/costumes/hat/misc/fox_snow"},
 		{"predicate": {"custom_model_data": 203}, "model": "projecteden/costumes/hat/misc/ocelot"},
@@ -31,9 +32,11 @@
 		{"predicate": {"custom_model_data": 215}, "model": "projecteden/costumes/hat/misc/crown_queen"},
 		{"predicate": {"custom_model_data": 216}, "model": "projecteden/costumes/hat/misc/straw"},
 		{"predicate": {"custom_model_data": 217}, "model": "projecteden/costumes/hat/misc/santa"},
-		
 		{"predicate": {"custom_model_data": 219}, "model": "projecteden/costumes/hat/misc/groucho"},
 		{"predicate": {"custom_model_data": 220}, "model": "projecteden/costumes/hat/misc/walrus"},
+		{"predicate": {"custom_model_data": 221}, "model": "projecteden/costumes/hat/misc/rainbow_headband"},
+		{"predicate": {"custom_model_data": 222}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_steve"},
+		{"predicate": {"custom_model_data": 223}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_alex"},
 
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/costumes/hat/antlers/black"},
 		{"predicate": {"custom_model_data": 502}, "model": "projecteden/costumes/hat/antlers/brown"},
@@ -41,10 +44,12 @@
 		{"predicate": {"custom_model_data": 601}, "model": "projecteden/costumes/hat/horns/curled"},
 		{"predicate": {"custom_model_data": 602}, "model": "projecteden/costumes/hat/horns/demon"},
 		{"predicate": {"custom_model_data": 603}, "model": "projecteden/costumes/hat/horns/wavy"},
+
 		{"predicate": {"custom_model_data": 701}, "model": "projecteden/costumes/hat/ushanka/black"},
 		{"predicate": {"custom_model_data": 702}, "model": "projecteden/costumes/hat/ushanka/cyan"},
 		{"predicate": {"custom_model_data": 703}, "model": "projecteden/costumes/hat/ushanka/pink"},
 		{"predicate": {"custom_model_data": 704}, "model": "projecteden/costumes/hat/ushanka/red"},
+
 		{"predicate": {"custom_model_data": 800}, "model": "projecteden/costumes/hat/disney/aladdin"},
 		{"predicate": {"custom_model_data": 801}, "model": "projecteden/costumes/hat/disney/baymax"},
 		{"predicate": {"custom_model_data": 802}, "model": "projecteden/costumes/hat/disney/coco_floral"},
@@ -63,6 +68,7 @@
 		{"predicate": {"custom_model_data": 815}, "model": "projecteden/costumes/hat/disney/stitch"},
 		{"predicate": {"custom_model_data": 816}, "model": "projecteden/costumes/hat/disney/tigerlily"},
 		{"predicate": {"custom_model_data": 817}, "model": "projecteden/costumes/hat/disney/yoda_ears"},
+
 		{"predicate": {"custom_model_data": 900}, "model": "projecteden/costumes/exclusive/hat/pumpkins/axolotl"},
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/costumes/exclusive/hat/pumpkins/bee"},
 		{"predicate": {"custom_model_data": 902}, "model": "projecteden/costumes/exclusive/hat/pumpkins/sans"},
@@ -84,8 +90,6 @@
 		{"predicate": {"custom_model_data": 918}, "model": "projecteden/costumes/exclusive/hat/pumpkins/toothy"},
 		{"predicate": {"custom_model_data": 919}, "model": "projecteden/costumes/exclusive/hat/pumpkins/upsidedown"},
 
-		{"predicate": {"custom_model_data": 920}, "model": "projecteden/costumes/hat/misc/rainbow_headband"},
-		{"predicate": {"custom_model_data": 921}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_steve"},
-		{"predicate": {"custom_model_data": 922}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_alex"}
+		{"predicate": {"custom_model_data": 950}, "model": "projecteden/costumes/exclusive/hat/bunny_ears"}
 	]
 }
