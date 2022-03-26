@@ -128,8 +128,14 @@
 		{"predicate": {"custom_model_data": 1406}, "model": "projecteden/ui/images/gamelobby/spleef"},
 		{"predicate": {"custom_model_data": 1407}, "model": "projecteden/ui/images/gamelobby/team_deathmatch"},
 
-		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/events/easter22/egg1"},
-		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/events/easter22/egg2"},
-		{"predicate": {"custom_model_data": 2002}, "model": "projecteden/events/easter22/egg3"}
+		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/events/easter22/paintbrush"},
+		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/events/easter22/egg1"},
+		{"predicate": {"custom_model_data": 2002}, "model": "projecteden/events/easter22/egg2"},
+		{"predicate": {"custom_model_data": 2003}, "model": "projecteden/events/easter22/egg3"},
+		{"predicate": {"custom_model_data": 2004}, "model": "projecteden/events/easter22/egg4"},
+		{"predicate": {"custom_model_data": 2005}, "model": "projecteden/events/easter22/egg5"},
+		{"predicate": {"custom_model_data": 2006}, "model": "projecteden/events/easter22/egg6"},
+		{"predicate": {"custom_model_data": 2007}, "model": "projecteden/events/easter22/egg7"},
+		{"predicate": {"custom_model_data": 2008}, "model": "projecteden/events/easter22/egg8"}
 	]
 }
