@@ -342,5 +342,11 @@
          "custom/misc/party_horn_1",
          "custom/misc/party_horn_2"
       ]
+   },
+   "custom.noteblock.marimba": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         "custom/noteblock/marimba"
+      ]
    }
 }
