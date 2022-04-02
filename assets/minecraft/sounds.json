@@ -348,5 +348,11 @@
       "sounds": [
          "custom/noteblock/marimba"
       ]
+   },
+   "custom.noteblock.trumpet": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         "custom/noteblock/trumpet"
+      ]
    }
 }
