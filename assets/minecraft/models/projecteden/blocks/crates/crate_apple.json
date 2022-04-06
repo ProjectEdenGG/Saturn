@@ -1,0 +1,7 @@
+{"parent":"block/cube_column",
+	"textures":{
+		"particle":"projecteden/blocks/crates/crate_apple_side",
+		"side":"projecteden/blocks/crates/crate_apple_side",
+		"end":"projecteden/blocks/crates/crate_apple_top"
+	}
+}
