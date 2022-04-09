@@ -138,6 +138,7 @@
 		{"predicate": {"custom_model_data": 2006}, "model": "projecteden/events/easter22/egg6"},
 		{"predicate": {"custom_model_data": 2007}, "model": "projecteden/events/easter22/egg7"},
 		{"predicate": {"custom_model_data": 2008}, "model": "projecteden/events/easter22/egg8"},
+		{"predicate": {"custom_model_data": 2009}, "model": "projecteden/events/easter22/egg9"},
 
 		{"predicate": {"custom_model_data": 20000}, "model": "block/note_block"},
 		{"predicate": {"custom_model_data": 20001}, "model": "block/gray_concrete"},
