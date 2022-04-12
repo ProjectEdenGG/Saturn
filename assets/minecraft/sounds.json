@@ -354,5 +354,11 @@
       "sounds": [
          "custom/noteblock/trumpet"
       ]
+   },
+   "custom.noteblock.buzz": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         "custom/noteblock/buzz"
+      ]
    }
 }
