@@ -360,5 +360,23 @@
       "sounds": [
          "custom/noteblock/buzz"
       ]
+   },
+   "custom.noteblock.kalimba": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         "custom/noteblock/kalimba"
+      ]
+   },
+   "custom.noteblock.koto": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         "custom/noteblock/koto"
+      ]
+   },
+   "custom.noteblock.taiko": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         "custom/noteblock/taiko"
+      ]
    }
 }
