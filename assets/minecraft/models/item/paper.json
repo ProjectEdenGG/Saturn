@@ -139,6 +139,7 @@
 		{"predicate": {"custom_model_data": 2007}, "model": "projecteden/events/easter22/egg7"},
 		{"predicate": {"custom_model_data": 2008}, "model": "projecteden/events/easter22/egg8"},
 		{"predicate": {"custom_model_data": 2009}, "model": "projecteden/events/easter22/egg9"},
+		{"predicate": {"custom_model_data": 2021}, "model": "projecteden/events/easter22/basket"},
 
 
 
