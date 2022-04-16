@@ -1,7 +1,7 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"particle": "projecteden/events/easter22/basket"
+		"particle": "projecteden/decoration/trophies/easter22"
 	},
 	"elements": [
 		{
