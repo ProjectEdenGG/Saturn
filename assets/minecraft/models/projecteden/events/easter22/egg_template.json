@@ -1,8 +1,5 @@
 {
 	"texture_size": [256, 256],
-	"textures": {
-		"particle": "projecteden/events/easter22/egg9"
-	},
 	"elements": [
 		{
 			"from": [6.5, 0, 5.5],
@@ -1206,12 +1203,12 @@
 			"scale": [0.18359, 0.18359, 0.18359]
 		},
 		"firstperson_righthand": {
-			"rotation": [-20.16, -48.48, -15.45],
+			"rotation": [166.99, 43.79, -169.99],
 			"translation": [2.75, 2, 0],
 			"scale": [0.26758, 0.26758, 0.26758]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-20.16, -48.48, -15.45],
+			"rotation": [166.99, 43.79, -169.99],
 			"translation": [2.75, 2, 0],
 			"scale": [0.26758, 0.26758, 0.26758]
 		},
@@ -1220,6 +1217,7 @@
 			"scale": [0.3457, 0.3457, 0.3457]
 		},
 		"gui": {
+			"rotation": [-180, 0, -180],
 			"translation": [0, -2, 0],
 			"scale": [0.68164, 0.68164, 0.68164]
 		},
