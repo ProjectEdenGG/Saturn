@@ -17,6 +17,7 @@
 		{"predicate": {"custom_model_data": 25}, "model": "projecteden/decoration/christmas/reindeer/running_white"},
 		{"predicate": {"custom_model_data": 26}, "model": "projecteden/decoration/christmas/reindeer/standing_brown"},
 		{"predicate": {"custom_model_data": 27}, "model": "projecteden/decoration/christmas/reindeer/standing_rudolph"},
-		{"predicate": {"custom_model_data": 28}, "model": "projecteden/decoration/christmas/reindeer/standing_white"}
+		{"predicate": {"custom_model_data": 28}, "model": "projecteden/decoration/christmas/reindeer/standing_white"},
+		{"predicate": {"custom_model_data": 29}, "model": "projecteden/decoration/entity/rabbit_giant"}
 	]
 }
