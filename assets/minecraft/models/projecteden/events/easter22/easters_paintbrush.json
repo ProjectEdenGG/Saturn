@@ -1,0 +1,31 @@
+{
+	"parent": "builtin/generated",
+	"textures": {
+		"layer0": "projecteden/events/easter22/easters_paintbrush"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [3.25, 2, 0],
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"thirdperson_lefthand": {
+			"translation": [3.25, 2, 0],
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"firstperson_righthand": {
+			"translation": [1.5, 2.75, 0],
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"firstperson_lefthand": {
+			"translation": [1.5, 2.75, 0],
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"scale": [1.61, 1.61, 1.61]
+		}
+	}
+}
