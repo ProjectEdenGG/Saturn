@@ -1,48 +1,6 @@
 {
-	"texture_size": [64, 64],
 	"parent": "projecteden/events/easter22/egg1",
 	"textures": {
 		"particle": "projecteden/events/easter22/egg2"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [69.5, 0, 90.5],
-			"translation": [0, 0.75, -0.75],
-			"scale": [0.3418, 0.3418, 0.3418]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [69.5, 0, 90.5],
-			"translation": [0, 0.75, -0.75],
-			"scale": [0.3418, 0.3418, 0.3418]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, 0, 91.5],
-			"translation": [1.25, 1.5, 0],
-			"scale": [0.48438, 0.48438, 0.48438]
-		},
-		"firstperson_lefthand": {
-			"rotation": [0, 0, 91.5],
-			"translation": [1.25, 1.5, 0],
-			"scale": [0.48438, 0.48438, 0.48438]
-		},
-		"ground": {
-			"rotation": [90, 0, 0],
-			"translation": [0, 3.75, 1.75],
-			"scale": [0.76, 0.76, 0.76]
-		},
-		"gui": {
-			"rotation": [0, -29.75, -86.25],
-			"translation": [2.25, -1.25, 0],
-			"scale": [1.17578, 1.17578, 1.17578]
-		},
-		"head": {
-			"rotation": [0, -30, 90],
-			"translation": [-2, 10.9, -1]
-		},
-		"fixed": {
-			"rotation": [0, 10.5, -14.75],
-			"translation": [4, 4, -9.75],
-			"scale": [2, 2, 2]
-		}
 	}
 }

@@ -3,7 +3,6 @@
 	"textures": {
 		"particle": "projecteden/events/easter22/egg6"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"from": [6.5, 19, 6.5],
@@ -267,7 +266,40 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68.75, 0, 0],
+			"translation": [0, 1.5, 1],
+			"scale": [0.30273, 0.30273, 0.30273]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68.75, 0, 0],
+			"translation": [0, 1.5, 1],
+			"scale": [0.30273, 0.30273, 0.30273]
+		},
+		"firstperson_righthand": {
+			"rotation": [-0.02, 49.58, -14.79],
+			"translation": [2.25, 2, 0],
+			"scale": [0.28516, 0.28516, 0.28516]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-0.02, 49.58, -14.79],
+			"translation": [2.25, 2, 0],
+			"scale": [0.28516, 0.28516, 0.28516]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.40625, 0.40625, 0.40625]
+		},
+		"gui": {
+			"translation": [0, -1.75, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"translation": [0, 9.75, 0],
+			"scale": [0.42188, 0.42188, 0.42188]
+		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, 0, -10.25],
@@ -278,36 +310,43 @@
 		{
 			"name": "7",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [0]
 		},
 		{
 			"name": "6",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [1, 2]
 		},
 		{
 			"name": "5",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [3, 4, 5, 6, 7]
 		},
 		{
 			"name": "4",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [8, 9, 10, 11]
 		},
 		{
 			"name": "3",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [12, 13, 14, 15]
 		},
 		{
 			"name": "2",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [16, 17, 18]
 		},
 		{
 			"name": "1",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [19, 20, 21]
 		}
 	]
