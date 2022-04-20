@@ -1,3 +1,6 @@
 {
-	"parent": "minecraft:item/template_skull"
+	"parent": "minecraft:item/template_skull",
+	"overrides":[
+		{"predicate":{"custom_model_data":1},"model":"projecteden/items/large_player_head"}
+	]
 }
