@@ -316,7 +316,13 @@
 
 		{"predicate": {"custom_model_data": 20750}, "model": "block/note_block"},
 	
-		{"predicate": {"custom_model_data": 20799}, "model": "block/note_block"}
+		{"predicate": {"custom_model_data": 20799}, "model": "block/note_block"},
+
+
+		{"predicate": {"custom_model_data": 21000}, "model": "block/tripwire_ns"},
+		{"predicate": {"custom_model_data": 21001}, "model": "block/tripwire_nsew"},
+
+		{"predicate": {"custom_model_data": 21100}, "model": "projecteden/decoration/flora/cattail"}
 		
 	]
 }
