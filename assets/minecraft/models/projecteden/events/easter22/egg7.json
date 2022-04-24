@@ -1,6 +1,5 @@
 {
 	"parent": "projecteden/events/easter22/egg_template",
-	"texture_size": [256, 256],
 	"textures": {
 		"particle": "projecteden/events/easter22/egg7"
 	},
