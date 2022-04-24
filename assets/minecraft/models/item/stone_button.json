@@ -37,6 +37,9 @@
 		{"predicate": {"custom_model_data": 221}, "model": "projecteden/costumes/hat/misc/rainbow_headband"},
 		{"predicate": {"custom_model_data": 222}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_steve"},
 		{"predicate": {"custom_model_data": 223}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_alex"},
+		{"predicate": {"custom_model_data": 224}, "model": "projecteden/costumes/hat/misc/hat1"},
+		{"predicate": {"custom_model_data": 225}, "model": "projecteden/costumes/hat/misc/hat2"},
+		{"predicate": {"custom_model_data": 226}, "model": "projecteden/costumes/hat/misc/hat3"},
 
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/costumes/hat/antlers/black"},
 		{"predicate": {"custom_model_data": 502}, "model": "projecteden/costumes/hat/antlers/brown"},
@@ -93,3 +96,4 @@
 		{"predicate": {"custom_model_data": 950}, "model": "projecteden/costumes/exclusive/hat/bunny_ears"}
 	]
 }
+
