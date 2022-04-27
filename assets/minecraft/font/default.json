@@ -1,22 +1,22 @@
 {
 	"providers": [
-	    {
-	        "type":"bitmap",
-	        "file":"projecteden/ui/gui/gamelobby/scroll.png",
-	        "ascent":19,
-	        "height":133,
-	        "chars": [
-	            "魉辆沩漷秬籽醭泽转洼髌泗穙邸甬粽轩乏袭说魋廋糠稿膑配丸蝻"
-	        ]
-	    },
-	    
-	    {
-	        "type":"bitmap",
-	        "file":"projecteden/ui/gui/gamelobby/test_bg.png",
-	        "ascent":19,
-	        "height":133,
-	        "chars":["久"]
-	    },
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/gamelobby/scroll.png",
+			"ascent":19,
+			"height":133,
+			"chars": [
+				"魉辆沩漷秬籽醭泽转洼髌泗穙邸甬粽轩乏袭说魋廋糠稿膑配丸蝻"
+			]
+		},
+
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/gamelobby/test_bg.png",
+			"ascent":19,
+			"height":133,
+			"chars":["久"]
+		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/ui/gui/test_center.png",
@@ -1087,6 +1087,14 @@
 			"height": 7,
 			"ascent": 7,
 			"chars": ["⭐"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/birthday.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["🎂"]
 		},
 		
 		{
