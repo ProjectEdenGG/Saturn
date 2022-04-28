@@ -128,6 +128,8 @@
 		{"predicate": {"custom_model_data": 1406}, "model": "projecteden/ui/images/gamelobby/spleef"},
 		{"predicate": {"custom_model_data": 1407}, "model": "projecteden/ui/images/gamelobby/team_deathmatch"},
 		{"predicate": {"custom_model_data": 1408}, "model": "projecteden/ui/images/gamelobby/juggernaut"},
+		{"predicate": {"custom_model_data": 1409}, "model": "projecteden/ui/images/gamelobby/murder"},
+		{"predicate": {"custom_model_data": 1410}, "model": "projecteden/ui/images/gamelobby/hide_and_seek"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/events/easter22/easters_paintbrush"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/events/easter22/egg1"},
