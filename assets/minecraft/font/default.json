@@ -466,7 +466,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/+1.png",
+			"file": "projecteden/font/emojis/twemoji/thumbsup.png",
 			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
@@ -474,7 +474,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/-1.png",
+			"file": "projecteden/font/emojis/twemoji/thumbsdown.png",
 			"purchasable": true,
 			"height": 7,
 			"ascent": 7,
