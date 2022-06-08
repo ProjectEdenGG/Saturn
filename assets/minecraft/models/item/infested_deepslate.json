@@ -1,11 +1,7 @@
 {
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-        "down": "minecraft:block/infested_deepslate_top",
-        "up": "minecraft:block/infested_deepslate_top",
-        "north": "minecraft:block/infested_deepslate",
-        "east": "minecraft:block/infested_deepslate",
-        "south": "minecraft:block/infested_deepslate",
-        "west": "minecraft:block/infested_deepslate"
-  }
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"down": "block/infested_deepslate_top",
+		"north": "block/infested_deepslate"
+	}
 }
