@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/copper_block",
-  "textures": {
-    "all": "minecraft:block/waxed_exposed_cut_copper"
-  }
+	"parent": "minecraft:block/copper_block",
+	"textures": {
+		"all": "block/waxed_exposed_cut_copper"
+	}
 }

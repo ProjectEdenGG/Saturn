@@ -1,7 +1,0 @@
-{
-	"parent": "projecteden/blocks/flora/templates/cross_tall",
-	"textures": {
-		"cross_top": "projecteden/blocks/flora/gladiolus_top",
-		"cross_bottom": "projecteden/blocks/flora/gladiolus_bottom"
-	}
-}

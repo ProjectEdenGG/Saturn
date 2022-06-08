@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "block/soul_torch",
 	"textures": {
 		"0": "block/soul_torch",

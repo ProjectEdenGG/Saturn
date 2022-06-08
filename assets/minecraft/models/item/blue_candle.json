@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:item/template_candle",
-  "textures": {
-    "all": "minecraft:block/blue_candle",
-    "particle": "minecraft:block/blue_candle"
-  }
+	"parent": "minecraft:item/template_candle",
+	"textures": {
+		"particle": "block/blue_candle",
+		"all": "block/blue_candle"
+	}
 }

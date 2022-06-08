@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "block/block",
 	"textures": {
 		"particle": "block/turtle_egg",
