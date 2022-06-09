@@ -1,1 +1,8 @@
-{"parent":"block/cube_column_horizontal","textures":{"side":"projecteden/blocks/shoji/shoji_side","end":"projecteden/blocks/shoji/shoji_side_top","particle":"projecteden/blocks/shoji/shoji_side"}}
+{
+	"parent": "block/cube_column_horizontal",
+	"textures": {
+		"particle": "projecteden/blocks/misc/shoji_side",
+		"side": "projecteden/blocks/misc/shoji_side",
+		"end": "projecteden/blocks/misc/shoji_side_top"
+	}
+}
