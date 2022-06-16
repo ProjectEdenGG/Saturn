@@ -1,11 +1,12 @@
 {
+	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
 		"texture": "entity/3dtiles/minecart",
 		"top": "block/tnt_top",
 		"side": "block/tnt_side",
 		"bottom": "block/tnt_bottom",
-		"particle": "entity/3dtiles/minecart"
+		"particle": ""
 	},
 	"elements": [
 		{

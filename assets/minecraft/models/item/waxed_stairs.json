@@ -1,5 +1,12 @@
 {
 	"parent": "block/block",
+	"textures": {
+		"side1": "",
+		"side2": "",
+		"inner": "",
+		"double1": "",
+		"top": ""
+	},
 	"elements": [
 		{
 			"from": [0, 0, 0],

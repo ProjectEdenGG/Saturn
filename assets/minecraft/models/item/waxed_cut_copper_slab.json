@@ -2,7 +2,6 @@
 	"parent": "minecraft:block/slab",
 	"textures": {
 		"bottom": "block/waxed_cut_copper",
-		"top": "block/waxed_cut_copper",
 		"side": "block/waxed_copper_double1"
 	}
 }
