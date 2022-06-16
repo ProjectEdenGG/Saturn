@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/andesite",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/functional/waystone"},
-		{"predicate": {"custom_model_data": 2}, "model": "projecteden/functional/waystone_activated"}
-	]
-}
