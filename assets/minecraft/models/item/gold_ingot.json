@@ -8,11 +8,8 @@
 		{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/trophies/bearfair21_minigolf"},
 		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/trophies/pugmas21"},
 		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/trophies/easter22"},
-		{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/trophies/bearfair21_cake"},	
-		
+		{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/trophies/bearfair21_cake"},
+
 		{"predicate": {"custom_model_data": 100}, "model": "projecteden/ui/event_token"}
-
-
-
 	]
 }
