@@ -3,9 +3,12 @@
 	"textures": {
 		"layer0": "minecraft:item/paper"
 	},
-	"overrides": [
-		{"predicate": {"custom_model_data": -1}, "model": "Don't use model id's between 1 - 899, 2000 - 2023"},
 
+	"comment1": "===========================================================",
+	"comment2": "==== Don't use model id's between 1 - 899, 2000 - 2023 ====",
+	"comment3": "===========================================================",
+
+	"overrides": [
 		{"predicate": {"custom_model_data": 900}, "model": "projecteden/ui/socialmedia/youtube"},
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/ui/socialmedia/discord"},
 		{"predicate": {"custom_model_data": 902}, "model": "projecteden/ui/socialmedia/instagram"},
