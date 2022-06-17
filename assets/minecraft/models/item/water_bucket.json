@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/water_bucket"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/functional/infinite_water_bucket"}
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/functional/infinite_water_bucket"}
 	]
 }
