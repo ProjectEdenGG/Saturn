@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/tripwire",
+		"particle": "projecteden/blocks/misc/transparent",
 		"texture": "block/tripwire"
 	},
 	"elements": [
