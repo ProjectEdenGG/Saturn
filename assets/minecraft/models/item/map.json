@@ -27,9 +27,7 @@
 		{"predicate": {"custom_model_data": 20}, "model": "projecteden/decoration/plushies/player/waving/icon"},
 
 		{"predicate": {"custom_model_data": 30}, "model": "projecteden/ui/icon"},
-		{"predicate": {"custom_model_data": 31}, "model": "minecraft:item/diamond_sword"},
-		{"predicate": {"custom_model_data": 32}, "model": "projecteden/costumes/hat/icon"},
-
-		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/ui/gui/100"}
+		{"predicate": {"custom_model_data": 31}, "model": "projecteden/costumes/hat/icon"},
+		{"predicate": {"custom_model_data": 32}, "model": "projecteden/misc/icon"}
 	]
 }

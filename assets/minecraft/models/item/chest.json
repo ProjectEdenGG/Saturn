@@ -3,15 +3,6 @@
 	"textures": {
 		"particle": "block/oak_planks"
 	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/events/bearfair21/fishingloot/treasure_chest"},
-		{"predicate": {"custom_model_data": 101}, "model": "projecteden/events/bearfair21/present_cube_1"},
-		{"predicate": {"custom_model_data": 102}, "model": "projecteden/events/bearfair21/present_cube_2"},
-		{"predicate": {"custom_model_data": 103}, "model": "projecteden/events/bearfair21/present_cube_3"},
-		{"predicate": {"custom_model_data": 201}, "model": "projecteden/events/bearfair21/present_rect_1"},
-		{"predicate": {"custom_model_data": 202}, "model": "projecteden/events/bearfair21/present_rect_2"},
-		{"predicate": {"custom_model_data": 203}, "model": "projecteden/events/bearfair21/present_rect_3"}
-	],
 	"display": {
 		"gui": {
 			"rotation": [30, 45, 0],
