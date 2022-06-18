@@ -88,6 +88,7 @@
 		{"predicate": {"custom_model_data": 1507}, "model": "projecteden/items/armor/filled/leggings"},
 		{"predicate": {"custom_model_data": 1508}, "model": "projecteden/items/armor/filled/boots"},
 		{"predicate": {"custom_model_data": 1509}, "model": "projecteden/ui/filler_item"},
+		{"predicate": {"custom_model_data": 1510}, "model": "projecteden/ui/event_token"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/items/envelope_2"},
