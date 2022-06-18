@@ -1,5 +1,4 @@
 {
-	"parent": "block/block",
 	"textures": {
 		"texture": "entity/3dtiles/minecart",
 		"top": "block/furnace_top",
