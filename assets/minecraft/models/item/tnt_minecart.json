@@ -1,5 +1,4 @@
 {
-	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
 		"texture": "entity/3dtiles/minecart",
