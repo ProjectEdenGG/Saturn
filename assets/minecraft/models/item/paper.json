@@ -226,6 +226,7 @@
 		{"predicate": {"custom_model_data": 5900}, "model": "projecteden/functional/dye_station"},
 		{"predicate": {"custom_model_data": 5901}, "model": "projecteden/functional/waystone"},
 		{"predicate": {"custom_model_data": 5902}, "model": "projecteden/functional/waystone_activated"},
+		{"predicate": {"custom_model_data": 5903}, "model": "projecteden/functional/infinite_water_bucket"},
 
 		{"predicate": {"custom_model_data": 6000}, "model": "projecteden/decoration/cabinets/handle_1"},
 		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/decoration/cabinets/handle_2"},
