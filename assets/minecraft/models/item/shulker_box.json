@@ -5,6 +5,22 @@
 		"layer0": "minecraft:item/shulker_box"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/functional/backpacks/backpack"}
+		{"predicate": {"custom_model_data": 1}, "model": "projecteden/functional/backpacks/backpack"},
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/functional/backpacks/backpack_red"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/functional/backpacks/backpack_orange"},
+		{"predicate": {"custom_model_data": 4}, "model": "projecteden/functional/backpacks/backpack_yellow"},
+		{"predicate": {"custom_model_data": 5}, "model": "projecteden/functional/backpacks/backpack_lime"},
+		{"predicate": {"custom_model_data": 6}, "model": "projecteden/functional/backpacks/backpack_green"},
+		{"predicate": {"custom_model_data": 7}, "model": "projecteden/functional/backpacks/backpack_cyan"},
+		{"predicate": {"custom_model_data": 8}, "model": "projecteden/functional/backpacks/backpack_light_blue"},
+		{"predicate": {"custom_model_data": 9}, "model": "projecteden/functional/backpacks/backpack_blue"},
+		{"predicate": {"custom_model_data": 10}, "model": "projecteden/functional/backpacks/backpack_purple"},
+		{"predicate": {"custom_model_data": 11}, "model": "projecteden/functional/backpacks/backpack_magenta"},
+		{"predicate": {"custom_model_data": 12}, "model": "projecteden/functional/backpacks/backpack_pink"},
+		{"predicate": {"custom_model_data": 13}, "model": "projecteden/functional/backpacks/backpack_brown"},
+		{"predicate": {"custom_model_data": 14}, "model": "projecteden/functional/backpacks/backpack_black"},
+		{"predicate": {"custom_model_data": 15}, "model": "projecteden/functional/backpacks/backpack_gray"},
+		{"predicate": {"custom_model_data": 16}, "model": "projecteden/functional/backpacks/backpack_light_gray"},
+		{"predicate": {"custom_model_data": 17}, "model": "projecteden/functional/backpacks/backpack_white"}
 	]
 }
