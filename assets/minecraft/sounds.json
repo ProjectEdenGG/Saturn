@@ -378,5 +378,12 @@
       "sounds": [
          "custom/noteblock/taiko"
       ]
+   },
+   "custom.minigames.sabotage.alarm": {
+      "subtitle": "Alarm blares",
+      "sounds": [
+         "custom/minigames/sabotage/alarm"
+      ]
    }
 }
+

@@ -168,6 +168,13 @@
 		},
 		{
 			"type":"bitmap",
+			"file":"projecteden/ui/red_box_20.png",
+			"ascent":250,
+			"height":2000,
+			"chars":["滍"]
+		},
+		{
+			"type":"bitmap",
 			"file":"projecteden/ui/images/storegallery/cart_tooltip.png",
 			"ascent":1,
 			"height":40,
