@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/ui/images/gamelobby/template",
+	"textures": {
+		"0": "projecteden/ui/images/gamelobby/quake"
+	}
+}
