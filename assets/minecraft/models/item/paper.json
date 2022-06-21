@@ -77,6 +77,9 @@
 		{"predicate": {"custom_model_data": 1408}, "model": "projecteden/ui/images/gamelobby/juggernaut"},
 		{"predicate": {"custom_model_data": 1409}, "model": "projecteden/ui/images/gamelobby/murder"},
 		{"predicate": {"custom_model_data": 1410}, "model": "projecteden/ui/images/gamelobby/hide_and_seek"},
+		{"predicate": {"custom_model_data": 1411}, "model": "projecteden/ui/images/gamelobby/dogfighting"},
+		{"predicate": {"custom_model_data": 1412}, "model": "projecteden/ui/images/gamelobby/quake"},
+		{"predicate": {"custom_model_data": 1413}, "model": "projecteden/ui/images/gamelobby/one_in_the_quiver"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
