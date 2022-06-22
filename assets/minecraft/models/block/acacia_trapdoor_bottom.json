@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "block/block",
 	"textures": {
 		"1": "block/acacia_fixes",

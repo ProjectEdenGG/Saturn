@@ -1,8 +1,7 @@
 {
 	"textures": {
 		"2": "projecteden/vanilla/block/spruce_trapdoor",
-		"3": "projecteden/vanilla/block/netherite_block",
-		"particle": "projecteden/block/vanilla/spruce_trapdoor"
+		"3": "projecteden/vanilla/block/netherite_block"
 	},
 	"elements": [
 		{

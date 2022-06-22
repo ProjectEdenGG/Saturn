@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "block/block",
 	"textures": {
 		"4": "block/stonecutter_saw_bottom",
