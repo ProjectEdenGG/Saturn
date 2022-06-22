@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "block/thin_block",
 	"textures": {
 		"0": "block/warped_trapdoor",

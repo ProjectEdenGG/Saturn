@@ -1,5 +1,4 @@
 {
-	"credit": "Created by Stridey",
 	"parent": "block/cube",
 	"textures": {
 		"0": "block/dispenser_top",
