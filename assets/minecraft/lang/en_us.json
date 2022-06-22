@@ -5,5 +5,8 @@
 	"multiplayer.downloadingTerrain":"鄜",
 	"sleep.not_possible": "",
   	"sleep.players_sleeping": "",
- 	"sleep.skipping_night": ""
+ 	"sleep.skipping_night": "",
+ 	"block.minecraft.ochre_froglight": "Verdant Froglight",
+  	"block.minecraft.verdant_froglight": "Pearlescent Froglight",
+  	"block.minecraft.pearlescent_froglight": "Ochre Froglight"
 }
