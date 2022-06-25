@@ -1334,6 +1334,20 @@
 			"ascent": 11,
 			"height": 16,
 			"chars": ["邿"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/smelting_recipe.png",
+			"ascent":13,
+			"height":73,
+			"chars":["糯"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/crafting_recipe.png",
+			"ascent":13,
+			"height":73,
+			"chars":["魁"]
 		}
 	]
 }
