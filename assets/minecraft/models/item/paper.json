@@ -514,6 +514,10 @@
 		{"predicate": {"custom_model_data": 8202}, "model": "projecteden/decoration/flags/medieval/3"},
 		{"predicate": {"custom_model_data": 8203}, "model": "projecteden/decoration/flags/medieval/4"},
 
+		{"predicate": {"custom_model_data": 8300}, "model": "projecteden/decoration/signs/avontyre/butcher"},
+		{"predicate": {"custom_model_data": 8301}, "model": "projecteden/decoration/signs/avontyre/fletcher"},
+		{"predicate": {"custom_model_data": 8302}, "model": "projecteden/decoration/signs/avontyre/tailor"},
+
 		{"predicate": {"custom_model_data": 8500}, "model": "projecteden/misc/invisibarrier"},
 		{"predicate": {"custom_model_data": 8501}, "model": "projecteden/misc/max_size"},
 
