@@ -343,6 +343,12 @@
          "custom/misc/party_horn_2"
       ]
    },
+   "custom.misc.you_got_mail": {
+      "subtitle": "You got mail!",
+      "sounds": [
+         "custom/misc/you_got_mail"
+      ]
+   },
    "custom.noteblock.marimba": {
       "subtitle": "Note Block plays",
       "sounds": [
