@@ -1,7 +1,9 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "item/templates/template_boots",
+	"texture_size": [64, 32],
 	"textures": {
-		"layer0": "minecraft:item/iron_boots"
+		"0": "models/armor/iron_layer_1",
+		"particle": "models/armor/iron_layer_1"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/armor/wither/boots"}

@@ -1,0 +1,8 @@
+{
+	"parent": "item/templates/template_chestplate",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "models/armor/chainmail_layer_1",
+		"particle": "models/armor/chainmail_layer_1"
+	}
+}
