@@ -13,7 +13,7 @@
     3. Join the server, and run command `/rp local true` to tell the server you have the resource pack installed locally
 
 4. Update periodically by double clicking on the `update.bat` file in `.minecraft/resourcepacks/Saturn/`
-  
+
 ## Contact
 [<img src="https://discordapp.com/api/guilds/132680070480396288/widget.png?style=banner3">](https://discord.projecteden.gg)
 
