@@ -4,7 +4,7 @@
 ## Installation
 1. Install git from https://git-scm.com/downloads (accept all default settings)
 2. Run the following in Windows command prompt
-    
+
   `curl https://dl.projecteden.gg/saturn.bat --output saturn.bat && saturn.bat`
 
 3. On Minecraft:
