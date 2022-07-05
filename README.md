@@ -6,7 +6,7 @@
 2. Run the following in Windows command prompt
     
   `curl https://dl.projecteden.gg/saturn.bat --output saturn.bat && saturn.bat`
-  
+
 3. On Minecraft:
     1. Go into your options, and set Saturn as an active resource pack
     2. Edit your server list entry, and set `Server Resource Packs` to `Disabled`
