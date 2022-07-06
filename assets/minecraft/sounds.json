@@ -129,11 +129,6 @@
          "custom/ambient/birds/bird_16"
       ]
    },
-   "custom.ambient.birds.blackbird_1": {
-      "sounds": [
-         "custom/ambient/birds/blackbird_1"
-      ]
-   },
    "custom.ambient.birds.bluebird_1": {
       "sounds": [
          "custom/ambient/birds/bluebird_1"
@@ -142,11 +137,6 @@
    "custom.ambient.birds.bluebird_2": {
       "sounds": [
          "custom/ambient/birds/bluebird_2"
-      ]
-   },
-   "custom.ambient.birds.bluebird_3": {
-      "sounds": [
-         "custom/ambient/birds/bluebird_3"
       ]
    },
    "custom.ambient.birds.budgerigar_1": {
