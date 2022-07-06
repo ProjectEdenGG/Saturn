@@ -1,7 +1,7 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"boat": "#boat",
+		"boat": "entity/chest_boat/oak",
 		"chest_boat": "entity/chest_boat/oak"
 	},
 	"elements": [

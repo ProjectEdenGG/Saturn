@@ -2,8 +2,8 @@
 	"parent": "block/block",
 	"textures": {
 		"chain": "block/chain",
-		"lantern": "#lantern",
-		"particle": "#lantern"
+		"lantern": "block/lantern",
+		"particle": "block/lantern"
 	},
 	"elements": [
 		{
