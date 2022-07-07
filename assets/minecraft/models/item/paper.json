@@ -100,6 +100,8 @@
 		{"predicate": {"custom_model_data": 2054}, "model": "projecteden/items/magic_stain"},
 		{"predicate": {"custom_model_data": 2055}, "model": "projecteden/items/ender_eye_blinking"},
 		{"predicate": {"custom_model_data": 2056}, "model": "projecteden/items/wither_fragment"},
+		{"predicate": {"custom_model_data": 2057}, "model": "projecteden/items/sand_paper"},
+		{"predicate": {"custom_model_data": 2058}, "model": "projecteden/items/red_sand_paper"},
 
 		{"predicate": {"custom_model_data": 2100}, "model": "projecteden/items/electronics/motherboard"},
 		{"predicate": {"custom_model_data": 2101}, "model": "projecteden/items/electronics/controller_unit"},
