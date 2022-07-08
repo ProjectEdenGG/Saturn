@@ -2,7 +2,7 @@
 	"parent": "projecteden/ui/crates/wither/template",
 	"texture_size": [64, 64],
 	"textures": {
-		"particle": "projecteden/ui/crates/boss"
+		"particle": "projecteden/ui/crates/wither"
 	},
 	"elements": [
 		{
