@@ -1,0 +1,131 @@
+{
+	"texture_size": [64, 32],
+	"textures": {
+		"particle": "projecteden/ui/crates/wakka"
+	},
+	"elements": [
+		{
+			"from": [-1, 11, -14],
+			"to": [17, 29, 1],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 12, 0]},
+			"faces": {
+				"north": {"uv": [12, 4, 10, 0], "rotation": 180, "texture": "#particle"},
+				"east": {"uv": [12, 4, 14, 8], "rotation": 90, "texture": "#particle"},
+				"west": {"uv": [8, 4, 10, 8], "rotation": 270, "texture": "#particle"},
+				"up": {"uv": [10, 4, 12, 8], "texture": "#particle"},
+				"down": {"uv": [14, 4, 16, 8], "rotation": 180, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [0, 12, -13],
+			"to": [16, 28, 0],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 12, 0]},
+			"faces": {
+				"north": {"uv": [4, 4, 2, 0], "rotation": 180, "texture": "#particle"},
+				"east": {"uv": [4, 4, 6, 8], "rotation": 90, "texture": "#particle"},
+				"south": {"uv": [8, 0, 6, 4], "texture": "#particle"},
+				"west": {"uv": [0, 4, 2, 8], "rotation": 270, "texture": "#particle"},
+				"up": {"uv": [2, 4, 4, 8], "texture": "#particle"},
+				"down": {"uv": [6, 4, 8, 8], "rotation": 180, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [15, 15.4, 0.9],
+			"to": [15, 17.4, 2.9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 13, 7]},
+			"faces": {
+				"east": {"uv": [6, 0, 6.25, 0.5], "rotation": 90, "texture": "#particle"},
+				"west": {"uv": [6, 0, 6.25, 0.5], "rotation": 270, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [15, 11.4, 0.9],
+			"to": [15, 13.4, 2.9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 13, 7]},
+			"faces": {
+				"east": {"uv": [6, 0, 6.25, 0.5], "rotation": 90, "texture": "#particle"},
+				"west": {"uv": [6, 0, 6.25, 0.5], "rotation": 270, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [14, 25.44564, 5.64319],
+			"to": [16, 25.44564, 7.64319],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 25.44564, 6.74319]},
+			"faces": {
+				"up": {"uv": [6, 0, 6.25, 0.5], "texture": "#particle"},
+				"down": {"uv": [6, 0, 6.25, 0.5], "rotation": 180, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [10, 25.44564, 5.64319],
+			"to": [12, 25.44564, 7.64319],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 25.44564, 6.74319]},
+			"faces": {
+				"up": {"uv": [6, 0, 6.25, 0.5], "texture": "#particle"},
+				"down": {"uv": [6, 0, 6.25, 0.5], "rotation": 180, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [6, 25.44564, 5.64319],
+			"to": [8, 25.44564, 7.64319],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 25.44564, 6.74319]},
+			"faces": {
+				"up": {"uv": [6, 0, 6.25, 0.5], "texture": "#particle"},
+				"down": {"uv": [6, 0, 6.25, 0.5], "rotation": 180, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [2, 25.44564, 5.64319],
+			"to": [4, 25.44564, 7.64319],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 25.44564, 6.74319]},
+			"faces": {
+				"up": {"uv": [6, 0, 6.25, 0.5], "texture": "#particle"},
+				"down": {"uv": [6, 0, 6.25, 0.5], "rotation": 180, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [15, 19.4, 0.9],
+			"to": [15, 21.4, 2.9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 13, 7]},
+			"faces": {
+				"east": {"uv": [6, 0, 6.25, 0.5], "rotation": 90, "texture": "#particle"},
+				"west": {"uv": [6, 0, 6.25, 0.5], "rotation": 270, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [1, 13.4, 0.9],
+			"to": [1, 15.4, 2.9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 13, 7]},
+			"faces": {
+				"east": {"uv": [6, 0, 6.25, 0.5], "rotation": 90, "texture": "#particle"},
+				"west": {"uv": [6, 0, 6.25, 0.5], "rotation": 270, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [1, 17.4, 0.9],
+			"to": [1, 19.4, 2.9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 13, 7]},
+			"faces": {
+				"east": {"uv": [6, 0, 6.25, 0.5], "rotation": 90, "texture": "#particle"},
+				"west": {"uv": [6, 0, 6.25, 0.5], "rotation": 270, "texture": "#particle"}
+			}
+		},
+		{
+			"from": [1, 21.4, 0.9],
+			"to": [1, 23.4, 2.9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [15, 13, 7]},
+			"faces": {
+				"east": {"uv": [6, 0, 6.25, 0.5], "rotation": 90, "texture": "#particle"},
+				"west": {"uv": [6, 0, 6.25, 0.5], "rotation": 270, "texture": "#particle"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "chest_lid_open",
+			"origin": [8, 3, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+		}
+	]
+}
