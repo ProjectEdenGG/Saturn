@@ -1,4 +1,5 @@
 {
+	"parent": "projecteden/ui/crates/wakka/template",
 	"texture_size": [64, 32],
 	"textures": {
 		"particle": "projecteden/ui/crates/wakka"
