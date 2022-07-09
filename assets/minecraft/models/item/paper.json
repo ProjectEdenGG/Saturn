@@ -522,7 +522,7 @@
 		{"predicate": {"custom_model_data": 8300}, "model": "projecteden/decoration/signs/avontyre/butcher"},
 		{"predicate": {"custom_model_data": 8301}, "model": "projecteden/decoration/signs/avontyre/fletcher"},
 		{"predicate": {"custom_model_data": 8302}, "model": "projecteden/decoration/signs/avontyre/tailor"},
-		{"predicate": {"custom_model_data": 8303}, "model": "projecteden/decoration/signs/avontyre/baker"},
+		{"predicate": {"custom_model_data": 8303}, "model": "projecteden/decoration/signs/avontyre/bakery"},
 		{"predicate": {"custom_model_data": 8304}, "model": "projecteden/decoration/signs/avontyre/blacksmith"},
 		{"predicate": {"custom_model_data": 8305}, "model": "projecteden/decoration/signs/avontyre/carpenter"},
 		{"predicate": {"custom_model_data": 8306}, "model": "projecteden/decoration/signs/avontyre/cartographer"},
