@@ -1,6 +1,6 @@
 {
 	"parent": "projecteden/decoration/signs/avontyre/template_sign",
 	"textures": {
-		"0": "projecteden/decoration/signs/avontyre/general_store"
+		"0": "projecteden/decoration/signs/avontyre/flour_mill"
 	}
 }
