@@ -484,6 +484,12 @@
          "custom/misc/you_got_mail"
       ]
    },
+   "custom.misc.flashbang": {
+      "subtitle": "Flashbang!",
+      "sounds": [
+         "custom/misc/flashbang"
+      ]
+   },
    "custom.noteblock.marimba": {
       "subtitle": "Note Block plays",
       "sounds": [
