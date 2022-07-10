@@ -3,7 +3,7 @@
     "textures": {
         "bottom": "block/observer_back_on",
         "front": "block/observer_front_powered",
-        "side": "block/observer_side_powered",
+        "side": "block/observer_side",
         "top": "block/observer_top_powered"
     },
     "elements": [
