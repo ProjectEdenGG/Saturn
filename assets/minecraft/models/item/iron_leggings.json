@@ -5,6 +5,6 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/armor/wither/leggings"},
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/armor/warden/leggings"}
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/armor/warden/leggings"}
 	]
 }
