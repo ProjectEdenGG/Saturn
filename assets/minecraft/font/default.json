@@ -521,6 +521,14 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/red_heart.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["♥"]
+		},
+		{
+			"type": "bitmap",
 			"file": "projecteden/font/emojis/twemoji/zzz.png",
 			"purchasable": true,
 			"height": 7,
