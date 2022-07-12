@@ -652,6 +652,8 @@
 		{"predicate": {"custom_model_data": 20014}, "model": "projecteden/blocks/wood/crimson/carved_crimson_planks"},
 		{"predicate": {"custom_model_data": 20015}, "model": "projecteden/blocks/wood/warped/vertical_warped_planks"},
 		{"predicate": {"custom_model_data": 20016}, "model": "projecteden/blocks/wood/warped/carved_warped_planks"},
+		{"predicate": {"custom_model_data": 20017}, "model": "projecteden/blocks/wood/mangrove/vertical_mangrove_planks"},
+		{"predicate": {"custom_model_data": 20018}, "model": "projecteden/blocks/wood/mangrove/carved_mangrove_planks"},
 		
 		{"predicate": {"custom_model_data": 20050}, "model": "block/note_block"},
 		{"predicate": {"custom_model_data": 20051}, "model": "projecteden/blocks/crates/crate_apple"},
@@ -779,6 +781,7 @@
 		{"predicate": {"custom_model_data": 20361}, "model": "projecteden/blocks/stones/stone_bricks/stone_bricks_pillar"},
 		{"predicate": {"custom_model_data": 20362}, "model": "projecteden/blocks/stones/deepslate/deepslate_pillar"},
 		{"predicate": {"custom_model_data": 20363}, "model": "projecteden/blocks/stones/blackstone/blackstone_pillar"},
+		{"predicate": {"custom_model_data": 20364}, "model": "projecteden/blocks/stones/purpur/chiseled_purpur"},
 
 		{"predicate": {"custom_model_data": 20400}, "model": "block/note_block"},
 		{"predicate": {"custom_model_data": 20401}, "model": "projecteden/blocks/lanterns/paper/oak_paper_lantern"},
