@@ -35,6 +35,8 @@
 		{"predicate": {"custom_model_data": 35}, "model": "projecteden/decoration/dyeable/potions/groups/17"},
 		{"predicate": {"custom_model_data": 36}, "model": "projecteden/decoration/dyeable/potions/groups/18"},
 
+		{"predicate": {"custom_model_data": 100}, "model": "projecteden/decoration/trash_can"},
+
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
 		{"predicate": {"custom_model_data": 202}, "model": "projecteden/decoration/plushies/mob/enderman"},
