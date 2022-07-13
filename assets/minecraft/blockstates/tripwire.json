@@ -308,7 +308,7 @@
                 "disarmed": "false",
                 "powered": "false"
             },
-            "apply": {"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_orange"}
+            "apply": {"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_red"}
         },
         {
             "when": {
@@ -320,13 +320,49 @@
                 "disarmed": "false",
                 "powered": "false"
             },
-            "apply": {"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_blue"}
+            "apply": {"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_orange"}
         },
         {
             "when": {
                 "north": "false",
                 "east": "true",
                 "south": "false",
+                "west": "false",
+                "attached": "true",
+                "disarmed": "false",
+                "powered": "false"
+            },
+            "apply": {"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_yellow"}
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "true",
+                "south": "false",
+                "west": "false",
+                "attached": "true",
+                "disarmed": "false",
+                "powered": "false"
+            },
+            "apply": {"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_light_blue"}
+        },
+        {
+            "when": {
+                "north": "false",
+                "east": "false",
+                "south": "true",
+                "west": "false",
+                "attached": "true",
+                "disarmed": "false",
+                "powered": "false"
+            },
+            "apply": {"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_dark_blue"}
+        },
+        {
+            "when": {
+                "north": "true",
+                "east": "false",
+                "south": "true",
                 "west": "false",
                 "attached": "true",
                 "disarmed": "false",
@@ -336,9 +372,9 @@
         },
         {
             "when": {
-                "north": "true",
+                "north": "false",
                 "east": "true",
-                "south": "false",
+                "south": "true",
                 "west": "false",
                 "attached": "true",
                 "disarmed": "false",
@@ -348,8 +384,8 @@
         },
         {
             "when": {
-                "north": "false",
-                "east": "false",
+                "north": "true",
+                "east": "true",
                 "south": "true",
                 "west": "false",
                 "attached": "true",
@@ -360,10 +396,10 @@
         },
         {
             "when": {
-                "north": "true",
+                "north": "false",
                 "east": "false",
-                "south": "true",
-                "west": "false",
+                "south": "false",
+                "west": "true",
                 "attached": "true",
                 "disarmed": "false",
                 "powered": "false"
@@ -372,10 +408,10 @@
         },
         {
             "when": {
-                "north": "false",
-                "east": "true",
-                "south": "true",
-                "west": "false",
+                "north": "true",
+                "east": "false",
+                "south": "false",
+                "west": "true",
                 "attached": "true",
                 "disarmed": "false",
                 "powered": "false"
@@ -384,10 +420,10 @@
         },
         {
             "when": {
-                "north": "true",
+                "north": "false",
                 "east": "true",
-                "south": "true",
-                "west": "false",
+                "south": "false",
+                "west": "true",
                 "attached": "true",
                 "disarmed": "false",
                 "powered": "false"
@@ -401,8 +437,8 @@
         },
         {
             "when": {
-                "north": "false",
-                "east": "false",
+                "north": "true",
+                "east": "true",
                 "south": "false",
                 "west": "true",
                 "attached": "true",
@@ -418,9 +454,9 @@
         },
         {
             "when": {
-                "north": "true",
+                "north": "false",
                 "east": "false",
-                "south": "false",
+                "south": "true",
                 "west": "true",
                 "attached": "true",
                 "disarmed": "false",
@@ -432,42 +468,6 @@
                 {"model": "projecteden/blocks/rocks/pebbles_2","y": 180},
                 {"model": "projecteden/blocks/rocks/pebbles_2","y": 270}
             ]
-        },
-        {
-            "when": {
-                "north": "false",
-                "east": "true",
-                "south": "false",
-                "west": "true",
-                "attached": "true",
-                "disarmed": "false",
-                "powered": "false"
-            },
-            "apply": {"model": "block/gray_concrete"}
-        },
-        {
-            "when": {
-                "north": "true",
-                "east": "true",
-                "south": "false",
-                "west": "true",
-                "attached": "true",
-                "disarmed": "false",
-                "powered": "false"
-            },
-            "apply": {"model": "block/gray_concrete"}
-        },
-        {
-            "when": {
-                "north": "false",
-                "east": "false",
-                "south": "true",
-                "west": "true",
-                "attached": "true",
-                "disarmed": "false",
-                "powered": "false"
-            },
-            "apply": {"model": "block/gray_concrete"}
         },
         {
             "when": {
