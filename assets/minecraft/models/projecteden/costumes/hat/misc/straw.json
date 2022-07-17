@@ -189,30 +189,6 @@
 			}
 		},
 		{
-			"from": [11.5, 1, -7.5],
-			"to": [12.1, 2.8, -0.5],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -28, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 0.6, 1.8], "texture": "#5"},
-				"east": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"south": {"uv": [0, 0, 0.6, 1.8], "texture": "#5"},
-				"west": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"up": {"uv": [0, 0, 0.6, 7], "texture": "#5"}
-			}
-		},
-		{
-			"from": [4.5, 1, -0.5],
-			"to": [11.5, 2.8, 0.1],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -28, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"east": {"uv": [0, 0, 0.6, 1.8], "texture": "#5"},
-				"south": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"west": {"uv": [0, 0, 0.6, 1.8], "texture": "#5"},
-				"up": {"uv": [0, 0, 7, 0.6], "texture": "#5"}
-			}
-		},
-		{
 			"from": [4.5, 1.9, -7.5],
 			"to": [11.5, 4.9, -0.5],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -28, 8]},
@@ -226,27 +202,55 @@
 			}
 		},
 		{
+			"name": "band",
+			"from": [11.5, 1, -7.5],
+			"to": [12.1, 2.8, -0.5],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -28, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.6, 1.8], "texture": "#5", "tintindex": 0},
+				"east": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"south": {"uv": [0, 0, 0.6, 1.8], "texture": "#5", "tintindex": 0},
+				"west": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"up": {"uv": [0, 0, 0.6, 7], "texture": "#5", "tintindex": 0}
+			}
+		},
+		{
+			"name": "band",
+			"from": [4.5, 1, -0.5],
+			"to": [11.5, 2.8, 0.1],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -28, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"east": {"uv": [0, 0, 0.6, 1.8], "texture": "#5", "tintindex": 0},
+				"south": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"west": {"uv": [0, 0, 0.6, 1.8], "texture": "#5", "tintindex": 0},
+				"up": {"uv": [0, 0, 7, 0.6], "texture": "#5", "tintindex": 0}
+			}
+		},
+		{
+			"name": "band",
 			"from": [3.8, 1, -7.5],
 			"to": [4.5, 2.8, -0.5],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -28, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 0.7, 1.8], "texture": "#5"},
-				"east": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"south": {"uv": [0, 0, 0.7, 1.8], "texture": "#5"},
-				"west": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"up": {"uv": [0, 0, 0.7, 7], "texture": "#5"}
+				"north": {"uv": [0, 0, 0.7, 1.8], "texture": "#5", "tintindex": 0},
+				"east": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"south": {"uv": [0, 0, 0.7, 1.8], "texture": "#5", "tintindex": 0},
+				"west": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"up": {"uv": [0, 0, 0.7, 7], "texture": "#5", "tintindex": 0}
 			}
 		},
 		{
+			"name": "band",
 			"from": [4.5, 1, -8],
 			"to": [11.5, 2.8, -7.5],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -28, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"east": {"uv": [0, 0, 0.5, 1.8], "texture": "#5"},
-				"south": {"uv": [0, 0, 7, 1.8], "texture": "#5"},
-				"west": {"uv": [0, 0, 0.5, 1.8], "texture": "#5"},
-				"up": {"uv": [0, 0, 7, 0.5], "texture": "#5"}
+				"north": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"east": {"uv": [0, 0, 0.5, 1.8], "texture": "#5", "tintindex": 0},
+				"south": {"uv": [0, 0, 7, 1.8], "texture": "#5", "tintindex": 0},
+				"west": {"uv": [0, 0, 0.5, 1.8], "texture": "#5", "tintindex": 0},
+				"up": {"uv": [0, 0, 7, 0.5], "texture": "#5", "tintindex": 0}
 			}
 		}
 	],
@@ -295,7 +299,31 @@
 			"name": "straw hat",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+			"children": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				{
+					"name": "band",
+					"origin": [8, -28, 8],
+					"color": 0,
+					"children": [17, 18, 19, 20]
+				}
+			]
 		}
 	]
 }

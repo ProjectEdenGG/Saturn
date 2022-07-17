@@ -863,7 +863,6 @@
 		{"predicate": {"custom_model_data": 22311}, "model": "projecteden/costumes/hat/misc/halo_circle"},
 		{"predicate": {"custom_model_data": 22312}, "model": "projecteden/costumes/hat/misc/halo_circleoid"},
 		{"predicate": {"custom_model_data": 22313}, "model": "projecteden/costumes/hat/misc/crown_queen"},
-		{"predicate": {"custom_model_data": 22314}, "model": "projecteden/costumes/hat/misc/straw"},
 		{"predicate": {"custom_model_data": 22315}, "model": "projecteden/costumes/hat/misc/santa"},
 		{"predicate": {"custom_model_data": 22316}, "model": "projecteden/costumes/hat/misc/groucho"},
 		{"predicate": {"custom_model_data": 22317}, "model": "projecteden/costumes/hat/misc/walrus"},
