@@ -141,20 +141,17 @@
          "step/stone6"
       ]
    },
-
    "weather.rain": {
-      "replace": true,
+      "replace":true,
       "sounds":[
          {"name": "custom/ambient/weather/rain_1", "weight": 250, "volume": 1 },
          {"name": "custom/ambient/weather/rain_2", "weight": 120, "volume": 1 },
-
          {"name": "custom/ambient/weather/rain_drop_1", "weight": 15 },
          {"name": "custom/ambient/weather/rain_drop_2", "weight": 15 },
          {"name": "custom/ambient/weather/rain_drop_3", "weight": 15 },
          {"name": "custom/ambient/weather/rain_drop_4", "weight": 15 },
          {"name": "custom/ambient/weather/rain_drop_5", "weight": 15 },
          {"name": "custom/ambient/weather/rain_drop_6", "weight": 15 },
-
          { "name": "custom/ambient/weather/thunder_distant_1", "weight": 3, "volume": 1 },
          { "name": "custom/ambient/weather/thunder_distant_2", "weight": 3, "volume": 1 },
          { "name": "custom/ambient/weather/thunder_distant_3", "weight": 3, "volume": 1 },
@@ -165,20 +162,17 @@
       ],
       "subtitle": "subtitles.weather.rain"
    },
-
    "weather.rain.above": {
-      "replace": true,
+      "replace":true,
       "sounds": [
          {"name": "custom/ambient/weather/rain_1", "weight": 250, "volume": 0.7 },
          {"name": "custom/ambient/weather/rain_2", "weight": 120, "volume": 0.7 },
-
          {"name": "custom/ambient/weather/rain_drop_1", "weight": 20, "volume": 0.5 },
          {"name": "custom/ambient/weather/rain_drop_2", "weight": 20, "volume": 0.5 },
          {"name": "custom/ambient/weather/rain_drop_3", "weight": 20, "volume": 0.5 },
          {"name": "custom/ambient/weather/rain_drop_4", "weight": 20, "volume": 0.5 },
          {"name": "custom/ambient/weather/rain_drop_5", "weight": 20, "volume": 0.5 },
          {"name": "custom/ambient/weather/rain_drop_6", "weight": 20, "volume": 0.5 },
-
          { "name": "custom/ambient/weather/thunder_distant_1", "weight": 3, "volume": 0.75 },
          { "name": "custom/ambient/weather/thunder_distant_2", "weight": 3, "volume": 0.75 },
          { "name": "custom/ambient/weather/thunder_distant_3", "weight": 3, "volume": 0.75 },
@@ -189,9 +183,8 @@
       ],
       "subtitle": "subtitles.weather.rain"
    },
-
    "entity.lightning_bolt.thunder": {
-      "replace": true,
+      "replace":true,
       "sounds": [
          { "name": "ambient/weather/thunder1", "weight": 100, "volume": 4, "pitch": 1.1},
          { "name": "ambient/weather/thunder2", "weight": 100, "volume": 4, "pitch": 1.1},
@@ -602,4 +595,3 @@
       ]
    }
 }
-
