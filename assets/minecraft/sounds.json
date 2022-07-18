@@ -190,7 +190,7 @@
       "subtitle": "subtitles.weather.rain"
    },
 
-   "entity.lightning_bolt.thunder": { 
+   "entity.lightning_bolt.thunder": {
       "replace": true,
       "sounds": [
          { "name": "ambient/weather/thunder1", "weight": 100, "volume": 4, "pitch": 1.1},
@@ -211,7 +211,7 @@
       ],
       "subtitle": "subtitles.entity.lightning_bolt.thunder"
    },
-   
+
 
    "custom.dk_jungle_64": {
       "sounds": [
