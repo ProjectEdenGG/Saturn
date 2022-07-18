@@ -883,11 +883,6 @@
 		{"predicate": {"custom_model_data": 22404}, "model": "projecteden/costumes/hat/horns/demon"},
 		{"predicate": {"custom_model_data": 22405}, "model": "projecteden/costumes/hat/horns/wavy"},
 
-		{"predicate": {"custom_model_data": 22500}, "model": "projecteden/costumes/hat/ushanka/black"},
-		{"predicate": {"custom_model_data": 22501}, "model": "projecteden/costumes/hat/ushanka/cyan"},
-		{"predicate": {"custom_model_data": 22502}, "model": "projecteden/costumes/hat/ushanka/pink"},
-		{"predicate": {"custom_model_data": 22503}, "model": "projecteden/costumes/hat/ushanka/red"},
-
 		{"predicate": {"custom_model_data": 22600}, "model": "projecteden/costumes/hat/disney/aladdin"},
 		{"predicate": {"custom_model_data": 22601}, "model": "projecteden/costumes/hat/disney/baymax"},
 		{"predicate": {"custom_model_data": 22602}, "model": "projecteden/costumes/hat/disney/coco_floral"},
