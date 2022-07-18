@@ -5,12 +5,12 @@
    },
    "custom.block.wood.step":{
       "sounds":[
-         "step/wood1",
-         "step/wood2",
-         "step/wood3",
-         "step/wood4",
-         "step/wood5",
-         "step/wood6"
+         { "name": "step/wood1" },
+         { "name": "step/wood2" },
+         { "name": "step/wood3" },
+         { "name": "step/wood4" },
+         { "name": "step/wood5" },
+         { "name": "step/wood6" }
       ],
       "replace":true,
       "subtitle":"subtitles.block.generic.footsteps"
@@ -21,10 +21,10 @@
    },
    "custom.block.wood.break":{
       "sounds":[
-         "dig/wood1",
-         "dig/wood2",
-         "dig/wood3",
-         "dig/wood4"
+         { "name": "dig/wood1" },
+         { "name": "dig/wood2" },
+         { "name": "dig/wood3" },
+         { "name": "dig/wood4" }
       ],
       "subtitle":"subtitles.block.generic.break"
    },
@@ -34,10 +34,10 @@
    },
    "custom.block.wood.place":{
       "sounds":[
-         "dig/wood1",
-         "dig/wood2",
-         "dig/wood3",
-         "dig/wood4"
+         { "name": "dig/wood1" },
+         { "name": "dig/wood2" },
+         { "name": "dig/wood3" },
+         { "name": "dig/wood4" }
       ],
       "subtitle":"subtitles.block.generic.place"
    },
@@ -47,12 +47,12 @@
    },
    "custom.block.wood.hit":{
       "sounds":[
-         "step/wood1",
-         "step/wood2",
-         "step/wood3",
-         "step/wood4",
-         "step/wood5",
-         "step/wood6"
+         { "name": "step/wood1" },
+         { "name": "step/wood2" },
+         { "name": "step/wood3" },
+         { "name": "step/wood4" },
+         { "name": "step/wood5" },
+         { "name": "step/wood6" }
       ],
       "subtitle":"subtitles.block.generic.hit"
    },
@@ -62,12 +62,12 @@
    },
    "custom.block.wood.fall":{
       "sounds":[
-         "step/wood1",
-         "step/wood2",
-         "step/wood3",
-         "step/wood4",
-         "step/wood5",
-         "step/wood6"
+         { "name": "step/wood1" },
+         { "name": "step/wood2" },
+         { "name": "step/wood3" },
+         { "name": "step/wood4" },
+         { "name": "step/wood5" },
+         { "name": "step/wood6"  }
       ]
    },
    "block.stone.step":{
@@ -76,12 +76,12 @@
    },
    "custom.block.stone.step":{
       "sounds":[
-         "step/stone1",
-         "step/stone2",
-         "step/stone3",
-         "step/stone4",
-         "step/stone5",
-         "step/stone6"
+         { "name": "step/stone1" },
+         { "name": "step/stone2" },
+         { "name": "step/stone3" },
+         { "name": "step/stone4" },
+         { "name": "step/stone5" },
+         { "name": "step/stone6" }
       ],
       "replace":true,
       "subtitle":"subtitles.block.generic.footsteps"
@@ -92,10 +92,10 @@
    },
    "custom.block.stone.break":{
       "sounds":[
-         "dig/stone1",
-         "dig/stone2",
-         "dig/stone3",
-         "dig/stone4"
+         { "name": "dig/stone1" },
+         { "name": "dig/stone2" },
+         { "name": "dig/stone3" },
+         { "name": "dig/stone4" }
       ],
       "subtitle":"subtitles.block.generic.break"
    },
@@ -105,10 +105,10 @@
    },
    "custom.block.stone.place":{
       "sounds":[
-         "dig/stone1",
-         "dig/stone2",
-         "dig/stone3",
-         "dig/stone4"
+         { "name": "dig/stone1" },
+         { "name": "dig/stone2" },
+         { "name": "dig/stone3" },
+         { "name": "dig/stone4" }
       ],
       "subtitle":"subtitles.block.generic.place"
    },
@@ -118,12 +118,12 @@
    },
    "custom.block.stone.hit":{
       "sounds":[
-         "step/stone1",
-         "step/stone2",
-         "step/stone3",
-         "step/stone4",
-         "step/stone5",
-         "step/stone6"
+         { "name": "step/stone1" },
+         { "name": "step/stone2" },
+         { "name": "step/stone3" },
+         { "name": "step/stone4" },
+         { "name": "step/stone5" },
+         { "name": "step/stone6" }
       ],
       "subtitle":"subtitles.block.generic.hit"
    },
@@ -133,12 +133,12 @@
    },
    "custom.block.stone.fall":{
       "sounds":[
-         "step/stone1",
-         "step/stone2",
-         "step/stone3",
-         "step/stone4",
-         "step/stone5",
-         "step/stone6"
+         { "name": "step/stone1" },
+         { "name": "step/stone2" },
+         { "name": "step/stone3" },
+         { "name": "step/stone4" },
+         { "name": "step/stone5" },
+         { "name": "step/stone6" }
       ]
    },
    "weather.rain": {
@@ -206,390 +206,390 @@
    },
    "custom.dk_jungle_64": {
       "sounds": [
-         "custom/dk_jungle_64"
+         { "name": "custom/dk_jungle_64" }
       ]
    },
    "custom.ambient.windchimes.metal_1": {
       "sounds": [
-         "custom/ambient/windchimes/metal_1"
+         { "name": "custom/ambient/windchimes/metal_1" }
       ]
    },
    "custom.ambient.windchimes.metal_2": {
       "sounds": [
-         "custom/ambient/windchimes/metal_2"
+         { "name": "custom/ambient/windchimes/metal_2" }
       ]
    },
    "custom.ambient.windchimes.metal_3": {
       "sounds": [
-         "custom/ambient/windchimes/metal_3"
+         { "name": "custom/ambient/windchimes/metal_3" }
       ]
    },
    "custom.ambient.windchimes.metal_4": {
       "sounds": [
-         "custom/ambient/windchimes/metal_4"
+         { "name": "custom/ambient/windchimes/metal_4" }
       ]
    },
    "custom.ambient.windchimes.metal_5": {
       "sounds": [
-         "custom/ambient/windchimes/metal_5"
+         { "name": "custom/ambient/windchimes/metal_5" }
       ]
    },
    "custom.explosion.explosion_1": {
       "sounds": [
-         "custom/explosion/explosion_1"
+         { "name": "custom/explosion/explosion_1" }
       ]
    },
    "custom.explosion.explosion_2": {
       "sounds": [
-         "custom/explosion/explosion_2"
+         { "name": "custom/explosion/explosion_2" }
       ]
    },
    "custom.explosion.explosion_3": {
       "sounds": [
-         "custom/explosion/explosion_3"
+         { "name": "custom/explosion/explosion_3" }
       ]
    },
    "custom.explosion.explosion_4": {
       "sounds": [
-         "custom/explosion/explosion_4"
+         { "name": "custom/explosion/explosion_4" }
       ]
    },
    "custom.ambient.birds.bird_1": {
       "sounds": [
-         "custom/ambient/birds/bird_1"
+         { "name": "custom/ambient/birds/bird_1" }
       ]
    },
    "custom.ambient.birds.bird_2": {
       "sounds": [
-         "custom/ambient/birds/bird_2"
+         { "name": "custom/ambient/birds/bird_2" }
       ]
    },
    "custom.ambient.birds.bird_3": {
       "sounds": [
-         "custom/ambient/birds/bird_3"
+         { "name": "custom/ambient/birds/bird_3" }
       ]
    },
    "custom.ambient.birds.bird_4": {
       "sounds": [
-         "custom/ambient/birds/bird_4"
+         { "name": "custom/ambient/birds/bird_4" }
       ]
    },
    "custom.ambient.birds.bird_5": {
       "sounds": [
-         "custom/ambient/birds/bird_5"
+         { "name": "custom/ambient/birds/bird_5" }
       ]
    },
    "custom.ambient.birds.bird_6": {
       "sounds": [
-         "custom/ambient/birds/bird_6"
+         { "name": "custom/ambient/birds/bird_6" }
       ]
    },
    "custom.ambient.birds.bird_7": {
       "sounds": [
-         "custom/ambient/birds/bird_7"
+         { "name": "custom/ambient/birds/bird_7" }
       ]
    },
    "custom.ambient.birds.bird_8": {
       "sounds": [
-         "custom/ambient/birds/bird_8"
+         { "name": "custom/ambient/birds/bird_8" }
       ]
    },
    "custom.ambient.birds.bird_9": {
       "sounds": [
-         "custom/ambient/birds/bird_9"
+         { "name": "custom/ambient/birds/bird_9" }
       ]
    },
    "custom.ambient.birds.bird_10": {
       "sounds": [
-         "custom/ambient/birds/bird_10"
+         { "name": "custom/ambient/birds/bird_10" }
       ]
    },
    "custom.ambient.birds.bird_11": {
       "sounds": [
-         "custom/ambient/birds/bird_11"
+         { "name": "custom/ambient/birds/bird_11" }
       ]
    },
    "custom.ambient.birds.bird_12": {
       "sounds": [
-         "custom/ambient/birds/bird_12"
+         { "name": "custom/ambient/birds/bird_12" }
       ]
    },
    "custom.ambient.birds.bird_13": {
       "sounds": [
-         "custom/ambient/birds/bird_13"
+         { "name": "custom/ambient/birds/bird_13" }
       ]
    },
    "custom.ambient.birds.bird_14": {
       "sounds": [
-         "custom/ambient/birds/bird_14"
+         { "name": "custom/ambient/birds/bird_14" }
       ]
    },
    "custom.ambient.birds.bird_15": {
       "sounds": [
-         "custom/ambient/birds/bird_15"
+         { "name": "custom/ambient/birds/bird_15" }
       ]
    },
    "custom.ambient.birds.bird_16": {
       "sounds": [
-         "custom/ambient/birds/bird_16"
+         { "name": "custom/ambient/birds/bird_16" }
       ]
    },
    "custom.ambient.birds.bluebird_1": {
       "sounds": [
-         "custom/ambient/birds/bluebird_1"
+         { "name": "custom/ambient/birds/bluebird_1" }
       ]
    },
    "custom.ambient.birds.bluebird_2": {
       "sounds": [
-         "custom/ambient/birds/bluebird_2"
+         { "name": "custom/ambient/birds/bluebird_2" }
       ]
    },
    "custom.ambient.birds.budgerigar_1": {
       "sounds": [
-         "custom/ambient/birds/budgerigar_1"
+         { "name": "custom/ambient/birds/budgerigar_1" }
       ]
    },
    "custom.ambient.birds.budgerigar_2": {
       "sounds": [
-         "custom/ambient/birds/budgerigar_2"
+         { "name": "custom/ambient/birds/budgerigar_2" }
       ]
    },
    "custom.ambient.birds.cardinal_1": {
       "sounds": [
-         "custom/ambient/birds/cardinal_1"
+         { "name": "custom/ambient/birds/cardinal_1" }
       ]
    },
    "custom.ambient.birds.finch_1": {
       "sounds": [
-         "custom/ambient/birds/finch_1"
+         { "name": "custom/ambient/birds/finch_1" }
       ]
    },
    "custom.ambient.birds.finch_2": {
       "sounds": [
-         "custom/ambient/birds/finch_2"
+         { "name": "custom/ambient/birds/finch_2" }
       ]
    },
    "custom.ambient.birds.goldcrest_1": {
       "sounds": [
-         "custom/ambient/birds/goldcrest_1"
+         { "name": "custom/ambient/birds/goldcrest_1" }
       ]
    },
    "custom.ambient.birds.gouldian_finch_1": {
       "sounds": [
-         "custom/ambient/birds/gouldian_finch_1"
+         { "name": "custom/ambient/birds/gouldian_finch_1" }
       ]
    },
    "custom.ambient.birds.greater_racket_tailed_drongo_1": {
       "sounds": [
-         "custom/ambient/birds/greater_racket_tailed_drongo_1"
+         { "name": "custom/ambient/birds/greater_racket_tailed_drongo_1" }
       ]
    },
    "custom.ambient.birds.grey_cheeked_bulbul_1": {
       "sounds": [
-         "custom/ambient/birds/grey_cheeked_bulbul_1"
+         { "name": "custom/ambient/birds/grey_cheeked_bulbul_1" }
       ]
    },
    "custom.ambient.birds.grey_cheeked_bulbul_2": {
       "sounds": [
-         "custom/ambient/birds/grey_cheeked_bulbul_2"
+         { "name": "custom/ambient/birds/grey_cheeked_bulbul_2" }
       ]
    },
    "custom.ambient.birds.killdeer_1": {
       "sounds": [
-         "custom/ambient/birds/killdeer_1"
+         { "name": "custom/ambient/birds/killdeer_1" }
       ]
    },
    "custom.ambient.birds.kookaburra_1": {
       "sounds": [
-         "custom/ambient/birds/kookaburra_1"
+         { "name": "custom/ambient/birds/kookaburra_1" }
       ]
    },
    "custom.ambient.birds.leaf_warbler_1": {
       "sounds": [
-         "custom/ambient/birds/leaf_warbler_1"
+         { "name": "custom/ambient/birds/leaf_warbler_1" }
       ]
    },
    "custom.ambient.birds.leaf_warbler_2": {
       "sounds": [
-         "custom/ambient/birds/leaf_warbler_2"
+         { "name": "custom/ambient/birds/leaf_warbler_2" }
       ]
    },
    "custom.ambient.birds.macaw_1": {
       "sounds": [
-         "custom/ambient/birds/macaw_1"
+         { "name": "custom/ambient/birds/macaw_1" }
       ]
    },
    "custom.ambient.birds.magpie_1": {
       "sounds": [
-         "custom/ambient/birds/magpie_1"
+         { "name": "custom/ambient/birds/magpie_1" }
       ]
    },
    "custom.ambient.birds.mockingbird_1": {
       "sounds": [
-         "custom/ambient/birds/mockingbird_1"
+         { "name": "custom/ambient/birds/mockingbird_1" }
       ]
    },
    "custom.ambient.birds.mockingbird_2": {
       "sounds": [
-         "custom/ambient/birds/mockingbird_2"
+         { "name": "custom/ambient/birds/mockingbird_2" }
       ]
    },
    "custom.ambient.birds.mockingbird_3": {
       "sounds": [
-         "custom/ambient/birds/mockingbird_3"
+         { "name": "custom/ambient/birds/mockingbird_3" }
       ]
    },
    "custom.ambient.birds.mockingbird_4": {
       "sounds": [
-         "custom/ambient/birds/mockingbird_4"
+         { "name": "custom/ambient/birds/mockingbird_4" }
       ]
    },
    "custom.ambient.birds.mockingbird_5": {
       "sounds": [
-         "custom/ambient/birds/mockingbird_5"
+         { "name": "custom/ambient/birds/mockingbird_5" }
       ]
    },
    "custom.ambient.birds.mockingbird_6": {
       "sounds": [
-         "custom/ambient/birds/mockingbird_6"
+         { "name": "custom/ambient/birds/mockingbird_6" }
       ]
    },
    "custom.ambient.birds.mockingbird_7": {
       "sounds": [
-         "custom/ambient/birds/mockingbird_7"
+         { "name": "custom/ambient/birds/mockingbird_7" }
       ]
    },
    "custom.ambient.birds.robin_1": {
       "sounds": [
-         "custom/ambient/birds/robin_1"
+         { "name": "custom/ambient/birds/robin_1" }
       ]
    },
    "custom.ambient.birds.robin_2": {
       "sounds": [
-         "custom/ambient/birds/robin_2"
+         { "name": "custom/ambient/birds/robin_2" }
       ]
    },
    "custom.ambient.birds.shrike_1": {
       "sounds": [
-         "custom/ambient/birds/shrike_1"
+         { "name": "custom/ambient/birds/shrike_1" }
       ]
    },
    "custom.ambient.birds.shrike_2": {
       "sounds": [
-         "custom/ambient/birds/shrike_2"
+         { "name": "custom/ambient/birds/shrike_2" }
       ]
    },
    "custom.ambient.birds.sparrow_1": {
       "sounds": [
-         "custom/ambient/birds/sparrow_1"
+         { "name": "custom/ambient/birds/sparrow_1" }
       ]
    },
    "custom.ambient.birds.willow_tit_1": {
       "sounds": [
-         "custom/ambient/birds/willow_tit_1"
+         { "name": "custom/ambient/birds/willow_tit_1" }
       ]
    },
    "custom.ambient.birds.willow_tit_2": {
       "sounds": [
-         "custom/ambient/birds/willow_tit_2"
+         { "name": "custom/ambient/birds/willow_tit_2" }
       ]
    },
    "custom.ambient.birds.woodpecker_1": {
       "sounds": [
-         "custom/ambient/birds/woodpecker_1"
+         { "name": "custom/ambient/birds/woodpecker_1" }
       ]
    },
    "custom.ambient.birds.woodpecker_2": {
       "sounds": [
-         "custom/ambient/birds/woodpecker_2"
+         { "name": "custom/ambient/birds/woodpecker_2" }
       ]
    },
    "custom.ambient.birds.woodpecker_peck_1": {
       "sounds": [
-         "custom/ambient/birds/woodpecker_peck_1"
+         { "name": "custom/ambient/birds/woodpecker_peck_1" }
       ]
    },
    "custom.ambient.birds.woodpecker_peck_2": {
       "sounds": [
-         "custom/ambient/birds/woodpecker_peck_2"
+         { "name": "custom/ambient/birds/woodpecker_peck_2" }
       ]
    },
    "custom.ambient.birds.wren_1": {
       "sounds": [
-         "custom/ambient/birds/wren_1"
+         { "name": "custom/ambient/birds/wren_1" }
       ]
    },
    "custom.train.chug": {
       "subtitle": "Train chugs",
       "sounds": [
-         "custom/train/chug"
+         { "name": "custom/train/chug" }
       ]
    },
    "custom.train.whistle": {
       "subtitle": "Train whistles",
       "sounds": [
-         "custom/train/whistle"
+         { "name": "custom/train/whistle" }
       ]
    },
    "custom.misc.party_horn": {
       "subtitle": "Party Horn blows",
       "sounds": [
-         "custom/misc/party_horn_1",
-         "custom/misc/party_horn_2"
+         { "name": "custom/misc/party_horn_1" },
+         { "name": "custom/misc/party_horn_2" }
       ]
    },
    "custom.misc.you_got_mail": {
       "subtitle": "You got mail!",
       "sounds": [
-         "custom/misc/you_got_mail"
+         { "name": "custom/misc/you_got_mail" }
       ]
    },
    "custom.misc.flashbang": {
       "subtitle": "Flashbang!",
       "sounds": [
-         "custom/misc/flashbang"
+         { "name": "custom/misc/flashbang" }
       ]
    },
    "custom.noteblock.marimba": {
       "subtitle": "Note Block plays",
       "sounds": [
-         "custom/noteblock/marimba"
+         { "name": "custom/noteblock/marimba" }
       ]
    },
    "custom.noteblock.trumpet": {
       "subtitle": "Note Block plays",
       "sounds": [
-         "custom/noteblock/trumpet"
+         { "name": "custom/noteblock/trumpet" }
       ]
    },
    "custom.noteblock.buzz": {
       "subtitle": "Note Block plays",
       "sounds": [
-         "custom/noteblock/buzz"
+         { "name": "custom/noteblock/buzz" }
       ]
    },
    "custom.noteblock.kalimba": {
       "subtitle": "Note Block plays",
       "sounds": [
-         "custom/noteblock/kalimba"
+         { "name": "custom/noteblock/kalimba" }
       ]
    },
    "custom.noteblock.koto": {
       "subtitle": "Note Block plays",
       "sounds": [
-         "custom/noteblock/koto"
+         { "name": "custom/noteblock/koto" }
       ]
    },
    "custom.noteblock.taiko": {
       "subtitle": "Note Block plays",
       "sounds": [
-         "custom/noteblock/taiko"
+         { "name": "custom/noteblock/taiko" }
       ]
    },
    "custom.minigames.sabotage.alarm": {
       "subtitle": "Alarm blares",
       "sounds": [
-         "custom/minigames/sabotage/alarm"
+         { "name": "custom/minigames/sabotage/alarm" }
       ]
    }
 }
