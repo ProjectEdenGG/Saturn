@@ -1111,7 +1111,62 @@
 			"ascent": 7,
 			"chars": ["🎂"]
 		},
-		
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/compass.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["🧭"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/globe.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["🌎"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/question.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["❓"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/ice.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["稆"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/grass_block.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["鹅"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/diamond_pickaxe.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["丢"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/twemoji/wooden_axe.png",
+			"purchasable": true,
+			"height": 7,
+			"ascent": 7,
+			"chars": ["瓜"]
+		},
 		{
 			"type": "bitmap",
 			"file": "projecteden/ui/compass/compass_00.png",
