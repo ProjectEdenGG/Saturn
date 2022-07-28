@@ -626,6 +626,8 @@
 		{"predicate": {"custom_model_data": 13020}, "model": "projecteden/ui/crates/wakka/all"},
 		{"predicate": {"custom_model_data": 13021}, "model": "projecteden/ui/crates/wakka/base"},
 		{"predicate": {"custom_model_data": 13022}, "model": "projecteden/ui/crates/wakka/lid"},
+		{"predicate": {"custom_model_data": 13023}, "model": "projecteden/ui/crates/gem_crafter/base"},
+		{"predicate": {"custom_model_data": 13024}, "model": "projecteden/ui/crates/gem_crafter/book"},
 
 		{"predicate": {"custom_model_data": 19900}, "model": "projecteden/wip/gnome"},
 		{"predicate": {"custom_model_data": 19901}, "model": "projecteden/decoration/flora/strange_plant_green"},
