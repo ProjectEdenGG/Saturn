@@ -449,5 +449,11 @@
       "sounds": [
          { "name": "custom/minigames/sabotage/alarm" }
       ]
+   },
+   "custom.crates.gemcrafter.infuse": {
+      "subtitle": "Gem infuses",
+      "sounds": [
+         { "name": "custom/crates/gemcrafter/infuse" }
+      ]
    }
 }
