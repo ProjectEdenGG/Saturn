@@ -66,6 +66,9 @@
 		{"predicate": {"custom_model_data": 1320}, "model": "projecteden/ui/gui/100"},
 		{"predicate": {"custom_model_data": 1321}, "model": "projecteden/ui/gui/gamelobby/test_map"},
 
+		{"predicate": {"custom_model_data": 1398}, "model": "projecteden/ui/images/gamelobby/templates/template_1x2"},
+		{"predicate": {"custom_model_data": 1399}, "model": "projecteden/ui/images/gamelobby/templates/template_3x2"},
+		{"predicate": {"custom_model_data": 1400}, "model": "projecteden/ui/images/gamelobby/1v1"},
 		{"predicate": {"custom_model_data": 1400}, "model": "projecteden/ui/images/gamelobby/1v1"},
 		{"predicate": {"custom_model_data": 1401}, "model": "projecteden/ui/images/gamelobby/capture_the_flag"},
 		{"predicate": {"custom_model_data": 1402}, "model": "projecteden/ui/images/gamelobby/infection"},
@@ -929,4 +932,5 @@
 		{"predicate": {"custom_model_data": 22801}, "model": "projecteden/costumes/exclusive/hat/antler_fancy_white"}
 	]
 }
+
 
