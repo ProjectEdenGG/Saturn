@@ -80,6 +80,11 @@
 		{"predicate": {"custom_model_data": 1411}, "model": "projecteden/ui/images/gamelobby/dogfighting"},
 		{"predicate": {"custom_model_data": 1412}, "model": "projecteden/ui/images/gamelobby/quake"},
 		{"predicate": {"custom_model_data": 1413}, "model": "projecteden/ui/images/gamelobby/one_in_the_quiver"},
+		{"predicate": {"custom_model_data": 1414}, "model": "projecteden/ui/images/gamelobby/archery"},
+		{"predicate": {"custom_model_data": 1415}, "model": "projecteden/ui/images/gamelobby/battleship"},
+		{"predicate": {"custom_model_data": 1416}, "model": "projecteden/ui/images/gamelobby/goldrush"},
+		{"predicate": {"custom_model_data": 1417}, "model": "projecteden/ui/images/gamelobby/free_for_all"},
+		{"predicate": {"custom_model_data": 1418}, "model": "projecteden/ui/images/gamelobby/xrun"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
@@ -924,3 +929,4 @@
 		{"predicate": {"custom_model_data": 22801}, "model": "projecteden/costumes/exclusive/hat/antler_fancy_white"}
 	]
 }
+
