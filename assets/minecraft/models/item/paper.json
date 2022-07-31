@@ -558,6 +558,7 @@
 		{"predicate": {"custom_model_data": 8328}, "model": "projecteden/decoration/signs/avontyre/crates_wither"},
 		{"predicate": {"custom_model_data": 8329}, "model": "projecteden/decoration/signs/avontyre/crates_warden"},
 		{"predicate": {"custom_model_data": 8330}, "model": "projecteden/decoration/signs/avontyre/crates_dragon"},
+		{"predicate": {"custom_model_data": 8331}, "model": "projecteden/decoration/signs/avontyre/crates_dragon_easteregg"},
 
 		{"predicate": {"custom_model_data": 8500}, "model": "projecteden/misc/invisibarrier"},
 		{"predicate": {"custom_model_data": 8501}, "model": "projecteden/misc/max_size"},
