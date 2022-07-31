@@ -552,6 +552,12 @@
 		{"predicate": {"custom_model_data": 8322}, "model": "projecteden/decoration/signs/avontyre/decoration"},
 		{"predicate": {"custom_model_data": 8323}, "model": "projecteden/decoration/signs/avontyre/flour_mill"},
 		{"predicate": {"custom_model_data": 8324}, "model": "projecteden/decoration/signs/avontyre/surgeon"},
+		{"predicate": {"custom_model_data": 8325}, "model": "projecteden/decoration/signs/avontyre/crates_vote"},
+		{"predicate": {"custom_model_data": 8326}, "model": "projecteden/decoration/signs/avontyre/crates_wakka"},
+		{"predicate": {"custom_model_data": 8327}, "model": "projecteden/decoration/signs/avontyre/crates_mystery"},
+		{"predicate": {"custom_model_data": 8328}, "model": "projecteden/decoration/signs/avontyre/crates_wither"},
+		{"predicate": {"custom_model_data": 8329}, "model": "projecteden/decoration/signs/avontyre/crates_warden"},
+		{"predicate": {"custom_model_data": 8330}, "model": "projecteden/decoration/signs/avontyre/crates_dragon"},
 
 		{"predicate": {"custom_model_data": 8500}, "model": "projecteden/misc/invisibarrier"},
 		{"predicate": {"custom_model_data": 8501}, "model": "projecteden/misc/max_size"},

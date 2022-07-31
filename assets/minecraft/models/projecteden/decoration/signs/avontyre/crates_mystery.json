@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/signs/avontyre/template_crates_wide",
+	"textures": {
+		"0": "projecteden/decoration/signs/avontyre/crates_mystery"
+	}
+}
