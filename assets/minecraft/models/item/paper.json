@@ -553,6 +553,8 @@
 		{"predicate": {"custom_model_data": 8322}, "model": "projecteden/decoration/signs/avontyre/base/decoration"},
 		{"predicate": {"custom_model_data": 8323}, "model": "projecteden/decoration/signs/avontyre/base/flour_mill"},
 		{"predicate": {"custom_model_data": 8324}, "model": "projecteden/decoration/signs/avontyre/base/surgeon"},
+		{"predicate": {"custom_model_data": 8384}, "model": "projecteden/decoration/signs/avontyre/base/lumberjack"},
+		{"predicate": {"custom_model_data": 8384}, "model": "projecteden/decoration/signs/avontyre/base/silk_merchant"},
 
 		{"predicate": {"custom_model_data": 8330}, "model": "projecteden/decoration/signs/avontyre/wall/butcher"},
 		{"predicate": {"custom_model_data": 8331}, "model": "projecteden/decoration/signs/avontyre/wall/fletcher"},
@@ -579,6 +581,8 @@
 		{"predicate": {"custom_model_data": 8352}, "model": "projecteden/decoration/signs/avontyre/wall/decoration"},
 		{"predicate": {"custom_model_data": 8353}, "model": "projecteden/decoration/signs/avontyre/wall/flour_mill"},
 		{"predicate": {"custom_model_data": 8354}, "model": "projecteden/decoration/signs/avontyre/wall/surgeon"},
+		{"predicate": {"custom_model_data": 8384}, "model": "projecteden/decoration/signs/avontyre/wall/lumberjack"},
+		{"predicate": {"custom_model_data": 8384}, "model": "projecteden/decoration/signs/avontyre/wall/silk_merchant"},
 
 		{"predicate": {"custom_model_data": 8360}, "model": "projecteden/decoration/signs/avontyre/hanging/butcher"},
 		{"predicate": {"custom_model_data": 8361}, "model": "projecteden/decoration/signs/avontyre/hanging/fletcher"},
@@ -605,6 +609,8 @@
 		{"predicate": {"custom_model_data": 8382}, "model": "projecteden/decoration/signs/avontyre/hanging/decoration"},
 		{"predicate": {"custom_model_data": 8383}, "model": "projecteden/decoration/signs/avontyre/hanging/flour_mill"},
 		{"predicate": {"custom_model_data": 8384}, "model": "projecteden/decoration/signs/avontyre/hanging/surgeon"},
+		{"predicate": {"custom_model_data": 8384}, "model": "projecteden/decoration/signs/avontyre/hanging/lumberjack"},
+		{"predicate": {"custom_model_data": 8384}, "model": "projecteden/decoration/signs/avontyre/hanging/silk_merchant"},
 
 		{"predicate": {"custom_model_data": 8390}, "model": "projecteden/decoration/signs/avontyre/unique/crates_vote"},
 		{"predicate": {"custom_model_data": 8391}, "model": "projecteden/decoration/signs/avontyre/unique/crates_wakka"},
