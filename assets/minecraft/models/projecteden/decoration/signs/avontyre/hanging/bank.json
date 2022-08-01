@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/signs/avontyre/hanging/template_sign",
+	"textures": {
+		"0": "projecteden/decoration/signs/avontyre/bank"
+	}
+}

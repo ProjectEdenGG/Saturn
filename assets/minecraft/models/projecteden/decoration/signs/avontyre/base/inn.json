@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/signs/avontyre/base/template_sign",
+	"textures": {
+		"0": "projecteden/decoration/signs/avontyre/inn"
+	}
+}
