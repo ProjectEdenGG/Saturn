@@ -69,6 +69,17 @@
       ],
       "subtitle": "subtitles.entity.lightning_bolt.thunder"
    },
+   "custom.weather.thunder": {
+      "sounds":[
+         { "name": "custom/ambient/weather/thunder_distant_1"},
+         { "name": "custom/ambient/weather/thunder_distant_2"},
+         { "name": "custom/ambient/weather/thunder_distant_3"},
+         { "name": "custom/ambient/weather/thunder_distant_4"},
+         { "name": "custom/ambient/weather/thunder_distant_5"},
+         { "name": "custom/ambient/weather/thunder_distant_6"},
+         { "name": "custom/ambient/weather/thunder_distant_7"}
+      ]
+   },
    "custom.dk_jungle_64": {
       "sounds": [
          { "name": "custom/dk_jungle_64" }
