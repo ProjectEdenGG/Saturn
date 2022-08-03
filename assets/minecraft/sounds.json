@@ -1,4 +1,11 @@
 {
+   "block.chest.locked": {
+      "replace":true,
+      "sounds": [
+         { "name": "block/chest/locked" }
+      ],
+      "subtitle": "subtitles.block.chest.locked"
+   },
    "weather.rain": {
       "replace":true,
       "sounds":[
