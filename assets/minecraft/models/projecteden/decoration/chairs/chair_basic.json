@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"particle": "projecteden/decoration/table_set"
+		"particle": "projecteden/decoration/shared/table_set"
 	},
 	"elements": [
 		{

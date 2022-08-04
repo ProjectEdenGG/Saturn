@@ -1,8 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "projecteden/decoration/cushion_1",
-		"1": "projecteden/decoration/table_set_color",
+		"0": "projecteden/decoration/chairs/cushion_1",
+		"1": "projecteden/decoration/shared/table_set_oak",
 		"3": "projecteden/decoration/cushion_corner"
 	},
 	"elements": [

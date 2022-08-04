@@ -366,6 +366,9 @@
 		{"predicate": {"custom_model_data": 6221}, "model": "projecteden/decoration/microscope"},
 		{"predicate": {"custom_model_data": 6222}, "model": "projecteden/decoration/microscope_gem"},
 		{"predicate": {"custom_model_data": 6223}, "model": "projecteden/decoration/helm"},
+		{"predicate": {"custom_model_data": 6224}, "model": "projecteden/decoration/job_board_1"},
+		{"predicate": {"custom_model_data": 6225}, "model": "projecteden/decoration/job_board_2"},
+
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/chairs/stump"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/chairs/stump_roots"},
