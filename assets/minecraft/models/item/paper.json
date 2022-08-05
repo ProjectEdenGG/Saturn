@@ -368,6 +368,8 @@
 		{"predicate": {"custom_model_data": 6223}, "model": "projecteden/decoration/helm"},
 		{"predicate": {"custom_model_data": 6224}, "model": "projecteden/decoration/job_board_1"},
 		{"predicate": {"custom_model_data": 6225}, "model": "projecteden/decoration/job_board_2"},
+		{"predicate": {"custom_model_data": 6226}, "model": "projecteden/decoration/rail"},
+		{"predicate": {"custom_model_data": 6227}, "model": "projecteden/decoration/ladder"},
 
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/chairs/stump"},
