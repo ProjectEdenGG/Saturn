@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "projecteden/decoration/chairs/cushion_1",
 		"1": "projecteden/decoration/shared/table_set_oak",
-		"3": "projecteden/decoration/cushion_corner"
+		"3": "projecteden/decoration/chairs/cushion_corner"
 	},
 	"elements": [
 		{
