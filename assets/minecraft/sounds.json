@@ -473,5 +473,10 @@
       "sounds": [
          { "name": "custom/crates/gemcrafter/infuse" }
       ]
+   },
+   "custom.misc.bonk": {
+      "sounds": [
+         { "name": "custom/misc/bonk" }
+      ]
    }
 }
