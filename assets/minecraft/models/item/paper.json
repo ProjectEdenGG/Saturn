@@ -370,6 +370,7 @@
 		{"predicate": {"custom_model_data": 6225}, "model": "projecteden/decoration/job_board_2"},
 		{"predicate": {"custom_model_data": 6226}, "model": "projecteden/decoration/rail"},
 		{"predicate": {"custom_model_data": 6227}, "model": "projecteden/decoration/ladder"},
+		{"predicate": {"custom_model_data": 6228}, "model": "projecteden/decoration/iron_axe"},
 
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/chairs/stump"},
