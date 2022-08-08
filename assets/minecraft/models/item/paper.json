@@ -77,6 +77,7 @@
 		{"predicate": {"custom_model_data": 1338}, "model": "projecteden/ui/images/survival/cartography_4"},
 		{"predicate": {"custom_model_data": 1339}, "model": "projecteden/ui/images/survival/cartography_5"},
 		{"predicate": {"custom_model_data": 1340}, "model": "projecteden/ui/images/survival/cartography_6"},
+		{"predicate": {"custom_model_data": 1341}, "model": "projecteden/ui/images/survival/world_1"},
 
 		{"predicate": {"custom_model_data": 1398}, "model": "projecteden/ui/images/gamelobby/templates/template_1x2"},
 		{"predicate": {"custom_model_data": 1399}, "model": "projecteden/ui/images/gamelobby/templates/template_3x2"},
@@ -548,6 +549,12 @@
 		{"predicate": {"custom_model_data": 8201}, "model": "projecteden/decoration/flags/medieval/2"},
 		{"predicate": {"custom_model_data": 8202}, "model": "projecteden/decoration/flags/medieval/3"},
 		{"predicate": {"custom_model_data": 8203}, "model": "projecteden/decoration/flags/medieval/4"},
+
+		{"predicate": {"custom_model_data": 8280}, "model": "projecteden/decoration/signs/avontyre/base/exotic_goods"},
+		{"predicate": {"custom_model_data": 8281}, "model": "projecteden/decoration/signs/avontyre/base/waxed_goods"},
+		{"predicate": {"custom_model_data": 8282}, "model": "projecteden/decoration/signs/avontyre/base/spices"},
+		{"predicate": {"custom_model_data": 8283}, "model": "projecteden/decoration/signs/avontyre/base/artwork"},
+		{"predicate": {"custom_model_data": 8284}, "model": "projecteden/decoration/signs/avontyre/base/banners"},
 
 		{"predicate": {"custom_model_data": 8300}, "model": "projecteden/decoration/signs/avontyre/base/butcher"},
 		{"predicate": {"custom_model_data": 8301}, "model": "projecteden/decoration/signs/avontyre/base/fletcher"},
