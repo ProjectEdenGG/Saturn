@@ -68,6 +68,15 @@
 
 		{"predicate": {"custom_model_data": 1330}, "model": "projecteden/ui/images/survival/avontyre"},
 		{"predicate": {"custom_model_data": 1331}, "model": "projecteden/ui/images/survival/royal_family"},
+		{"predicate": {"custom_model_data": 1332}, "model": "projecteden/ui/images/survival/chalkboard"},
+		{"predicate": {"custom_model_data": 1333}, "model": "projecteden/ui/images/survival/chalkboard_anatomy_1"},
+		{"predicate": {"custom_model_data": 1334}, "model": "projecteden/ui/images/survival/chalkboard_anatomy_2"},
+		{"predicate": {"custom_model_data": 1335}, "model": "projecteden/ui/images/survival/cartography_1"},
+		{"predicate": {"custom_model_data": 1336}, "model": "projecteden/ui/images/survival/cartography_2"},
+		{"predicate": {"custom_model_data": 1337}, "model": "projecteden/ui/images/survival/cartography_3"},
+		{"predicate": {"custom_model_data": 1338}, "model": "projecteden/ui/images/survival/cartography_4"},
+		{"predicate": {"custom_model_data": 1339}, "model": "projecteden/ui/images/survival/cartography_5"},
+		{"predicate": {"custom_model_data": 1340}, "model": "projecteden/ui/images/survival/cartography_6"},
 
 		{"predicate": {"custom_model_data": 1398}, "model": "projecteden/ui/images/gamelobby/templates/template_1x2"},
 		{"predicate": {"custom_model_data": 1399}, "model": "projecteden/ui/images/gamelobby/templates/template_3x2"},
