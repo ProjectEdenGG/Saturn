@@ -92,7 +92,7 @@
 		{"predicate": {"custom_model_data": 1417}, "model": "projecteden/ui/images/gamelobby/free_for_all"},
 		{"predicate": {"custom_model_data": 1418}, "model": "projecteden/ui/images/gamelobby/xrun"},
 		{"predicate": {"custom_model_data": 1419}, "model": "projecteden/ui/images/gamelobby/pixel_painters"},
-		{"predicate": {"custom_model_data": 1419}, "model": "projecteden/ui/images/gamelobby/mob_arena"},
+		{"predicate": {"custom_model_data": 1420}, "model": "projecteden/ui/images/gamelobby/mob_arena"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
