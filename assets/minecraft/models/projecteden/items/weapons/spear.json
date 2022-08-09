@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "projecteden/decoration/spear_head",
+		"0": "projecteden/items/weapons/spear_head",
 		"1": "projecteden/vanilla/block/spruce_log",
 		"particle": "projecteden/decoration/spear_head"
 	},
