@@ -685,6 +685,8 @@
 		{"predicate": {"custom_model_data": 10010}, "model": "projecteden/items/crate_keys/dragon"},
 
 		{"predicate": {"custom_model_data": 10100}, "model": "projecteden/items/weapons/spear"},
+		{"predicate": {"custom_model_data": 10101}, "model": "projecteden/items/weapons/iron_sword"},
+		{"predicate": {"custom_model_data": 10102}, "model": "projecteden/items/weapons/iron_scythe"},
 
 		{"predicate": {"custom_model_data": 11001}, "model": "projecteden/events/pugmas21/train/1"},
 		{"predicate": {"custom_model_data": 11002}, "model": "projecteden/events/pugmas21/train/2"},
