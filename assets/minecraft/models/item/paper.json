@@ -1052,8 +1052,20 @@
 		{"predicate": {"custom_model_data": 25013}, "model": "projecteden/ui/gui/presence/vanished_dnd_live"},
 		{"predicate": {"custom_model_data": 25014}, "model": "projecteden/ui/gui/presence/vanished_dnd_live_afk"},
 		{"predicate": {"custom_model_data": 25015}, "model": "projecteden/ui/gui/presence/vanished_live"},
-		{"predicate": {"custom_model_data": 25016}, "model": "projecteden/ui/gui/presence/vanished_live_afk"}
-		
+		{"predicate": {"custom_model_data": 25016}, "model": "projecteden/ui/gui/presence/vanished_live_afk"},
+
+		{"predicate": {"custom_model_data": 25100}, "model": "projecteden/ui/gui/social_media/twitter"},
+		{"predicate": {"custom_model_data": 25101}, "model": "projecteden/ui/gui/social_media/instagram"},
+		{"predicate": {"custom_model_data": 25102}, "model": "projecteden/ui/gui/social_media/snapchat"},
+		{"predicate": {"custom_model_data": 25103}, "model": "projecteden/ui/gui/social_media/youtube"},
+		{"predicate": {"custom_model_data": 25104}, "model": "projecteden/ui/gui/social_media/twitch"},
+		{"predicate": {"custom_model_data": 25105}, "model": "projecteden/ui/gui/social_media/tiktok"},
+		{"predicate": {"custom_model_data": 25106}, "model": "projecteden/ui/gui/social_media/discord"},
+		{"predicate": {"custom_model_data": 25107}, "model": "projecteden/ui/gui/social_media/steam"},
+		{"predicate": {"custom_model_data": 25108}, "model": "projecteden/ui/gui/social_media/spotify"},
+		{"predicate": {"custom_model_data": 25109}, "model": "projecteden/ui/gui/social_media/queup"},
+		{"predicate": {"custom_model_data": 25110}, "model": "projecteden/ui/gui/social_media/reddit"},
+		{"predicate": {"custom_model_data": 25111}, "model": "projecteden/ui/gui/social_media/github"}
 	]
 }
 

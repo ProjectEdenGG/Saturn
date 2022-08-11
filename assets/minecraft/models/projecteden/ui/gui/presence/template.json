@@ -1,8 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"0": "projecteden/font/emojis/custom/presence_offline",
-		"layer0": "#0"
+		"layer0": "projecteden/font/emojis/custom/presence_offline"
 	},
 	"display": {
 		"gui": {

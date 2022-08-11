@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/ui/gui/social_media/template",
+	"textures": {
+		"layer0": "projecteden/ui/gui/social_media/reddit"
+	}
+}
