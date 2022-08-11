@@ -1033,7 +1033,27 @@
 		{"predicate": {"custom_model_data": 22719}, "model": "projecteden/costumes/exclusive/hat/pumpkins/upsidedown"},
 
 		{"predicate": {"custom_model_data": 22800}, "model": "projecteden/costumes/exclusive/hat/bunny_ears"},
-		{"predicate": {"custom_model_data": 22801}, "model": "projecteden/costumes/exclusive/hat/antler_fancy_white"}
+		{"predicate": {"custom_model_data": 22801}, "model": "projecteden/costumes/exclusive/hat/antler_fancy_white"},
+
+
+		{"predicate": {"custom_model_data": 25000}, "model": "projecteden/ui/gui/presence/offline"},
+		{"predicate": {"custom_model_data": 25001}, "model": "projecteden/ui/gui/presence/active"},
+		{"predicate": {"custom_model_data": 25002}, "model": "projecteden/ui/gui/presence/afk"},
+		{"predicate": {"custom_model_data": 25003}, "model": "projecteden/ui/gui/presence/dnd"},
+		{"predicate": {"custom_model_data": 25004}, "model": "projecteden/ui/gui/presence/dnd_afk"},
+		{"predicate": {"custom_model_data": 25005}, "model": "projecteden/ui/gui/presence/live"},
+		{"predicate": {"custom_model_data": 25006}, "model": "projecteden/ui/gui/presence/live_afk"},
+		{"predicate": {"custom_model_data": 25007}, "model": "projecteden/ui/gui/presence/live_dnd"},
+		{"predicate": {"custom_model_data": 25008}, "model": "projecteden/ui/gui/presence/live_dnd_afk"},
+		{"predicate": {"custom_model_data": 25009}, "model": "projecteden/ui/gui/presence/vanished"},
+		{"predicate": {"custom_model_data": 25010}, "model": "projecteden/ui/gui/presence/vanished_afk"},
+		{"predicate": {"custom_model_data": 25011}, "model": "projecteden/ui/gui/presence/vanished_dnd"},
+		{"predicate": {"custom_model_data": 25012}, "model": "projecteden/ui/gui/presence/vanished_dnd_afk"},
+		{"predicate": {"custom_model_data": 25013}, "model": "projecteden/ui/gui/presence/vanished_dnd_live"},
+		{"predicate": {"custom_model_data": 25014}, "model": "projecteden/ui/gui/presence/vanished_dnd_live_afk"},
+		{"predicate": {"custom_model_data": 25015}, "model": "projecteden/ui/gui/presence/vanished_live"},
+		{"predicate": {"custom_model_data": 25016}, "model": "projecteden/ui/gui/presence/vanished_live_afk"}
+		
 	]
 }
 

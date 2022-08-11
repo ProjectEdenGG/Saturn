@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/ui/gui/presence/template",
+	"textures": {
+		"0": "projecteden/font/emojis/custom/presence_vanished"
+	}
+}
