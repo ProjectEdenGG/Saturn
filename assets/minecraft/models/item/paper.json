@@ -1143,7 +1143,9 @@
 		{"predicate": {"custom_model_data": 25108}, "model": "projecteden/ui/gui/social_media/spotify"},
 		{"predicate": {"custom_model_data": 25109}, "model": "projecteden/ui/gui/social_media/queup"},
 		{"predicate": {"custom_model_data": 25110}, "model": "projecteden/ui/gui/social_media/reddit"},
-		{"predicate": {"custom_model_data": 25111}, "model": "projecteden/ui/gui/social_media/github"}
+		{"predicate": {"custom_model_data": 25111}, "model": "projecteden/ui/gui/social_media/github"},
+
+		{"predicate": {"custom_model_data": 25200}, "model": "projecteden/ui/gui/gold_coins"}
 	]
 }
 
