@@ -282,6 +282,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_offline.png",
+			"name": "&#747f8dOffline",
 			"discordId": "1007078277921394720",
 			"modelId": 25000,
 			"height": 8,
@@ -291,6 +292,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_active.png",
+			"name": "&#3ba55dActive",
 			"discordId": "896466289508356106",
 			"modelId": 25001,
 			"height": 8,
@@ -300,6 +302,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_afk.png",
+			"name": "&#faa81aAFK",
 			"discordId": "896466289466429521",
 			"modelId": 25002,
 			"height": 8,
@@ -309,6 +312,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_dnd.png",
+			"name": "&#ed4245DND",
 			"discordId": "896466289479020585",
 			"modelId": 25003,
 			"height": 8,
@@ -318,6 +322,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_dnd_afk.png",
+			"name": "&#ed4245DND &#faa81aAFK",
 			"discordId": "896466289487396944",
 			"modelId": 25004,
 			"height": 8,
@@ -327,6 +332,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live.png",
+			"name": "&#573895Live",
 			"discordId": "896466289449635920",
 			"modelId": 25005,
 			"height": 8,
@@ -336,6 +342,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live_afk.png",
+			"name": "&#573895Live &#faa81aAFK",
 			"discordId": "896466289487400991",
 			"modelId": 25006,
 			"height": 8,
@@ -345,6 +352,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live_dnd.png",
+			"name": "&#573895Live &#ed4245DND",
 			"discordId": "896466289525129237",
 			"modelId": 25007,
 			"height": 8,
@@ -354,6 +362,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_live_dnd_afk.png",
+			"name": "&#573895Live &#ed4245DND &#faa81aAFK",
 			"discordId": "896466289470636034",
 			"modelId": 25008,
 			"height": 8,
@@ -363,6 +372,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished.png",
+			"name": "&#747f8dVanished",
 			"discordId": "896466289466429511",
 			"modelId": 25009,
 			"height": 8,
@@ -372,6 +382,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_afk.png",
+			"name": "&#747f8dVanished &#faa81aAFK",
 			"discordId": "896466289512579072",
 			"modelId": 25010,
 			"height": 8,
@@ -381,6 +392,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd.png",
+			"name": "&#747f8dVanished &#ed4245DND",
 			"discordId": "896466289462247545",
 			"modelId": 25011,
 			"height": 8,
@@ -390,6 +402,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_afk.png",
+			"name": "&#747f8dVanished &#ed4245DND &#faa81aAFK",
 			"discordId": "896466289495777391",
 			"modelId": 25012,
 			"height": 8,
@@ -399,6 +412,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live.png",
+			"name": "&#747f8dVanished &#ed4245DND &#573895Live",
 			"discordId": "896466289546125402",
 			"modelId": 25013,
 			"height": 8,
@@ -408,6 +422,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live_afk.png",
+			"name": "&#747f8dVanished &#ed4245DND &#573895Live &#faa81aAFK",
 			"discordId": "896466289508356107",
 			"modelId": 25014,
 			"height": 8,
@@ -417,6 +432,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_live.png",
+			"name": "&#747f8dVanished &#573895Live",
 			"discordId": "896466289491578920",
 			"modelId": 25015,
 			"height": 8,
@@ -426,6 +442,7 @@
 		{
 			"type": "bitmap",
 			"file": "projecteden/font/emojis/custom/presence_vanished_live_afk.png",
+			"name": "&#747f8dVanished &#573895Live &#faa81aAFK",
 			"discordId": "896466289177034753",
 			"modelId": 25016,
 			"height": 8,
