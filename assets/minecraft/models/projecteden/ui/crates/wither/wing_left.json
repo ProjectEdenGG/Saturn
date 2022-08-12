@@ -119,6 +119,13 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"rotation": [180, -90, 180],
+			"translation": [0, 29.75, -15],
+			"scale": [1.65, 1.65, 1.65]
+		}
+	},
 	"groups": [
 		{
 			"name": "Wing",

@@ -1183,7 +1183,7 @@
 	"display": {
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 12, 0],
+			"translation": [0, 0.25, -16],
 			"scale": [2.5, 2.5, 2.5]
 		}
 	},

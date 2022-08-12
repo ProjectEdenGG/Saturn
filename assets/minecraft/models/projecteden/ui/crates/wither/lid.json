@@ -154,6 +154,12 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, 13.25, -10],
+			"scale": [1.65, 1.65, 1.65]
+		}
+	},
 	"groups": [
 		{
 			"name": "Lid",
