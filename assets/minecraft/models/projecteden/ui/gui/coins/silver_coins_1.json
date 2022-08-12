@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "projecteden/ui/gui/silver_coins_1"
+	},
+	"display": {
+		"gui": {
+			"scale": [0.9, 0.9, 0.9]
+		}
+	}
+}

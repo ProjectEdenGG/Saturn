@@ -116,6 +116,7 @@
 		{"predicate": {"custom_model_data": 1508}, "model": "projecteden/items/armor/filled/boots"},
 		{"predicate": {"custom_model_data": 1509}, "model": "projecteden/ui/filler_item"},
 		{"predicate": {"custom_model_data": 1510}, "model": "projecteden/ui/event_token"},
+		{"predicate": {"custom_model_data": 1511}, "model": "projecteden/ui/gui/chat_games"},
 
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
@@ -1069,6 +1070,24 @@
 		{"predicate": {"custom_model_data": 25110}, "model": "projecteden/ui/gui/social_media/reddit"},
 		{"predicate": {"custom_model_data": 25111}, "model": "projecteden/ui/gui/social_media/github"},
 
-		{"predicate": {"custom_model_data": 25200}, "model": "projecteden/ui/gui/gold_coins"}
+		{"predicate": {"custom_model_data": 25200}, "model": "projecteden/ui/gui/coins/gold_coins_1"},
+		{"predicate": {"custom_model_data": 25201}, "model": "projecteden/ui/gui/coins/gold_coins_2"},
+		{"predicate": {"custom_model_data": 25202}, "model": "projecteden/ui/gui/coins/gold_coins_3"},
+		{"predicate": {"custom_model_data": 25203}, "model": "projecteden/ui/gui/coins/gold_coins_4"},
+		{"predicate": {"custom_model_data": 25204}, "model": "projecteden/ui/gui/coins/gold_coins_5"},
+		{"predicate": {"custom_model_data": 25205}, "model": "projecteden/ui/gui/coins/gold_coins_6"},
+		{"predicate": {"custom_model_data": 25206}, "model": "projecteden/ui/gui/coins/gold_coins_7"},
+		{"predicate": {"custom_model_data": 25207}, "model": "projecteden/ui/gui/coins/gold_coins_8"},
+		{"predicate": {"custom_model_data": 25208}, "model": "projecteden/ui/gui/coins/gold_coins_9"},
+
+		{"predicate": {"custom_model_data": 25210}, "model": "projecteden/ui/gui/coins/silver_coins_1"},
+		{"predicate": {"custom_model_data": 25211}, "model": "projecteden/ui/gui/coins/silver_coins_2"},
+		{"predicate": {"custom_model_data": 25212}, "model": "projecteden/ui/gui/coins/silver_coins_3"},
+		{"predicate": {"custom_model_data": 25213}, "model": "projecteden/ui/gui/coins/silver_coins_4"},
+		{"predicate": {"custom_model_data": 25214}, "model": "projecteden/ui/gui/coins/silver_coins_5"},
+		{"predicate": {"custom_model_data": 25215}, "model": "projecteden/ui/gui/coins/silver_coins_6"},
+		{"predicate": {"custom_model_data": 25216}, "model": "projecteden/ui/gui/coins/silver_coins_7"},
+		{"predicate": {"custom_model_data": 25217}, "model": "projecteden/ui/gui/coins/silver_coins_8"},
+		{"predicate": {"custom_model_data": 25218}, "model": "projecteden/ui/gui/coins/silver_coins_9"}
 	]
 }
