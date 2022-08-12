@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "projecteden/ui/gui/silver_coins_5"
+		"layer0": "projecteden/ui/gui/coins/silver_coins_5"
 	},
 	"display": {
 		"gui": {
