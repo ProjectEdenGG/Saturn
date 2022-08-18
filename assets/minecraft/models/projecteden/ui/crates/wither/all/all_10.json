@@ -1,0 +1,7 @@
+{
+	"parent": "projecteden/ui/crates/wither/all/all_0",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "projecteden/ui/crates/wither_glow_11"
+	}
+}
