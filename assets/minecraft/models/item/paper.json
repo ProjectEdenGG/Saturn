@@ -390,7 +390,8 @@
 		{"predicate": {"custom_model_data": 6227}, "model": "projecteden/decoration/ladder"},
 		{"predicate": {"custom_model_data": 6228}, "model": "projecteden/decoration/iron_axe"},
 		{"predicate": {"custom_model_data": 6229}, "model": "projecteden/decoration/crown"},
-		{"predicate": {"custom_model_data": 6230}, "model": "projecteden/decoration/water_mill"},
+		{"predicate": {"custom_model_data": 6230}, "model": "projecteden/decoration/water_mill/water_mill"},
+		{"predicate": {"custom_model_data": 6231}, "model": "projecteden/decoration/water_mill/log_1"},
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/chairs/stump"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/chairs/stump_roots"},

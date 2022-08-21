@@ -1060,7 +1060,7 @@
 		},
 		{
 			"name": "center",
-			"from": [6, 6, -1],
+			"from": [6, 6, -0.6],
 			"to": [10, 10, 4],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 5]},
 			"faces": {
