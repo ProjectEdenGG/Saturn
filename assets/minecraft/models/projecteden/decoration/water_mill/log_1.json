@@ -4,8 +4,7 @@
 		"2": "projecteden/vanilla/block/spruce_log",
 		"3": "projecteden/vanilla/block/cobblestone",
 		"5": "projecteden/vanilla/block/blast_furnace_top",
-		"7": "projecteden/vanilla/block/polished_andesite",
-		"particle": "projecteden/vanilla/block/dark_oak_planks"
+		"7": "projecteden/vanilla/block/polished_andesite"
 	},
 	"elements": [
 		{
@@ -315,7 +314,7 @@
 	},
 	"groups": [
 		{
-			"name": "axle",
+			"name": "axel",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [
