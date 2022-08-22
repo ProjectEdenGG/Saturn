@@ -85,6 +85,18 @@
          { "name": "custom/dk_jungle_64" }
       ]
    },
+   "custom.ambient.misc.watermill": {
+      "subtitle": "Watermill rotates",
+      "sounds": [
+         { "name": "custom/ambient/misc/watermill" }
+      ]
+   },
+   "custom.ambient.misc.millstone": {
+      "subtitle": "Millstone rotates",
+      "sounds": [
+         { "name": "custom/ambient/misc/millstone" }
+      ]
+   },
    "custom.ambient.windchimes.metal_1": {
       "sounds": [
          { "name": "custom/ambient/windchimes/metal_1" }
@@ -424,6 +436,11 @@
       "subtitle": "Flashbang!",
       "sounds": [
          { "name": "custom/misc/flashbang" }
+      ]
+   },
+   "custom.misc.stone": {
+      "sounds": [
+         { "name": "custom/misc/stone" }
       ]
    },
    "custom.noteblock.marimba": {
