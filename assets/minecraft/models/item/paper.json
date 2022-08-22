@@ -395,6 +395,7 @@
 		{"predicate": {"custom_model_data": 6232}, "model": "projecteden/decoration/water_mill/gear_1"},
 		{"predicate": {"custom_model_data": 6233}, "model": "projecteden/decoration/water_mill/gear_2"},
 		{"predicate": {"custom_model_data": 6234}, "model": "projecteden/decoration/water_mill/axle_2"},
+		{"predicate": {"custom_model_data": 6235}, "model": "projecteden/decoration/water_mill/millstone"},
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/chairs/stump"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/chairs/stump_roots"},
