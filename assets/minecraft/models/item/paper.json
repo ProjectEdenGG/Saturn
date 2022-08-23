@@ -694,9 +694,14 @@
 		{"predicate": {"custom_model_data": 10009}, "model": "projecteden/items/crate_keys/pride"},
 		{"predicate": {"custom_model_data": 10010}, "model": "projecteden/items/crate_keys/dragon"},
 
-		{"predicate": {"custom_model_data": 10100}, "model": "projecteden/items/weapons/spear"},
+		{"predicate": {"custom_model_data": 10100}, "model": "projecteden/items/weapons/spear_old"},
 		{"predicate": {"custom_model_data": 10101}, "model": "projecteden/items/weapons/iron_sword"},
-		{"predicate": {"custom_model_data": 10102}, "model": "projecteden/items/weapons/iron_scythe"},
+		{"predicate": {"custom_model_data": 10102}, "model": "projecteden/items/weapons/halberd"},
+
+		{"predicate": {"custom_model_data": 10200}, "model": "projecteden/items/tools/scythe"},
+		{"predicate": {"custom_model_data": 10201}, "model": "projecteden/items/tools/hammer"},
+		{"predicate": {"custom_model_data": 10202}, "model": "projecteden/items/tools/chisel"},
+		{"predicate": {"custom_model_data": 10203}, "model": "projecteden/items/tools/wheelbarrow"},
 
 		{"predicate": {"custom_model_data": 11001}, "model": "projecteden/events/pugmas21/train/1"},
 		{"predicate": {"custom_model_data": 11002}, "model": "projecteden/events/pugmas21/train/2"},
