@@ -50,8 +50,9 @@
 
 		{"predicate": {"custom_model_data": 400}, "model": "projecteden/decoration/chairs/chair_basic"},
 		{"predicate": {"custom_model_data": 401}, "model": "projecteden/decoration/chairs/chair_middle"},
-		
+
 		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/chairs/bench"},
+		{"predicate": {"custom_model_data": 451}, "model": "projecteden/decoration/chairs/adirondack"},
 
 		{"predicate": {"custom_model_data": 500}, "model": "projecteden/decoration/chairs/stool_basic"},
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/chairs/stool_middle"},
