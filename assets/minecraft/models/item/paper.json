@@ -104,6 +104,9 @@
 		{"predicate": {"custom_model_data": 1419}, "model": "projecteden/ui/images/gamelobby/pixel_painters"},
 		{"predicate": {"custom_model_data": 1420}, "model": "projecteden/ui/images/gamelobby/mob_arena"},
 		{"predicate": {"custom_model_data": 1421}, "model": "projecteden/ui/images/gamelobby/monster_maze"},
+		{"predicate": {"custom_model_data": 1422}, "model": "projecteden/ui/images/gamelobby/hole_in_the_wall"},
+		{"predicate": {"custom_model_data": 1423}, "model": "projecteden/ui/images/gamelobby/thimble"},
+		{"predicate": {"custom_model_data": 1424}, "model": "projecteden/ui/images/gamelobby/dropper"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
