@@ -70,6 +70,13 @@
 
 		{"predicate": {"custom_model_data": 700}, "model": "projecteden/decoration/flora/mushroom_3d"},
 
+		{"predicate": {"custom_model_data": 800}, "model": "projecteden/decoration/food/punchbowl"},
+		{"predicate": {"custom_model_data": 801}, "model": "projecteden/decoration/food/side_sauce"},
+		{"predicate": {"custom_model_data": 802}, "model": "projecteden/decoration/food/cakes/cake_batter"},
+		{"predicate": {"custom_model_data": 803}, "model": "projecteden/decoration/food/pie_rough"},
+		{"predicate": {"custom_model_data": 804}, "model": "projecteden/decoration/food/pie_smooth"},
+		{"predicate": {"custom_model_data": 805}, "model": "projecteden/decoration/food/pie_latticed"},
+
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/ui/numbers/1"},
 		{"predicate": {"custom_model_data": 2002}, "model": "projecteden/ui/numbers/2"},
