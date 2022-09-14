@@ -1,8 +1,9 @@
 {
-	"parent": "projecteden/decoration/chairs/stump",
+	"parent": "projecteden/decoration/chairs/stumps/template_stump",
 	"textures": {
 		"0": "block/oak_log",
-		"1": "block/oak_log_top"
+		"1": "block/oak_log_top",
+		"particle": "#0"
 	},
 	"elements": [
 		{

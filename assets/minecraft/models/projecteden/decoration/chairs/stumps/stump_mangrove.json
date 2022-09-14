@@ -1,0 +1,8 @@
+{
+	"parent": "projecteden/decoration/chairs/stumps/template_stump",
+	"textures": {
+		"0": "block/mangrove_log",
+		"1": "block/mangrove_log_top",
+		"particle": "block/mangrove_log"
+	}
+}
