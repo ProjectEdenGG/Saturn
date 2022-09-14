@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "projecteden/decoration/stockpile/carrot",
-		"particle": "projecteden/decoration/stockpile/carrot"
+		"0": "projecteden/for_removal/carrot",
+		"particle": "projecteden/for_removal/carrot"
 	},
 	"elements": [
 		{

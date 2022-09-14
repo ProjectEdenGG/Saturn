@@ -382,7 +382,7 @@
 		{"predicate": {"custom_model_data": 6216}, "model": "projecteden/decoration/fireplace_brown_plain"},
 		{"predicate": {"custom_model_data": 6217}, "model": "projecteden/decoration/fireplace_white_plain"},
 		{"predicate": {"custom_model_data": 6218}, "model": "projecteden/decoration/firehydrant_red"},
-		{"predicate": {"custom_model_data": 6219}, "model": "projecteden/decoration/stockpile/carrots"},
+		{"predicate": {"custom_model_data": 6219}, "model": "projecteden/for_removal/carrots"},
 		{"predicate": {"custom_model_data": 6220}, "model": "projecteden/decoration/telescope"},
 		{"predicate": {"custom_model_data": 6221}, "model": "projecteden/decoration/microscope"},
 		{"predicate": {"custom_model_data": 6222}, "model": "projecteden/decoration/microscope_gem"},
