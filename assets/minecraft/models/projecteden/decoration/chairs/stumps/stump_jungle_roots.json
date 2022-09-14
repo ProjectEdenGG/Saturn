@@ -2,7 +2,6 @@
   "parent": "projecteden/decoration/chairs/stumps/template_stump_roots",
   "textures": {
     "0": "block/jungle_log",
-    "1": "block/jungle_log_top",
-    "particle": "block/jungle_log"
+    "1": "block/jungle_log_top"
   }
 }
