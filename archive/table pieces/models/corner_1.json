@@ -1,7 +1,7 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"particle": "projecteden/decoration/shared/table_set"
+		"particle": "projecteden/decoration/shared/wooden_set"
 	},
 	"elements": [
 		{

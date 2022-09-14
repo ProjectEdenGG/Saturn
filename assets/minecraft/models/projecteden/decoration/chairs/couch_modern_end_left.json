@@ -1,7 +1,7 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "projecteden/decoration/shared/table_set_oak",
+		"1": "projecteden/decoration/shared/wooden_set_oak",
 		"2": "projecteden/vanilla/block/white_shulker_box"
 	},
 	"elements": [

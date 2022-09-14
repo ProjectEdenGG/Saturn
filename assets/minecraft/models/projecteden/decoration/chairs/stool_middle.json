@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"1": "projecteden/decoration/chairs/cushion_1",
-		"particle": "projecteden/decoration/shared/table_set_oak"
+		"particle": "projecteden/decoration/shared/wooden_set_oak"
 	},
 	"elements": [
 		{
