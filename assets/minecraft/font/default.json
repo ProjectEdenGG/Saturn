@@ -1,6 +1,13 @@
 {
 	"providers": [
 		{
+			"type": "space",
+			"advances": {
+				" ": 4,
+				"‌": 0
+			}
+		},
+		{
 			"type":"bitmap",
 			"file":"projecteden/ui/gui/gamelobby/scroll.png",
 			"ascent":19,
@@ -183,7 +190,7 @@
 		{
 			"type":"bitmap",
 			"file":"projecteden/ui/gui/game_menu.png",
-			"ascent":33,
+			"ascent":79,
 			"height":80,
 			"chars":["簏"]
 		},

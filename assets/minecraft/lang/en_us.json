@@ -1,7 +1,7 @@
 {
 	"connect.joining":"鄜",
-	"menu.game": "簏",
-	"menu.returnToGame":"",
+	"menu.game": "",
+	"menu.returnToGame":"簏",
 	"menu.disconnect": "Leave the server...",
 	"menu.shareToLan":"Join /discord",
 	"debug.show_hitboxes.on": "Hitboxes: shown, cheater.",
