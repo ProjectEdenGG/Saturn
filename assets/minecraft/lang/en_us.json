@@ -1,7 +1,10 @@
 {
 	"connect.joining":"鄜",
-	"menu.returnToGame":"Return to Project Eden",
+	"menu.game": "簏",
+	"menu.returnToGame":"",
+	"menu.disconnect": "Leave the server...",
 	"menu.shareToLan":"Join /discord",
+	"debug.show_hitboxes.on": "Hitboxes: shown, cheater.",
 	"multiplayer.downloadingTerrain":"鄜",
 	"sleep.not_possible": "",
   	"sleep.players_sleeping": "",
