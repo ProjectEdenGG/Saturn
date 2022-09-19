@@ -49,25 +49,26 @@
 		{"predicate": {"custom_model_data": 304}, "model": "projecteden/decoration/tables/3x3"},
 
 		{"predicate": {"custom_model_data": 400}, "model": "projecteden/decoration/chairs/chair_basic"},
-		{"predicate": {"custom_model_data": 401}, "model": "projecteden/decoration/chairs/chair_middle"},
+		{"predicate": {"custom_model_data": 401}, "model": "projecteden/decoration/chairs/chair_wooden_cushioned"},
+		{"predicate": {"custom_model_data": 402}, "model": "projecteden/decoration/chairs/chair_cloth"},
 
 		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/chairs/bench"},
 		{"predicate": {"custom_model_data": 451}, "model": "projecteden/decoration/chairs/adirondack"},
 
 		{"predicate": {"custom_model_data": 500}, "model": "projecteden/decoration/chairs/stool_basic"},
-		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/chairs/stool_middle"},
+		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/chairs/stool_wooden_cushioned"},
 		{"predicate": {"custom_model_data": 502}, "model": "projecteden/decoration/chairs/stool_bar_wooden"},
 
-		{"predicate": {"custom_model_data": 525}, "model": "projecteden/decoration/chairs/couch_middle_end_left"},
-		{"predicate": {"custom_model_data": 526}, "model": "projecteden/decoration/chairs/couch_middle_end_right"},
-		{"predicate": {"custom_model_data": 527}, "model": "projecteden/decoration/chairs/couch_middle_middle"},
-		{"predicate": {"custom_model_data": 528}, "model": "projecteden/decoration/chairs/couch_middle_corner"},
-		{"predicate": {"custom_model_data": 529}, "model": "projecteden/decoration/chairs/couch_middle_ottoman"},
-		{"predicate": {"custom_model_data": 530}, "model": "projecteden/decoration/chairs/couch_modern_end_left"},
-		{"predicate": {"custom_model_data": 531}, "model": "projecteden/decoration/chairs/couch_modern_end_right"},
-		{"predicate": {"custom_model_data": 532}, "model": "projecteden/decoration/chairs/couch_modern_middle"},
-		{"predicate": {"custom_model_data": 533}, "model": "projecteden/decoration/chairs/couch_modern_corner"},
-		{"predicate": {"custom_model_data": 534}, "model": "projecteden/decoration/chairs/couch_modern_ottoman"},
+		{"predicate": {"custom_model_data": 525}, "model": "projecteden/decoration/chairs/couch_wooden_cushioned_end_left"},
+		{"predicate": {"custom_model_data": 526}, "model": "projecteden/decoration/chairs/couch_wooden_cushioned_end_right"},
+		{"predicate": {"custom_model_data": 527}, "model": "projecteden/decoration/chairs/couch_wooden_cushioned_middle"},
+		{"predicate": {"custom_model_data": 528}, "model": "projecteden/decoration/chairs/couch_wooden_cushioned_corner"},
+		{"predicate": {"custom_model_data": 529}, "model": "projecteden/decoration/chairs/couch_wooden_cushioned_ottoman"},
+		{"predicate": {"custom_model_data": 530}, "model": "projecteden/decoration/chairs/couch_cloth_end_left"},
+		{"predicate": {"custom_model_data": 531}, "model": "projecteden/decoration/chairs/couch_cloth_end_right"},
+		{"predicate": {"custom_model_data": 532}, "model": "projecteden/decoration/chairs/couch_cloth_middle"},
+		{"predicate": {"custom_model_data": 533}, "model": "projecteden/decoration/chairs/couch_cloth_corner"},
+		{"predicate": {"custom_model_data": 534}, "model": "projecteden/decoration/chairs/couch_cloth_ottoman"},
 
 		{"predicate": {"custom_model_data": 700}, "model": "projecteden/decoration/flora/mushroom_3d"},
 
