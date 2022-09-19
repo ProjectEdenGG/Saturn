@@ -78,6 +78,12 @@
 		{"predicate": {"custom_model_data": 804}, "model": "projecteden/decoration/food/pie_smooth"},
 		{"predicate": {"custom_model_data": 805}, "model": "projecteden/decoration/food/pie_latticed"},
 
+		{"predicate": {"custom_model_data": 900}, "model": "projecteden/decoration/kitchenware/appliances/fridge"},
+		{"predicate": {"custom_model_data": 901}, "model": "projecteden/decoration/kitchenware/appliances/fridge_magnets"},
+		{"predicate": {"custom_model_data": 902}, "model": "projecteden/decoration/kitchenware/appliances/fridge_tall"},
+		{"predicate": {"custom_model_data": 903}, "model": "projecteden/decoration/kitchenware/appliances/fridge_tall_magnets"},
+		{"predicate": {"custom_model_data": 904}, "model": "projecteden/decoration/kitchenware/appliances/slushie_machine"},
+
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/ui/numbers/1"},
 		{"predicate": {"custom_model_data": 2002}, "model": "projecteden/ui/numbers/2"},

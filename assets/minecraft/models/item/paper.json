@@ -148,8 +148,8 @@
 		{"predicate": {"custom_model_data": 2203}, "model": "projecteden/items/kitchenware/pot"},
 		{"predicate": {"custom_model_data": 2204}, "model": "projecteden/items/kitchenware/saucepan"},
 		{"predicate": {"custom_model_data": 2205}, "model": "projecteden/items/kitchenware/skillet"},
-		{"predicate": {"custom_model_data": 2206},"model": "projecteden/items/kitchenware/bakeware"},
-		{"predicate": {"custom_model_data": 2207},"model": "projecteden/items/kitchenware/juicer"},
+		{"predicate": {"custom_model_data": 2206}, "model": "projecteden/items/kitchenware/bakeware"},
+		{"predicate": {"custom_model_data": 2207}, "model": "projecteden/items/kitchenware/juicer"},
 
 		{"predicate": {"custom_model_data": 4000}, "model": "projecteden/events/easter22/easters_paintbrush"},
 		{"predicate": {"custom_model_data": 4001}, "model": "projecteden/events/easter22/egg1"},
@@ -363,6 +363,9 @@
 		{"predicate": {"custom_model_data": 6129}, "model": "projecteden/decoration/kitchenware/jars/empty"},
 		{"predicate": {"custom_model_data": 6130}, "model": "projecteden/decoration/kitchenware/jars/honey"},
 		{"predicate": {"custom_model_data": 6131}, "model": "projecteden/decoration/kitchenware/jars/cookie"},
+		{"predicate": {"custom_model_data": 6132}, "model": "projecteden/decoration/kitchenware/appliances/commercial_grill"},
+		{"predicate": {"custom_model_data": 6133}, "model": "projecteden/decoration/kitchenware/appliances/commercial_oven"},
+		{"predicate": {"custom_model_data": 6134}, "model": "projecteden/decoration/kitchenware/appliances/deep_fryer"},
 
 		{"predicate": {"custom_model_data": 6200}, "model": "projecteden/decoration/wall_lamp"},
 		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/icicle_small"},
