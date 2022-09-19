@@ -86,7 +86,7 @@
 		{"predicate": {"custom_model_data": 904}, "model": "projecteden/decoration/kitchenware/appliances/fridge_mini"},
 		{"predicate": {"custom_model_data": 905}, "model": "projecteden/decoration/kitchenware/appliances/fridge_mini_magnets"},
 		{"predicate": {"custom_model_data": 906}, "model": "projecteden/decoration/kitchenware/appliances/slushie_machine"},
-		{"predicate": {"custom_model_data": 907}, "model": "projecteden/decoration/toilet"},
+		{"predicate": {"custom_model_data": 907}, "model": "projecteden/decoration/toilet_modern"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/ui/numbers/1"},
