@@ -82,7 +82,9 @@
 		{"predicate": {"custom_model_data": 901}, "model": "projecteden/decoration/kitchenware/appliances/fridge_magnets"},
 		{"predicate": {"custom_model_data": 902}, "model": "projecteden/decoration/kitchenware/appliances/fridge_tall"},
 		{"predicate": {"custom_model_data": 903}, "model": "projecteden/decoration/kitchenware/appliances/fridge_tall_magnets"},
-		{"predicate": {"custom_model_data": 904}, "model": "projecteden/decoration/kitchenware/appliances/slushie_machine"},
+		{"predicate": {"custom_model_data": 904}, "model": "projecteden/decoration/kitchenware/appliances/fridge_mini"},
+		{"predicate": {"custom_model_data": 905}, "model": "projecteden/decoration/kitchenware/appliances/fridge_mini_magnets"},
+		{"predicate": {"custom_model_data": 906}, "model": "projecteden/decoration/kitchenware/appliances/slushie_machine"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/ui/numbers/1"},
