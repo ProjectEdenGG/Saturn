@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"particle": "item/white_triangle"
+		"particle": "projecteden/decoration/umbrella"
 	},
 	"elements": [
 		{
