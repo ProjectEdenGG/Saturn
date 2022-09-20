@@ -505,6 +505,33 @@
 		{"predicate": {"custom_model_data": 7402}, "model": "projecteden/minigames/minigolf/wedge"},
 		{"predicate": {"custom_model_data": 7403}, "model": "projecteden/minigames/minigolf/whistle"},
 
+		{"predicate": {"custom_model_data": 7500}, "model": "projecteden/decoration/art/paintings/1x2v/cherry_forest"},
+		{"predicate": {"custom_model_data": 7501}, "model": "projecteden/decoration/art/paintings/1x2v/end_island"},
+		{"predicate": {"custom_model_data": 7502}, "model": "projecteden/decoration/art/paintings/1x2v/lost_enderman"},
+		{"predicate": {"custom_model_data": 7503}, "model": "projecteden/decoration/art/paintings/1x2v/pine_tree"},
+		{"predicate": {"custom_model_data": 7504}, "model": "projecteden/decoration/art/paintings/1x2v/sunset"},
+		{"predicate": {"custom_model_data": 7505}, "model": "projecteden/decoration/art/paintings/1x2v/swamp_hut"},
+
+		{"predicate": {"custom_model_data": 7550}, "model": "projecteden/decoration/art/paintings/1x2h/mountains"},
+		{"predicate": {"custom_model_data": 7551}, "model": "projecteden/decoration/art/paintings/1x2h/muddy_pig"},
+		{"predicate": {"custom_model_data": 7552}, "model": "projecteden/decoration/art/paintings/1x2h/purple_sheep"},
+		{"predicate": {"custom_model_data": 7553}, "model": "projecteden/decoration/art/paintings/1x2h/village_happy"},
+		{"predicate": {"custom_model_data": 7554}, "model": "projecteden/decoration/art/paintings/1x2h/village_chaos"},
+
+		{"predicate": {"custom_model_data": 7600}, "model": "projecteden/decoration/art/paintings/1x1/skyblock"},
+		{"predicate": {"custom_model_data": 7601}, "model": "projecteden/decoration/art/paintings/1x1/nether_fortress_bridge"},
+		{"predicate": {"custom_model_data": 7602}, "model": "projecteden/decoration/art/paintings/1x1/nether_crimson_forest"},
+		{"predicate": {"custom_model_data": 7603}, "model": "projecteden/decoration/art/paintings/1x1/nether_warped_forest"},
+		{"predicate": {"custom_model_data": 7604}, "model": "projecteden/decoration/art/paintings/1x1/nether_basalt_deltas"},
+		{"predicate": {"custom_model_data": 7605}, "model": "projecteden/decoration/art/paintings/1x1/nether_soul_sand_valley"},
+
+		{"predicate": {"custom_model_data": 7650}, "model": "projecteden/decoration/art/paintings/2x2/castle"},
+		{"predicate": {"custom_model_data": 7651}, "model": "projecteden/decoration/art/paintings/2x2/lake"},
+		{"predicate": {"custom_model_data": 7652}, "model": "projecteden/decoration/art/paintings/2x2/river"},
+		{"predicate": {"custom_model_data": 7653}, "model": "projecteden/decoration/art/paintings/2x2/road"},
+		{"predicate": {"custom_model_data": 7654}, "model": "projecteden/decoration/art/paintings/2x2/oriental"},
+		{"predicate": {"custom_model_data": 7655}, "model": "projecteden/decoration/art/paintings/2x2/chickens"},
+
 		{"predicate": {"custom_model_data": 8000}, "model": "projecteden/decoration/flags/pride/ace"},
 		{"predicate": {"custom_model_data": 8001}, "model": "projecteden/decoration/flags/pride/agender"},
 		{"predicate": {"custom_model_data": 8002}, "model": "projecteden/decoration/flags/pride/aro"},
