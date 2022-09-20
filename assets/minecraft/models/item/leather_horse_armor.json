@@ -36,6 +36,7 @@
 		{"predicate": {"custom_model_data": 36}, "model": "projecteden/decoration/potions/filled/groups/18"},
 
 		{"predicate": {"custom_model_data": 100}, "model": "projecteden/decoration/trash_can"},
+		{"predicate": {"custom_model_data": 101}, "model": "projecteden/decoration/umbrella"},
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
@@ -54,6 +55,7 @@
 
 		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/chairs/bench"},
 		{"predicate": {"custom_model_data": 451}, "model": "projecteden/decoration/chairs/adirondack"},
+		{"predicate": {"custom_model_data": 452}, "model": "projecteden/decoration/chairs/beach"},
 
 		{"predicate": {"custom_model_data": 500}, "model": "projecteden/decoration/chairs/stool_basic"},
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/chairs/stool_wooden_cushioned"},
