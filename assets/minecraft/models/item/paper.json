@@ -531,6 +531,24 @@
 		{"predicate": {"custom_model_data": 7653}, "model": "projecteden/decoration/art/paintings/2x2/road"},
 		{"predicate": {"custom_model_data": 7654}, "model": "projecteden/decoration/art/paintings/2x2/oriental"},
 		{"predicate": {"custom_model_data": 7655}, "model": "projecteden/decoration/art/paintings/2x2/chickens"},
+		{"predicate": {"custom_model_data": 7656}, "model": "projecteden/decoration/art/paintings/2x2/oak_tree"},
+		{"predicate": {"custom_model_data": 7657}, "model": "projecteden/decoration/art/paintings/2x2/crab"},
+		{"predicate": {"custom_model_data": 7658}, "model": "projecteden/decoration/art/paintings/2x2/saturn_rocket"},
+		{"predicate": {"custom_model_data": 7659}, "model": "projecteden/decoration/art/paintings/2x2/parrot"},
+		{"predicate": {"custom_model_data": 7660}, "model": "projecteden/decoration/art/paintings/2x2/ducks"},
+		{"predicate": {"custom_model_data": 7661}, "model": "projecteden/decoration/art/paintings/2x2/pine_tree"},
+
+		{"predicate": {"custom_model_data": 7700}, "model": "projecteden/decoration/art/paintings/1x3h/forest"},
+
+		{"predicate": {"custom_model_data": 7750}, "model": "projecteden/decoration/art/paintings/1x3v/sand_dunes"},
+
+		{"predicate": {"custom_model_data": 7800}, "model": "projecteden/decoration/art/paintings/2x3h/story"},
+
+		{"predicate": {"custom_model_data": 7850}, "model": "projecteden/decoration/art/paintings/2x3v/reserved"},
+
+		{"predicate": {"custom_model_data": 7900}, "model": "projecteden/decoration/art/reserved"},
+
+		{"predicate": {"custom_model_data": 7950}, "model": "projecteden/decoration/art/reserved"},
 
 		{"predicate": {"custom_model_data": 8000}, "model": "projecteden/decoration/flags/pride/ace"},
 		{"predicate": {"custom_model_data": 8001}, "model": "projecteden/decoration/flags/pride/agender"},
