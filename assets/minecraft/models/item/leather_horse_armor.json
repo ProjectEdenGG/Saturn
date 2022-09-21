@@ -91,6 +91,16 @@
 		{"predicate": {"custom_model_data": 906}, "model": "projecteden/decoration/kitchenware/appliances/slushie_machine"},
 		{"predicate": {"custom_model_data": 907}, "model": "projecteden/decoration/toilet_modern"},
 
+		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/decoration/kitchenware/countertop_marble_island"},
+		{"predicate": {"custom_model_data": 1001}, "model": "projecteden/decoration/kitchenware/countertop_marble_corner"},
+		{"predicate": {"custom_model_data": 1002}, "model": "projecteden/decoration/kitchenware/countertop_marble_horizontal"},
+		{"predicate": {"custom_model_data": 1003}, "model": "projecteden/decoration/kitchenware/countertop_marble_vertical"},
+		{"predicate": {"custom_model_data": 1004}, "model": "projecteden/decoration/kitchenware/countertop_marble_oven"},
+		{"predicate": {"custom_model_data": 1005}, "model": "projecteden/decoration/kitchenware/countertop_marble_sink"},
+
+		{"predicate": {"custom_model_data": 1100}, "model": "projecteden/decoration/kitchenware/cabinet_wooden"},
+		{"predicate": {"custom_model_data": 1101}, "model": "projecteden/decoration/kitchenware/cabinet_wooden_corner"},
+
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/ui/numbers/1"},
 		{"predicate": {"custom_model_data": 2002}, "model": "projecteden/ui/numbers/2"},
