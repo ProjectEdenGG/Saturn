@@ -1,5 +1,5 @@
 {
-	"parent": "projecteden/decoration/cabinets/template/counter_horizontal",
+	"parent": "projecteden/decoration/cabinets/template/counter_cabinet",
 	"textures": {
 		"0": "projecteden/decoration/cabinets/counter_top_1",
 		"1": "projecteden/decoration/cabinets/top_marble",
