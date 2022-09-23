@@ -1,10 +1,10 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "projecteden/decoration/kitchenware/counter/counter_top_1",
-		"1": "projecteden/decoration/kitchenware/counter/top_marble",
-		"2": "projecteden/decoration/kitchenware/counter/handle_metal",
-		"particle": "projecteden/decoration/kitchenware/counter/counter_top_1"
+		"0": "projecteden/decoration/cabinets/counter_top_1",
+		"1": "projecteden/decoration/cabinets/top_marble",
+		"2": "projecteden/decoration/cabinets/handle_steel",
+		"particle": "projecteden/decoration/cabinets/counter_top_1"
 	},
 	"elements": [
 		{

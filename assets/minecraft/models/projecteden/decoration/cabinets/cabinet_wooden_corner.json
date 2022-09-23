@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "projecteden/decoration/kitchenware/counter/counter_top_1",
-		"particle": "projecteden/decoration/kitchenware/counter/counter_top_1"
+		"0": "projecteden/decoration/cabinets/counter_top_1",
+		"particle": "projecteden/decoration/cabinets/counter_top_1"
 	},
 	"elements": [
 		{

@@ -7,7 +7,7 @@
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/functional/icon"},
 		{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/flora/icon"},
 		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/food/icon"},
-		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/cabinets/icon"},
+		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/cabinets/face/icon"},
 		{"predicate": {"custom_model_data": 5}, "model": "projecteden/events/bearfair21/icon"},
 		{"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/icon"},
 		{"predicate": {"custom_model_data": 7}, "model": "projecteden/costumes/icon"},
