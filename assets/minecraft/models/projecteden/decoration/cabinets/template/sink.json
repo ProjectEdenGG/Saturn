@@ -5,7 +5,7 @@
 		"1": "projecteden/decoration/kitchenware/appliances/kitchen_1",
 		"2": "projecteden/decoration/cabinets/top_marble",
 		"3": "projecteden/decoration/cabinets/handle_steel",
-		"particle": "projecteden/decoration/cabinets/counter_top_1"
+		"particle": "#0"
 	},
 	"elements": [
 		{
