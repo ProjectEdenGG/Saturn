@@ -1153,7 +1153,7 @@
 		{"predicate": {"custom_model_data": 6100}, "model": "projecteden/decoration/cabinets/brass_handle/cabinet_wooden"},
 		{"predicate": {"custom_model_data": 6101}, "model": "projecteden/decoration/cabinets/brass_handle/cabinet_wooden_corner"},
 
-		{"predicate": {"custom_model_data": 6200}, "model": "projecteden/decoration/cabinets/brass_handle/cabinet_wooden"},
-		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/cabinets/brass_handle/cabinet_wooden_corner"}
+		{"predicate": {"custom_model_data": 6200}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden"},
+		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden_corner"}
 	]
 }
