@@ -2,6 +2,6 @@
 	"parent": "projecteden/decoration/cabinets/template/counter_island",
 	"textures": {
 		"0": "projecteden/decoration/cabinets/counter_top_1",
-		"1": "projecteden/decoration/cabinets/top_marble"
+		"1": "projecteden/decoration/cabinets/top_soapstone"
 	}
 }
