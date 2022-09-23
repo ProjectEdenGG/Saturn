@@ -365,7 +365,7 @@
 		{"predicate": {"custom_model_data": 6131}, "model": "projecteden/decoration/kitchenware/jars/cookie"},
 		{"predicate": {"custom_model_data": 6132}, "model": "projecteden/decoration/kitchenware/appliances/commercial_grill"},
 		{"predicate": {"custom_model_data": 6133}, "model": "projecteden/decoration/kitchenware/appliances/commercial_oven"},
-		{"predicate": {"custom_model_data": 6134}, "model": "projecteden/decoration/kitchenware/appliances/deep_fryer"},
+		{"predicate": {"custom_model_data": 6134}, "model": "projecteden/decoration/kitchenware/appliances/commercial_deep_fryer"},
 
 		{"predicate": {"custom_model_data": 6200}, "model": "projecteden/decoration/wall_lamp"},
 		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/icicle_small"},
