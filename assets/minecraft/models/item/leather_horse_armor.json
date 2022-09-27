@@ -1189,13 +1189,18 @@
 		{"predicate": {"custom_model_data": 5234}, "model": "projecteden/decoration/cabinets/black_handle/wooden_counter/oven"},
 		{"predicate": {"custom_model_data": 5235}, "model": "projecteden/decoration/cabinets/black_handle/wooden_counter/sink"},
 
+		{"predicate": {"custom_model_data": 5900}, "model": "projecteden/decoration/cabinets/cabinet_hood"},
+
 		{"predicate": {"custom_model_data": 6000}, "model": "projecteden/decoration/cabinets/steel_handle/cabinet_wooden"},
 		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/decoration/cabinets/steel_handle/cabinet_wooden_corner"},
+		{"predicate": {"custom_model_data": 6002}, "model": "projecteden/decoration/cabinets/steel_handle/cabinet_wooden_hood"},
 
 		{"predicate": {"custom_model_data": 6100}, "model": "projecteden/decoration/cabinets/brass_handle/cabinet_wooden"},
 		{"predicate": {"custom_model_data": 6101}, "model": "projecteden/decoration/cabinets/brass_handle/cabinet_wooden_corner"},
+		{"predicate": {"custom_model_data": 6102}, "model": "projecteden/decoration/cabinets/brass_handle/cabinet_wooden_hood"},
 
 		{"predicate": {"custom_model_data": 6200}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden"},
-		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden_corner"}
+		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden_corner"},
+		{"predicate": {"custom_model_data": 6202}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden_hood"}
 	]
 }
