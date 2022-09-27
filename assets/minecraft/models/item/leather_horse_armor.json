@@ -1105,6 +1105,7 @@
 		{"predicate": {"custom_model_data": 4010}, "model": "projecteden/costumes/hat/misc/ushanka"},
 
 
+		{"predicate": {"custom_model_data": 4999}, "model": "projecteden/items/paintbrush"},
 		{"predicate": {"custom_model_data": 5000}, "model": "projecteden/decoration/cabinets/steel_handle/marble_counter/island"},
 		{"predicate": {"custom_model_data": 5001}, "model": "projecteden/decoration/cabinets/steel_handle/marble_counter/corner"},
 		{"predicate": {"custom_model_data": 5002}, "model": "projecteden/decoration/cabinets/steel_handle/marble_counter/drawer"},
