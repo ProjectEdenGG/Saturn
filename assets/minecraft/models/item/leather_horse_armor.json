@@ -1203,6 +1203,12 @@
 
 		{"predicate": {"custom_model_data": 6200}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden"},
 		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden_corner"},
-		{"predicate": {"custom_model_data": 6202}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden_hood"}
+		{"predicate": {"custom_model_data": 6202}, "model": "projecteden/decoration/cabinets/black_handle/cabinet_wooden_hood"},
+
+		{"predicate": {"custom_model_data": 8000}, "model": "projecteden/decoration/furniture/wardrobe"},
+		{"predicate": {"custom_model_data": 8001}, "model": "projecteden/decoration/furniture/cupboard_short"},
+		{"predicate": {"custom_model_data": 8002}, "model": "projecteden/decoration/furniture/cupboard_short_bookshelf"},
+		{"predicate": {"custom_model_data": 8003}, "model": "projecteden/decoration/furniture/shelf_wall"},
+		{"predicate": {"custom_model_data": 8004}, "model": "projecteden/decoration/furniture/shelf_storage"}
 	]
 }
