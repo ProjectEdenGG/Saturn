@@ -496,7 +496,7 @@
          { "name": "custom/misc/bonk" }
       ]
    },
-   "custom.misc.heartbeat_halloween": {
+   "custom.misc.halloween.heartbeat": {
       "subtitle": "Island heart beats",
       "sounds": [
          { "name": "mob/warden/heartbeat_1" },
@@ -504,5 +504,14 @@
          { "name": "mob/warden/heartbeat_3" },
          { "name": "mob/warden/heartbeat_4" }
       ]
-   }
+   },
+   "custom.misc.halloween.blood": {
+      "subtitle": "Blood gushing",
+      "sounds": [
+         { "name": "block/honeyblock/slide1" },
+         { "name": "block/honeyblock/slide2" },
+         { "name": "block/honeyblock/slide3" },
+         { "name": "block/honeyblock/slide4" }
+       ]
+  }
 }
