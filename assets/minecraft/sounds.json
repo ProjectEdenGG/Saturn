@@ -495,5 +495,14 @@
       "sounds": [
          { "name": "custom/misc/bonk" }
       ]
+   },
+   "custom.misc.heartbeat_halloween": {
+      "subtitle": "Island heart beats",
+      "sounds": [
+         { "name": "mob/warden/heartbeat_1" },
+         { "name": "mob/warden/heartbeat_2" },
+         { "name": "mob/warden/heartbeat_3" },
+         { "name": "mob/warden/heartbeat_4" }
+      ]
    }
 }
