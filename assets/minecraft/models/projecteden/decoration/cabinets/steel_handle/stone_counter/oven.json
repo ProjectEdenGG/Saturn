@@ -1,8 +1,0 @@
-{
-	"parent": "projecteden/decoration/cabinets/template/counter_oven",
-	"textures": {
-		"0": "projecteden/decoration/cabinets/counter_top_1",
-		"1": "projecteden/decoration/kitchenware/appliances/kitchen_1",
-		"2": "projecteden/decoration/cabinets/top_stone"
-	}
-}

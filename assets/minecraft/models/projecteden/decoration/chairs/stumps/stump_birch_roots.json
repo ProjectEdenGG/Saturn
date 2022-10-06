@@ -1,7 +1,0 @@
-{
-  "parent": "projecteden/decoration/chairs/stumps/template_stump_roots",
-  "textures": {
-    "0": "block/birch_log",
-    "1": "block/birch_log_top"
-  }
-}

@@ -1,19 +1,19 @@
 {
   "parent": "minecraft:block/scaffolding_stable",
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/tables/corner_1"},
-    {"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/tables/corner_2"},
-    {"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/tables/corner_3"},
-    {"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/tables/corner_4"},
-    {"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/tables/spacer_side_1"},
-    {"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/tables/spacer_side_1_flipped"},
-    {"predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/tables/spacer_side_2"},
-    {"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/tables/spacer_side_2_flipped"},
-    {"predicate": {"custom_model_data": 20}, "model": "projecteden/decoration/tables/center"},
-    {"predicate": {"custom_model_data": 30}, "model": "projecteden/decoration/tables/1x1"},
-    {"predicate": {"custom_model_data": 31}, "model": "projecteden/decoration/tables/1x2"},
-    {"predicate": {"custom_model_data": 32}, "model": "projecteden/decoration/tables/2x2"},
-    {"predicate": {"custom_model_data": 33}, "model": "projecteden/decoration/tables/2x3"},
-    {"predicate": {"custom_model_data": 34}, "model": "projecteden/decoration/tables/3x3"}
+    {"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/furniture/tables/corner_1"},
+    {"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/furniture/tables/corner_2"},
+    {"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/furniture/tables/corner_3"},
+    {"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/furniture/tables/corner_4"},
+    {"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/furniture/tables/spacer_side_1"},
+    {"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/furniture/tables/spacer_side_1_flipped"},
+    {"predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/furniture/tables/spacer_side_2"},
+    {"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/furniture/tables/spacer_side_2_flipped"},
+    {"predicate": {"custom_model_data": 20}, "model": "projecteden/decoration/furniture/tables/center"},
+    {"predicate": {"custom_model_data": 30}, "model": "projecteden/decoration/furniture/tables/1x1"},
+    {"predicate": {"custom_model_data": 31}, "model": "projecteden/decoration/furniture/tables/1x2"},
+    {"predicate": {"custom_model_data": 32}, "model": "projecteden/decoration/furniture/tables/2x2"},
+    {"predicate": {"custom_model_data": 33}, "model": "projecteden/decoration/furniture/tables/2x3"},
+    {"predicate": {"custom_model_data": 34}, "model": "projecteden/decoration/furniture/tables/3x3"}
   ]
 }

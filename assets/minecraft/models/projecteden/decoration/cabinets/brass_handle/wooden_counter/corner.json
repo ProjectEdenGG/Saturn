@@ -1,7 +1,0 @@
-{
-	"parent": "projecteden/decoration/cabinets/template/counter_corner_dyeable",
-	"textures": {
-		"0": "projecteden/decoration/cabinets/counter_top_1",
-		"1": "projecteden/decoration/cabinets/top_wooden"
-	}
-}

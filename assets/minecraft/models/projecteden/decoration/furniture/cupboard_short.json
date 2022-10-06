@@ -2,7 +2,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "projecteden/decoration/furniture/cupboard_short",
-		"1": "projecteden/decoration/cabinets/handle_steel",
+		"1": "projecteden/decoration/furniture/cabinets/handle_steel",
 		"particle": "projecteden/decoration/furniture/cupboard_short"
 	},
 	"elements": [
