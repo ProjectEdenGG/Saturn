@@ -13,7 +13,6 @@
 		{"predicate": {"custom_model_data": 7}, "model": "projecteden/costumes/icon"},
 		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/icon"},
 		{"predicate": {"custom_model_data": 9}, "model": "projecteden/decoration/christmas/icon"},
-
 		{"predicate": {"custom_model_data": 10}, "model": "projecteden/decoration/plushies/icon"},
 		{"predicate": {"custom_model_data": 11}, "model": "projecteden/decoration/plushies/player/icon"},
 		{"predicate": {"custom_model_data": 12}, "model": "projecteden/decoration/plushies/player/sitting/icon"},
@@ -25,6 +24,7 @@
 		{"predicate": {"custom_model_data": 18}, "model": "projecteden/decoration/plushies/player/riding_minecart/icon"},
 		{"predicate": {"custom_model_data": 19}, "model": "projecteden/decoration/plushies/player/holding_globe/icon"},
 		{"predicate": {"custom_model_data": 20}, "model": "projecteden/decoration/plushies/player/waving/icon"},
+		{"predicate": {"custom_model_data": 21}, "model": "projecteden/decoration/furniture/icon"},
 
 		{"predicate": {"custom_model_data": 30}, "model": "projecteden/ui/icon"},
 		{"predicate": {"custom_model_data": 31}, "model": "projecteden/costumes/hat/icon"},
