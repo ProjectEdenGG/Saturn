@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/furniture/chairs/chair_basic",
+	"textures": {
+		"particle": "projecteden/decoration/shared/wooden_set_oak"
+	}
+}

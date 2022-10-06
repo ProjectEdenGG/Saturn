@@ -25,6 +25,9 @@
 		{"predicate": {"custom_model_data": 19}, "model": "projecteden/decoration/plushies/player/holding_globe/icon"},
 		{"predicate": {"custom_model_data": 20}, "model": "projecteden/decoration/plushies/player/waving/icon"},
 		{"predicate": {"custom_model_data": 21}, "model": "projecteden/decoration/furniture/icon"},
+		{"predicate": {"custom_model_data": 22}, "model": "projecteden/decoration/furniture/cabinets/icon"},
+		{"predicate": {"custom_model_data": 23}, "model": "projecteden/decoration/furniture/chairs/icon"},
+		{"predicate": {"custom_model_data": 24}, "model": "projecteden/decoration/furniture/appliances/icon"},
 
 		{"predicate": {"custom_model_data": 30}, "model": "projecteden/ui/icon"},
 		{"predicate": {"custom_model_data": 31}, "model": "projecteden/costumes/hat/icon"},

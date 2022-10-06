@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/furniture/appliances/fridge",
+	"textures": {
+		"0": "projecteden/decoration/furniture/appliances/fridge"
+	}
+}
