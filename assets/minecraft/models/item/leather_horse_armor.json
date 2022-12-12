@@ -1114,6 +1114,7 @@
 		{"predicate": {"custom_model_data": 5003}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/marble_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5004}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/marble_counter/oven"},
 		{"predicate": {"custom_model_data": 5005}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/marble_counter/sink"},
+		{"predicate": {"custom_model_data": 5006}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/marble_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5010}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/soapstone_counter/island"},
 		{"predicate": {"custom_model_data": 5011}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/soapstone_counter/corner"},
@@ -1121,6 +1122,7 @@
 		{"predicate": {"custom_model_data": 5013}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/soapstone_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5014}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/soapstone_counter/oven"},
 		{"predicate": {"custom_model_data": 5015}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/soapstone_counter/sink"},
+		{"predicate": {"custom_model_data": 5016}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/soapstone_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5020}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/stone_counter/island"},
 		{"predicate": {"custom_model_data": 5021}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/stone_counter/corner"},
@@ -1128,6 +1130,7 @@
 		{"predicate": {"custom_model_data": 5023}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/stone_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5024}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/stone_counter/oven"},
 		{"predicate": {"custom_model_data": 5025}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/stone_counter/sink"},
+		{"predicate": {"custom_model_data": 5026}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/stone_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5030}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/wooden_counter/island"},
 		{"predicate": {"custom_model_data": 5031}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/wooden_counter/corner"},
@@ -1135,6 +1138,7 @@
 		{"predicate": {"custom_model_data": 5033}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/wooden_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5034}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/wooden_counter/oven"},
 		{"predicate": {"custom_model_data": 5035}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/wooden_counter/sink"},
+		{"predicate": {"custom_model_data": 5036}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/wooden_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5100}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/marble_counter/island"},
 		{"predicate": {"custom_model_data": 5101}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/marble_counter/corner"},
@@ -1142,6 +1146,7 @@
 		{"predicate": {"custom_model_data": 5103}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/marble_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5104}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/marble_counter/oven"},
 		{"predicate": {"custom_model_data": 5105}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/marble_counter/sink"},
+		{"predicate": {"custom_model_data": 5106}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/marble_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5110}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/soapstone_counter/island"},
 		{"predicate": {"custom_model_data": 5111}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/soapstone_counter/corner"},
@@ -1149,6 +1154,7 @@
 		{"predicate": {"custom_model_data": 5113}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/soapstone_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5114}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/soapstone_counter/oven"},
 		{"predicate": {"custom_model_data": 5115}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/soapstone_counter/sink"},
+		{"predicate": {"custom_model_data": 5116}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/soapstone_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5120}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/stone_counter/island"},
 		{"predicate": {"custom_model_data": 5121}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/stone_counter/corner"},
@@ -1156,6 +1162,7 @@
 		{"predicate": {"custom_model_data": 5123}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/stone_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5124}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/stone_counter/oven"},
 		{"predicate": {"custom_model_data": 5125}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/stone_counter/sink"},
+		{"predicate": {"custom_model_data": 5126}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/stone_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5130}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/wooden_counter/island"},
 		{"predicate": {"custom_model_data": 5131}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/wooden_counter/corner"},
@@ -1163,6 +1170,7 @@
 		{"predicate": {"custom_model_data": 5133}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/wooden_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5134}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/wooden_counter/oven"},
 		{"predicate": {"custom_model_data": 5135}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/wooden_counter/sink"},
+		{"predicate": {"custom_model_data": 5136}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/wooden_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5200}, "model": "projecteden/decoration/furniture/cabinets/black_handle/marble_counter/island"},
 		{"predicate": {"custom_model_data": 5201}, "model": "projecteden/decoration/furniture/cabinets/black_handle/marble_counter/corner"},
@@ -1170,6 +1178,7 @@
 		{"predicate": {"custom_model_data": 5203}, "model": "projecteden/decoration/furniture/cabinets/black_handle/marble_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5204}, "model": "projecteden/decoration/furniture/cabinets/black_handle/marble_counter/oven"},
 		{"predicate": {"custom_model_data": 5205}, "model": "projecteden/decoration/furniture/cabinets/black_handle/marble_counter/sink"},
+		{"predicate": {"custom_model_data": 5206}, "model": "projecteden/decoration/furniture/cabinets/black_handle/marble_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5210}, "model": "projecteden/decoration/furniture/cabinets/black_handle/soapstone_counter/island"},
 		{"predicate": {"custom_model_data": 5211}, "model": "projecteden/decoration/furniture/cabinets/black_handle/soapstone_counter/corner"},
@@ -1177,6 +1186,7 @@
 		{"predicate": {"custom_model_data": 5213}, "model": "projecteden/decoration/furniture/cabinets/black_handle/soapstone_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5214}, "model": "projecteden/decoration/furniture/cabinets/black_handle/soapstone_counter/oven"},
 		{"predicate": {"custom_model_data": 5215}, "model": "projecteden/decoration/furniture/cabinets/black_handle/soapstone_counter/sink"},
+		{"predicate": {"custom_model_data": 5216}, "model": "projecteden/decoration/furniture/cabinets/black_handle/soapstone_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5220}, "model": "projecteden/decoration/furniture/cabinets/black_handle/stone_counter/island"},
 		{"predicate": {"custom_model_data": 5221}, "model": "projecteden/decoration/furniture/cabinets/black_handle/stone_counter/corner"},
@@ -1184,6 +1194,7 @@
 		{"predicate": {"custom_model_data": 5223}, "model": "projecteden/decoration/furniture/cabinets/black_handle/stone_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5224}, "model": "projecteden/decoration/furniture/cabinets/black_handle/stone_counter/oven"},
 		{"predicate": {"custom_model_data": 5225}, "model": "projecteden/decoration/furniture/cabinets/black_handle/stone_counter/sink"},
+		{"predicate": {"custom_model_data": 5226}, "model": "projecteden/decoration/furniture/cabinets/black_handle/stone_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5230}, "model": "projecteden/decoration/furniture/cabinets/black_handle/wooden_counter/island"},
 		{"predicate": {"custom_model_data": 5231}, "model": "projecteden/decoration/furniture/cabinets/black_handle/wooden_counter/corner"},
@@ -1191,6 +1202,7 @@
 		{"predicate": {"custom_model_data": 5233}, "model": "projecteden/decoration/furniture/cabinets/black_handle/wooden_counter/cabinet"},
 		{"predicate": {"custom_model_data": 5234}, "model": "projecteden/decoration/furniture/cabinets/black_handle/wooden_counter/oven"},
 		{"predicate": {"custom_model_data": 5235}, "model": "projecteden/decoration/furniture/cabinets/black_handle/wooden_counter/sink"},
+		{"predicate": {"custom_model_data": 5236}, "model": "projecteden/decoration/furniture/cabinets/black_handle/wooden_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5900}, "model": "projecteden/decoration/furniture/cabinets/cabinet_hood"},
 
