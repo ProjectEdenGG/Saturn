@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "projecteden/items/magic_dye"
+    "layer0": "projecteden/items/decoration/catalog_holiday"
   }
 }

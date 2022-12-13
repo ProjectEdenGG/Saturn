@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "projecteden/items/magic_stain"
+    "layer0": "projecteden/items/decoration/magic_dye"
   }
 }

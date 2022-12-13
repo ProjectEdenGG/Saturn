@@ -66,6 +66,7 @@
 		{"predicate": {"custom_model_data": 1320}, "model": "projecteden/ui/gui/100"},
 		{"predicate": {"custom_model_data": 1321}, "model": "projecteden/ui/gui/gamelobby/test_map"},
 
+
 		{"predicate": {"custom_model_data": 1330}, "model": "projecteden/ui/images/survival/avontyre"},
 		{"predicate": {"custom_model_data": 1331}, "model": "projecteden/ui/images/survival/royal_family"},
 		{"predicate": {"custom_model_data": 1332}, "model": "projecteden/ui/images/survival/chalkboard"},
@@ -121,12 +122,14 @@
 		{"predicate": {"custom_model_data": 1509}, "model": "projecteden/ui/filler_item"},
 		{"predicate": {"custom_model_data": 1510}, "model": "projecteden/ui/event_token"},
 		{"predicate": {"custom_model_data": 1511}, "model": "projecteden/ui/gui/chat_games"},
+		{"predicate": {"custom_model_data": 1512}, "model": "projecteden/ui/gui/close"},
+		{"predicate": {"custom_model_data": 1513}, "model": "projecteden/ui/gui/back"},
 
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
 		{"predicate": {"custom_model_data": 2052}, "model": "projecteden/items/scroll"},
-		{"predicate": {"custom_model_data": 2053}, "model": "projecteden/items/magic_dye"},
-		{"predicate": {"custom_model_data": 2054}, "model": "projecteden/items/magic_stain"},
+		{"predicate": {"custom_model_data": 2053}, "model": "projecteden/decoration/items/magic_dye"},
+		{"predicate": {"custom_model_data": 2054}, "model": "projecteden/items/decoration/magic_stain"},
 		{"predicate": {"custom_model_data": 2055}, "model": "projecteden/items/ender_eye_blinking"},
 		{"predicate": {"custom_model_data": 2056}, "model": "projecteden/items/wither_fragment"},
 		{"predicate": {"custom_model_data": 2057}, "model": "projecteden/items/sand_paper"},
@@ -263,6 +266,10 @@
 		{"predicate": {"custom_model_data": 5903}, "model": "projecteden/functional/infinite_water_bucket"},
 		{"predicate": {"custom_model_data": 5904}, "model": "projecteden/items/mob_net/mob_net"},
 		{"predicate": {"custom_model_data": 5905}, "model": "projecteden/items/mob_net/mob_net_closed"},
+
+		{"predicate": {"custom_model_data": 5997}, "model": "projecteden/items/decoration/catalog_spooky"},
+		{"predicate": {"custom_model_data": 5998}, "model": "projecteden/items/decoration/catalog_holiday"},
+		{"predicate": {"custom_model_data": 5999}, "model": "projecteden/items/decoration/catalog_general"},
 
 		{"predicate": {"custom_model_data": 6000}, "model": "projecteden/decoration/furniture/cabinets/face/handle_1"},
 		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/decoration/furniture/cabinets/face/handle_2"},
