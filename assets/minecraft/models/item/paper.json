@@ -128,7 +128,7 @@
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
 		{"predicate": {"custom_model_data": 2052}, "model": "projecteden/items/scroll"},
-		{"predicate": {"custom_model_data": 2053}, "model": "projecteden/decoration/items/magic_dye"},
+		{"predicate": {"custom_model_data": 2053}, "model": "projecteden/items/decoration/magic_dye"},
 		{"predicate": {"custom_model_data": 2054}, "model": "projecteden/items/decoration/magic_stain"},
 		{"predicate": {"custom_model_data": 2055}, "model": "projecteden/items/ender_eye_blinking"},
 		{"predicate": {"custom_model_data": 2056}, "model": "projecteden/items/wither_fragment"},
