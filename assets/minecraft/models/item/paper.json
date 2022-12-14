@@ -124,6 +124,8 @@
 		{"predicate": {"custom_model_data": 1511}, "model": "projecteden/ui/gui/chat_games"},
 		{"predicate": {"custom_model_data": 1512}, "model": "projecteden/ui/gui/close"},
 		{"predicate": {"custom_model_data": 1513}, "model": "projecteden/ui/gui/back"},
+		{"predicate": {"custom_model_data": 1514}, "model": "projecteden/ui/gui/previous"},
+		{"predicate": {"custom_model_data": 1515}, "model": "projecteden/ui/gui/next"},
 
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
