@@ -1,5 +1,5 @@
 {
-	"parent": "projecteden/decoration/furniture/cabinets/template/counter_bar",
+	"parent": "projecteden/decoration/furniture/cabinets/template/counter_bar_dyeable",
 	"textures": {
 		"0": "projecteden/decoration/furniture/cabinets/counter_top_1",
 		"1": "projecteden/decoration/furniture/cabinets/top_wooden"
