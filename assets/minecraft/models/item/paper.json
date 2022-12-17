@@ -142,6 +142,8 @@
 		{"predicate": {"custom_model_data": 2062}, "model": "projecteden/items/decoration/counter_marble"},
 		{"predicate": {"custom_model_data": 2063}, "model": "projecteden/items/decoration/counter_stone"},
 		{"predicate": {"custom_model_data": 2064}, "model": "projecteden/items/decoration/counter_soapstone"},
+		{"predicate": {"custom_model_data": 2065}, "model": "projecteden/items/decoration/counter_all"},
+		{"predicate": {"custom_model_data": 2066}, "model": "projecteden/items/decoration/handle_all"},
 
 		{"predicate": {"custom_model_data": 2100}, "model": "projecteden/items/electronics/motherboard"},
 		{"predicate": {"custom_model_data": 2101}, "model": "projecteden/items/electronics/controller_unit"},
