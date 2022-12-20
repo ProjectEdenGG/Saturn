@@ -65,6 +65,7 @@
 
 		{"predicate": {"custom_model_data": 1320}, "model": "projecteden/ui/gui/100"},
 		{"predicate": {"custom_model_data": 1321}, "model": "projecteden/ui/gui/gamelobby/test_map"},
+		{"predicate": {"custom_model_data": 1322}, "model": "projecteden/ui/images/gamelobby/groups/survival"},
 
 
 		{"predicate": {"custom_model_data": 1330}, "model": "projecteden/ui/images/survival/avontyre"},

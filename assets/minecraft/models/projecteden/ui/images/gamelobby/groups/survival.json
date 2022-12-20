@@ -1,0 +1,36 @@
+{
+	"textures": {
+		"0": "projecteden/ui/images/gamelobby/groups/survival",
+		"particle": "projecteden/ui/images/gamelobby/groups/survival"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 16, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -34, 2.75],
+			"scale": [3, 3, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -34, 2.75],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"translation": [3.75, -2.75, 0],
+			"scale": [0.7, 0.75, 1]
+		}
+	}
+}
