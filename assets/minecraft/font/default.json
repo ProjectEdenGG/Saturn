@@ -1,6 +1,38 @@
 {
 	"providers": [
 		{
+			"type": "space",
+			"advances": {
+				" ": 4,
+				"‌": 0
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/ascii.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+				"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+				" !\"#$%&'()*+,-./",
+				"0123456789:;<=>?",
+				"@ABCDEFGHIJKLMNO",
+				"PQRSTUVWXYZ[\\]^_",
+				"`abcdefghijklmno",
+				"pqrstuvwxyz{|}~\u0000",
+				"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+				"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000£\u0000\u0000ƒ",
+				"\u0000\u0000\u0000\u0000\u0000\u0000ªº\u0000\u0000¬\u0000\u0000\u0000«»",
+				"░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
+				"└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
+				"╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
+				"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
+				"≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
+			]
+		},
+
+		{
 			"type":"bitmap",
 			"file":"projecteden/ui/gui/gamelobby/scroll.png",
 			"ascent":19,
@@ -81,6 +113,13 @@
 			"height":133,
 			"chars":["膛"]
 		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/profile/profile_self.png",
+			"ascent":19,
+			"height":115,
+			"chars":["升"]
+		},
 
 		{
 			"type":"bitmap",
@@ -158,6 +197,223 @@
 			"ascent":-32768,
 			"height":-10,
 			"chars":["ꈉ"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-3,
+			"chars":["晕"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-4,
+			"chars":["鸱"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-5,
+			"chars":["粞"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-6,
+			"chars":["疕"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-7,
+			"chars":["楂"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-8,
+			"chars":["笞"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-9,
+			"chars":["砫"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-10,
+			"chars":["鼫"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-18,
+			"chars":["廒"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-34,
+			"chars":["婪"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-66,
+			"chars":["愆"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-130,
+			"chars":["棽"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-258,
+			"chars":["所"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-514,
+			"chars":["砗"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":-1026,
+			"chars":["超"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":0,
+			"chars":["笸"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":1,
+			"chars":["棘"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":2,
+			"chars":["爷"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":3,
+			"chars":["域"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":4,
+			"chars":["丫"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":5,
+			"chars":["策"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":6,
+			"chars":["租"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":7,
+			"chars":["稠"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":15,
+			"chars":["稻"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":31,
+			"chars":["疒"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":63,
+			"chars":["垿"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":127,
+			"chars":["梾"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":255,
+			"chars":["懋"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":511,
+			"chars":["奋"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":1023,
+			"chars":["瑬"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":32767,
+			"chars":["肤"]
 		},
 		{
 			"type":"bitmap",
@@ -1460,6 +1716,42 @@
 			"ascent":13,
 			"height":73,
 			"chars":["魁"]
-		}
+		},
+		{
+            "type":"bitmap",
+            "file":"custom/ui/tooltip/3_line_tooltip_right.png",
+            "ascent":7,
+            "height":19,
+            "chars":[
+                "ꢷ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"custom/ui/tooltip/3_line_tooltip_left.png",
+            "ascent":7,
+            "height":19,
+            "chars":[
+                "ꢸ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"custom/ui/tooltip/3_line_tooltip_center.png",
+            "ascent":7,
+            "height":19,
+            "chars":[
+                "ꢹ"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"custom/ui/tooltip/3_line_tooltip_right_offset.png",
+            "ascent":7,
+            "height":19,
+            "chars":[
+                "ꢺ"
+            ]
+        }
 	]
 }

@@ -6,9 +6,9 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/ui/gui/dye_station/button_dye"},
 		{"predicate": {"custom_model_data": 2}, "model": "projecteden/ui/gui/dye_station/button_stain"},
-		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/balloons/balloon_short"},
-		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/balloons/balloon_medium"},
-		{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/balloons/balloon_tall"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/balloons/balloon_large_short"},
+		{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/balloons/balloon_large_medium"},
+		{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/balloons/balloon_large_tall"},
 		{"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/potions/filled/small_1"},
 		{"predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/potions/filled/small_2"},
 		{"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/potions/filled/small_3"},
