@@ -8,11 +8,11 @@
 			}
 		},
 		{
-			"type": "bitmap",
-			"file": "minecraft:font/ascii.png",
-			"ascent": 7,
-			"height": 8,
-			"chars": [
+			"type":"bitmap",
+			"file":"minecraft:font/ascii.png",
+			"ascent":7,
+			"height":8,
+			"chars":[
 				"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
 				"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
 				" !\"#$%&'()*+,-./",
@@ -37,7 +37,7 @@
 			"file":"projecteden/ui/gui/gamelobby/scroll.png",
 			"ascent":19,
 			"height":133,
-			"chars": [
+			"chars":[
 				"魉辆沩漷秬籽醭泽转洼髌泗穙邸甬粽轩乏袭说魋廋糠稿膑配丸蝻"
 			]
 		},
@@ -445,1263 +445,1263 @@
 		},
 
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/logo.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/logo.png",
+			"height":9,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/bot.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/bot.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/twitter.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/twitter.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/instagram.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/instagram.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/snapchat.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/snapchat.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/youtube.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/youtube.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/twitch.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/twitch.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/tiktok.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/tiktok.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/discord.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/discord.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/steam.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/steam.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/reddit.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/reddit.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/dev.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/dev.png",
+			"height":9,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/spotify.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/spotify.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/queup.png",
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/queup.png",
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_offline.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_offline.png",
 			"name": "&#747f8dOffline",
 			"discordId": "1007078277921394720",
 			"modelId": 25000,
-			"height": 8,
-			"ascent": 8,
-			"chars": ["汉"]
+			"height":8,
+			"ascent":8,
+			"chars":["汉"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_active.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_active.png",
 			"name": "&#3ba55dActive",
 			"discordId": "896466289508356106",
 			"modelId": 25001,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_afk.png",
 			"name": "&#faa81aAFK",
 			"discordId": "896466289466429521",
 			"modelId": 25002,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_dnd.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_dnd.png",
 			"name": "&#ed4245DND",
 			"discordId": "896466289479020585",
 			"modelId": 25003,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_dnd_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_dnd_afk.png",
 			"name": "&#ed4245DND &#faa81aAFK",
 			"discordId": "896466289487396944",
 			"modelId": 25004,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_live.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_live.png",
 			"name": "&#573895Live",
 			"discordId": "896466289449635920",
 			"modelId": 25005,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_live_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_live_afk.png",
 			"name": "&#573895Live &#faa81aAFK",
 			"discordId": "896466289487400991",
 			"modelId": 25006,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_live_dnd.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_live_dnd.png",
 			"name": "&#573895Live &#ed4245DND",
 			"discordId": "896466289525129237",
 			"modelId": 25007,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_live_dnd_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_live_dnd_afk.png",
 			"name": "&#573895Live &#ed4245DND &#faa81aAFK",
 			"discordId": "896466289470636034",
 			"modelId": 25008,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished.png",
 			"name": "&#747f8dVanished",
 			"discordId": "896466289466429511",
 			"modelId": 25009,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished_afk.png",
 			"name": "&#747f8dVanished &#faa81aAFK",
 			"discordId": "896466289512579072",
 			"modelId": 25010,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished_dnd.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished_dnd.png",
 			"name": "&#747f8dVanished &#ed4245DND",
 			"discordId": "896466289462247545",
 			"modelId": 25011,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished_dnd_afk.png",
 			"name": "&#747f8dVanished &#ed4245DND &#faa81aAFK",
 			"discordId": "896466289495777391",
 			"modelId": 25012,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished_dnd_live.png",
 			"name": "&#747f8dVanished &#ed4245DND &#573895Live",
 			"discordId": "896466289546125402",
 			"modelId": 25013,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished_dnd_live_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished_dnd_live_afk.png",
 			"name": "&#747f8dVanished &#ed4245DND &#573895Live &#faa81aAFK",
 			"discordId": "896466289508356107",
 			"modelId": 25014,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished_live.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished_live.png",
 			"name": "&#747f8dVanished &#573895Live",
 			"discordId": "896466289491578920",
 			"modelId": 25015,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/custom/presence_vanished_live_afk.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/presence_vanished_live_afk.png",
 			"name": "&#747f8dVanished &#573895Live &#faa81aAFK",
 			"discordId": "896466289177034753",
 			"modelId": 25016,
-			"height": 8,
-			"ascent": 8,
-			"chars": [""]
+			"height":8,
+			"ascent":8,
+			"chars":[""]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/musical_note.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/musical_note.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🎵"]
+			"height":7,
+			"ascent":7,
+			"chars":["🎵"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/notes.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/notes.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🎶"]
+			"height":7,
+			"ascent":7,
+			"chars":["🎶"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/sports_medal.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/sports_medal.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🏅"]
+			"height":7,
+			"ascent":7,
+			"chars":["🏅"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/eyes.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/eyes.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👀"]
+			"height":7,
+			"ascent":7,
+			"chars":["👀"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/point_up.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/point_up.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👆"]
+			"height":7,
+			"ascent":7,
+			"chars":["👆"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/point_down.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/point_down.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👇"]
+			"height":7,
+			"ascent":7,
+			"chars":["👇"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/wave.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/wave.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👋"]
+			"height":7,
+			"ascent":7,
+			"chars":["👋"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/ok_hand.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/ok_hand.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👌"]
+			"height":7,
+			"ascent":7,
+			"chars":["👌"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/thumbsup.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/thumbsup.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👍"]
+			"height":7,
+			"ascent":7,
+			"chars":["👍"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/thumbsdown.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/thumbsdown.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👎"]
+			"height":7,
+			"ascent":7,
+			"chars":["👎"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/clap.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/clap.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["👏"]
+			"height":7,
+			"ascent":7,
+			"chars":["👏"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/skull.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/skull.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["💀"]
+			"height":7,
+			"ascent":7,
+			"chars":["💀"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/broken_heart.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/broken_heart.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["💔"]
+			"height":7,
+			"ascent":7,
+			"chars":["💔"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/sparkling_heart.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/sparkling_heart.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["💖"]
+			"height":7,
+			"ascent":7,
+			"chars":["💖"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/red_heart.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/red_heart.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["♥"]
+			"height":7,
+			"ascent":7,
+			"chars":["♥"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/zzz.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/zzz.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["💤"]
+			"height":7,
+			"ascent":7,
+			"chars":["💤"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/muscle.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/muscle.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["💪"]
+			"height":7,
+			"ascent":7,
+			"chars":["💪"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/100.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/100.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["💯"]
+			"height":7,
+			"ascent":7,
+			"chars":["💯"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/mute.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/mute.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔇"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔇"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/sound.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/sound.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔉"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔉"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/loud_sound.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/loud_sound.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔊"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔊"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/closed_lock_with_key.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/closed_lock_with_key.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔐"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔐"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/key.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/key.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔑"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔑"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/lock.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/lock.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔒"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔒"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/unlock.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/unlock.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔓"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔓"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/bell.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/bell.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔔"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔔"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/no_bell.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/no_bell.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔕"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔕"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/link.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/link.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔗"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔗"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/fire.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/fire.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🔥"]
+			"height":7,
+			"ascent":7,
+			"chars":["🔥"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/joy.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/joy.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😂"]
+			"height":7,
+			"ascent":7,
+			"chars":["😂"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/smiley.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/smiley.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😃"]
+			"height":7,
+			"ascent":7,
+			"chars":["😃"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/sweat_smile.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/sweat_smile.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😅"]
+			"height":7,
+			"ascent":7,
+			"chars":["😅"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/innocent.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/innocent.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😇"]
+			"height":7,
+			"ascent":7,
+			"chars":["😇"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/wink.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/wink.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😉"]
+			"height":7,
+			"ascent":7,
+			"chars":["😉"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/blush.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/blush.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😊"]
+			"height":7,
+			"ascent":7,
+			"chars":["😊"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/heart_eyes.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/heart_eyes.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😍"]
+			"height":7,
+			"ascent":7,
+			"chars":["😍"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/sunglasses.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/sunglasses.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😎"]
+			"height":7,
+			"ascent":7,
+			"chars":["😎"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/neutral_face.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/neutral_face.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😐"]
+			"height":7,
+			"ascent":7,
+			"chars":["😐"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/pensive.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/pensive.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😔"]
+			"height":7,
+			"ascent":7,
+			"chars":["😔"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/stuck_out_tongue.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/stuck_out_tongue.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😛"]
+			"height":7,
+			"ascent":7,
+			"chars":["😛"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/worried.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/worried.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😟"]
+			"height":7,
+			"ascent":7,
+			"chars":["😟"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/rage.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/rage.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😡"]
+			"height":7,
+			"ascent":7,
+			"chars":["😡"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/cry.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/cry.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😢"]
+			"height":7,
+			"ascent":7,
+			"chars":["😢"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/frowning.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/frowning.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😦"]
+			"height":7,
+			"ascent":7,
+			"chars":["😦"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/grimacing.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/grimacing.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😬"]
+			"height":7,
+			"ascent":7,
+			"chars":["😬"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/sob.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/sob.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😭"]
+			"height":7,
+			"ascent":7,
+			"chars":["😭"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/open_mouth.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/open_mouth.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["😮"]
+			"height":7,
+			"ascent":7,
+			"chars":["😮"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/slightly_smiling.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/slightly_smiling.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🙂"]
+			"height":7,
+			"ascent":7,
+			"chars":["🙂"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/upside_down.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/upside_down.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🙃"]
+			"height":7,
+			"ascent":7,
+			"chars":["🙃"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/eye_roll.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/eye_roll.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🙄"]
+			"height":7,
+			"ascent":7,
+			"chars":["🙄"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/rocket.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/rocket.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🚀"]
+			"height":7,
+			"ascent":7,
+			"chars":["🚀"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/no_entry_sign.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/no_entry_sign.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🚫"]
+			"height":7,
+			"ascent":7,
+			"chars":["🚫"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/octagonal_sign.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/octagonal_sign.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🛑"]
+			"height":7,
+			"ascent":7,
+			"chars":["🛑"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/hammer_and_wrench.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/hammer_and_wrench.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🛠"]
+			"height":7,
+			"ascent":7,
+			"chars":["🛠"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/nerd.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/nerd.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤓"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤓"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/thinking.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/thinking.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤔"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤔"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/face_with_cowboy_hat.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/face_with_cowboy_hat.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤠"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤠"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/rolling_on_the_floor_laughing.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/rolling_on_the_floor_laughing.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤣"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤣"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/face_palm.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/face_palm.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤦"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤦"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/zany_face.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/zany_face.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤪"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤪"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/exploding_head.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/exploding_head.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤯"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤯"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/shrug.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/shrug.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🤷"]
+			"height":7,
+			"ascent":7,
+			"chars":["🤷"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/drum_with_drumsticks.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/drum_with_drumsticks.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥁"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥁"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/first_place_medal.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/first_place_medal.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥇"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥇"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/second_place_medal.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/second_place_medal.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥈"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥈"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/third_place_medal.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/third_place_medal.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥉"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥉"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/smiling_face_with_hearts.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/smiling_face_with_hearts.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥰"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥰"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/partying_face.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/partying_face.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥳"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥳"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/woozy_face.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/woozy_face.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥴"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥴"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/pleading_face.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/pleading_face.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🥺"]
+			"height":7,
+			"ascent":7,
+			"chars":["🥺"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/face_with_monocle.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/face_with_monocle.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🧐"]
+			"height":7,
+			"ascent":7,
+			"chars":["🧐"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/snowman_with_snow.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/snowman_with_snow.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["☃"]
+			"height":7,
+			"ascent":7,
+			"chars":["☃"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/crossed_swords.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/crossed_swords.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⚔"]
+			"height":7,
+			"ascent":7,
+			"chars":["⚔"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/warning.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/warning.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⚠"]
+			"height":7,
+			"ascent":7,
+			"chars":["⚠"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/snowman.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/snowman.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⛄"]
+			"height":7,
+			"ascent":7,
+			"chars":["⛄"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/no_entry.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/no_entry.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⛔"]
+			"height":7,
+			"ascent":7,
+			"chars":["⛔"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/golf.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/golf.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⛳"]
+			"height":7,
+			"ascent":7,
+			"chars":["⛳"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/white_check_mark.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/white_check_mark.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["✅"]
+			"height":7,
+			"ascent":7,
+			"chars":["✅"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/email.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/email.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["✉"]
+			"height":7,
+			"ascent":7,
+			"chars":["✉"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/v.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/v.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["✌"]
+			"height":7,
+			"ascent":7,
+			"chars":["✌"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/snowflake.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/snowflake.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["❄"]
+			"height":7,
+			"ascent":7,
+			"chars":["❄"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/x.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/x.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["❌"]
+			"height":7,
+			"ascent":7,
+			"chars":["❌"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/arrow_right.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/arrow_right.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["➡"]
+			"height":7,
+			"ascent":7,
+			"chars":["➡"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/arrow_left.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/arrow_left.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⬅"]
+			"height":7,
+			"ascent":7,
+			"chars":["⬅"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/arrow_up.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/arrow_up.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⬆"]
+			"height":7,
+			"ascent":7,
+			"chars":["⬆"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/arrow_down.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/arrow_down.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⬇"]
+			"height":7,
+			"ascent":7,
+			"chars":["⬇"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/star.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/star.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["⭐"]
+			"height":7,
+			"ascent":7,
+			"chars":["⭐"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/birthday.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/birthday.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🎂"]
+			"height":7,
+			"ascent":7,
+			"chars":["🎂"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/compass.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/compass.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🧭"]
+			"height":7,
+			"ascent":7,
+			"chars":["🧭"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/globe.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/globe.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["🌎"]
+			"height":7,
+			"ascent":7,
+			"chars":["🌎"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/question.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/question.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["❓"]
+			"height":7,
+			"ascent":7,
+			"chars":["❓"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/ice.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/ice.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["稆"]
+			"height":7,
+			"ascent":7,
+			"chars":["稆"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/grass_block.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/grass_block.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["鹅"]
+			"height":7,
+			"ascent":7,
+			"chars":["鹅"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/diamond_pickaxe.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/diamond_pickaxe.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["丢"]
+			"height":7,
+			"ascent":7,
+			"chars":["丢"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/font/emojis/twemoji/wooden_axe.png",
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/wooden_axe.png",
 			"purchasable": true,
-			"height": 7,
-			"ascent": 7,
-			"chars": ["瓜"]
+			"height":7,
+			"ascent":7,
+			"chars":["瓜"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_00.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄀"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_00.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄀"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_01.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄁"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_01.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄁"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_02.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄂"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_02.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄂"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_03.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄃"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_03.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄃"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_04.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄄"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_04.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄄"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_05.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄅"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_05.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄅"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_06.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄆"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_06.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄆"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_07.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄇"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_07.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄇"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_08.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄈"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_08.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄈"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_09.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄉"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_09.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄉"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_10.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄊"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_10.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄊"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_11.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄋"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_11.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄋"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_12.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄌"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_12.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄌"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_13.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄍"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_13.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄍"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_14.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄎"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_14.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄎"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_15.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄏"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_15.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄏"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_16.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄐"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_16.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄐"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_17.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄑"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_17.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄑"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_18.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄒"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_18.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄒"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_19.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄓"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_19.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄓"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_20.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄔"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_20.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄔"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_21.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄕"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_21.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄕"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_22.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄖"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_22.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄖"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_23.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄗"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_23.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄗"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_24.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄘"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_24.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄘"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_25.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄙"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_25.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄙"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_26.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄚"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_26.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄚"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_27.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄿"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_27.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄿"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_28.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄛"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_28.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄛"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_29.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄝"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_29.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄝"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_30.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄞"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_30.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄞"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_31.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["鄟"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_31.png",
+			"ascent":11,
+			"height":16,
+			"chars":["鄟"]
 		},
 		{
-			"type": "bitmap",
-			"file": "projecteden/ui/compass/compass_empty.png",
-			"ascent": 11,
-			"height": 16,
-			"chars": ["邿"]
+			"type":"bitmap",
+			"file":"projecteden/ui/compass/compass_empty.png",
+			"ascent":11,
+			"height":16,
+			"chars":["邿"]
 		},
 		{
 			"type":"bitmap",
@@ -1718,40 +1718,11 @@
 			"chars":["魁"]
 		},
 		{
-            "type":"bitmap",
-            "file":"custom/ui/tooltip/3_line_tooltip_right.png",
-            "ascent":7,
-            "height":19,
-            "chars":[
-                "ꢷ"
-            ]
-        },
-        {
-            "type":"bitmap",
-            "file":"custom/ui/tooltip/3_line_tooltip_left.png",
-            "ascent":7,
-            "height":19,
-            "chars":[
-                "ꢸ"
-            ]
-        },
-        {
-            "type":"bitmap",
-            "file":"custom/ui/tooltip/3_line_tooltip_center.png",
-            "ascent":7,
-            "height":19,
-            "chars":[
-                "ꢹ"
-            ]
-        },
-        {
-            "type":"bitmap",
-            "file":"custom/ui/tooltip/3_line_tooltip_right_offset.png",
-            "ascent":7,
-            "height":19,
-            "chars":[
-                "ꢺ"
-            ]
-        }
+			"type":"bitmap",
+			"file":"projecteden/font/motd.png",
+			"ascent":18,
+			"height":32,
+			"chars":["祾"]
+		}
 	]
 }
