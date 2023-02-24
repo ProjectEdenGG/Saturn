@@ -196,6 +196,29 @@
 		{"predicate": {"custom_model_data": 1746}, "model": "projecteden/ui/gui/gamelobby/arenas/frostedprison"},
 		{"predicate": {"custom_model_data": 1747}, "model": "projecteden/ui/gui/gamelobby/arenas/fsscentaur"},
 		{"predicate": {"custom_model_data": 1748}, "model": "projecteden/ui/gui/gamelobby/arenas/goldrush"},
+		{"predicate": {"custom_model_data": 1749}, "model": "projecteden/ui/gui/gamelobby/arenas/golf"},
+		{"predicate": {"custom_model_data": 1750}, "model": "projecteden/ui/gui/gamelobby/arenas/grayscale"},
+		{"predicate": {"custom_model_data": 1751}, "model": "projecteden/ui/gui/gamelobby/arenas/hallofheros"},
+		{"predicate": {"custom_model_data": 1752}, "model": "projecteden/ui/gui/gamelobby/arenas/harmony"},
+		{"predicate": {"custom_model_data": 1753}, "model": "projecteden/ui/gui/gamelobby/arenas/icebreaker"},
+		{"predicate": {"custom_model_data": 1754}, "model": "projecteden/ui/gui/gamelobby/arenas/icedungeon"},
+		{"predicate": {"custom_model_data": 1755}, "model": "projecteden/ui/gui/gamelobby/arenas/imperialcaverns"},
+		{"predicate": {"custom_model_data": 1756}, "model": "projecteden/ui/gui/gamelobby/arenas/inferno"},
+		{"predicate": {"custom_model_data": 1757}, "model": "projecteden/ui/gui/gamelobby/arenas/junglerumble"},
+		{"predicate": {"custom_model_data": 1758}, "model": "projecteden/ui/gui/gamelobby/arenas/kiarasmaze"},
+		{"predicate": {"custom_model_data": 1759}, "model": "projecteden/ui/gui/gamelobby/arenas/kodacove"},
+		{"predicate": {"custom_model_data": 1760}, "model": "projecteden/ui/gui/gamelobby/arenas/lab13"},
+		{"predicate": {"custom_model_data": 1761}, "model": "projecteden/ui/gui/gamelobby/arenas/labyrinth"},
+		{"predicate": {"custom_model_data": 1762}, "model": "projecteden/ui/gui/gamelobby/arenas/lasertag"},
+		{"predicate": {"custom_model_data": 1763}, "model": "projecteden/ui/gui/gamelobby/arenas/lazoria"},
+		{"predicate": {"custom_model_data": 1764}, "model": "projecteden/ui/gui/gamelobby/arenas/lochwind"},
+		{"predicate": {"custom_model_data": 1765}, "model": "projecteden/ui/gui/gamelobby/arenas/longreach"},
+		{"predicate": {"custom_model_data": 1766}, "model": "projecteden/ui/gui/gamelobby/arenas/lostgarden"},
+		{"predicate": {"custom_model_data": 1767}, "model": "projecteden/ui/gui/gamelobby/arenas/lostruin"},
+		{"predicate": {"custom_model_data": 1768}, "model": "projecteden/ui/gui/gamelobby/arenas/lotus"},
+		{"predicate": {"custom_model_data": 1769}, "model": "projecteden/ui/gui/gamelobby/arenas/lunarcastle"},
+		{"predicate": {"custom_model_data": 1770}, "model": "projecteden/ui/gui/gamelobby/arenas/makingitup"},
+		{"predicate": {"custom_model_data": 1771}, "model": "projecteden/ui/gui/gamelobby/arenas/marscamp"},
 
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
@@ -1257,3 +1280,4 @@
 		{"predicate": {"custom_model_data": 25218}, "model": "projecteden/ui/gui/coins/silver_coins_9"}
 	]
 }
+
