@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/ui/gui/gamelobby/arenas/template",
+	"textures": {
+		"0": "projecteden/ui/gui/gamelobby/arenas/aether"
+	}
+}
