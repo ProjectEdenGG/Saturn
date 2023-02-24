@@ -1,6 +1,0 @@
-{
-	"parent": "projecteden/ui/gui/gamelobby/template",
-	"textures": {
-		"0": "projecteden/ui/gui/gamelobby/test_map"
-	}
-}
