@@ -2,7 +2,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"top": "block/hopper_top",
-		"particle": "break/hopper",
+		"particle": "block/hopper_back",
 		"side": "block/hopper_back",
 		"inside": "block/hopper_inside"
 	},

@@ -4,7 +4,7 @@
 		"4": "block/hopper_outside_flipped",
 		"5": "block/hopper_inside",
 		"top": "block/hopper_top",
-		"particle": "break/hopper",
+		"particle": "block/hopper_back",
 		"side": "block/hopper_outside",
 		"inside": "block/hopper_inside_side",
 		"back": "block/hopper_back"
