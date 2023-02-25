@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/ui/images/gamelobby/templates/template_6x3",
+	"textures": {
+		"0": "projecteden/ui/images/gamelobby/menu/megamind"
+	}
+}

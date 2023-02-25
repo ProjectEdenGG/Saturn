@@ -1,6 +1,6 @@
 {
 	"parent": "projecteden/ui/images/gamelobby/templates/template_3x2",
 	"textures": {
-		"0": "projecteden/ui/images/gamelobby/dogfighting"
+		"0": "projecteden/ui/images/gamelobby/menu/four_team_deathmatch"
 	}
 }

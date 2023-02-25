@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "projecteden/vanilla/block/spruce_planks",
 		"2": "projecteden/ui/images/hub/gamemode_back",
@@ -136,7 +137,8 @@
 		},
 		"gui": {
 			"rotation": [0, -180, 0],
-			"scale": [0.33, 0.33, 0.33]
+			"translation": [27.25, -44.75, 0],
+			"scale": [2.26, 2.26, 2.26]
 		},
 		"head": {
 			"translation": [0, -16, 0],
