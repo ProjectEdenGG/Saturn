@@ -116,6 +116,8 @@
 		{"predicate": {"custom_model_data": 1428}, "model": "projecteden/ui/images/gamelobby/uhc"},
 		{"predicate": {"custom_model_data": 1429}, "model": "projecteden/ui/images/gamelobby/uncivil_engineers"},
 		{"predicate": {"custom_model_data": 1430}, "model": "projecteden/ui/images/gamelobby/four_team_deathmatch"},
+		{"predicate": {"custom_model_data": 1431}, "model": "projecteden/ui/images/gamelobby/mastermind"},
+		{"predicate": {"custom_model_data": 1432}, "model": "projecteden/ui/images/gamelobby/bingo"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
