@@ -139,7 +139,7 @@
 		{"predicate": {"custom_model_data": 1506}, "model": "projecteden/items/armor/filled/chestplate"},
 		{"predicate": {"custom_model_data": 1507}, "model": "projecteden/items/armor/filled/leggings"},
 		{"predicate": {"custom_model_data": 1508}, "model": "projecteden/items/armor/filled/boots"},
-		{"predicate": {"custom_model_data": 1509}, "model": "projecteden/ui/filler_item"},
+		{"predicate": {"custom_model_data": 1509}, "model": "projecteden/ui/gui/filler_item"},
 		{"predicate": {"custom_model_data": 1510}, "model": "projecteden/ui/event_token"},
 		{"predicate": {"custom_model_data": 1511}, "model": "projecteden/ui/gui/chat_games"},
 		{"predicate": {"custom_model_data": 1512}, "model": "projecteden/ui/gui/close"},
