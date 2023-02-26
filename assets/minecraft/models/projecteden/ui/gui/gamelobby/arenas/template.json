@@ -1,8 +1,8 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "projecteden/vanilla/block/spruce_planks"
 	},
-	"gui_light": "front",
 	"elements": [
 		{
 			"from": [-4, 0, 0],
@@ -13,6 +13,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 3.75, 4.25],
@@ -35,7 +36,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"translation": [9, -3, 0],
+			"translation": [26.5, -20.5, 0],
 			"scale": [3, 3, 3]
 		},
 		"head": {
