@@ -147,7 +147,6 @@
 		{"predicate": {"custom_model_data": 1513}, "model": "projecteden/ui/gui/back"},
 		{"predicate": {"custom_model_data": 1514}, "model": "projecteden/ui/gui/previous"},
 		{"predicate": {"custom_model_data": 1515}, "model": "projecteden/ui/gui/next"},
-
 		{"predicate": {"custom_model_data": 1516}, "model": "projecteden/ui/gui/profile/button_friends"},
 		{"predicate": {"custom_model_data": 1517}, "model": "projecteden/ui/gui/profile/button_homes"},
 		{"predicate": {"custom_model_data": 1518}, "model": "projecteden/ui/gui/profile/button_levels"},
