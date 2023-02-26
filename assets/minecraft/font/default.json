@@ -1690,6 +1690,13 @@
 			"ascent":18,
 			"height":32,
 			"chars":["祾"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/ui/type_discord.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["求"]
 		}
 	]
 }

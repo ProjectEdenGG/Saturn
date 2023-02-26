@@ -11,5 +11,6 @@
  	"sleep.skipping_night": "",
  	"block.minecraft.ochre_froglight": "Verdant Froglight",
   	"block.minecraft.verdant_froglight": "Pearlescent Froglight",
-  	"block.minecraft.pearlescent_froglight": "Ochre Froglight"
+  	"block.minecraft.pearlescent_froglight": "Ochre Froglight",
+  	"effect.minecraft.unluck": "§f求"
 }
