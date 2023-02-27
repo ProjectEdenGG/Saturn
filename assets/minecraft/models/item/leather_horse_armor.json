@@ -1229,6 +1229,8 @@
 		{"predicate": {"custom_model_data": 8004}, "model": "projecteden/decoration/furniture/shelf_storage"},
 
 		{"predicate": {"custom_model_data": 10000}, "model": "projecteden/ui/images/gamelobby/menu/outline_3x2"},
-		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"}
+		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"},
+		{"predicate": {"custom_model_data": 10002}, "model": "projecteden/ui/images/gamelobby/templates/outline_1x2"},
+		{"predicate": {"custom_model_data": 10003}, "model": "projecteden/ui/images/gamelobby/templates/outline_3x2"}
 	]
 }
