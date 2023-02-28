@@ -12,5 +12,6 @@
  	"block.minecraft.ochre_froglight": "Verdant Froglight",
   	"block.minecraft.verdant_froglight": "Pearlescent Froglight",
   	"block.minecraft.pearlescent_froglight": "Ochre Froglight",
-  	"effect.minecraft.unluck": "§f求"
+  	"effect.minecraft.unluck": "§f求",
+	"container.inventory": ""
 }
