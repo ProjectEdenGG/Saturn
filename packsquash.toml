@@ -5,3 +5,6 @@ zip_spec_conformance_level = 'disregard'
 
 ['**/*?.meta']
 force_include = true
+
+['**/panorama*']
+force_include = false
