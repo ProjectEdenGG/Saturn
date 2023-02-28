@@ -80,11 +80,6 @@
          { "name": "custom/ambient/weather/thunder_distant_7"}
       ]
    },
-   "custom.dk_jungle_64": {
-      "sounds": [
-         { "name": "custom/dk_jungle_64" }
-      ]
-   },
    "custom.ambient.misc.watermill": {
       "subtitle": "Watermill rotates",
       "sounds": [
