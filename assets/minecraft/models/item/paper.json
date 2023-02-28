@@ -1351,7 +1351,9 @@
 		{"predicate": {"custom_model_data": 25215}, "model": "projecteden/ui/gui/coins/silver_coins_6"},
 		{"predicate": {"custom_model_data": 25216}, "model": "projecteden/ui/gui/coins/silver_coins_7"},
 		{"predicate": {"custom_model_data": 25217}, "model": "projecteden/ui/gui/coins/silver_coins_8"},
-		{"predicate": {"custom_model_data": 25218}, "model": "projecteden/ui/gui/coins/silver_coins_9"}
+		{"predicate": {"custom_model_data": 25218}, "model": "projecteden/ui/gui/coins/silver_coins_9"},
+
+		{"predicate": {"custom_model_data": 26000}, "model": "projecteden/ui/gui/dailyrewards/dailyrewards_1"}
 	]
 }
 

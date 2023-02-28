@@ -92,6 +92,7 @@
 		{"predicate": {"custom_model_data": 906}, "model": "projecteden/decoration/furniture/appliances/slushie_machine"},
 		{"predicate": {"custom_model_data": 907}, "model": "projecteden/decoration/furniture/toilet_modern"},
 
+		{"predicate": {"custom_model_data": 1999}, "model": "projecteden/ui/gui/filler_item_dyeable"},
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
 		{"predicate": {"custom_model_data": 2001}, "model": "projecteden/ui/numbers/1"},
 		{"predicate": {"custom_model_data": 2002}, "model": "projecteden/ui/numbers/2"},

@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "projecteden/ui/gui/dailyrewards/dailyrewards_1",
+		"particle": "projecteden/ui/gui/dailyrewards/dailyrewards_1"
+	},
+	"elements": [
+		{
+			"name": "picture",
+			"from": [-16, 0, 8],
+			"to": [32, 21.325, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-10, -180, 0],
+			"translation": [0, 7, -0.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-10, -180, 0],
+			"translation": [0, 7, -0.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.5, 3.25, 0],
+			"scale": [0.27, 0.27, 0.27]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.5, 3.25, 0],
+			"scale": [0.27, 0.27, 0.27]
+		},
+		"ground": {
+			"translation": [0, 9.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 36, 80],
+			"scale": [3.37, 3.37, 3.37]
+		},
+		"head": {
+			"translation": [0, -16, 0],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"translation": [-0.25, 0, -0.25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "back",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": []
+		}
+	]
+}
