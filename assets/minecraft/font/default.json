@@ -549,6 +549,13 @@
 		},
 		{
 			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/paypal.png",
+			"height":8,
+			"ascent":8,
+			"chars":["郎"]
+		},
+		{
+			"type":"bitmap",
 			"file":"projecteden/font/emojis/custom/presence_offline.png",
 			"name": "&#747f8dOffline",
 			"discordId": "1007078277921394720",
