@@ -1232,6 +1232,13 @@
 		{"predicate": {"custom_model_data": 10000}, "model": "projecteden/ui/images/gamelobby/menu/outline_3x2"},
 		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"},
 		{"predicate": {"custom_model_data": 10002}, "model": "projecteden/ui/images/gamelobby/templates/outline_1x2"},
-		{"predicate": {"custom_model_data": 10003}, "model": "projecteden/ui/images/gamelobby/templates/outline_3x2"}
+		{"predicate": {"custom_model_data": 10003}, "model": "projecteden/ui/images/gamelobby/templates/outline_3x2"},
+
+		{"predicate": {"custom_model_data": 10100}, "model": "projecteden/ui/gui/previous"},
+		{"predicate": {"custom_model_data": 10101}, "model": "projecteden/ui/gui/next"},
+		{"predicate": {"custom_model_data": 10102}, "model": "projecteden/ui/gui/close"},
+		{"predicate": {"custom_model_data": 10103}, "model": "projecteden/ui/gui/check"},
+		{"predicate": {"custom_model_data": 10104}, "model": "projecteden/ui/gui/add"},
+		{"predicate": {"custom_model_data": 10105}, "model": "projecteden/ui/gui/subtract"}
 	]
 }

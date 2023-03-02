@@ -143,10 +143,7 @@
 		{"predicate": {"custom_model_data": 1509}, "model": "projecteden/ui/gui/filler_item"},
 		{"predicate": {"custom_model_data": 1510}, "model": "projecteden/ui/event_token"},
 		{"predicate": {"custom_model_data": 1511}, "model": "projecteden/ui/gui/chat_games"},
-		{"predicate": {"custom_model_data": 1512}, "model": "projecteden/ui/gui/close"},
-		{"predicate": {"custom_model_data": 1513}, "model": "projecteden/ui/gui/back"},
-		{"predicate": {"custom_model_data": 1514}, "model": "projecteden/ui/gui/previous"},
-		{"predicate": {"custom_model_data": 1515}, "model": "projecteden/ui/gui/next"},
+
 		{"predicate": {"custom_model_data": 1516}, "model": "projecteden/ui/gui/profile/button_friends"},
 		{"predicate": {"custom_model_data": 1517}, "model": "projecteden/ui/gui/profile/button_homes"},
 		{"predicate": {"custom_model_data": 1518}, "model": "projecteden/ui/gui/profile/button_levels"},
@@ -1332,8 +1329,6 @@
 		{"predicate": {"custom_model_data": 25109}, "model": "projecteden/ui/gui/social_media/queup"},
 		{"predicate": {"custom_model_data": 25110}, "model": "projecteden/ui/gui/social_media/reddit"},
 		{"predicate": {"custom_model_data": 25111}, "model": "projecteden/ui/gui/social_media/github"},
-		{"predicate": {"custom_model_data": 25112}, "model": "projecteden/ui/gui/social_media/venmo"},
-		{"predicate": {"custom_model_data": 25113}, "model": "projecteden/ui/gui/social_media/paypal"},
 
 		{"predicate": {"custom_model_data": 25200}, "model": "projecteden/ui/gui/coins/gold_coins_1"},
 		{"predicate": {"custom_model_data": 25201}, "model": "projecteden/ui/gui/coins/gold_coins_2"},
@@ -1354,10 +1349,6 @@
 		{"predicate": {"custom_model_data": 25216}, "model": "projecteden/ui/gui/coins/silver_coins_7"},
 		{"predicate": {"custom_model_data": 25217}, "model": "projecteden/ui/gui/coins/silver_coins_8"},
 		{"predicate": {"custom_model_data": 25218}, "model": "projecteden/ui/gui/coins/silver_coins_9"},
-
-		{"predicate": {"custom_model_data": 25300}, "model": "projecteden/ui/gui/check"},
-		{"predicate": {"custom_model_data": 25301}, "model": "projecteden/ui/gui/add"},
-		{"predicate": {"custom_model_data": 25302}, "model": "projecteden/ui/gui/subtract"},
 
 		{"predicate": {"custom_model_data": 26000}, "model": "projecteden/ui/gui/dailyrewards/dailyrewards_1"}
 	]
