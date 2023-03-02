@@ -1349,8 +1349,6 @@
 		{"predicate": {"custom_model_data": 25217}, "model": "projecteden/ui/gui/coins/silver_coins_8"},
 		{"predicate": {"custom_model_data": 25218}, "model": "projecteden/ui/gui/coins/silver_coins_9"},
 
-		{"predicate": {"custom_model_data": 25999}, "model": "delete me"},
-
 		{"predicate": {"custom_model_data": 26000}, "model": "projecteden/ui/gui/dailyrewards/dailyrewards_1"}
 	]
 }
