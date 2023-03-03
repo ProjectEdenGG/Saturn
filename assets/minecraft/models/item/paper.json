@@ -115,7 +115,6 @@
 		{"predicate": {"custom_model_data": 1427}, "model": "projecteden/ui/images/gamelobby/turf_wars"},
 		{"predicate": {"custom_model_data": 1428}, "model": "projecteden/ui/images/gamelobby/uhc"},
 		{"predicate": {"custom_model_data": 1429}, "model": "projecteden/ui/images/gamelobby/uncivil_engineers"},
-		{"predicate": {"custom_model_data": 1430}, "model": "projecteden/ui/images/gamelobby/four_team_deathmatch"},
 		{"predicate": {"custom_model_data": 1431}, "model": "projecteden/ui/images/gamelobby/mastermind"},
 		{"predicate": {"custom_model_data": 1432}, "model": "projecteden/ui/images/gamelobby/bingo"},
 		{"predicate": {"custom_model_data": 1433}, "model": "projecteden/ui/images/gamelobby/menu/capture_the_flag"},
