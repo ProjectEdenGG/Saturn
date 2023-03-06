@@ -1756,6 +1756,20 @@
 			"ascent":19,
 			"height":133,
 			"chars":["棼"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/decoration_buy_prompt.png",
+			"ascent":19,
+			"height":79,
+			"chars":["埤"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/confirmation.png",
+			"ascent":19,
+			"height":79,
+			"chars":["禧"]
 		}
 	]
 }
