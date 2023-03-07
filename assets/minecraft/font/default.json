@@ -1770,6 +1770,13 @@
 			"ascent":19,
 			"height":79,
 			"chars":["禧"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/logo.png",
+			"ascent":0,
+			"height":50,
+			"chars":["貔"]
 		}
 	]
 }
