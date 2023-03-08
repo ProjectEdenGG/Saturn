@@ -289,6 +289,8 @@
 		{"predicate": {"custom_model_data": 1831}, "model": "projecteden/ui/gui/gamelobby/arenas/whiterun"},
 		{"predicate": {"custom_model_data": 1832}, "model": "projecteden/ui/gui/gamelobby/arenas/winterbreeze"},
 		{"predicate": {"custom_model_data": 1833}, "model": "projecteden/ui/gui/gamelobby/arenas/wizardtower"},
+		{"predicate": {"custom_model_data": 1834}, "model": "projecteden/ui/gui/gamelobby/arenas/sanctuary"},
+		{"predicate": {"custom_model_data": 1835}, "model": "projecteden/ui/gui/gamelobby/arenas/library"},
 
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
