@@ -238,14 +238,6 @@
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"}
 			}
-		},
-		{
-			"from": [4, 8, 7.45],
-			"to": [8, 12, 7.45],
-			"color": 0,
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"}
-			}
 		}
 	],
 	"gui_light": "front",
