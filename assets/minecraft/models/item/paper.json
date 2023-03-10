@@ -129,6 +129,8 @@
 		{"predicate": {"custom_model_data": 1442}, "model": "projecteden/ui/images/gamelobby/menu/dogfighting"},
 		{"predicate": {"custom_model_data": 1443}, "model": "projecteden/ui/images/gamelobby/menu/team_deathmatch"},
 		{"predicate": {"custom_model_data": 1444}, "model": "projecteden/ui/images/gamelobby/menu/parkour"},
+		{"predicate": {"custom_model_data": 1445}, "model": "projecteden/ui/images/gamelobby/falling_blocks"},
+		{"predicate": {"custom_model_data": 1446}, "model": "projecteden/ui/images/gamelobby/pixel_drop"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
