@@ -910,6 +910,7 @@
 		{"predicate": {"custom_model_data": 8395}, "model": "projecteden/decoration/signs/avontyre/unique/crates_dragon"},
 		{"predicate": {"custom_model_data": 8396}, "model": "projecteden/decoration/signs/avontyre/unique/crates_dragon_easteregg"},
 		{"predicate": {"custom_model_data": 8397}, "model": "projecteden/decoration/signs/avontyre/unique/decoration"},
+		{"predicate": {"custom_model_data": 8398}, "model": "projecteden/decoration/signs/avontyre/unique/crates_minigames"},
 
 		{"predicate": {"custom_model_data": 8500}, "model": "projecteden/misc/invisibarrier"},
 		{"predicate": {"custom_model_data": 8501}, "model": "projecteden/misc/max_size"},
