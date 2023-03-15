@@ -725,7 +725,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -6.75, 0]
+			"translation": [0, -6.75, 0],
+			"scale": [1.29, 1.29, 1.29]
 		}
 	},
 	"groups": [
