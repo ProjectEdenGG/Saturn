@@ -155,8 +155,8 @@
 		{"predicate": {"custom_model_data": 1522}, "model": "projecteden/ui/gui/profile/button_wallet"},
 		{"predicate": {"custom_model_data": 1523}, "model": "projecteden/ui/gui/profile/button_friends_short"},
 		{"predicate": {"custom_model_data": 1524}, "model": "projecteden/ui/gui/profile/button_trusts"},
-		{"predicate": {"custom_model_data": 1525}, "model": "projecteden/ui/gui/profile/button_friends_short_add"},
-		{"predicate": {"custom_model_data": 1526}, "model": "projecteden/ui/gui/profile/button_friends_short_remove"},
+		{"predicate": {"custom_model_data": 1525}, "model": "projecteden/ui/gui/profile/button_friends_modify_add"},
+		{"predicate": {"custom_model_data": 1526}, "model": "projecteden/ui/gui/profile/button_friends_modify_remove"},
 
 		{"predicate": {"custom_model_data": 1700}, "model": "projecteden/ui/gui/gamelobby/arenas/blank"},
 		{"predicate": {"custom_model_data": 1701}, "model": "projecteden/ui/gui/gamelobby/arenas/abandonedmines"},

@@ -5,7 +5,7 @@
 	"elements": [
 		{
 			"from": [0, 0, 7.5],
-			"to": [16, 16, 8.5],
+			"to": [17, 16, 8.5],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
 				"east": {"uv": [15.66667, 0, 16, 16], "texture": "#layer0"},
@@ -19,7 +19,8 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"scale": [1.12, 1.12, 1.12]
+			"translation": [0.5, 0, 0],
+			"scale": [1.06, 1, 1]
 		}
 	}
 }
