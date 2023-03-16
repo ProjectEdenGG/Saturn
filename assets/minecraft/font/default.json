@@ -1776,6 +1776,27 @@
 			"ascent":0,
 			"height":50,
 			"chars":["貔"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/minigames/domination/point_a.png",
+			"ascent":0,
+			"height":10,
+			"chars":["麈"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/minigames/domination/point_b.png",
+			"ascent":0,
+			"height":10,
+			"chars":["鹘"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/minigames/domination/point_c.png",
+			"ascent":27,
+			"height":50,
+			"chars":["犟"]
 		}
 	]
 }
