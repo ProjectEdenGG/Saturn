@@ -1780,15 +1780,15 @@
 		{
 			"type":"bitmap",
 			"file":"projecteden/minigames/domination/point_a.png",
-			"ascent":0,
-			"height":10,
+			"ascent":27,
+			"height":50,
 			"chars":["麈"]
 		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/minigames/domination/point_b.png",
-			"ascent":0,
-			"height":10,
+			"ascent":27,
+			"height":50,
 			"chars":["鹘"]
 		},
 		{
