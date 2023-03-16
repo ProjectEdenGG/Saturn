@@ -444,6 +444,7 @@
 		{"predicate": {"custom_model_data": 5903}, "model": "projecteden/functional/infinite_water_bucket"},
 		{"predicate": {"custom_model_data": 5904}, "model": "projecteden/items/mob_net/mob_net"},
 		{"predicate": {"custom_model_data": 5905}, "model": "projecteden/items/mob_net/mob_net_closed"},
+		{"predicate": {"custom_model_data": 5906}, "model": "projecteden/functional/tool_modification_table"},
 
 		{"predicate": {"custom_model_data": 5997}, "model": "projecteden/items/decoration/catalog_spooky"},
 		{"predicate": {"custom_model_data": 5998}, "model": "projecteden/items/decoration/catalog_holiday"},
