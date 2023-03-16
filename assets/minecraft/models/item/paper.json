@@ -1360,17 +1360,20 @@
 
 		{"predicate": {"custom_model_data": 26000}, "model": "projecteden/ui/gui/dailyrewards/dailyrewards_1"},
 
-		{"predicate": {"custom_model_data": 50000}, "model": "projecteden/decoration/refactor/music/amplifier"},
-		{"predicate": {"custom_model_data": 50001}, "model": "projecteden/decoration/refactor/music/golden_record"},
-		{"predicate": {"custom_model_data": 50002}, "model": "projecteden/decoration/refactor/music/large_speaker"},
-		{"predicate": {"custom_model_data": 50003}, "model": "projecteden/decoration/refactor/music/small_speaker"},
-		{"predicate": {"custom_model_data": 50004}, "model": "projecteden/decoration/refactor/music/launchpad"},
-		{"predicate": {"custom_model_data": 50005}, "model": "projecteden/decoration/refactor/music/microphone"},
-		{"predicate": {"custom_model_data": 50006}, "model": "projecteden/decoration/refactor/music/microphone_with_boom_stand"},
-		{"predicate": {"custom_model_data": 50007}, "model": "projecteden/decoration/refactor/music/mixing_console"},
-		{"predicate": {"custom_model_data": 50008}, "model": "projecteden/decoration/refactor/music/harp"},
-		{"predicate": {"custom_model_data": 50009}, "model": "projecteden/decoration/refactor/music/acoustic_guitar_classic"},
-		{"predicate": {"custom_model_data": 50010}, "model": "projecteden/decoration/refactor/music/drum_throne"}
+		{"predicate": {"custom_model_data": 30000}, "model": "projecteden/decoration/music/amplifier"},
+		{"predicate": {"custom_model_data": 30001}, "model": "projecteden/decoration/music/golden_record"},
+		{"predicate": {"custom_model_data": 30002}, "model": "projecteden/decoration/music/large_speaker"},
+		{"predicate": {"custom_model_data": 30003}, "model": "projecteden/decoration/music/small_speaker"},
+		{"predicate": {"custom_model_data": 30004}, "model": "projecteden/decoration/music/launchpad"},
+		{"predicate": {"custom_model_data": 30005}, "model": "projecteden/decoration/music/microphone"},
+		{"predicate": {"custom_model_data": 30006}, "model": "projecteden/decoration/music/microphone_with_boom_stand"},
+		{"predicate": {"custom_model_data": 30007}, "model": "projecteden/decoration/music/mixing_console"},
+		{"predicate": {"custom_model_data": 30008}, "model": "projecteden/decoration/music/harp"},
+		{"predicate": {"custom_model_data": 30009}, "model": "projecteden/decoration/music/acoustic_guitar_classic"},
+		{"predicate": {"custom_model_data": 30010}, "model": "projecteden/decoration/music/drum_throne"},
+		{"predicate": {"custom_model_data": 30011}, "model": "projecteden/decoration/music/trumpet"},
+		{"predicate": {"custom_model_data": 30012}, "model": "projecteden/decoration/music/saxophone"},
+		{"predicate": {"custom_model_data": 30013}, "model": "projecteden/decoration/music/violin"}
 	]
 }
 

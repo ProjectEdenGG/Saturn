@@ -1,7 +1,7 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"particle": "projecteden/decoration/refactor/music_1"
+		"particle": "projecteden/decoration/music/music_1"
 	},
 	"elements": [
 		{

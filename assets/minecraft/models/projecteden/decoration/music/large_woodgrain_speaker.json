@@ -1,20 +1,31 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "projecteden/decoration/refactor/music_1"
+		"1": "projecteden/decoration/music/music_1",
+		"2": "projecteden/decoration/music/music_wooden_1"
 	},
 	"elements": [
 		{
-			"from": [3, 0, 3],
-			"to": [13, 16, 13],
+			"name": "dyeable",
+			"from": [0, 0, 0],
+			"to": [16, 28, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 12]},
 			"faces": {
-				"north": {"uv": [11.25, 3.625, 12.5, 5.625], "texture": "#1"},
-				"east": {"uv": [12.625, 3.625, 13.875, 5.625], "texture": "#1"},
-				"south": {"uv": [12.625, 3.625, 12.75, 5.625], "texture": "#1"},
-				"west": {"uv": [12.625, 3.625, 13.875, 5.625], "texture": "#1"},
-				"up": {"uv": [12.625, 3.625, 12.75, 3.75], "texture": "#1"},
-				"down": {"uv": [12.625, 5.5, 12.75, 5.625], "texture": "#1"}
+				"north": {"uv": [2.125, 0, 4.125, 3.5], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [0, 0, 2, 3.5], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [2, 0, 0, 3.5], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [2, 0, 0, 3.5], "texture": "#2", "tintindex": 0},
+				"up": {"uv": [4.25, 0, 6.25, 2], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [4.25, 0, 6.25, 2], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "speaker",
+			"from": [0, 0, 0],
+			"to": [16, 28, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 12]},
+			"faces": {
+				"north": {"uv": [9.75, 0, 11.75, 3.5], "texture": "#1"}
 			}
 		}
 	],

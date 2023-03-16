@@ -1229,6 +1229,24 @@
 		{"predicate": {"custom_model_data": 8003}, "model": "projecteden/decoration/furniture/shelf_wall"},
 		{"predicate": {"custom_model_data": 8004}, "model": "projecteden/decoration/furniture/shelf_storage"},
 
+		{"predicate": {"custom_model_data": 9000}, "model": "projecteden/decoration/music/large_woodgrain_speaker"},
+		{"predicate": {"custom_model_data": 9001}, "model": "projecteden/decoration/music/small_woodgrain_speaker"},
+		{"predicate": {"custom_model_data": 9002}, "model": "projecteden/decoration/music/tape_machine"},
+
+		{"predicate": {"custom_model_data": 9000}, "model": "projecteden/decoration/music/large_woodgrain_speaker"},
+		{"predicate": {"custom_model_data": 9001}, "model": "projecteden/decoration/music/small_woodgrain_speaker"},
+		{"predicate": {"custom_model_data": 9002}, "model": "projecteden/decoration/music/tape_machine"},
+		{"predicate": {"custom_model_data": 9003}, "model": "projecteden/decoration/music/keyboard"},
+		{"predicate": {"custom_model_data": 9004}, "model": "projecteden/decoration/music/keyboard_with_stand"},
+		{"predicate": {"custom_model_data": 9005}, "model": "projecteden/decoration/music/dj_turntable"},
+		{"predicate": {"custom_model_data": 9006}, "model": "projecteden/decoration/music/modern_record_player"},
+		{"predicate": {"custom_model_data": 9007}, "model": "projecteden/decoration/music/modern_record_player_on"},
+		{"predicate": {"custom_model_data": 9008}, "model": "projecteden/decoration/music/drum_kit"},
+		{"predicate": {"custom_model_data": 9009}, "model": "projecteden/decoration/music/grand_piano"},
+		{"predicate": {"custom_model_data": 9010}, "model": "projecteden/decoration/music/bongos"},
+		{"predicate": {"custom_model_data": 9011}, "model": "projecteden/decoration/music/acoustic_guitar"},
+		{"predicate": {"custom_model_data": 9012}, "model": "projecteden/decoration/music/electric_guitar"},
+
 		{"predicate": {"custom_model_data": 10000}, "model": "projecteden/ui/images/gamelobby/menu/outline_3x2"},
 		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"},
 		{"predicate": {"custom_model_data": 10002}, "model": "projecteden/ui/images/gamelobby/templates/outline_1x2"},
@@ -1241,21 +1259,8 @@
 		{"predicate": {"custom_model_data": 10104}, "model": "projecteden/ui/gui/add"},
 		{"predicate": {"custom_model_data": 10105}, "model": "projecteden/ui/gui/subtract"},
 
-		{"predicate": {"custom_model_data": 50000}, "model": "projecteden/decoration/refactor/music/large_woodgrain_speaker"},
-		{"predicate": {"custom_model_data": 50001}, "model": "projecteden/decoration/refactor/music/small_woodgrain_speaker"},
-		{"predicate": {"custom_model_data": 50002}, "model": "projecteden/decoration/refactor/music/tape_machine"},
 		{"predicate": {"custom_model_data": 50003}, "model": "projecteden/decoration/refactor/plants/bushy_plant"},
 		{"predicate": {"custom_model_data": 50004}, "model": "projecteden/decoration/refactor/plants/cherry_tree"},
-		{"predicate": {"custom_model_data": 50005}, "model": "projecteden/decoration/refactor/plants/potted_bay_tree"},
-		{"predicate": {"custom_model_data": 50006}, "model": "projecteden/decoration/refactor/music/keyboard"},
-		{"predicate": {"custom_model_data": 50007}, "model": "projecteden/decoration/refactor/music/keyboard_with_stand"},
-		{"predicate": {"custom_model_data": 50008}, "model": "projecteden/decoration/refactor/music/dj_turntable"},
-		{"predicate": {"custom_model_data": 50009}, "model": "projecteden/decoration/refactor/music/modern_record_player"},
-		{"predicate": {"custom_model_data": 50010}, "model": "projecteden/decoration/refactor/music/modern_record_player_on"},
-		{"predicate": {"custom_model_data": 50011}, "model": "projecteden/decoration/refactor/music/drum_kit"},
-		{"predicate": {"custom_model_data": 50012}, "model": "projecteden/decoration/refactor/music/grand_piano"},
-		{"predicate": {"custom_model_data": 50013}, "model": "projecteden/decoration/refactor/music/bongos"},
-		{"predicate": {"custom_model_data": 50014}, "model": "projecteden/decoration/refactor/music/acoustic_guitar"},
-		{"predicate": {"custom_model_data": 50015}, "model": "projecteden/decoration/refactor/music/electric_guitar"}
+		{"predicate": {"custom_model_data": 50005}, "model": "projecteden/decoration/refactor/plants/potted_bay_tree"}
 	]
 }

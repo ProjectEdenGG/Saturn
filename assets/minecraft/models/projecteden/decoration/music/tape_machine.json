@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "projecteden/decoration/refactor/music_wooden_1",
-		"2": "projecteden/decoration/refactor/music_1"
+		"1": "projecteden/decoration/music/music_wooden_1",
+		"2": "projecteden/decoration/music/music_1"
 	},
 	"elements": [
 		{

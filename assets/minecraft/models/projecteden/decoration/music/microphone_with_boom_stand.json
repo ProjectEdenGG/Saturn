@@ -1,7 +1,7 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "projecteden/decoration/refactor/microphone"
+		"1": "projecteden/decoration/music/microphone"
 	},
 	"elements": [
 		{
