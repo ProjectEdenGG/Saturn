@@ -1374,7 +1374,9 @@
 		{"predicate": {"custom_model_data": 30010}, "model": "projecteden/decoration/music/drum_throne"},
 		{"predicate": {"custom_model_data": 30011}, "model": "projecteden/decoration/music/trumpet"},
 		{"predicate": {"custom_model_data": 30012}, "model": "projecteden/decoration/music/saxophone"},
-		{"predicate": {"custom_model_data": 30013}, "model": "projecteden/decoration/music/violin"}
+		{"predicate": {"custom_model_data": 30013}, "model": "projecteden/decoration/music/violin"},
+		{"predicate": {"custom_model_data": 30014}, "model": "projecteden/decoration/music/cello"},
+		{"predicate": {"custom_model_data": 30015}, "model": "projecteden/decoration/music/light_board"}
 	]
 }
 

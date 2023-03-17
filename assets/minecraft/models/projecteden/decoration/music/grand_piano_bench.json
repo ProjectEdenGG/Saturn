@@ -1,0 +1,10 @@
+{
+	"parent": "projecteden/decoration/music/piano_bench",
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
