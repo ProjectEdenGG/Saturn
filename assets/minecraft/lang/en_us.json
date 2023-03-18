@@ -13,5 +13,7 @@
   	"block.minecraft.verdant_froglight": "Pearlescent Froglight",
   	"block.minecraft.pearlescent_froglight": "Ochre Froglight",
   	"effect.minecraft.unluck": "§f求",
-	"container.inventory": ""
+	"container.inventory": "",
+	"multiplayer.unsecureserver.toast.title": "",
+	"multiplayer.unsecureserver.toast": ""
 }
