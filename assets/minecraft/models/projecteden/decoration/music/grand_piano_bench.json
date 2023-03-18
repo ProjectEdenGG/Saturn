@@ -1,10 +1,15 @@
 {
 	"parent": "projecteden/decoration/music/piano_bench",
+	"textures": {
+		"0": "projecteden/decoration/music/music_3",
+		"1": "projecteden/decoration/shared/wooden_set",
+		"particle": "projecteden/decoration/music/music_3"
+	},
 	"display": {
 		"fixed": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, -2, -16],
-			"scale": [2, 2, 2]
+			"scale": [2.5, 2, 2]
 		}
 	}
 }
