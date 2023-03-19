@@ -2,8 +2,8 @@
 	"parent": "projecteden/decoration/refactor/template/display_block",
 	"texture_size": [128, 128],
 	"textures": {
-		"3": "projecteden/decoration/refactor/plants_1",
-		"particle": "projecteden/decoration/refactor/plants_1"
+		"3": "projecteden/decoration/flora/plants_1",
+		"particle": "projecteden/decoration/flora/plants_1"
 	},
 	"elements": [
 		{
@@ -206,7 +206,7 @@
 			"to": [12, 8, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, -1]},
 			"faces": {
-				"up": {"uv": [15, 1.625, 16, 2.625], "texture": "#3"}
+				"up": {"uv": [15, 13.375, 16, 14.375], "texture": "#3"}
 			}
 		}
 	],

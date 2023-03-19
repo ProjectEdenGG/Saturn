@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/flora/bonsai_tree",
+	"textures": {
+		"2": "projecteden/decoration/flora/bonsai_leaves_cherry"
+	}
+}

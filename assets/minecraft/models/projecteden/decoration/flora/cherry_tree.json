@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"3": "projecteden/decoration/refactor/plants_1",
-		"particle": "projecteden/decoration/refactor/plants_1"
+		"3": "projecteden/decoration/flora/plants_1",
+		"particle": "projecteden/decoration/flora/plants_1"
 	},
 	"elements": [
 		{
@@ -43,7 +43,7 @@
 			"from": [2, -6.25, 2],
 			"to": [14, -6.25, 14],
 			"faces": {
-				"up": {"uv": [15, 1.625, 16, 2.625], "texture": "#3"}
+				"up": {"uv": [14.5, 14.5, 16, 16], "texture": "#3"}
 			}
 		}
 	],
