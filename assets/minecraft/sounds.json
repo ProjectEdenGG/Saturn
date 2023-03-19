@@ -507,6 +507,30 @@
          { "name": "block/honeyblock/slide2" },
          { "name": "block/honeyblock/slide3" },
          { "name": "block/honeyblock/slide4" }
-       ]
+      ]
+  },
+   "custom.instrument.drum_kit": {
+      "subtitle": "plays Drum Kit",
+      "sounds": [
+         { "name": "custom/instrument/drum_kit/kick" },
+         { "name": "custom/instrument/drum_kit/snare" },
+         { "name": "custom/instrument/drum_kit/hihat_1" },
+         { "name": "custom/instrument/drum_kit/hihat_2" },
+         { "name": "custom/instrument/drum_kit/cymbal_ride" },
+         { "name": "custom/instrument/drum_kit/cymbal_crash" },
+         { "name": "custom/instrument/drum_kit/tom" }
+      ]
+  },
+  "custom.instrument.bongos": {
+    "subtitle": "plays Bongos",
+     "sounds": [
+         { "name": "custom/instrument/bongos" }
+     ]
+  },
+  "custom.instrument.harp": {
+    "subtitle": "plays Harp",
+     "sounds": [
+         { "name": "custom/instrument/harp" }
+     ]
   }
 } 
