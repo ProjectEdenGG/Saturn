@@ -132,6 +132,10 @@
 		{"predicate": {"custom_model_data": 1445}, "model": "projecteden/ui/images/gamelobby/falling_blocks"},
 		{"predicate": {"custom_model_data": 1446}, "model": "projecteden/ui/images/gamelobby/pixel_drop"},
 		{"predicate": {"custom_model_data": 1447}, "model": "projecteden/ui/images/gamelobby/elytra_racing"},
+		{"predicate": {"custom_model_data": 1448}, "model": "projecteden/ui/images/gamelobby/connect4"},
+		{"predicate": {"custom_model_data": 1449}, "model": "projecteden/ui/images/gamelobby/tic_tac_toe"},
+		{"predicate": {"custom_model_data": 1450}, "model": "projecteden/ui/images/gamelobby/tnt_run"},
+		{"predicate": {"custom_model_data": 1451}, "model": "projecteden/ui/images/gamelobby/tnt_tag"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
