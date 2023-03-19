@@ -510,7 +510,7 @@
       ]
   },
    "custom.instrument.drum_kit": {
-      "subtitle": "plays Drum Kit",
+      "subtitle": "Drum Kit plays",
       "sounds": [
          { "name": "custom/instrument/drum_kit/kick" },
          { "name": "custom/instrument/drum_kit/snare" },
@@ -522,13 +522,13 @@
       ]
   },
   "custom.instrument.bongos": {
-    "subtitle": "plays Bongos",
+    "subtitle": "Bongos play",
      "sounds": [
          { "name": "custom/instrument/bongos" }
      ]
   },
   "custom.instrument.harp": {
-    "subtitle": "plays Harp",
+    "subtitle": "Harp plays",
      "sounds": [
          { "name": "custom/instrument/harp" }
      ]
