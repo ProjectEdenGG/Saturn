@@ -19,6 +19,20 @@
 			}
 		},
 		{
+			"name": "socket",
+			"from": [-8, 13, 14],
+			"to": [1, 15, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.5, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 1.625, 0, 2], "texture": "#missing"},
+				"east": {"uv": [4.625, 1.125, 6.125, 1.5], "texture": "#missing"},
+				"south": {"uv": [4.625, 0.75, 5.75, 1], "texture": "#2"},
+				"west": {"uv": [4.625, 1.125, 6.125, 1.5], "texture": "#missing"},
+				"up": {"uv": [0, 1.625, 4.5, 0], "texture": "#missing"},
+				"down": {"uv": [4.25, 2.375, 4.5, 2.5], "texture": "#missing"}
+			}
+		},
+		{
 			"name": "keys",
 			"from": [-8, 14, 2],
 			"to": [24, 15.975, 7.55],
