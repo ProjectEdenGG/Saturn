@@ -532,5 +532,11 @@
      "sounds": [
          { "name": "custom/instrument/harp" }
      ]
+  },
+  "custom.instrument.grand_piano": {
+    "subtitle": "Grand Piano plays",
+     "sounds": [
+         { "name": "custom/instrument/grand_piano" }
+     ]
   }
 } 
