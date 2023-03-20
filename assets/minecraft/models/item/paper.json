@@ -661,7 +661,7 @@
     	{"predicate": {"custom_model_data": 6800}, "model": "projecteden/decoration/electronics/griffin_setup"},
 		{"predicate": {"custom_model_data": 6801}, "model": "projecteden/decoration/electronics/cable"},
 		{"predicate": {"custom_model_data": 6802}, "model": "projecteden/decoration/electronics/cable_broken"},
-		{"predicate": {"custom_model_data": 6803}, "model": "projecteden/decoration/electronics/studiolight_hanging"},
+		{"predicate": {"custom_model_data": 6803}, "model": "projecteden/decoration/music/studiolight_hanging"},
 		{"predicate": {"custom_model_data": 6804}, "model": "projecteden/decoration/electronics/rotary_phone"},
 		{"predicate": {"custom_model_data": 6805}, "model": "projecteden/decoration/electronics/laptop"},
 		{"predicate": {"custom_model_data": 6806}, "model": "projecteden/decoration/electronics/router"},
@@ -670,6 +670,7 @@
 		{"predicate": {"custom_model_data": 6809}, "model": "projecteden/decoration/electronics/security_camera_right"},
 		{"predicate": {"custom_model_data": 6810}, "model": "projecteden/decoration/electronics/wires"},
 		{"predicate": {"custom_model_data": 6811}, "model": "projecteden/decoration/electronics/register_black"},
+		{"predicate": {"custom_model_data": 6812}, "model": "projecteden/decoration/music/studiolight_standing"},
 
 		{"predicate": {"custom_model_data": 6900}, "model": "projecteden/decoration/balloons/group_1"},
 		{"predicate": {"custom_model_data": 6901}, "model": "projecteden/decoration/balloons/group_2"},
