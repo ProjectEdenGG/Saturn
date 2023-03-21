@@ -1251,9 +1251,7 @@
 		{"predicate": {"custom_model_data": 9014}, "model": "projecteden/decoration/music/grand_piano_bench"},
 		{"predicate": {"custom_model_data": 9015}, "model": "projecteden/decoration/music/drum_throne"},
 		{"predicate": {"custom_model_data": 9016}, "model": "projecteden/decoration/music/acoustic_guitar_wall"},
-		{"predicate": {"custom_model_data": 9017}, "model": "projecteden/decoration/music/acoustic_guitar_classic_wall"},
-		{"predicate": {"custom_model_data": 9018}, "model": "projecteden/decoration/music/electric_guitar_wall"},
-		{"predicate": {"custom_model_data": 9019}, "model": "projecteden/decoration/music/violin_wall"},
+		{"predicate": {"custom_model_data": 9017}, "model": "projecteden/decoration/music/electric_guitar_wall"},
 
 		{"predicate": {"custom_model_data": 10000}, "model": "projecteden/ui/images/gamelobby/menu/outline_3x2"},
 		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"},
