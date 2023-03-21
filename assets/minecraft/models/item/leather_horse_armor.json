@@ -38,6 +38,7 @@
 		{"predicate": {"custom_model_data": 100}, "model": "projecteden/decoration/trash_can"},
 		{"predicate": {"custom_model_data": 101}, "model": "projecteden/decoration/umbrella"},
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/decoration/mailbox"},
+		{"predicate": {"custom_model_data": 103}, "model": "projecteden/decoration/giant_candy_cane"},
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},

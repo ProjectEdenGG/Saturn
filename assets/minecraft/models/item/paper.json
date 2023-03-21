@@ -1018,8 +1018,7 @@
 		{"predicate": {"custom_model_data": 13028}, "model": "projecteden/ui/crates/minigames/all"},
 		{"predicate": {"custom_model_data": 13029}, "model": "projecteden/ui/crates/minigames/base"},
 		{"predicate": {"custom_model_data": 13030}, "model": "projecteden/ui/crates/minigames/lid"},
-
-		{"predicate": {"custom_model_data": 19900}, "model": "projecteden/wip/gnome"},
+		
 		{"predicate": {"custom_model_data": 19901}, "model": "projecteden/decoration/flora/strange_plant_green"},
 		{"predicate": {"custom_model_data": 19902}, "model": "projecteden/decoration/flora/strange_plant_orange"},
 		{"predicate": {"custom_model_data": 19903}, "model": "projecteden/decoration/flora/strange_plant_purple"},
