@@ -110,7 +110,6 @@
 		{"predicate": {"custom_model_data": 1422}, "model": "projecteden/ui/images/gamelobby/hole_in_the_wall"},
 		{"predicate": {"custom_model_data": 1423}, "model": "projecteden/ui/images/gamelobby/thimble"},
 		{"predicate": {"custom_model_data": 1424}, "model": "projecteden/ui/images/gamelobby/dropper"},
-		{"predicate": {"custom_model_data": 1425}, "model": "projecteden/ui/images/gamelobby/death_swap"},
 		{"predicate": {"custom_model_data": 1426}, "model": "projecteden/ui/images/gamelobby/ice_rally"},
 		{"predicate": {"custom_model_data": 1427}, "model": "projecteden/ui/images/gamelobby/turf_wars"},
 		{"predicate": {"custom_model_data": 1428}, "model": "projecteden/ui/images/gamelobby/uhc"},
