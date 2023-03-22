@@ -1,0 +1,15 @@
+{
+	"parent": "projecteden/costumes/hat/misc/large_player_head",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 180, 3],
+			"translation": [-4.5, 12, 40.25],
+			"scale": [4, 4, 4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 180, 3],
+			"translation": [-4.5, 4.25, 29.5],
+			"scale": [4, 4, 4]
+		}
+	}
+}
