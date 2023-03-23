@@ -452,10 +452,6 @@
 		{"predicate": {"custom_model_data": 5905}, "model": "projecteden/items/mob_net/mob_net_closed"},
 		{"predicate": {"custom_model_data": 5906}, "model": "projecteden/functional/tool_modification_table"},
 
-		{"predicate": {"custom_model_data": 5997}, "model": "projecteden/items/decoration/catalog_spooky"},
-		{"predicate": {"custom_model_data": 5998}, "model": "projecteden/items/decoration/catalog_holiday"},
-		{"predicate": {"custom_model_data": 5999}, "model": "projecteden/items/decoration/catalog_general"},
-
 		{"predicate": {"custom_model_data": 6000}, "model": "projecteden/decoration/furniture/cabinets/face/handle_1"},
 		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/decoration/furniture/cabinets/face/handle_2"},
 		{"predicate": {"custom_model_data": 6002}, "model": "projecteden/decoration/furniture/cabinets/face/modern_1"},
@@ -1383,7 +1379,13 @@
 		{"predicate": {"custom_model_data": 30014}, "model": "projecteden/decoration/music/cello"},
 		{"predicate": {"custom_model_data": 30015}, "model": "projecteden/decoration/music/light_board"},
 		{"predicate": {"custom_model_data": 30016}, "model": "projecteden/decoration/music/acoustic_guitar_classic_wall"},
-		{"predicate": {"custom_model_data": 30017}, "model": "projecteden/decoration/music/violin_wall"}
+		{"predicate": {"custom_model_data": 30017}, "model": "projecteden/decoration/music/violin_wall"},
+
+		{"predicate": {"custom_model_data": 31000}, "model": "projecteden/items/decoration/catalog_all"},
+		{"predicate": {"custom_model_data": 31001}, "model": "projecteden/items/decoration/catalog_general"},
+		{"predicate": {"custom_model_data": 31002}, "model": "projecteden/items/decoration/catalog_spooky"},
+		{"predicate": {"custom_model_data": 31003}, "model": "projecteden/items/decoration/catalog_holiday"}
+
 	]
 }
 

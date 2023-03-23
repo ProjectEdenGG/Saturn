@@ -1233,10 +1233,6 @@
 		{"predicate": {"custom_model_data": 9000}, "model": "projecteden/decoration/music/large_woodgrain_speaker"},
 		{"predicate": {"custom_model_data": 9001}, "model": "projecteden/decoration/music/small_woodgrain_speaker"},
 		{"predicate": {"custom_model_data": 9002}, "model": "projecteden/decoration/music/tape_machine"},
-
-		{"predicate": {"custom_model_data": 9000}, "model": "projecteden/decoration/music/large_woodgrain_speaker"},
-		{"predicate": {"custom_model_data": 9001}, "model": "projecteden/decoration/music/small_woodgrain_speaker"},
-		{"predicate": {"custom_model_data": 9002}, "model": "projecteden/decoration/music/tape_machine"},
 		{"predicate": {"custom_model_data": 9003}, "model": "projecteden/decoration/music/keyboard"},
 		{"predicate": {"custom_model_data": 9004}, "model": "projecteden/decoration/music/keyboard_with_stand"},
 		{"predicate": {"custom_model_data": 9005}, "model": "projecteden/decoration/music/dj_turntable"},
