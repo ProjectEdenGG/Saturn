@@ -1273,7 +1273,8 @@
 		{"predicate": {"custom_model_data": 50010}, "model": "projecteden/decoration/flora/bonsai_tree_small"},
 		{"predicate": {"custom_model_data": 50011}, "model": "projecteden/decoration/flora/bonsai_tree_small_cherry"},
 		{"predicate": {"custom_model_data": 50012}, "model": "projecteden/decoration/flora/chinese_evergreen"},
-		{"predicate": {"custom_model_data": 50013}, "model": "projecteden/decoration/flora/hanging_plant_1"},
-		{"predicate": {"custom_model_data": 50014}, "model": "projecteden/decoration/flora/hanging_plant_2"}
+		{"predicate": {"custom_model_data": 50013}, "model": "projecteden/decoration/flora/flower_vase"},
+		{"predicate": {"custom_model_data": 50014}, "model": "projecteden/decoration/flora/wall_flowers_1"},
+		{"predicate": {"custom_model_data": 50015}, "model": "projecteden/decoration/flora/potted_tulips"}
 	]
 }
