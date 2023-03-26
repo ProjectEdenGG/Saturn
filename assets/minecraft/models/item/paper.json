@@ -300,6 +300,7 @@
 		{"predicate": {"custom_model_data": 1833}, "model": "projecteden/ui/gui/gamelobby/arenas/wizardtower"},
 		{"predicate": {"custom_model_data": 1834}, "model": "projecteden/ui/gui/gamelobby/arenas/sanctuary"},
 		{"predicate": {"custom_model_data": 1835}, "model": "projecteden/ui/gui/gamelobby/arenas/library"},
+		{"predicate": {"custom_model_data": 1836}, "model": "projecteden/ui/gui/gamelobby/arenas/ecological"},
 
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
