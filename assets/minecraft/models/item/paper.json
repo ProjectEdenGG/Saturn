@@ -700,47 +700,47 @@
 		{"predicate": {"custom_model_data": 7402}, "model": "projecteden/minigames/minigolf/wedge"},
 		{"predicate": {"custom_model_data": 7403}, "model": "projecteden/minigames/minigolf/whistle"},
 
-		{"predicate": {"custom_model_data": 7500}, "model": "projecteden/decoration/art/paintings/1x2v/cherry_forest"},
-		{"predicate": {"custom_model_data": 7501}, "model": "projecteden/decoration/art/paintings/1x2v/end_island"},
-		{"predicate": {"custom_model_data": 7502}, "model": "projecteden/decoration/art/paintings/1x2v/lost_enderman"},
-		{"predicate": {"custom_model_data": 7503}, "model": "projecteden/decoration/art/paintings/1x2v/pine_tree"},
-		{"predicate": {"custom_model_data": 7504}, "model": "projecteden/decoration/art/paintings/1x2v/sunset"},
-		{"predicate": {"custom_model_data": 7505}, "model": "projecteden/decoration/art/paintings/1x2v/swamp_hut"},
+		{"predicate": {"custom_model_data": 7500}, "model": "projecteden/decoration/art/paintings/custom/1x2v/cherry_forest"},
+		{"predicate": {"custom_model_data": 7501}, "model": "projecteden/decoration/art/paintings/custom/1x2v/end_island"},
+		{"predicate": {"custom_model_data": 7502}, "model": "projecteden/decoration/art/paintings/custom/1x2v/lost_enderman"},
+		{"predicate": {"custom_model_data": 7503}, "model": "projecteden/decoration/art/paintings/custom/1x2v/pine_tree"},
+		{"predicate": {"custom_model_data": 7504}, "model": "projecteden/decoration/art/paintings/custom/1x2v/sunset"},
+		{"predicate": {"custom_model_data": 7505}, "model": "projecteden/decoration/art/paintings/custom/1x2v/swamp_hut"},
 
-		{"predicate": {"custom_model_data": 7550}, "model": "projecteden/decoration/art/paintings/1x2h/mountains"},
-		{"predicate": {"custom_model_data": 7551}, "model": "projecteden/decoration/art/paintings/1x2h/muddy_pig"},
-		{"predicate": {"custom_model_data": 7552}, "model": "projecteden/decoration/art/paintings/1x2h/purple_sheep"},
-		{"predicate": {"custom_model_data": 7553}, "model": "projecteden/decoration/art/paintings/1x2h/village_happy"},
-		{"predicate": {"custom_model_data": 7554}, "model": "projecteden/decoration/art/paintings/1x2h/village_chaos"},
+		{"predicate": {"custom_model_data": 7550}, "model": "projecteden/decoration/art/paintings/custom/1x2h/mountains"},
+		{"predicate": {"custom_model_data": 7551}, "model": "projecteden/decoration/art/paintings/custom/1x2h/muddy_pig"},
+		{"predicate": {"custom_model_data": 7552}, "model": "projecteden/decoration/art/paintings/custom/1x2h/purple_sheep"},
+		{"predicate": {"custom_model_data": 7553}, "model": "projecteden/decoration/art/paintings/custom/1x2h/village_happy"},
+		{"predicate": {"custom_model_data": 7554}, "model": "projecteden/decoration/art/paintings/custom/1x2h/village_chaos"},
 
-		{"predicate": {"custom_model_data": 7600}, "model": "projecteden/decoration/art/paintings/1x1/skyblock"},
-		{"predicate": {"custom_model_data": 7601}, "model": "projecteden/decoration/art/paintings/1x1/nether_fortress_bridge"},
-		{"predicate": {"custom_model_data": 7602}, "model": "projecteden/decoration/art/paintings/1x1/nether_crimson_forest"},
-		{"predicate": {"custom_model_data": 7603}, "model": "projecteden/decoration/art/paintings/1x1/nether_warped_forest"},
-		{"predicate": {"custom_model_data": 7604}, "model": "projecteden/decoration/art/paintings/1x1/nether_basalt_deltas"},
-		{"predicate": {"custom_model_data": 7605}, "model": "projecteden/decoration/art/paintings/1x1/nether_soul_sand_valley"},
+		{"predicate": {"custom_model_data": 7600}, "model": "projecteden/decoration/art/paintings/custom/1x1/skyblock"},
+		{"predicate": {"custom_model_data": 7601}, "model": "projecteden/decoration/art/paintings/custom/1x1/nether_fortress_bridge"},
+		{"predicate": {"custom_model_data": 7602}, "model": "projecteden/decoration/art/paintings/custom/1x1/nether_crimson_forest"},
+		{"predicate": {"custom_model_data": 7603}, "model": "projecteden/decoration/art/paintings/custom/1x1/nether_warped_forest"},
+		{"predicate": {"custom_model_data": 7604}, "model": "projecteden/decoration/art/paintings/custom/1x1/nether_basalt_deltas"},
+		{"predicate": {"custom_model_data": 7605}, "model": "projecteden/decoration/art/paintings/custom/1x1/nether_soul_sand_valley"},
 
-		{"predicate": {"custom_model_data": 7650}, "model": "projecteden/decoration/art/paintings/2x2/castle"},
-		{"predicate": {"custom_model_data": 7651}, "model": "projecteden/decoration/art/paintings/2x2/lake"},
-		{"predicate": {"custom_model_data": 7652}, "model": "projecteden/decoration/art/paintings/2x2/river"},
-		{"predicate": {"custom_model_data": 7653}, "model": "projecteden/decoration/art/paintings/2x2/road"},
-		{"predicate": {"custom_model_data": 7654}, "model": "projecteden/decoration/art/paintings/2x2/oriental"},
-		{"predicate": {"custom_model_data": 7655}, "model": "projecteden/decoration/art/paintings/2x2/chickens"},
-		{"predicate": {"custom_model_data": 7656}, "model": "projecteden/decoration/art/paintings/2x2/oak_tree"},
-		{"predicate": {"custom_model_data": 7657}, "model": "projecteden/decoration/art/paintings/2x2/crab"},
-		{"predicate": {"custom_model_data": 7658}, "model": "projecteden/decoration/art/paintings/2x2/saturn_rocket"},
-		{"predicate": {"custom_model_data": 7659}, "model": "projecteden/decoration/art/paintings/2x2/parrot"},
-		{"predicate": {"custom_model_data": 7660}, "model": "projecteden/decoration/art/paintings/2x2/ducks"},
-		{"predicate": {"custom_model_data": 7661}, "model": "projecteden/decoration/art/paintings/2x2/pine_tree"},
-		{"predicate": {"custom_model_data": 7662}, "model": "projecteden/decoration/art/paintings/2x2/city_twilight"},
+		{"predicate": {"custom_model_data": 7650}, "model": "projecteden/decoration/art/paintings/custom/2x2/castle"},
+		{"predicate": {"custom_model_data": 7651}, "model": "projecteden/decoration/art/paintings/custom/2x2/lake"},
+		{"predicate": {"custom_model_data": 7652}, "model": "projecteden/decoration/art/paintings/custom/2x2/river"},
+		{"predicate": {"custom_model_data": 7653}, "model": "projecteden/decoration/art/paintings/custom/2x2/road"},
+		{"predicate": {"custom_model_data": 7654}, "model": "projecteden/decoration/art/paintings/custom/2x2/oriental"},
+		{"predicate": {"custom_model_data": 7655}, "model": "projecteden/decoration/art/paintings/custom/2x2/chickens"},
+		{"predicate": {"custom_model_data": 7656}, "model": "projecteden/decoration/art/paintings/custom/2x2/oak_tree"},
+		{"predicate": {"custom_model_data": 7657}, "model": "projecteden/decoration/art/paintings/custom/2x2/crab"},
+		{"predicate": {"custom_model_data": 7658}, "model": "projecteden/decoration/art/paintings/custom/2x2/saturn_rocket"},
+		{"predicate": {"custom_model_data": 7659}, "model": "projecteden/decoration/art/paintings/custom/2x2/parrot"},
+		{"predicate": {"custom_model_data": 7660}, "model": "projecteden/decoration/art/paintings/custom/2x2/ducks"},
+		{"predicate": {"custom_model_data": 7661}, "model": "projecteden/decoration/art/paintings/custom/2x2/pine_tree"},
+		{"predicate": {"custom_model_data": 7662}, "model": "projecteden/decoration/art/paintings/custom/2x2/city_twilight"},
 
-		{"predicate": {"custom_model_data": 7700}, "model": "projecteden/decoration/art/paintings/1x3h/forest"},
+		{"predicate": {"custom_model_data": 7700}, "model": "projecteden/decoration/art/paintings/custom/1x3h/forest"},
 
-		{"predicate": {"custom_model_data": 7750}, "model": "projecteden/decoration/art/paintings/1x3v/sand_dunes"},
+		{"predicate": {"custom_model_data": 7750}, "model": "projecteden/decoration/art/paintings/custom/1x3v/sand_dunes"},
 
-		{"predicate": {"custom_model_data": 7800}, "model": "projecteden/decoration/art/paintings/2x3h/story"},
+		{"predicate": {"custom_model_data": 7800}, "model": "projecteden/decoration/art/paintings/custom/2x3h/story"},
 
-		{"predicate": {"custom_model_data": 7850}, "model": "projecteden/decoration/art/paintings/2x3v/reserved"},
+		{"predicate": {"custom_model_data": 7850}, "model": "projecteden/decoration/art/paintings/custom/2x3v/reserved"},
 
 		{"predicate": {"custom_model_data": 7900}, "model": "projecteden/decoration/art/reserved"},
 
@@ -1386,8 +1386,30 @@
 		{"predicate": {"custom_model_data": 31000}, "model": "projecteden/items/decoration/catalog_all"},
 		{"predicate": {"custom_model_data": 31001}, "model": "projecteden/items/decoration/catalog_general"},
 		{"predicate": {"custom_model_data": 31002}, "model": "projecteden/items/decoration/catalog_spooky"},
-		{"predicate": {"custom_model_data": 31003}, "model": "projecteden/items/decoration/catalog_holiday"}
+		{"predicate": {"custom_model_data": 31003}, "model": "projecteden/items/decoration/catalog_holiday"},
 
+
+		{"predicate": {"custom_model_data": 31100}, "model": "projecteden/decoration/art/paintings/vanilla/1x1/friend"},
+
+		{"predicate": {"custom_model_data": 31125}, "model": "projecteden/decoration/art/paintings/vanilla/1x2h/below"},
+		{"predicate": {"custom_model_data": 31126}, "model": "projecteden/decoration/art/paintings/vanilla/1x2h/dirt_hut_road"},
+		{"predicate": {"custom_model_data": 31127}, "model": "projecteden/decoration/art/paintings/vanilla/1x2h/vows_of_the_craftsman"},
+
+		{"predicate": {"custom_model_data": 31150}, "model": "projecteden/decoration/art/paintings/vanilla/1x2v/villager_and_child"},
+		{"predicate": {"custom_model_data": 31151}, "model": "projecteden/decoration/art/paintings/vanilla/1x2v/level_three_mason"},
+
+		{"predicate": {"custom_model_data": 31175}, "model": "projecteden/decoration/art/paintings/vanilla/2x2/ancient_power"},
+		{"predicate": {"custom_model_data": 31176}, "model": "projecteden/decoration/art/paintings/vanilla/2x2/iron_seed"},
+		{"predicate": {"custom_model_data": 31177}, "model": "projecteden/decoration/art/paintings/vanilla/2x2/riders"},
+		{"predicate": {"custom_model_data": 31178}, "model": "projecteden/decoration/art/paintings/vanilla/2x2/level_one_mason"},
+		{"predicate": {"custom_model_data": 31179}, "model": "projecteden/decoration/art/paintings/vanilla/2x2/level_two_mason"},
+
+		{"predicate": {"custom_model_data": 31200}, "model": "projecteden/decoration/art/paintings/vanilla/2x4h/the_trade_in_the_house_of_villagers"},
+
+		{"predicate": {"custom_model_data": 31225}, "model": "projecteden/decoration/art/paintings/vanilla/3x4h/reserved"},
+
+		{"predicate": {"custom_model_data": 31250}, "model": "projecteden/decoration/art/paintings/vanilla/4x4/signs_of_the_end"},
+		{"predicate": {"custom_model_data": 31251}, "model": "projecteden/decoration/art/paintings/vanilla/4x4/three_saints_and_the_blessed_sheep"}
 	]
 }
 

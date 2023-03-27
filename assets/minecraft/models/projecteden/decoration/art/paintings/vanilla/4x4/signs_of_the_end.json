@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/art/paintings/vanilla/4x4/template",
+	"textures": {
+		"1": "projecteden/decoration/art/paintings/vanilla/4x4/signs_of_the_end"
+	}
+}

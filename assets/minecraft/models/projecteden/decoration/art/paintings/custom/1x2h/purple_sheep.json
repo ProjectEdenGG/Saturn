@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/art/paintings/custom/1x2h/template",
+	"textures": {
+		"1": "projecteden/decoration/art/paintings/custom/1x2h/purple_sheep"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/art/paintings/vanilla/1x2v/template",
+	"textures": {
+		"1": "projecteden/decoration/art/paintings/vanilla/1x2v/level_three_mason"
+	}
+}

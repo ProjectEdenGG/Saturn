@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/art/paintings/vanilla/1x2h/template",
+	"textures": {
+		"1": "projecteden/decoration/art/paintings/vanilla/1x2h/below"
+	}
+}

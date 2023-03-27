@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/art/paintings/vanilla/4x4/template",
+	"textures": {
+		"1": "projecteden/decoration/art/paintings/vanilla/4x4/three_saints_and_the_blessed_sheep"
+	}
+}
