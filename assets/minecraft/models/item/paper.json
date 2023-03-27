@@ -732,6 +732,7 @@
 		{"predicate": {"custom_model_data": 7659}, "model": "projecteden/decoration/art/paintings/2x2/parrot"},
 		{"predicate": {"custom_model_data": 7660}, "model": "projecteden/decoration/art/paintings/2x2/ducks"},
 		{"predicate": {"custom_model_data": 7661}, "model": "projecteden/decoration/art/paintings/2x2/pine_tree"},
+		{"predicate": {"custom_model_data": 7662}, "model": "projecteden/decoration/art/paintings/2x2/city_twilight"},
 
 		{"predicate": {"custom_model_data": 7700}, "model": "projecteden/decoration/art/paintings/1x3h/forest"},
 
