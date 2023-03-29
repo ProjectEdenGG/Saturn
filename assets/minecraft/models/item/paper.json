@@ -612,6 +612,8 @@
 		{"predicate": {"custom_model_data": 6315}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_crimson_roots"},
 		{"predicate": {"custom_model_data": 6316}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_warped"},
 		{"predicate": {"custom_model_data": 6317}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_warped_roots"},
+		{"predicate": {"custom_model_data": 6318}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_cherry"},
+		{"predicate": {"custom_model_data": 6319}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_cherry_roots"},
 
 		{"predicate": {"custom_model_data": 6400}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 6409}, "model": "projecteden/decoration/plushies/mob/creeper"},
@@ -1387,6 +1389,8 @@
 		{"predicate": {"custom_model_data": 31001}, "model": "projecteden/items/decoration/catalog_general"},
 		{"predicate": {"custom_model_data": 31002}, "model": "projecteden/items/decoration/catalog_spooky"},
 		{"predicate": {"custom_model_data": 31003}, "model": "projecteden/items/decoration/catalog_holiday"},
+		{"predicate": {"custom_model_data": 31004}, "model": "projecteden/items/decoration/catalog_music"},
+		{"predicate": {"custom_model_data": 31005}, "model": "projecteden/items/decoration/catalog_pride"},
 
 
 		{"predicate": {"custom_model_data": 31100}, "model": "projecteden/decoration/art/paintings/vanilla/1x1/friend"},
