@@ -1230,6 +1230,8 @@
 		{"predicate": {"custom_model_data": 22000}, "model": "projecteden/costumes/hand/misc/pirate_hook"},
 		{"predicate": {"custom_model_data": 22001}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_steve"},
 		{"predicate": {"custom_model_data": 22002}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_alex"},
+		{"predicate": {"custom_model_data": 22003}, "model": "projecteden/costumes/hand/misc/flower_bracelet_steve"},
+		{"predicate": {"custom_model_data": 22004}, "model": "projecteden/costumes/hand/misc/flower_bracelet_alex"},
 
 		{"predicate": {"custom_model_data": 22100}, "model": "projecteden/costumes/hat/pirate/cavalier_leather"},
         {"predicate": {"custom_model_data": 22101}, "model": "projecteden/costumes/hat/pirate/bicorn_leather"},
