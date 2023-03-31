@@ -1,0 +1,90 @@
+{
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "projecteden/decoration/curtains",
+		"particle": "projecteden/decoration/curtains"
+	},
+	"elements": [
+		{
+			"from": [-8, 29, 7],
+			"to": [24, 32, 9],
+			"faces": {
+				"north": {"uv": [0, 5.75, 4, 6.125], "texture": "#0"},
+				"east": {"uv": [0, 6.625, 0.25, 7], "texture": "#0"},
+				"south": {"uv": [0, 5.75, 4, 6.125], "texture": "#0"},
+				"west": {"uv": [0, 6.625, 0.25, 7], "texture": "#0"},
+				"up": {"uv": [4, 6.5, 0, 6.25], "texture": "#0"},
+				"down": {"uv": [4, 6.25, 0, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "dyeable",
+			"from": [-8, -16, 8],
+			"to": [24, 29, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 5.625], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 4, 5.625], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [20, 12, 7.975],
+			"to": [24, 14, 8.025],
+			"faces": {
+				"north": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"},
+				"south": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-8, 12, 7.975],
+			"to": [-4, 14, 8.025],
+			"faces": {
+				"north": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"},
+				"south": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [88, 0, 0],
+			"translation": [0, 0, -4.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [88, 0, 0],
+			"translation": [0, 0, -4.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"translation": [1.75, -0.75, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"translation": [1.75, -0.75, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, -30, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"head": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"translation": [-16, -32, -2],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

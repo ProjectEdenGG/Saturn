@@ -1275,6 +1275,7 @@
 		{"predicate": {"custom_model_data": 50012}, "model": "projecteden/decoration/flora/chinese_evergreen"},
 		{"predicate": {"custom_model_data": 50013}, "model": "projecteden/decoration/flora/flower_vase"},
 		{"predicate": {"custom_model_data": 50014}, "model": "projecteden/decoration/flora/wall_flowers_1"},
-		{"predicate": {"custom_model_data": 50015}, "model": "projecteden/decoration/flora/potted_tulips"}
+		{"predicate": {"custom_model_data": 50015}, "model": "projecteden/decoration/flora/potted_tulips"},
+		{"predicate": {"custom_model_data": 50016}, "model": "projecteden/decoration/curtains_2x3"}
 	]
 }
