@@ -1208,19 +1208,20 @@
 		{"predicate": {"custom_model_data": 5236}, "model": "projecteden/decoration/furniture/cabinets/black_handle/wooden_counter/bar"},
 
 		{"predicate": {"custom_model_data": 5900}, "model": "projecteden/decoration/furniture/cabinets/cabinet_hood"},
+		{"predicate": {"custom_model_data": 5901}, "model": "projecteden/decoration/furniture/cabinets/cabinet_wooden_corner"},
 
 		{"predicate": {"custom_model_data": 6000}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/cabinet_wooden"},
-		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/cabinet_wooden_corner"},
+		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/removed"},
 		{"predicate": {"custom_model_data": 6002}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/cabinet_wooden_hood"},
 		{"predicate": {"custom_model_data": 6003}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/cabinet_wooden_short"},
 
 		{"predicate": {"custom_model_data": 6100}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/cabinet_wooden"},
-		{"predicate": {"custom_model_data": 6101}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/cabinet_wooden_corner"},
+		{"predicate": {"custom_model_data": 6101}, "model": "projecteden/removed"},
 		{"predicate": {"custom_model_data": 6102}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/cabinet_wooden_hood"},
 		{"predicate": {"custom_model_data": 6103}, "model": "projecteden/decoration/furniture/cabinets/brass_handle/cabinet_wooden_short"},
 
 		{"predicate": {"custom_model_data": 6200}, "model": "projecteden/decoration/furniture/cabinets/black_handle/cabinet_wooden"},
-		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/decoration/furniture/cabinets/black_handle/cabinet_wooden_corner"},
+		{"predicate": {"custom_model_data": 6201}, "model": "projecteden/removed"},
 		{"predicate": {"custom_model_data": 6202}, "model": "projecteden/decoration/furniture/cabinets/black_handle/cabinet_wooden_hood"},
 		{"predicate": {"custom_model_data": 6203}, "model": "projecteden/decoration/furniture/cabinets/black_handle/cabinet_wooden_short"},
 

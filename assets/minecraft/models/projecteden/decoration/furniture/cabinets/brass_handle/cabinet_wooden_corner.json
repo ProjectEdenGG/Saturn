@@ -1,6 +1,0 @@
-{
-	"parent": "projecteden/decoration/furniture/cabinets/template/cabinet_wooden_corner",
-	"textures": {
-		"0": "projecteden/decoration/furniture/cabinets/counter_top_1"
-	}
-}
