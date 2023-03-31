@@ -1395,6 +1395,7 @@
 		{"predicate": {"custom_model_data": 31003}, "model": "projecteden/items/decoration/catalog_holiday"},
 		{"predicate": {"custom_model_data": 31004}, "model": "projecteden/items/decoration/catalog_music"},
 		{"predicate": {"custom_model_data": 31005}, "model": "projecteden/items/decoration/catalog_pride"},
+		{"predicate": {"custom_model_data": 31006}, "model": "projecteden/items/decoration/catalog_art"},
 
 
 		{"predicate": {"custom_model_data": 31100}, "model": "projecteden/decoration/art/paintings/vanilla/1x1/friend"},
