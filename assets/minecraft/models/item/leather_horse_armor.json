@@ -39,6 +39,7 @@
 		{"predicate": {"custom_model_data": 101}, "model": "projecteden/decoration/umbrella"},
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/decoration/mailbox"},
 		{"predicate": {"custom_model_data": 103}, "model": "projecteden/decoration/giant_candy_cane"},
+		{"predicate": {"custom_model_data": 104}, "model": "projecteden/decoration/curtains_2x3"},
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
@@ -76,6 +77,19 @@
 		{"predicate": {"custom_model_data": 534}, "model": "projecteden/decoration/furniture/chairs/couch_cloth_ottoman"},
 
 		{"predicate": {"custom_model_data": 700}, "model": "projecteden/decoration/flora/mushroom_3d"},
+		{"predicate": {"custom_model_data": 701}, "model": "projecteden/decoration/flora/bushy_plant"},
+		{"predicate": {"custom_model_data": 702}, "model": "projecteden/decoration/flora/cherry_tree"},
+		{"predicate": {"custom_model_data": 703}, "model": "projecteden/decoration/flora/potted_bay_tree"},
+		{"predicate": {"custom_model_data": 704}, "model": "projecteden/decoration/flora/snake_plant"},
+		{"predicate": {"custom_model_data": 705}, "model": "projecteden/decoration/flora/white_bird_of_paradise"},
+		{"predicate": {"custom_model_data": 706}, "model": "projecteden/decoration/flora/bonsai_tree"},
+		{"predicate": {"custom_model_data": 707}, "model": "projecteden/decoration/flora/bonsai_tree_cherry"},
+		{"predicate": {"custom_model_data": 708}, "model": "projecteden/decoration/flora/bonsai_tree_small"},
+		{"predicate": {"custom_model_data": 709}, "model": "projecteden/decoration/flora/bonsai_tree_small_cherry"},
+		{"predicate": {"custom_model_data": 710}, "model": "projecteden/decoration/flora/chinese_evergreen"},
+		{"predicate": {"custom_model_data": 711}, "model": "projecteden/decoration/flora/flower_vase"},
+		{"predicate": {"custom_model_data": 712}, "model": "projecteden/decoration/flora/wall_flowers_1"},
+		{"predicate": {"custom_model_data": 713}, "model": "projecteden/decoration/flora/potted_tulips"},
 
 		{"predicate": {"custom_model_data": 800}, "model": "projecteden/decoration/food/punchbowl"},
 		{"predicate": {"custom_model_data": 801}, "model": "projecteden/decoration/food/side_sauce"},
@@ -1250,6 +1264,11 @@
 		{"predicate": {"custom_model_data": 9016}, "model": "projecteden/decoration/music/acoustic_guitar_wall"},
 		{"predicate": {"custom_model_data": 9017}, "model": "projecteden/decoration/music/electric_guitar_wall"},
 
+		{"predicate": {"custom_model_data": 9050}, "model": "projecteden/decoration/construction/traffic_cone_big"},
+		{"predicate": {"custom_model_data": 9051}, "model": "projecteden/decoration/construction/traffic_cone_small"},
+		{"predicate": {"custom_model_data": 9052}, "model": "projecteden/decoration/construction/traffic_cone_tube"},
+		{"predicate": {"custom_model_data": 9053}, "model": "projecteden/decoration/construction/traffic_cone_barrel"},
+
 		{"predicate": {"custom_model_data": 10000}, "model": "projecteden/ui/images/gamelobby/menu/outline_3x2"},
 		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"},
 		{"predicate": {"custom_model_data": 10002}, "model": "projecteden/ui/images/gamelobby/templates/outline_1x2"},
@@ -1262,21 +1281,7 @@
 		{"predicate": {"custom_model_data": 10102}, "model": "projecteden/ui/gui/close"},
 		{"predicate": {"custom_model_data": 10103}, "model": "projecteden/ui/gui/check"},
 		{"predicate": {"custom_model_data": 10104}, "model": "projecteden/ui/gui/add"},
-		{"predicate": {"custom_model_data": 10105}, "model": "projecteden/ui/gui/subtract"},
+		{"predicate": {"custom_model_data": 10105}, "model": "projecteden/ui/gui/subtract"}
 
-		{"predicate": {"custom_model_data": 50003}, "model": "projecteden/decoration/flora/bushy_plant"},
-		{"predicate": {"custom_model_data": 50004}, "model": "projecteden/decoration/flora/cherry_tree"},
-		{"predicate": {"custom_model_data": 50005}, "model": "projecteden/decoration/flora/potted_bay_tree"},
-		{"predicate": {"custom_model_data": 50006}, "model": "projecteden/decoration/flora/snake_plant"},
-		{"predicate": {"custom_model_data": 50007}, "model": "projecteden/decoration/flora/white_bird_of_paradise"},
-		{"predicate": {"custom_model_data": 50008}, "model": "projecteden/decoration/flora/bonsai_tree"},
-		{"predicate": {"custom_model_data": 50009}, "model": "projecteden/decoration/flora/bonsai_tree_cherry"},
-		{"predicate": {"custom_model_data": 50010}, "model": "projecteden/decoration/flora/bonsai_tree_small"},
-		{"predicate": {"custom_model_data": 50011}, "model": "projecteden/decoration/flora/bonsai_tree_small_cherry"},
-		{"predicate": {"custom_model_data": 50012}, "model": "projecteden/decoration/flora/chinese_evergreen"},
-		{"predicate": {"custom_model_data": 50013}, "model": "projecteden/decoration/flora/flower_vase"},
-		{"predicate": {"custom_model_data": 50014}, "model": "projecteden/decoration/flora/wall_flowers_1"},
-		{"predicate": {"custom_model_data": 50015}, "model": "projecteden/decoration/flora/potted_tulips"},
-		{"predicate": {"custom_model_data": 50016}, "model": "projecteden/decoration/curtains_2x3"}
 	]
 }
