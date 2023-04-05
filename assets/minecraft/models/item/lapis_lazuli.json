@@ -4,18 +4,18 @@
 			"layer0": "minecraft:item/lapis_lazuli"
 		},
 		"overrides": [
-				{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/plushies/player/standing/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 10001}, "model": "projecteden/decoration/plushies/player/walking/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 20001}, "model": "projecteden/decoration/plushies/player/t_pose/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 30001}, "model": "projecteden/decoration/plushies/player/handstand/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 40001}, "model": "projecteden/decoration/plushies/player/sitting/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 50001}, "model": "projecteden/decoration/plushies/player/dabbing/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 60001}, "model": "projecteden/decoration/plushies/player/riding_minecart/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 70001}, "model": "projecteden/decoration/plushies/player/holding_globe/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 80001}, "model": "projecteden/decoration/plushies/player/waving/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 90001}, "model": "projecteden/decoration/plushies/player/funko_pop/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 100001}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/79f66fc9-a975-4043-8b6d-b4823182de62"}
-,	{"predicate": {"custom_model_data": 110001}, "model": "projecteden/decoration/plushies/player/funko_pop_owner/79f66fc9-a975-4043-8b6d-b4823182de62"}
+				{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/plushies/player/standing/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 10001}, "model": "projecteden/decoration/plushies/player/walking/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 20001}, "model": "projecteden/decoration/plushies/player/t_pose/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 30001}, "model": "projecteden/decoration/plushies/player/handstand/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 40001}, "model": "projecteden/decoration/plushies/player/sitting/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 50001}, "model": "projecteden/decoration/plushies/player/dabbing/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 60001}, "model": "projecteden/decoration/plushies/player/riding_minecart/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 70001}, "model": "projecteden/decoration/plushies/player/holding_globe/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 80001}, "model": "projecteden/decoration/plushies/player/waving/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 90001}, "model": "projecteden/decoration/plushies/player/funko_pop/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 100001}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 110001}, "model": "projecteden/decoration/plushies/player/funko_pop_owner/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
 
 		]
 	}
