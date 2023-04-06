@@ -1,0 +1,9 @@
+{
+	"parent": "projecteden/decoration/plushies/player/riding_minecart/template_steve",
+	"display": {
+		"gui": {
+			"translation": [-9, 4.5, 0],
+			"scale": [1.57422, 1.57422, 1.57422]
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "projecteden/decoration/plushies/player/funko_pop_admin/template_steve",
+	"display": {
+		"gui": {
+			"rotation": [-157.5, 39.25, -180],
+			"translation": [-8.5, 8.5, 0],
+			"scale": [1.51, 1.51, 1.51]
+		}
+	}
+}

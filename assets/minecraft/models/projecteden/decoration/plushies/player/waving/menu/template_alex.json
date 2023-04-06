@@ -1,0 +1,10 @@
+{
+	"parent": "projecteden/decoration/plushies/player/waving/template_alex",
+	"display": {
+		"gui": {
+			"rotation": [-180, -26.75, 180],
+			"translation": [-9, 1.5, 0],
+			"scale": [1.18375, 1.18375, 1.18375]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "projecteden/decoration/plushies/player/dabbing/template_alex",
+	"display": {
+		"gui": {
+			"translation": [-9.25, 3.25, 0],
+			"scale": [1.34, 1.34, 1.34]
+		}
+	}
+}

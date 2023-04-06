@@ -1,0 +1,9 @@
+{
+	"parent": "projecteden/decoration/plushies/player/holding_globe/template_alex",
+	"display": {
+		"gui": {
+			"translation": [-9.25, 0, 0],
+			"scale": [1.02539, 1.02539, 1.02539]
+		}
+	}
+}
