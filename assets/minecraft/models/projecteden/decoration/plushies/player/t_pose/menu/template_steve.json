@@ -1,9 +1,0 @@
-{
-	"parent": "projecteden/decoration/plushies/player/t_pose/template_steve",
-	"display": {
-		"gui": {
-			"translation": [-9, 3, 0],
-			"scale": [1.32031, 1.32031, 1.32031]
-		}
-	}
-}
