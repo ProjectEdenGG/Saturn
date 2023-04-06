@@ -240,5 +240,12 @@
 				"down": {"uv": [0, 0, 15, 2], "rotation": 270, "texture": "#1"}
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, 225, 0],
+			"translation": [-1, -2.5, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
 }
