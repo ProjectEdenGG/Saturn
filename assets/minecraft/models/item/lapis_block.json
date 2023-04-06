@@ -1,0 +1,105 @@
+	{
+		"parent": "minecraft:item/generated",
+		"textures": {
+			"layer0": "minecraft:item/lapis_lazuli"
+		},
+		"overrides": [
+				{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/plushies/player/standing/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 2}, "model": "projecteden/decoration/plushies/player/standing/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 3}, "model": "projecteden/decoration/plushies/player/standing/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 4}, "model": "projecteden/decoration/plushies/player/standing/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 5}, "model": "projecteden/decoration/plushies/player/standing/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 6}, "model": "projecteden/decoration/plushies/player/standing/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 7}, "model": "projecteden/decoration/plushies/player/standing/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 8}, "model": "projecteden/decoration/plushies/player/standing/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 10001}, "model": "projecteden/decoration/plushies/player/walking/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 10002}, "model": "projecteden/decoration/plushies/player/walking/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 10003}, "model": "projecteden/decoration/plushies/player/walking/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 10004}, "model": "projecteden/decoration/plushies/player/walking/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 10005}, "model": "projecteden/decoration/plushies/player/walking/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 10006}, "model": "projecteden/decoration/plushies/player/walking/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 10007}, "model": "projecteden/decoration/plushies/player/walking/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 10008}, "model": "projecteden/decoration/plushies/player/walking/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 20001}, "model": "projecteden/decoration/plushies/player/t_pose/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 20002}, "model": "projecteden/decoration/plushies/player/t_pose/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 20003}, "model": "projecteden/decoration/plushies/player/t_pose/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 20004}, "model": "projecteden/decoration/plushies/player/t_pose/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 20005}, "model": "projecteden/decoration/plushies/player/t_pose/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 20006}, "model": "projecteden/decoration/plushies/player/t_pose/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 20007}, "model": "projecteden/decoration/plushies/player/t_pose/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 20008}, "model": "projecteden/decoration/plushies/player/t_pose/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 30001}, "model": "projecteden/decoration/plushies/player/handstand/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 30002}, "model": "projecteden/decoration/plushies/player/handstand/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 30003}, "model": "projecteden/decoration/plushies/player/handstand/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 30004}, "model": "projecteden/decoration/plushies/player/handstand/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 30005}, "model": "projecteden/decoration/plushies/player/handstand/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 30006}, "model": "projecteden/decoration/plushies/player/handstand/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 30007}, "model": "projecteden/decoration/plushies/player/handstand/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 30008}, "model": "projecteden/decoration/plushies/player/handstand/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 40001}, "model": "projecteden/decoration/plushies/player/sitting/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 40002}, "model": "projecteden/decoration/plushies/player/sitting/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 40003}, "model": "projecteden/decoration/plushies/player/sitting/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 40004}, "model": "projecteden/decoration/plushies/player/sitting/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 40005}, "model": "projecteden/decoration/plushies/player/sitting/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 40006}, "model": "projecteden/decoration/plushies/player/sitting/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 40007}, "model": "projecteden/decoration/plushies/player/sitting/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 40008}, "model": "projecteden/decoration/plushies/player/sitting/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 50001}, "model": "projecteden/decoration/plushies/player/dabbing/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 50002}, "model": "projecteden/decoration/plushies/player/dabbing/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 50003}, "model": "projecteden/decoration/plushies/player/dabbing/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 50004}, "model": "projecteden/decoration/plushies/player/dabbing/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 50005}, "model": "projecteden/decoration/plushies/player/dabbing/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 50006}, "model": "projecteden/decoration/plushies/player/dabbing/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 50007}, "model": "projecteden/decoration/plushies/player/dabbing/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 50008}, "model": "projecteden/decoration/plushies/player/dabbing/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 60001}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 60002}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 60003}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 60004}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 60005}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 60006}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 60007}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 60008}, "model": "projecteden/decoration/plushies/player/riding_minecart/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 70001}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 70002}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 70003}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 70004}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 70005}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 70006}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 70007}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 70008}, "model": "projecteden/decoration/plushies/player/holding_globe/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 80001}, "model": "projecteden/decoration/plushies/player/waving/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 80002}, "model": "projecteden/decoration/plushies/player/waving/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 80003}, "model": "projecteden/decoration/plushies/player/waving/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 80004}, "model": "projecteden/decoration/plushies/player/waving/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 80005}, "model": "projecteden/decoration/plushies/player/waving/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 80006}, "model": "projecteden/decoration/plushies/player/waving/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 80007}, "model": "projecteden/decoration/plushies/player/waving/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 80008}, "model": "projecteden/decoration/plushies/player/waving/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 90001}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 90002}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 90003}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 90004}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/d1de9ca8-78f6-4aae-87a1-8c112f675f12"}
+,	{"predicate": {"custom_model_data": 90005}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 90006}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 90007}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 90008}, "model": "projecteden/decoration/plushies/player/funko_pop/menu/79f66fc9-a975-4043-8b6d-b4823182de62"}
+,	{"predicate": {"custom_model_data": 100001}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 100002}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/menu/e9e07315-d32c-4df7-bd05-acfe51108234"}
+,	{"predicate": {"custom_model_data": 100003}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/menu/a4274d94-10f2-4663-af3b-a842c7ec729c"}
+,	{"predicate": {"custom_model_data": 100004}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 100005}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/menu/0a2221e4-000c-4818-82ea-cd43df07f0d4"}
+,	{"predicate": {"custom_model_data": 100006}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/menu/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"}
+,	{"predicate": {"custom_model_data": 100007}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/menu/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"}
+,	{"predicate": {"custom_model_data": 100008}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110001}, "model": "projecteden/decoration/plushies/player/funko_pop_owner/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
+,	{"predicate": {"custom_model_data": 110002}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110003}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110004}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110005}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110006}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110007}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110008}, "model": "minecraft:item/barrier"}
+
+		]
+	}
