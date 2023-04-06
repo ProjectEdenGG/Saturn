@@ -1,7 +1,7 @@
 	{
 		"parent": "minecraft:item/generated",
 		"textures": {
-			"layer0": "minecraft:item/lapis_lazuli"
+			"layer0": "minecraft:item/lapis_block"
 		},
 		"overrides": [
 				{"predicate": {"custom_model_data": 1}, "model": "projecteden/decoration/plushies/player/standing/menu/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
