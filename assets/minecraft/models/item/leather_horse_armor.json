@@ -1120,6 +1120,7 @@
 		{"predicate": {"custom_model_data": 4008}, "model": "projecteden/costumes/hat/misc/nerd"},
 		{"predicate": {"custom_model_data": 4009}, "model": "projecteden/costumes/hat/misc/straw"},
 		{"predicate": {"custom_model_data": 4010}, "model": "projecteden/costumes/hat/misc/ushanka"},
+		{"predicate": {"custom_model_data": 4011}, "model": "projecteden/costumes/hat/misc/chef_hat"},
 
 
 		{"predicate": {"custom_model_data": 4998}, "model": "projecteden/items/decoration/counter_wooden"},

@@ -1234,6 +1234,7 @@
 		{"predicate": {"custom_model_data": 22002}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_alex"},
 		{"predicate": {"custom_model_data": 22003}, "model": "projecteden/costumes/hand/misc/flower_bracelet_steve"},
 		{"predicate": {"custom_model_data": 22004}, "model": "projecteden/costumes/hand/misc/flower_bracelet_alex"},
+		{"predicate": {"custom_model_data": 22005}, "model": "projecteden/costumes/hand/misc/briefcase"},
 
 		{"predicate": {"custom_model_data": 22100}, "model": "projecteden/costumes/hat/pirate/cavalier_leather"},
         {"predicate": {"custom_model_data": 22101}, "model": "projecteden/costumes/hat/pirate/bicorn_leather"},
@@ -1269,6 +1270,7 @@
 		{"predicate": {"custom_model_data": 22321}, "model": "projecteden/costumes/hat/misc/hat3"},
 		{"predicate": {"custom_model_data": 22322}, "model": "projecteden/costumes/hat/misc/tv_head"},
 		{"predicate": {"custom_model_data": 22323}, "model": "projecteden/costumes/hat/misc/flower_crown"},
+		{"predicate": {"custom_model_data": 22324}, "model": "projecteden/costumes/hat/misc/hard_hat"},
 
 		{"predicate": {"custom_model_data": 22400}, "model": "projecteden/costumes/hat/antlers/black"},
 		{"predicate": {"custom_model_data": 22401}, "model": "projecteden/costumes/hat/antlers/brown"},
