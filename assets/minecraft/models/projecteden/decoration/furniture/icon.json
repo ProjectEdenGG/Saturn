@@ -1,6 +1,3 @@
 {
-	"parent": "projecteden/decoration/furniture/tables/1x1",
-	"textures": {
-		"particle": "projecteden/decoration/shared/wooden_set_oak"
-	}
+	"parent": "projecteden/decoration/furniture/tables/1x1"
 }
