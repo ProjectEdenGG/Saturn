@@ -2,6 +2,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "projecteden/decoration/curtains",
+		"1": "projecteden/decoration/dyeable/wooden_set_1_spruce",
 		"particle": "projecteden/decoration/curtains"
 	},
 	"elements": [
@@ -9,12 +10,12 @@
 			"from": [-8, 29, 7],
 			"to": [24, 32, 9],
 			"faces": {
-				"north": {"uv": [0, 5.75, 4, 6.125], "texture": "#0"},
-				"east": {"uv": [0, 6.625, 0.25, 7], "texture": "#0"},
-				"south": {"uv": [0, 5.75, 4, 6.125], "texture": "#0"},
-				"west": {"uv": [0, 6.625, 0.25, 7], "texture": "#0"},
-				"up": {"uv": [4, 6.5, 0, 6.25], "texture": "#0"},
-				"down": {"uv": [4, 6.25, 0, 6.5], "texture": "#0"}
+				"north": {"uv": [0.125, 4.25, 4.125, 3.875], "texture": "#1"},
+				"east": {"uv": [4, 4.25, 4.25, 3.875], "texture": "#1"},
+				"south": {"uv": [0.125, 4.25, 4.125, 3.875], "texture": "#1"},
+				"west": {"uv": [4, 4.25, 4.25, 3.875], "texture": "#1"},
+				"up": {"uv": [0.125, 4.25, 4.125, 4], "texture": "#1"},
+				"down": {"uv": [0.125, 4.25, 4.125, 4], "texture": "#1"}
 			}
 		},
 		{
@@ -30,16 +31,16 @@
 			"from": [20, 12, 7.975],
 			"to": [24, 14, 8.025],
 			"faces": {
-				"north": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"},
-				"south": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"}
+				"north": {"uv": [0, 5.75, 0.5, 6], "texture": "#0"},
+				"south": {"uv": [0, 5.75, 0.5, 6], "texture": "#0"}
 			}
 		},
 		{
 			"from": [-8, 12, 7.975],
 			"to": [-4, 14, 8.025],
 			"faces": {
-				"north": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"},
-				"south": {"uv": [0.375, 6.625, 0.875, 6.875], "texture": "#0"}
+				"north": {"uv": [0, 5.75, 0.5, 6], "texture": "#0"},
+				"south": {"uv": [0, 5.75, 0.5, 6], "texture": "#0"}
 			}
 		}
 	],
