@@ -1,0 +1,21 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "paint_spill_big",
+		"particle": "paint_spill_big"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 0], "texture": "#0"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	]
+}

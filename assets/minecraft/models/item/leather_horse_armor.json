@@ -1271,10 +1271,10 @@
 		{"predicate": {"custom_model_data": 9053}, "model": "projecteden/decoration/construction/traffic_cone_barrel"},
 
 		{"predicate": {"custom_model_data": 9100}, "model": "projecteden/decoration/furniture/beds/sleeping_bag"},
-		{"predicate": {"custom_model_data": 9101}, "model": "projecteden/decoration/furniture/beds/1_single"},
-		{"predicate": {"custom_model_data": 9102}, "model": "projecteden/decoration/furniture/beds/1_double"},
-		{"predicate": {"custom_model_data": 9103}, "model": "projecteden/decoration/furniture/beds/2_single"},
-		{"predicate": {"custom_model_data": 9104}, "model": "projecteden/decoration/furniture/beds/2_double"},
+		{"predicate": {"custom_model_data": 9101}, "model": "projecteden/decoration/furniture/beds/bed_1_single"},
+		{"predicate": {"custom_model_data": 9102}, "model": "projecteden/decoration/furniture/beds/bed_1_double"},
+		{"predicate": {"custom_model_data": 9103}, "model": "projecteden/decoration/furniture/beds/bed_2_single"},
+		{"predicate": {"custom_model_data": 9104}, "model": "projecteden/decoration/furniture/beds/bed_2_double"},
 
 		{"predicate": {"custom_model_data": 10000}, "model": "projecteden/ui/images/gamelobby/menu/outline_3x2"},
 		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"},

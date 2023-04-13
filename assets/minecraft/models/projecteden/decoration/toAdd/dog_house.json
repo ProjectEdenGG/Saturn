@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "projecteden/decoration/shared/wooden_set",
-		"particle": "projecteden/decoration/shared/wooden_set"
+		"0": "projecteden/decoration/dyeable/wooden_set",
+		"particle": "projecteden/decoration/dyeable/wooden_set"
 	},
 	"elements": [
 		{

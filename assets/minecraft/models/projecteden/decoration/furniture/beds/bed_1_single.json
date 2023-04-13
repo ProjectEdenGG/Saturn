@@ -1,5 +1,6 @@
 {
-	"texture_size": [64, 64],
+	"parent": "projecteden/decoration/furniture/beds/template_bed_single",
+	"texture_size": [128, 128],
 	"textures": {
 		"0": "projecteden/vanilla/entity/bed_red",
 		"2": "projecteden/decoration/dyeable/wooden_set_1",
@@ -119,12 +120,12 @@
 			"to": [16.25, 5.025, 24],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.25, 4, 15.525]},
 			"faces": {
-				"north": {"uv": [2.75, 10.625, 4.8125, 10.875], "texture": "#2", "tintindex": 0},
-				"east": {"uv": [2.75, 10.625, 6.75625, 10.875], "texture": "#2", "tintindex": 0},
-				"south": {"uv": [2.75, 10.625, 4.8125, 10.875], "texture": "#2", "tintindex": 0},
-				"west": {"uv": [2.75, 10.625, 6.75625, 10.875], "texture": "#2", "tintindex": 0},
-				"up": {"uv": [1.25, 8.625, 3.3125, 12.625], "texture": "#2", "tintindex": 0},
-				"down": {"uv": [1.25, 8.625, 3.3125, 12.625], "texture": "#2", "tintindex": 0}
+				"north": {"uv": [4.5, 0, 6.25625, 0.25], "texture": "#2", "tintindex": 0},
+				"east": {"uv": [4.375, 0.125, 4.63125, 3.875], "rotation": 90, "texture": "#2", "tintindex": 0},
+				"south": {"uv": [4.5, 0, 6.25625, 0.25], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [4.375, 0.125, 4.63125, 3.875], "rotation": 90, "texture": "#2", "tintindex": 0},
+				"up": {"uv": [4.375, 0, 6.375, 4], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [4.375, 0, 6.375, 4], "texture": "#2", "tintindex": 0}
 			}
 		},
 		{
@@ -140,41 +141,5 @@
 				"down": {"uv": [2, 10.625, 2.375, 11], "texture": "#2", "tintindex": 0}
 			}
 		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [44, 90, 0],
-			"translation": [0, 1.25, -2.25],
-			"scale": [0.4, 0.4, 0.4]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [44, 90, 0],
-			"translation": [0, 1.25, -2.25],
-			"scale": [0.4, 0.4, 0.4]
-		},
-		"firstperson_righthand": {
-			"rotation": [9, 31, 0],
-			"translation": [2, 0, 0],
-			"scale": [0.45, 0.45, 0.45]
-		},
-		"firstperson_lefthand": {
-			"rotation": [9, 31, 0],
-			"translation": [2, 0, 0],
-			"scale": [0.45, 0.45, 0.45]
-		},
-		"ground": {
-			"translation": [0, 4.25, 0],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"gui": {
-			"rotation": [21, 34, 0],
-			"translation": [0, -1.75, 0],
-			"scale": [0.4, 0.4, 0.4]
-		},
-		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 16, -16],
-			"scale": [2, 2, 2]
-		}
-	}
+	]
 }
