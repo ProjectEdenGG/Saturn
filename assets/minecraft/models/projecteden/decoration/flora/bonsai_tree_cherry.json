@@ -1,6 +1,7 @@
 {
 	"parent": "projecteden/decoration/flora/bonsai_tree",
 	"textures": {
-		"2": "projecteden/decoration/flora/bonsai_leaves_cherry"
+		"1": "projecteden/vanilla/block/cherry_log",
+		"2": "projecteden/vanilla/block/cherry_leaves"
 	}
 }
