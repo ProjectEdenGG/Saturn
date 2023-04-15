@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/food/pie_rough",
+	"textures": {
+		"2": "projecteden/decoration/food/presets/pie_rough_pecan"
+	}
+}

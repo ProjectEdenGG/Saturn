@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/food/side_sauce",
+	"textures": {
+		"2": "projecteden/decoration/food/presets/side_sauce_cranberries"
+	}
+}

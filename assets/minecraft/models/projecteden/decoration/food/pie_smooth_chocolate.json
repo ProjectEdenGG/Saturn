@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/food/pie_smooth",
+	"textures": {
+		"2": "projecteden/decoration/food/presets/pie_smooth_chocolate"
+	}
+}

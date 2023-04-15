@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/food/cakes/cake_batter",
+	"textures": {
+		"1": "projecteden/decoration/food/presets/cake_batter_vanilla"
+	}
+}

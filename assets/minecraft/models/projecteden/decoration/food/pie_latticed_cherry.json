@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/decoration/food/pie_latticed",
+	"textures": {
+		"2": "projecteden/decoration/food/presets/pie_latticed_cherry"
+	}
+}
