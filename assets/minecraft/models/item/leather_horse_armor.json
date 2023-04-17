@@ -1275,6 +1275,11 @@
 		{"predicate": {"custom_model_data": 9102}, "model": "projecteden/decoration/furniture/beds/bed_1_double"},
 		{"predicate": {"custom_model_data": 9103}, "model": "projecteden/decoration/furniture/beds/bed_2_single"},
 		{"predicate": {"custom_model_data": 9104}, "model": "projecteden/decoration/furniture/beds/bed_2_double"},
+		{"predicate": {"custom_model_data": 9105}, "model": "projecteden/decoration/furniture/beds/bed_3_single"},
+		{"predicate": {"custom_model_data": 9106}, "model": "projecteden/decoration/furniture/beds/bed_3_double"},
+		{"predicate": {"custom_model_data": 9107}, "model": "projecteden/decoration/furniture/beds/bed_4_single"},
+		{"predicate": {"custom_model_data": 9108}, "model": "projecteden/decoration/furniture/beds/bed_4_double"},
+
 
 		{"predicate": {"custom_model_data": 10000}, "model": "projecteden/ui/images/gamelobby/menu/outline_3x2"},
 		{"predicate": {"custom_model_data": 10001}, "model": "projecteden/ui/images/gamelobby/menu/outline_6x3"},
