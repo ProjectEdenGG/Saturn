@@ -1241,10 +1241,12 @@
 		{"predicate": {"custom_model_data": 6203}, "model": "projecteden/decoration/furniture/cabinets/black_handle/cabinet_wooden_short"},
 
 		{"predicate": {"custom_model_data": 8000}, "model": "projecteden/decoration/furniture/wardrobe"},
-		{"predicate": {"custom_model_data": 8001}, "model": "projecteden/decoration/furniture/cupboard_short"},
-		{"predicate": {"custom_model_data": 8002}, "model": "projecteden/decoration/furniture/cupboard_short_bookshelf"},
+		{"predicate": {"custom_model_data": 8001}, "model": "projecteden/decoration/furniture/cupboard_short_double"},
+		{"predicate": {"custom_model_data": 8002}, "model": "projecteden/decoration/furniture/cupboard_short_bookshelf_double"},
 		{"predicate": {"custom_model_data": 8003}, "model": "projecteden/decoration/furniture/shelf_wall"},
 		{"predicate": {"custom_model_data": 8004}, "model": "projecteden/decoration/furniture/shelf_storage"},
+		{"predicate": {"custom_model_data": 8005}, "model": "projecteden/decoration/furniture/cupboard_short_single"},
+		{"predicate": {"custom_model_data": 8006}, "model": "projecteden/decoration/furniture/cupboard_short_bookshelf_single"},
 
 		{"predicate": {"custom_model_data": 9000}, "model": "projecteden/decoration/music/large_woodgrain_speaker"},
 		{"predicate": {"custom_model_data": 9001}, "model": "projecteden/decoration/music/small_woodgrain_speaker"},
