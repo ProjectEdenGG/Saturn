@@ -40,6 +40,10 @@
 		{"predicate": {"custom_model_data": 102}, "model": "projecteden/decoration/mailbox"},
 		{"predicate": {"custom_model_data": 103}, "model": "projecteden/decoration/giant_candy_cane"},
 		{"predicate": {"custom_model_data": 104}, "model": "projecteden/decoration/curtains_2x3"},
+		{"predicate": {"custom_model_data": 105}, "model": "projecteden/decoration/curtains_3x3"},
+		{"predicate": {"custom_model_data": 106}, "model": "projecteden/decoration/curtains_3x2"},
+		{"predicate": {"custom_model_data": 107}, "model": "projecteden/decoration/curtains_2x2"},
+		{"predicate": {"custom_model_data": 108}, "model": "projecteden/decoration/curtains_1x2"},
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
