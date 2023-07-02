@@ -320,6 +320,12 @@
 		{"predicate": {"custom_model_data": 2064}, "model": "projecteden/items/decoration/counter_soapstone"},
 		{"predicate": {"custom_model_data": 2065}, "model": "projecteden/items/decoration/counter_all"},
 		{"predicate": {"custom_model_data": 2066}, "model": "projecteden/items/decoration/handle_all"},
+		{"predicate": {"custom_model_data": 2067}, "model": "projecteden/blocks/rocks/rocks_0"},
+		{"predicate": {"custom_model_data": 2068}, "model": "projecteden/blocks/rocks/rocks_1"},
+		{"predicate": {"custom_model_data": 2069}, "model": "projecteden/blocks/rocks/rocks_2"},
+		{"predicate": {"custom_model_data": 2070}, "model": "projecteden/blocks/rocks/pebbles_0"},
+		{"predicate": {"custom_model_data": 2071}, "model": "projecteden/blocks/rocks/pebbles_1"},
+		{"predicate": {"custom_model_data": 2072}, "model": "projecteden/blocks/rocks/pebbles_2"},
 
 		{"predicate": {"custom_model_data": 2100}, "model": "projecteden/items/electronics/motherboard"},
 		{"predicate": {"custom_model_data": 2101}, "model": "projecteden/items/electronics/controller_unit"},
