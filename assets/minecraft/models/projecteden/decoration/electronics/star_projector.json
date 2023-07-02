@@ -216,6 +216,9 @@
 		}
 	],
 	"display": {
+		"head": {
+			"scale": [1.69336, 1.69336, 1.69336]
+		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, 0, -16.5],
