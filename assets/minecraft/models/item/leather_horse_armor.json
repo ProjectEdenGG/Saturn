@@ -1300,7 +1300,8 @@
 		{"predicate": {"custom_model_data": 10103}, "model": "projecteden/ui/gui/check"},
 		{"predicate": {"custom_model_data": 10104}, "model": "projecteden/ui/gui/add"},
 		{"predicate": {"custom_model_data": 10105}, "model": "projecteden/ui/gui/subtract"},
-		{"predicate": {"custom_model_data": 10106}, "model": "projecteden/ui/gui/voucher"}
+		{"predicate": {"custom_model_data": 10106}, "model": "projecteden/ui/gui/voucher"},
 
+		{"predicate": {"custom_model_data": 10300}, "model": "projecteden/decoration/electronics/star_projector"}
 	]
 }
