@@ -1184,6 +1184,7 @@
 		{"predicate": {"custom_model_data": 20361}, "model": "projecteden/blocks/stones/stone_bricks/stone_bricks_pillar"},
 		{"predicate": {"custom_model_data": 20362}, "model": "projecteden/blocks/stones/deepslate/deepslate_pillar"},
 		{"predicate": {"custom_model_data": 20363}, "model": "projecteden/blocks/stones/blackstone/blackstone_pillar"},
+		{"predicate": {"custom_model_data": 20364}, "model": "projecteden/blocks/stones/purpur/chiseled_purpur"},
 
 		{"predicate": {"custom_model_data": 20400}, "model": "block/note_block"},
 		{"predicate": {"custom_model_data": 20401}, "model": "projecteden/blocks/lanterns/paper/oak_paper_lantern"},
