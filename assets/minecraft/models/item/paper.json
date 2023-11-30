@@ -1057,6 +1057,12 @@
 		{"predicate": {"custom_model_data": 20014}, "model": "projecteden/blocks/wood/crimson/carved_crimson_planks"},
 		{"predicate": {"custom_model_data": 20015}, "model": "projecteden/blocks/wood/warped/vertical_warped_planks"},
 		{"predicate": {"custom_model_data": 20016}, "model": "projecteden/blocks/wood/warped/carved_warped_planks"},
+		{"predicate": {"custom_model_data": 20017}, "model": "projecteden/blocks/wood/mangrove/vertical_mangrove_planks"},
+		{"predicate": {"custom_model_data": 20018}, "model": "projecteden/blocks/wood/mangrove/carved_mangrove_planks"},
+		{"predicate": {"custom_model_data": 20019}, "model": "projecteden/blocks/wood/cherry/vertical_cherry_planks"},
+		{"predicate": {"custom_model_data": 20020}, "model": "projecteden/blocks/wood/cherry/carved_cherry_planks"},
+		{"predicate": {"custom_model_data": 20021}, "model": "projecteden/blocks/wood/bamboo/vertical_bamboo_planks"},
+		{"predicate": {"custom_model_data": 20022}, "model": "projecteden/blocks/wood/bamboo/carved_bamboo_planks"},
 		
 		{"predicate": {"custom_model_data": 20050}, "model": "block/note_block"},
 		{"predicate": {"custom_model_data": 20051}, "model": "projecteden/blocks/crates/crate_apple"},
