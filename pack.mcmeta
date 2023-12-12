@@ -3,7 +3,7 @@
     "pack_format": 22,
     "description": "Resource Pack",
     "supported_formats": {
-        "min_inclusive": 15,
+        "min_inclusive": 18,
         "max_inclusive": 22
     }
   }
