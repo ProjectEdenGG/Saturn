@@ -1797,6 +1797,13 @@
 			"ascent":27,
 			"height":50,
 			"chars":["犟"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/ui/gui/enchanted_book_splitter.png",
+			"ascent":19,
+			"height":133,
+			"chars":["千"]
 		}
 	]
 }
