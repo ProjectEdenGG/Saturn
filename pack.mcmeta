@@ -6,5 +6,10 @@
         "min_inclusive": 18,
         "max_inclusive": 22
     }
+  },
+  "sodium": {
+    "ignored_shaders": [
+      "fog.glsl"
+    ]
   }
 }
