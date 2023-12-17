@@ -1545,17 +1545,22 @@
 		{"predicate": {"custom_model_data": 31225}, "model": "projecteden/decoration/art/paintings/vanilla/3x4h/reserved"},
 
 		{"predicate": {"custom_model_data": 31250}, "model": "projecteden/decoration/art/paintings/vanilla/4x4/signs_of_the_end"},
-		{"predicate": {"custom_model_data": 31251}, "model": "projecteden/decoration/art/paintings/vanilla/4x4/three_saints_and_the_blessed_sheep"}
+		{"predicate": {"custom_model_data": 31251}, "model": "projecteden/decoration/art/paintings/vanilla/4x4/three_saints_and_the_blessed_sheep"},
+
+		{"predicate": {"custom_model_data": 32000}, "model": "projecteden/ui/gui/mcmmo/all"},
+		{"predicate": {"custom_model_data": 32001}, "model": "projecteden/ui/gui/mcmmo/grandmaster"},
+		{"predicate": {"custom_model_data": 32002}, "model": "projecteden/ui/gui/mcmmo/acrobatics"},
+		{"predicate": {"custom_model_data": 32003}, "model": "projecteden/ui/gui/mcmmo/alchemy"},
+		{"predicate": {"custom_model_data": 32004}, "model": "projecteden/ui/gui/mcmmo/archery"},
+		{"predicate": {"custom_model_data": 32005}, "model": "projecteden/ui/gui/mcmmo/axes"},
+		{"predicate": {"custom_model_data": 32006}, "model": "projecteden/ui/gui/mcmmo/excavation"},
+		{"predicate": {"custom_model_data": 32007}, "model": "projecteden/ui/gui/mcmmo/fishing"},
+		{"predicate": {"custom_model_data": 32008}, "model": "projecteden/ui/gui/mcmmo/herbalism"},
+		{"predicate": {"custom_model_data": 32009}, "model": "projecteden/ui/gui/mcmmo/mining"},
+		{"predicate": {"custom_model_data": 32010}, "model": "projecteden/ui/gui/mcmmo/repair"},
+		{"predicate": {"custom_model_data": 32011}, "model": "projecteden/ui/gui/mcmmo/swords"},
+		{"predicate": {"custom_model_data": 32012}, "model": "projecteden/ui/gui/mcmmo/taming"},
+		{"predicate": {"custom_model_data": 32013}, "model": "projecteden/ui/gui/mcmmo/unarmed"},
+		{"predicate": {"custom_model_data": 32014}, "model": "projecteden/ui/gui/mcmmo/woodcutting"}
 	]
 }
-
-
-
-
-
-
-
-
-
-
-
