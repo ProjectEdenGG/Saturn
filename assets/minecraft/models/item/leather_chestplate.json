@@ -4,6 +4,11 @@
 		"layer0": "minecraft:item/leather_chestplate",
 		"layer1": "minecraft:item/leather_chestplate_overlay"
 	},
+
+	"comment1": "===================================================",
+	"comment2": "==== Use eden-tools Armor tool to update files ====",
+	"comment3": "===================================================",
+
 	"overrides": [
 		{"predicate": {"trim_type": 0.1}, "model": "minecraft:item/leather_chestplate_quartz_trim"},
 		{"predicate": {"trim_type": 0.2}, "model": "minecraft:item/leather_chestplate_iron_trim"},
@@ -16,6 +21,18 @@
 		{"predicate": {"trim_type": 0.9}, "model": "minecraft:item/leather_chestplate_lapis_trim"},
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/leather_chestplate_amethyst_trim"},
 		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/armor/wither/chestplate"},
-		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/armor/warden/chestplate"}
+		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/armor/warden/chestplate"},
+		{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/armor/berserker/chestplate"},
+		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/armor/brown_berserk/chestplate"},
+		{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/armor/copper/chestplate"},
+		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/armor/damascus/chestplate"},
+		{"predicate": {"custom_model_data": 7}, "model": "projecteden/items/armor/druid/chestplate"},
+		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/armor/hellfire/chestplate"},
+		{"predicate": {"custom_model_data": 9}, "model": "projecteden/items/armor/jarl/chestplate"},
+		{"predicate": {"custom_model_data": 10}, "model": "projecteden/items/armor/mythril/chestplate"},
+		{"predicate": {"custom_model_data": 11}, "model": "projecteden/items/armor/tank/chestplate"},
+		{"predicate": {"custom_model_data": 12}, "model": "projecteden/items/armor/thor/chestplate"},
+		{"predicate": {"custom_model_data": 13}, "model": "projecteden/items/armor/wizard/chestplate"},
+		{"predicate": {"custom_model_data": 14}, "model": "projecteden/items/armor/wolf/chestplate"}
 	]
 }
