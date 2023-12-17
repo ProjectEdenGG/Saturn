@@ -9,9 +9,8 @@
     {"predicate": {"custom_model_data": 1002}, "model": "projecteden/items/skins/damascus/axe"},
     {"predicate": {"custom_model_data": 1003}, "model": "projecteden/items/skins/hellfire/axe"},
     {"predicate": {"custom_model_data": 1004}, "model": "projecteden/items/skins/mythril/axe"},
-    {"predicate": {"custom_model_data": 1005}, "model": "projecteden/items/skins/nature/axe"}
+    {"predicate": {"custom_model_data": 1005}, "model": "projecteden/items/skins/vines/axe"},
+    {"predicate": {"custom_model_data": 1006}, "model": "projecteden/items/skins/amythest/axe"},
+    {"predicate": {"custom_model_data": 1007}, "model": "projecteden/items/skins/sculk/axe"}
   ]
 }
-
-
-

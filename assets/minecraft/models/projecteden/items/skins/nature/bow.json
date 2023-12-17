@@ -1,6 +1,0 @@
-{
-	"parent": "projecteden/items/skins/_template/bow",
-	"textures": {
-		"layer0": "projecteden/items/skins/nature/bow"
-	}
-}

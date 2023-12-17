@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/items/skins/_template/bow_pulling_2",
+	"textures": {
+		"layer0": "projecteden/items/skins/vines/bow_pulling_2"
+	}
+}

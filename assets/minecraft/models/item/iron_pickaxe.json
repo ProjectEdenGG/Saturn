@@ -9,6 +9,8 @@
     {"predicate": {"custom_model_data": 1002}, "model": "projecteden/items/skins/damascus/pickaxe"},
     {"predicate": {"custom_model_data": 1003}, "model": "projecteden/items/skins/hellfire/pickaxe"},
     {"predicate": {"custom_model_data": 1004}, "model": "projecteden/items/skins/mythril/pickaxe"},
-    {"predicate": {"custom_model_data": 1005}, "model": "projecteden/items/skins/nature/pickaxe"}
+    {"predicate": {"custom_model_data": 1005}, "model": "projecteden/items/skins/vines/pickaxe"},
+    {"predicate": {"custom_model_data": 1006}, "model": "projecteden/items/skins/amythest/pickaxe"},
+    {"predicate": {"custom_model_data": 1007}, "model": "projecteden/items/skins/sculk/pickaxe"}
   ]
 }

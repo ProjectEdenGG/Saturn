@@ -67,12 +67,26 @@
         {"predicate": {"custom_model_data": 1004, "charged": 1},"model": "projecteden/items/skins/mythril/crossbow_arrow"},
         {"predicate": {"custom_model_data": 1004, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/mythril/crossbow_firework"},
 
-        {"predicate": {"custom_model_data": 1005}, "model": "projecteden/items/skins/nature/crossbow_standby"},
-        {"predicate": {"custom_model_data": 1005, "pulling": 1}, "model": "projecteden/items/skins/nature/crossbow_pulling_0"},
-        {"predicate": {"custom_model_data": 1005, "pulling": 1, "pull": 0.58}, "model": "projecteden/items/skins/nature/crossbow_pulling_1"},
-        {"predicate": {"custom_model_data": 1005, "pulling": 1, "pull": 1.0}, "model": "projecteden/items/skins/nature/crossbow_pulling_2"},
-        {"predicate": {"custom_model_data": 1005, "charged": 1},"model": "projecteden/items/skins/nature/crossbow_arrow"},
-        {"predicate": {"custom_model_data": 1005, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/nature/crossbow_firework"}
+        {"predicate": {"custom_model_data": 1005}, "model": "projecteden/items/skins/vines/crossbow_standby"},
+        {"predicate": {"custom_model_data": 1005, "pulling": 1}, "model": "projecteden/items/skins/vines/crossbow_pulling_0"},
+        {"predicate": {"custom_model_data": 1005, "pulling": 1, "pull": 0.58}, "model": "projecteden/items/skins/vines/crossbow_pulling_1"},
+        {"predicate": {"custom_model_data": 1005, "pulling": 1, "pull": 1.0}, "model": "projecteden/items/skins/vines/crossbow_pulling_2"},
+        {"predicate": {"custom_model_data": 1005, "charged": 1},"model": "projecteden/items/skins/vines/crossbow_arrow"},
+        {"predicate": {"custom_model_data": 1005, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/vines/crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 1006}, "model": "projecteden/items/skins/amythest/crossbow_standby"},
+        {"predicate": {"custom_model_data": 1006, "pulling": 1}, "model": "projecteden/items/skins/amythest/crossbow_pulling_0"},
+        {"predicate": {"custom_model_data": 1006, "pulling": 1, "pull": 0.58}, "model": "projecteden/items/skins/amythest/crossbow_pulling_1"},
+        {"predicate": {"custom_model_data": 1006, "pulling": 1, "pull": 1.0}, "model": "projecteden/items/skins/amythest/crossbow_pulling_2"},
+        {"predicate": {"custom_model_data": 1006, "charged": 1},"model": "projecteden/items/skins/amythest/crossbow_arrow"},
+        {"predicate": {"custom_model_data": 1006, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/amythest/crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 1007}, "model": "projecteden/items/skins/sculk/crossbow_standby"},
+        {"predicate": {"custom_model_data": 1007, "pulling": 1}, "model": "projecteden/items/skins/sculk/crossbow_pulling_0"},
+        {"predicate": {"custom_model_data": 1007, "pulling": 1, "pull": 0.58}, "model": "projecteden/items/skins/sculk/crossbow_pulling_1"},
+        {"predicate": {"custom_model_data": 1007, "pulling": 1, "pull": 1.0}, "model": "projecteden/items/skins/sculk/crossbow_pulling_2"},
+        {"predicate": {"custom_model_data": 1007, "charged": 1},"model": "projecteden/items/skins/sculk/crossbow_arrow"},
+        {"predicate": {"custom_model_data": 1007, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/sculk/crossbow_firework"}
     ]
 }
 
