@@ -10,6 +10,7 @@
 		{
 			"from": [7, 4, 7],
 			"to": [9, 7, 9],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 7, 8]},
 			"faces": {
 				"north": {"uv": [4, 6, 6, 9], "texture": "#mushroom"},
 				"east": {"uv": [4, 6, 6, 9], "texture": "#mushroom"},
@@ -20,6 +21,7 @@
 		{
 			"from": [5, 7, 5],
 			"to": [11, 10, 11],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 7, 8]},
 			"faces": {
 				"north": {"uv": [10, 6, 16, 9], "texture": "#mushroom"},
 				"east": {"uv": [10, 9, 16, 12], "texture": "#mushroom"},
@@ -32,6 +34,7 @@
 		{
 			"from": [6, 10, 6],
 			"to": [10, 12, 10],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 7, 8]},
 			"faces": {
 				"north": {"uv": [0, 4, 4, 6], "texture": "#mushroom"},
 				"east": {"uv": [0, 6, 4, 8], "texture": "#mushroom"},
