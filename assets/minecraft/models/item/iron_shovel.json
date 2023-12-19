@@ -11,6 +11,7 @@
     {"predicate": {"custom_model_data": 1004}, "model": "projecteden/items/skins/mythril/shovel"},
     {"predicate": {"custom_model_data": 1005}, "model": "projecteden/items/skins/vines/shovel"},
     {"predicate": {"custom_model_data": 1006}, "model": "projecteden/items/skins/amythest/shovel"},
-    {"predicate": {"custom_model_data": 1007}, "model": "projecteden/items/skins/sculk/shovel"}
+    {"predicate": {"custom_model_data": 1007}, "model": "projecteden/items/skins/sculk/shovel"},
+    {"predicate": {"custom_model_data": 1008}, "model": "projecteden/items/skins/cherry/shovel"}
   ]
 }
