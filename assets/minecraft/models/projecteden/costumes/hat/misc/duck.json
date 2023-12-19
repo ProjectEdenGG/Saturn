@@ -1,0 +1,92 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "projecteden/costumes/duck",
+		"particle": "projecteden/costumes/duck"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [8, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 1, 2],
+			"to": [10, 5, 4],
+			"faces": {
+				"north": {"uv": [4, 8, 6, 10], "texture": "#0"},
+				"east": {"uv": [8, 7.5, 9, 9.5], "texture": "#0"},
+				"south": {"uv": [8, 4, 10, 6], "texture": "#0"},
+				"west": {"uv": [9, 7.5, 10, 9.5], "texture": "#0"},
+				"up": {"uv": [8, 10.5, 6, 9.5], "texture": "#0"},
+				"down": {"uv": [10, 9.5, 8, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 2, 1],
+			"to": [10, 5, 2],
+			"faces": {
+				"north": {"uv": [6, 8, 8, 9.5], "texture": "#0"},
+				"east": {"uv": [10, 4.5, 10.5, 6], "texture": "#0"},
+				"south": {"uv": [8, 6, 10, 7.5], "texture": "#0"},
+				"west": {"uv": [10, 6, 10.5, 7.5], "texture": "#0"},
+				"up": {"uv": [6, 10.5, 4, 10], "texture": "#0"},
+				"down": {"uv": [12, 4, 10, 4.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [64.93, 39.5, 1.62],
+			"translation": [-1.25, 0, 0],
+			"scale": [0.48828, 0.48828, 0.48828]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [64.93, 39.5, 1.62],
+			"translation": [-1.25, 0, 0],
+			"scale": [0.48828, 0.48828, 0.48828]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 87.5, 0],
+			"translation": [0, 5.5, 0],
+			"scale": [0.56, 0.56, 0.56]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 87.5, 0],
+			"translation": [0, 5.5, 0],
+			"scale": [0.56, 0.56, 0.56]
+		},
+		"ground": {
+			"scale": [0.41, 0.41, 0.41]
+		},
+		"gui": {
+			"rotation": [-157, 33, -180],
+			"translation": [0, 3.5, 0]
+		},
+		"head": {
+			"translation": [0, 7.5, 0],
+			"scale": [1.81, 1.81, 1.81]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14.5],
+			"scale": [1.81, 1.81, 1.81]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2]
+		}
+	]
+}

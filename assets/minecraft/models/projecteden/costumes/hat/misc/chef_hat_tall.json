@@ -1,0 +1,58 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "projecteden/costumes/chef_hat_tall",
+		"particle": "projecteden/costumes/chef_hat_tall"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"east": {"uv": [4, 0, 8, 6], "texture": "#0"},
+				"south": {"uv": [0, 6, 4, 12], "texture": "#0"},
+				"west": {"uv": [4, 6, 8, 12], "texture": "#0"},
+				"up": {"uv": [12, 4, 8, 0], "texture": "#0"},
+				"down": {"uv": [12, 4, 8, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [47.25, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [47.25, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 23.25, -180],
+			"translation": [-0.5, 5.5, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 23.25, -180],
+			"translation": [-0.5, 5.5, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.61133, 0.61133, 0.61133]
+		},
+		"gui": {
+			"rotation": [8.66, 23.04, -0.83],
+			"translation": [0, 1.5, 0]
+		},
+		"head": {
+			"translation": [0, 19.25, 0],
+			"scale": [1.94477, 1.94477, 1.94477]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
