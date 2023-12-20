@@ -1,7 +1,7 @@
 pack_directory = '.'
 output_file_path = 'ResourcePack.zip'
 allow_mods = ['OptiFine']
-zip_spec_conformance_level = 'disregard'
+zip_spec_conformance_level = 'balanced'
 
 ['**/*?.meta']
 force_include = true
