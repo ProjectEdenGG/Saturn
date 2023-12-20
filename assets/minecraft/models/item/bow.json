@@ -73,6 +73,11 @@
         {"predicate": {"custom_model_data": 1008}, "model": "projecteden/items/skins/cherry/bow"},
         {"predicate": {"custom_model_data": 1008, "pulling": 1 }, "model": "projecteden/items/skins/cherry/bow_pulling_0"},
         {"predicate": {"custom_model_data": 1008, "pulling": 1, "pull": 0.65 }, "model": "projecteden/items/skins/cherry/bow_pulling_1"},
-        {"predicate": {"custom_model_data": 1008, "pulling": 1, "pull": 0.9 }, "model": "projecteden/items/skins/cherry/bow_pulling_2"}
+        {"predicate": {"custom_model_data": 1008, "pulling": 1, "pull": 0.9 }, "model": "projecteden/items/skins/cherry/bow_pulling_2"},
+
+        {"predicate": {"custom_model_data": 1009}, "model": "projecteden/items/skins/mechanical/bow"},
+        {"predicate": {"custom_model_data": 1009, "pulling": 1 }, "model": "projecteden/items/skins/mechanical/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 1009, "pulling": 1, "pull": 0.65 }, "model": "projecteden/items/skins/mechanical/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 1009, "pulling": 1, "pull": 0.9 }, "model": "projecteden/items/skins/mechanical/bow_pulling_2"}
     ]
 }

@@ -93,7 +93,14 @@
         {"predicate": {"custom_model_data": 1008, "pulling": 1, "pull": 0.58}, "model": "projecteden/items/skins/cherry/crossbow_pulling_1"},
         {"predicate": {"custom_model_data": 1008, "pulling": 1, "pull": 1.0}, "model": "projecteden/items/skins/cherry/crossbow_pulling_2"},
         {"predicate": {"custom_model_data": 1008, "charged": 1},"model": "projecteden/items/skins/cherry/crossbow_arrow"},
-        {"predicate": {"custom_model_data": 1008, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/cherry/crossbow_firework"}
+        {"predicate": {"custom_model_data": 1008, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/cherry/crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 1009}, "model": "projecteden/items/skins/mechanical/crossbow_standby"},
+        {"predicate": {"custom_model_data": 1009, "pulling": 1}, "model": "projecteden/items/skins/mechanical/crossbow_pulling_0"},
+        {"predicate": {"custom_model_data": 1009, "pulling": 1, "pull": 0.58}, "model": "projecteden/items/skins/mechanical/crossbow_pulling_1"},
+        {"predicate": {"custom_model_data": 1009, "pulling": 1, "pull": 1.0}, "model": "projecteden/items/skins/mechanical/crossbow_pulling_2"},
+        {"predicate": {"custom_model_data": 1009, "charged": 1},"model": "projecteden/items/skins/mechanical/crossbow_arrow"},
+        {"predicate": {"custom_model_data": 1009, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/mechanical/crossbow_firework"}
     ]
 }
 
