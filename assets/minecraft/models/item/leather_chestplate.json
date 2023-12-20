@@ -5,9 +5,9 @@
 		"layer1": "minecraft:item/leather_chestplate_overlay"
 	},
 
-	"comment1": "===================================================",
-	"comment2": "==== Use eden-tools Armor tool to update files ====",
-	"comment3": "===================================================",
+	"comment1": "=========================================",
+	"comment2": "==== Use java project to update files ====",
+	"comment3": "=========================================",
 
 	"overrides": [
 		{"predicate": {"trim_type": 0.1}, "model": "minecraft:item/leather_chestplate_quartz_trim"},
