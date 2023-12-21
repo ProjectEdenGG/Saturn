@@ -24,13 +24,13 @@ public class Armor {
 	);
 
 	final String MODEL_TEMPLATE = """
-			{
-				"parent": "projecteden/items/armor/template_armor",
-				"textures": {
-					"0": "projecteden/items/armor/%s/%s"
-				}
+		{
+			"parent": "projecteden/items/armor/template_armor",
+			"textures": {
+				"0": "projecteden/items/armor/%s/%s"
 			}
-			""";
+		}
+	""";
 
 	final String OVERRIDE_TEMPLATE = """
 		{"predicate": {"custom_model_data": %s}, "model": "projecteden/items/armor/%s/%s"}

@@ -1,5 +1,5 @@
 {
-	"parent": "projecteden/items/skins/_template/bow",
+	"parent": "minecraft:item/bow",
 	"textures": {
 		"layer0": "projecteden/items/skins/copper/bow"
 	}
