@@ -1,5 +1,5 @@
 {
-	"texture_size": [512, 256],
+	"texture_size": [655, 473],
 	"textures": {
 		"0": "projecteden/ui/images/survival/cartography_2",
 		"particle": "projecteden/ui/images/survival/cartography_2"
@@ -9,7 +9,7 @@
 			"from": [-16, 0, 0],
 			"to": [32, 32, 0],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 12.50687, 8.65962], "texture": "#0"}
 			}
 		}
 	],
