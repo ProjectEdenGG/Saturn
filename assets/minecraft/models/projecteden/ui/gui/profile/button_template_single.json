@@ -1,18 +1,19 @@
 {
+	"texture_size": [30, 16],
 	"textures": {
-		"layer0": "projecteden/ui/gui/profile/button_friends_short_add"
+		"layer0": "projecteden/ui/gui/profile/button_friends_modify_add"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 7.5],
 			"to": [17, 16, 8.5],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
-				"east": {"uv": [15.66667, 0, 16, 16], "texture": "#layer0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
-				"west": {"uv": [0, 0, 0.33333, 16], "texture": "#layer0"},
-				"up": {"uv": [0, 0, 16, 1], "texture": "#layer0"},
-				"down": {"uv": [0, 15, 16, 16], "texture": "#layer0"}
+				"north": {"uv": [0, 0, 8.53333, 16], "texture": "#layer0"},
+				"east": {"uv": [8.35556, 0, 8.53333, 16], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 8.53333, 16], "texture": "#layer0"},
+				"west": {"uv": [0, 0, 0.17778, 16], "texture": "#layer0"},
+				"up": {"uv": [0, 0, 8.53333, 1], "texture": "#layer0"},
+				"down": {"uv": [0, 15, 8.53333, 16], "texture": "#layer0"}
 			}
 		}
 	],
