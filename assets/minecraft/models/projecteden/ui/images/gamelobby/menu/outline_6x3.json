@@ -1,4 +1,5 @@
 {
+	"texture_size": [292, 148],
 	"textures": {
 		"0": "projecteden/ui/images/gamelobby/menu/outline_6x3"
 	},
@@ -8,7 +9,7 @@
 			"from": [-4, -16, 8],
 			"to": [20, 32, 8],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+				"north": {"uv": [0, 0, 7.0137, 13.83784], "texture": "#0", "tintindex": 0}
 			}
 		}
 	],
@@ -41,7 +42,7 @@
 		"gui": {
 			"rotation": [0, -180, 0],
 			"translation": [0.25, -44.75, 0],
-			"scale": [2.34, 2.34, 2.34]
+			"scale": [2.32047, 2.32047, 2.32047]
 		},
 		"head": {
 			"translation": [0, -16, 0],

@@ -1,6 +1,8 @@
 {
+	"texture_size": [512, 512],
 	"textures": {
-		"particle": "#0"
+		"0": "projecteden/ui/images/gamelobby/menu/four_team_deathmatch",
+		"particle": "projecteden/ui/images/gamelobby/menu/four_team_deathmatch"
 	},
 	"elements": [
 		{
@@ -8,7 +10,7 @@
 			"from": [-8, -16, 8],
 			"to": [24, 32, 8],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 8.75, 13.125], "texture": "#0"}
 			}
 		}
 	],
@@ -58,7 +60,8 @@
 			"name": "back",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+			"nbt": "{}",
+			"children": []
 		}
 	]
 }
