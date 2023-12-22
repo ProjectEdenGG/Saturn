@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "projecteden/items/skins/amythest/fishing_rod_cast"
+	}
+}

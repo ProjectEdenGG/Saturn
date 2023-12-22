@@ -62,7 +62,12 @@
 		{"predicate": {"custom_model_data": 1009}, "model": "projecteden/items/skins/mechanical/bow"},
 		{"predicate": {"custom_model_data": 1009, "pulling": 1 }, "model": "projecteden/items/skins/mechanical/bow_pulling_0"},
 		{"predicate": {"custom_model_data": 1009, "pulling": 1, "pull": 0.65 }, "model": "projecteden/items/skins/mechanical/bow_pulling_1"},
-		{"predicate": {"custom_model_data": 1009, "pulling": 1, "pull": 0.9 }, "model": "projecteden/items/skins/mechanical/bow_pulling_2"}
+		{"predicate": {"custom_model_data": 1009, "pulling": 1, "pull": 0.9 }, "model": "projecteden/items/skins/mechanical/bow_pulling_2"},
+
+		{"predicate": {"custom_model_data": 1010}, "model": "projecteden/items/skins/8bit/bow"},
+		{"predicate": {"custom_model_data": 1010, "pulling": 1 }, "model": "projecteden/items/skins/8bit/bow_pulling_0"},
+		{"predicate": {"custom_model_data": 1010, "pulling": 1, "pull": 0.65 }, "model": "projecteden/items/skins/8bit/bow_pulling_1"},
+		{"predicate": {"custom_model_data": 1010, "pulling": 1, "pull": 0.9 }, "model": "projecteden/items/skins/8bit/bow_pulling_2"}
 
 	]
 }

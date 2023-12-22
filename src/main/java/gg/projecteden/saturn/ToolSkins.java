@@ -10,7 +10,7 @@ public class ToolSkins {
 
 	private static final List<String> SKINS = List.of(
 			"adamantite", "copper", "damascus", "hellfire", "mythril", "vines", "amythest", "sculk", "cherry",
-			"mechanical"
+			"mechanical", "8bit"
 	);
 
 	private static final List<String> MATERIALS = List.of(
@@ -28,6 +28,10 @@ public class ToolSkins {
 	private static final List<String> CROSSBOW_TEXTURES = List.of(
 			"crossbow_arrow", "crossbow_firework", "crossbow_standby",
 			"crossbow_pulling_0", "crossbow_pulling_1", "crossbow_pulling_2"
+	);
+
+	private static final List<String> FISHING_ROD_TEXTURES = List.of(
+			"fishing_rod", "fishing_rod_cast"
 	);
 
 	private static final String MATERIAL_TEMPLATE = """
@@ -107,6 +111,25 @@ public class ToolSkins {
 			{"predicate": {"custom_model_data": __MODEL_ID__, "charged": 1, "firework": 1}, "model": "projecteden/items/skins/__SKIN__/crossbow_firework"}
 	""";
 
+	private static final String FISHING_ROD_TEMPLATE = """
+		{
+			"parent": "item/handheld_rod",
+			"textures": {
+				"layer0": "item/fishing_rod"
+			},
+			"overrides": [
+				{"predicate": {"cast": 1}, "model": "item/fishing_rod_cast"},
+				
+		%s
+			]
+		}
+		""";
+
+	private static final String FISHING_ROD_OVERRIDES_TEMPLATE = """
+			{"predicate": {"custom_model_data": __MODEL_ID__}, "model": "projecteden/items/skins/__SKIN__/fishing_rod"},
+			{"predicate": {"custom_model_data": __MODEL_ID__, "cast": 1}, "model": "projecteden/items/skins/__SKIN__/fishing_rod_cast"}
+	""";
+
 	private static final String HANDHELD_MODEL_TEMPLATE = """
 		{
 			"parent": "minecraft:item/handheld",
@@ -133,6 +156,15 @@ public class ToolSkins {
 			}
 		}
 		""";
+
+	private static final String FISHING_ROD_MODEL_TEMPLATE = """
+		{
+			"parent": "item/handheld_rod",
+			"textures": {
+				"layer0": "projecteden/items/skins/%s/%s"
+			}
+		}
+		""";
 	
 	private static final String MODELS_PATH = "assets/minecraft/models/projecteden/items/skins/%s/%s.json";
 	private static final String ITEMS_PATH = "assets/minecraft/models/item/%s.json";
@@ -153,6 +185,11 @@ public class ToolSkins {
 			for (String bowTexture : CROSSBOW_TEXTURES) {
 				var file = MODELS_PATH.formatted(skin, bowTexture);
 				IOUtils.fileWrite(file, (writer, outputs) -> outputs.add(CROSSBOW_MODEL_TEMPLATE.formatted(skin, bowTexture)));
+			}
+
+			for (String fishingRodTexture : FISHING_ROD_TEXTURES) {
+				var file = MODELS_PATH.formatted(skin, fishingRodTexture);
+				IOUtils.fileWrite(file, (writer, outputs) -> outputs.add(FISHING_ROD_MODEL_TEMPLATE.formatted(skin, fishingRodTexture)));
 			}
 		}
 
@@ -190,6 +227,17 @@ public class ToolSkins {
 						.replaceAll("__SKIN__", skin));
 
 			outputs.add(CROSSBOW_TEMPLATE.formatted(String.join(",\n\n", crossbows)).replaceAll("\n,", ",").trim());
+		});
+
+		IOUtils.fileWrite(ITEMS_PATH.formatted("fishing_rod"), (writer, outputs) -> {
+			List<String> fishingRods = new ArrayList<>();
+			int modelId = 1000;
+			for (String skin : SKINS)
+				fishingRods.add(FISHING_ROD_OVERRIDES_TEMPLATE
+						.replaceAll("__MODEL_ID__", String.valueOf(modelId++))
+						.replaceAll("__SKIN__", skin));
+
+			outputs.add(FISHING_ROD_TEMPLATE.formatted(String.join(",\n\n", fishingRods)).replaceAll("\n,", ",").trim());
 		});
 	}
 }
