@@ -1,5 +1,6 @@
 {
 	"parent": "projecteden/decoration/art/paintings/custom/1x2v/template",
+	"texture_size": [64, 128],
 	"textures": {
 		"1": "projecteden/decoration/art/paintings/custom/1x2v/lost_enderman"
 	}

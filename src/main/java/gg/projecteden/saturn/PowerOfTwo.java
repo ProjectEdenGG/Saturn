@@ -24,7 +24,7 @@ public class PowerOfTwo {
 		if (uri.contains("entity/")) // ignore entity textures
 			return true;
 
-		if (!uri.contains("textures/projecteden"))
+		if (!uri.contains("textures/projecteden")) // ignore default textures
 			return true;
 
 		return false;
