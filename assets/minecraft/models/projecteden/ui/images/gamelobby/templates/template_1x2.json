@@ -1,5 +1,6 @@
 {
 	"textures": {
+		"0": "projecteden/ui/images/gamelobby/archery",
 		"1": "projecteden/vanilla/block/spruce_planks",
 		"2": "projecteden/ui/images/hub/gamemode_back",
 		"particle": "projecteden/vanilla/block/spruce_planks"
@@ -10,7 +11,7 @@
 			"from": [-8, 0, 8],
 			"to": [24, 16, 8],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 8.75, 8.75], "texture": "#0"}
 			}
 		},
 		{
@@ -125,6 +126,7 @@
 			"name": "back",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [1, 2, 3, 4, 5, 6]
 		}
 	]
