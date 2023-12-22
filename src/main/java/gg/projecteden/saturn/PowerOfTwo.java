@@ -27,6 +27,9 @@ public class PowerOfTwo {
 		if (!uri.contains("textures/projecteden")) // ignore default textures
 			return true;
 
+		if (uri.contains("textures/projecteden/font")) // ignore font textures
+			return true;
+
 		return false;
 	}
 
@@ -43,14 +46,14 @@ public class PowerOfTwo {
 				try {
 					final String uri = path.toUri().toString();
 
-					if(ignorePath(uri))
+					if (ignorePath(uri))
 						return;
 
 					if (uri.endsWith(".png")) {
 						textures.add(path);
 					}
 
-					if(uri.endsWith(".png.mcmeta")){
+					if (uri.endsWith(".png.mcmeta")){
 						animated.add(path.toString().replaceAll("\\.mcmeta", ""));
 					}
 
