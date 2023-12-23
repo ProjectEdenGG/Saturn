@@ -1,6 +1,6 @@
 {
 	"parent": "projecteden/ui/crates/vote/template",
-	"texture_size": [32, 32],
+	"texture_size": [32, 64],
 	"textures": {
 		"3": "projecteden/vanilla/block/red_mushroom_block",
 		"4": "projecteden/vanilla/block/mushroom_block_inside",
@@ -17,7 +17,7 @@
 			"to": [22, 10.025, 24.025],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.025, 0]},
 			"faces": {
-				"south": {"uv": [0, 13.125, 11, 16], "texture": "#8"}
+				"south": {"uv": [0, 7.99805, 11, 9.75], "texture": "#8"}
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 			"to": [22, 10.025, 7.97232],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.025, 3.94732]},
 			"faces": {
-				"north": {"uv": [0, 0, 11, 2.875], "texture": "#8"}
+				"north": {"uv": [0, 0, 11, 1.75195], "texture": "#8"}
 			}
 		},
 		{
