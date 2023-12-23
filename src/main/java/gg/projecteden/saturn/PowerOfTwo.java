@@ -18,7 +18,10 @@ import java.util.stream.Collectors;
 public class PowerOfTwo {
 
 	static boolean isPowerOfTwo(int value) {
-		return value != 0 && ((value & (value - 1)) == 0);
+		if(value < 16)
+			return false;
+
+		return (value & value - 1) == 0;
 	}
 
 	public boolean ignorePath(String uri){
