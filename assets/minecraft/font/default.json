@@ -51,21 +51,21 @@
 			"type":"bitmap",
 			"file":"projecteden/font/gui/test_center.png",
 			"ascent":13,
-			"height":221,
+			"height":256,
 			"chars":["棹"]
 		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/test_left.png",
 			"ascent":13,
-			"height":221,
+			"height":256,
 			"chars":["楩"]
 		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/test_right.png",
 			"ascent":13,
-			"height":221,
+			"height":256,
 			"chars":["栓"]
 		},
 		{
@@ -1718,7 +1718,7 @@
 			"type":"bitmap",
 			"file":"projecteden/font/gui/smelting_recipe.png",
 			"ascent":13,
-			"height":73,
+			"height":128,
 			"chars":["糯"]
 		},
 		{
