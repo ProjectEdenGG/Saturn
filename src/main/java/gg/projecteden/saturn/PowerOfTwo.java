@@ -4,16 +4,14 @@ import gg.projecteden.saturn.utils.ImageUtils;
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
 
-import java.awt.Graphics2D;
+import java.awt.*;
 import java.awt.image.BufferedImage;
-import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public class PowerOfTwo {
 
@@ -36,7 +34,7 @@ public class PowerOfTwo {
 
 	@Test
 	@SneakyThrows
-	void run() {
+	void print() {
 		String folderName = "assets/minecraft/textures";
 		Path folderPath = Paths.get(folderName);
 		Set<Path> textures = new HashSet<>();
@@ -117,8 +115,8 @@ public class PowerOfTwo {
 					if (isPowerOfTwo(height) && isPowerOfTwo(width))
 						return;
 
-					int newHeight = 2;
-					int newWidth = 2;
+					int newHeight = 16;
+					int newWidth = 16;
 
 					while (height > newHeight)
 						newHeight *= 2;
