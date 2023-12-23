@@ -17,7 +17,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-// TODO: not perfect, but close
 public class DarkUIConversion {
 
 	List<String> lightHex = List.of("ffffff", "c6c6c6", "555555", "373737", "8b8b8b", "2b2b2b", "7e7e7e", "d2d2d2");
