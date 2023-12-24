@@ -2,7 +2,7 @@
 	"textures": {
 		"1": "projecteden/ghoulcraft/mushroom_block_inside",
 		"2": "projecteden/vanilla/block/mushroom_stem",
-		"particle": "projecteden/costumes/mushhat"
+		"particle": "projecteden/decoration/flora/mushroom"
 	},
 	"elements": [
 		{
