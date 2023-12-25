@@ -38,6 +38,7 @@ public class PowerOfTwo {
 		String folderName = "assets/minecraft/textures";
 		Path folderPath = Paths.get(folderName);
 		Set<Path> textures = new HashSet<>();
+		//Map<String, Path> animated = new HashMap<>();
 		Set<String> animated = new HashSet<>();
 
 		try (var walker = Files.walk(folderPath)) {
@@ -63,22 +64,17 @@ public class PowerOfTwo {
 			});
 		}
 
-		// remove animated textures
-		Set<Path> finalTextures = new HashSet<>();
-		for (Path path : textures) {
-			if(animated.contains(path.toString()))
-				continue;
-
-			finalTextures.add(path);
-		}
-
 		int notPower2 = 0;
-		List<Path> sortedTextures = finalTextures.stream().sorted().toList();
+		List<Path> sortedTextures = textures.stream().sorted().toList();
 		for (Path path : sortedTextures) {
 			final BufferedImage texture = ImageUtils.read(path.toFile());
 			int height = texture.getHeight();
 			int width = texture.getWidth();
 			boolean pow2 = isPowerOfTwo(height) && isPowerOfTwo(width);
+
+			if(animated.contains(path.toString())){
+				pow2 = isPowerOfTwo(height) || isPowerOfTwo(width);
+			}
 
 			if (!pow2) {
 				notPower2++;
