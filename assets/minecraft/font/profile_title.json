@@ -12,6 +12,13 @@
 			"ascent":9,
 			"height":18,
 			"chars":["abcdefghijklmnopqrstuvwxyz0123456789_&'"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_split.png",
+			"ascent":-32768,
+			"height":-4,
+			"chars":["ꈃ"]
 		}
 	]
 }
