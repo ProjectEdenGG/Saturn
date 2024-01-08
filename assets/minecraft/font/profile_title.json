@@ -1,0 +1,17 @@
+{
+	"providers": [
+		{
+			"type":"space",
+			"advances":{
+				" ":4,
+				"‌":0
+			}
+		},
+		{
+			"type":"bitmap","file":"minecraft:projecteden/font/profile_title.png",
+			"ascent":9,
+			"height":18,
+			"chars":["abcdefghijklmnopqrstuvwxyz0123456789_&'"]
+		}
+	]
+}
