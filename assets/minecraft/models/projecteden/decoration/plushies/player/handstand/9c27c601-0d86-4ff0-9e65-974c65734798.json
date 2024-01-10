@@ -1,0 +1,6 @@
+	{
+		"parent": "projecteden/decoration/plushies/player/handstand/template_steve",
+		"textures": {
+			"0": "projecteden/decoration/plushies/player/players/9c27c601-0d86-4ff0-9e65-974c65734798"
+		}
+	}
