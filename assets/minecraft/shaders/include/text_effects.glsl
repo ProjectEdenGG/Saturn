@@ -244,20 +244,24 @@ void apply_chromatic_abberation() {
 
 void apply_metalic(vec3 lightColor, vec3 darkColor) {
     int y = int(floor((textData.uv.y - textData.uvMin.y) * 256.0));
+    int level = 7;
     
-    if(y > 3) textData.color.rgb = darkColor;
-    if(y == 3) textData.color.rgb = lightColor + 0.25;
-    if(y < 3) textData.color.rgb = lightColor;
+    if(y > level) textData.color.rgb = darkColor;
+    if(y == level) textData.color.rgb = lightColor + 0.25;
+    if(y < level) textData.color.rgb = lightColor;
 
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
 
 void apply_metalic(vec3 color) {
     int y = int(floor((textData.uv.y - textData.uvMin.y) * 256.0));
+    int level = 6;
     
-    if(y > 3) textData.color.rgb = color * 0.7;
-    if(y == 3) textData.color.rgb = color + 0.25;
-    if(y < 3) textData.color.rgb = color;
+    if(y > level) textData.color.rgb = color * 0.7;
+    if(y == level + 2) textData.color.rgb = color + 0.25;
+    if(y == level + 1) textData.color.rgb = color + 0.25;
+    if(y == level) textData.color.rgb = color + 0.25;
+    if(y < level) textData.color.rgb = color;
 
     if(textData.isShadow) textData.color.rgb *= 0.25;
 }
