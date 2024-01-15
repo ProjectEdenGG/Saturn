@@ -628,6 +628,12 @@
          { "name": "custom/crates/gemcrafter/infuse" }
       ]
    },
+   "custom.crates.weeklywakka.burp": {
+      "subtitle": "Wakka Burps",
+      "sounds": [
+         { "name": "custom/crates/weeklywakka/burp" }
+      ]
+   },
    "custom.misc.bonk": {
       "sounds": [
          { "name": "custom/misc/bonk" }

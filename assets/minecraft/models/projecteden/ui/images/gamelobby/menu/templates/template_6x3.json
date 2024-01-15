@@ -1,5 +1,7 @@
 {
+	"texture_size": [256, 512],
 	"textures": {
+		"0": "projecteden/ui/images/gamelobby/menu/capture_the_flag",
 		"particle": "projecteden/vanilla/block/spruce_planks"
 	},
 	"elements": [
@@ -7,8 +9,8 @@
 			"from": [-4, -16, 0],
 			"to": [20, 32, 0],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 13.125, 13.125], "texture": "#0"},
+				"south": {"uv": [0, 0, 13.125, 13.125], "texture": "#0"}
 			}
 		}
 	],

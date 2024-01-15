@@ -1,5 +1,5 @@
 {
-	"texture_size": [160, 32],
+	"texture_size": [256, 32],
 	"textures": {
 		"0": "projecteden/events/pugmas21/garland",
 		"particle": "projecteden/events/pugmas21/garland"
@@ -11,8 +11,8 @@
 			"to": [16, 0, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
-				"up": {"uv": [6.4, 0, 9.6, 16], "rotation": 180, "texture": "#0"},
-				"down": {"uv": [6.4, 16, 9.6, 0], "rotation": 180, "texture": "#0"}
+				"up": {"uv": [4, 0, 6, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4, 16, 6, 0], "rotation": 180, "texture": "#0"}
 			}
 		}
 	],

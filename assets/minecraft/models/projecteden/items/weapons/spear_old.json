@@ -1,8 +1,7 @@
 {
 	"textures": {
 		"0": "projecteden/items/weapons/spear_head",
-		"1": "projecteden/vanilla/block/spruce_log",
-		"particle": "projecteden/decoration/spear_head"
+		"1": "projecteden/vanilla/block/spruce_log"
 	},
 	"elements": [
 		{
@@ -33,11 +32,11 @@
 			"to": [8.5, 30, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 3, 7.5]},
 			"faces": {
-				"north": {"uv": [4, 4, 6, 10], "texture": "#0"},
-				"east": {"uv": [4, 4, 6, 10], "texture": "#0"},
-				"south": {"uv": [4, 4, 6, 10], "texture": "#0"},
-				"west": {"uv": [4, 4, 6, 10], "texture": "#0"},
-				"up": {"uv": [4, 4, 6, 6], "texture": "#0"}
+				"north": {"uv": [2, 2, 3, 5], "texture": "#0"},
+				"east": {"uv": [2, 2, 3, 5], "texture": "#0"},
+				"south": {"uv": [2, 2, 3, 5], "texture": "#0"},
+				"west": {"uv": [2, 2, 3, 5], "texture": "#0"},
+				"up": {"uv": [2, 2, 3, 3], "texture": "#0"}
 			}
 		},
 		{
@@ -45,8 +44,8 @@
 			"to": [11.875, 31, 8],
 			"rotation": {"angle": -45, "axis": "z", "origin": [8.175, 29, 8]},
 			"faces": {
-				"north": {"uv": [0, 0, 12, 12], "texture": "#0"},
-				"south": {"uv": [0, 0, 12, 12], "rotation": 270, "texture": "#0"}
+				"north": {"uv": [0, 0, 6, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 6], "rotation": 270, "texture": "#0"}
 			}
 		},
 		{
@@ -54,8 +53,8 @@
 			"to": [7.96287, 31.21213, 12],
 			"rotation": {"angle": 45, "axis": "x", "origin": [7.96287, 29.21213, 8]},
 			"faces": {
-				"east": {"uv": [0, 0, 12, 12], "texture": "#0"},
-				"west": {"uv": [0, 0, 12, 12], "rotation": 270, "texture": "#0"}
+				"east": {"uv": [0, 0, 6, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 6, 6], "rotation": 270, "texture": "#0"}
 			}
 		}
 	],

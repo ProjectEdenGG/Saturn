@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/trident"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_id": 1010}, "model": "projecteden/items/skins/8bit/trident"}
+	]
+}

@@ -1,5 +1,5 @@
 {
-	"texture_size": [40, 72],
+	"texture_size": [64, 128],
 	"textures": {
 		"0": "projecteden/decoration/art/paintings/custom/1x2v/template",
 		"1": "projecteden/decoration/art/paintings/custom/1x2v/cherry_forest",
@@ -12,51 +12,51 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 4]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"south": {"uv": [1.6, 0.88889, 14.4, 15.11111], "texture": "#0"}
+				"south": {"uv": [1, 0.5, 9, 8.5], "texture": "#0"}
 			}
 		},
 		{
 			"from": [-2, -4, 7.5],
 			"to": [18, -2, 8.5],
 			"faces": {
-				"north": {"uv": [0, 15.11111, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 15.11111, 0.8, 16], "texture": "#0"},
-				"south": {"uv": [0, 15.11111, 16, 16], "texture": "#0"},
-				"west": {"uv": [15.2, 15.11111, 16, 16], "texture": "#0"},
-				"up": {"uv": [0, 15.11111, 16, 15.55556], "texture": "#0"},
-				"down": {"uv": [0, 16, 16, 15.55556], "texture": "#0"}
+				"north": {"uv": [0, 8.5, 10, 9], "texture": "#0"},
+				"east": {"uv": [0, 8.5, 0.5, 9], "texture": "#0"},
+				"south": {"uv": [0, 8.5, 10, 9], "texture": "#0"},
+				"west": {"uv": [9.5, 8.5, 10, 9], "texture": "#0"},
+				"up": {"uv": [0, 8.5, 10, 8.75], "texture": "#0"},
+				"down": {"uv": [0, 9, 10, 8.75], "texture": "#0"}
 			}
 		},
 		{
 			"from": [-2, 30, 7.5],
 			"to": [18, 32, 8.5],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 0.88889], "texture": "#0"},
-				"east": {"uv": [0, 0, 0.8, 0.88889], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 0.88889], "texture": "#0"},
-				"west": {"uv": [15.2, 0, 16, 0.88889], "texture": "#0"},
-				"up": {"uv": [0, 0.44444, 16, 0], "texture": "#0"},
-				"down": {"uv": [0, 0.88889, 16, 0.44444], "texture": "#0"}
+				"north": {"uv": [0, 0, 10, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 10, 0.5], "texture": "#0"},
+				"west": {"uv": [9.5, 0, 10, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0.25, 10, 0], "texture": "#0"},
+				"down": {"uv": [0, 0.5, 10, 0.25], "texture": "#0"}
 			}
 		},
 		{
 			"from": [-2, -2, 7.5],
 			"to": [0, 30, 8.5],
 			"faces": {
-				"north": {"uv": [14.4, 0.88889, 16, 15.11111], "texture": "#0"},
-				"east": {"uv": [14.4, 0.88889, 15.2, 15.11111], "texture": "#0"},
-				"south": {"uv": [0, 0.88889, 1.6, 15.11111], "texture": "#0"},
-				"west": {"uv": [15.2, 0.88889, 16, 15.11111], "texture": "#0"}
+				"north": {"uv": [9, 0.5, 10, 8.5], "texture": "#0"},
+				"east": {"uv": [9, 0.5, 9.5, 8.5], "texture": "#0"},
+				"south": {"uv": [0, 0.5, 1, 8.5], "texture": "#0"},
+				"west": {"uv": [9.5, 0.5, 10, 8.5], "texture": "#0"}
 			}
 		},
 		{
 			"from": [16, -2, 7.5],
 			"to": [18, 30, 8.5],
 			"faces": {
-				"north": {"uv": [0, 0.88889, 1.6, 15.11111], "texture": "#0"},
-				"east": {"uv": [0, 0.88889, 0.8, 15.11111], "texture": "#0"},
-				"south": {"uv": [14.4, 0.88889, 16, 15.11111], "texture": "#0"},
-				"west": {"uv": [0.8, 0.88889, 1.6, 15.11111], "texture": "#0"}
+				"north": {"uv": [0, 0.5, 1, 8.5], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 0.5, 8.5], "texture": "#0"},
+				"south": {"uv": [9, 0.5, 10, 8.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 1, 8.5], "texture": "#0"}
 			}
 		}
 	],

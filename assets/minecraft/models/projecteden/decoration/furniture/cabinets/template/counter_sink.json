@@ -5,7 +5,7 @@
 		"1": "projecteden/decoration/furniture/appliances/kitchen_1",
 		"2": "projecteden/decoration/furniture/cabinets/top_marble",
 		"3": "projecteden/decoration/furniture/cabinets/handle_steel",
-		"particle": "#0"
+		"particle": "projecteden/decoration/furniture/cabinets/counter_top_1"
 	},
 	"elements": [
 		{
@@ -192,11 +192,11 @@
 			"from": [6, 3, 0.75],
 			"to": [7, 7, 1.75],
 			"faces": {
-				"north": {"uv": [14, 0, 16, 8], "texture": "#3"},
-				"east": {"uv": [14, 0, 16, 8], "texture": "#3"},
-				"west": {"uv": [14, 0, 16, 8], "texture": "#3"},
-				"up": {"uv": [14, 0, 16, 2], "texture": "#3"},
-				"down": {"uv": [14, 6, 16, 8], "texture": "#3"}
+				"north": {"uv": [7, 0, 8, 4], "texture": "#3"},
+				"east": {"uv": [7, 0, 8, 4], "texture": "#3"},
+				"west": {"uv": [7, 0, 8, 4], "texture": "#3"},
+				"up": {"uv": [7, 0, 8, 1], "texture": "#3"},
+				"down": {"uv": [7, 3, 8, 4], "texture": "#3"}
 			}
 		},
 		{
@@ -204,11 +204,11 @@
 			"to": [10, 7, 1.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
 			"faces": {
-				"north": {"uv": [16, 0, 14, 8], "texture": "#3"},
-				"east": {"uv": [16, 0, 14, 8], "texture": "#3"},
-				"west": {"uv": [16, 0, 14, 8], "texture": "#3"},
-				"up": {"uv": [16, 0, 14, 2], "texture": "#3"},
-				"down": {"uv": [16, 6, 14, 8], "texture": "#3"}
+				"north": {"uv": [8, 0, 7, 4], "texture": "#3"},
+				"east": {"uv": [8, 0, 7, 4], "texture": "#3"},
+				"west": {"uv": [8, 0, 7, 4], "texture": "#3"},
+				"up": {"uv": [8, 0, 7, 1], "texture": "#3"},
+				"down": {"uv": [8, 3, 7, 4], "texture": "#3"}
 			}
 		}
 	],

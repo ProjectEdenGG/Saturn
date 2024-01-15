@@ -33,39 +33,39 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/scroll/scrollbar.png",
+			"file":"projecteden/font/gui/scroll/scrollbar.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":[
-				"魉辆沩漷秬籽醭泽转洼髌泗穙邸甬粽轩乏袭说魋廋糠稿膑配丸蝻程磉暿飗毪轵浬腒骷淟貉陇鲌砵蚯涞轮晌夐暝赳盩墘貌糈疍糅"
+				"魉辆沩漷秬籽醭泽转洼髌泗穙邸甬粽轩乏袭说魋廋糠稿膑配丸蝻程磉暿飗毪轵浬腒骷淟貉陇鲌砵蚯涞轮晌夐暝赳盩墘貌糈疍糅\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
 			]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/scroll/background.png",
+			"file":"projecteden/font/gui/scroll/background.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["久"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/test_center.png",
+			"file":"projecteden/font/gui/test_center.png",
 			"ascent":13,
-			"height":221,
+			"height":256,
 			"chars":["棹"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/test_left.png",
+			"file":"projecteden/font/gui/test_left.png",
 			"ascent":13,
-			"height":221,
+			"height":256,
 			"chars":["楩"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/test_right.png",
+			"file":"projecteden/font/gui/test_right.png",
 			"ascent":13,
-			"height":221,
+			"height":256,
 			"chars":["栓"]
 		},
 		{
@@ -78,44 +78,44 @@
 		
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/pugmas_advent_1.png",
+			"file":"projecteden/font/gui/pugmas_advent_1.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["盆"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/pugmas_advent_2.png",
+			"file":"projecteden/font/gui/pugmas_advent_2.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["鉊"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/pugmas_advent_open.png",
+			"file":"projecteden/font/gui/pugmas_advent_open.png",
 			"ascent":19,
-			"height":79,
+			"height":128,
 			"chars":["岔"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/dye_station/dye_station.png",
+			"file":"projecteden/font/gui/dye_station/dye_station.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["섈"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/dye_station/dye_costume.png",
+			"file":"projecteden/font/gui/dye_station/dye_costume.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["膛"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/profile/profile_self.png",
+			"file":"projecteden/font/gui/profile/profile_self_v2.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["升"]
 		},
 		{
@@ -124,13 +124,6 @@
 			"ascent":-32768,
 			"height":-1,
 			"chars":["ꈁ"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_split.png",
-			"ascent":-32768,
-			"height":-2,
-			"chars":["委"]
 		},
 		{
 			"type":"bitmap",
@@ -199,245 +192,98 @@
 			"type":"bitmap",
 			"file":"projecteden/font/space_nosplit.png",
 			"ascent":-32768,
-			"height":-3,
-			"chars":["晕"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-4,
-			"chars":["鸱"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-5,
-			"chars":["粞"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-6,
-			"chars":["疕"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-7,
-			"chars":["楂"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-8,
-			"chars":["笞"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-9,
-			"chars":["砫"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-10,
-			"chars":["鼫"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-18,
-			"chars":["廒"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-34,
-			"chars":["婪"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-66,
-			"chars":["愆"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-130,
-			"chars":["棽"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-258,
-			"chars":["所"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-514,
-			"chars":["砗"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":-1026,
-			"chars":["超"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":0,
-			"chars":["笸"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
 			"height":1,
-			"chars":["棘"]
+			"chars":["肤"]
 		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/space_nosplit.png",
 			"ascent":-32768,
 			"height":2,
-			"chars":["爷"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":3,
-			"chars":["域"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":4,
-			"chars":["丫"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":5,
-			"chars":["策"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":6,
-			"chars":["租"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":7,
-			"chars":["稠"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":15,
-			"chars":["稻"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":31,
-			"chars":["疒"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":63,
-			"chars":["垿"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":127,
-			"chars":["梾"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":255,
-			"chars":["懋"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":511,
-			"chars":["奋"]
-		},
-		{
-			"type":"bitmap",
-			"file":"projecteden/font/space_nosplit.png",
-			"ascent":-32768,
-			"height":1023,
 			"chars":["瑬"]
 		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/space_nosplit.png",
 			"ascent":-32768,
-			"height":32767,
-			"chars":["肤"]
+			"height":3,
+			"chars":["奋"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/black_box.png",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":4,
+			"chars":["懋"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":5,
+			"chars":["梾"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":6,
+			"chars":["垿"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":7,
+			"chars":["疒"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":8,
+			"chars":["稻"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":9,
+			"chars":["稠"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/space_nosplit.png",
+			"ascent":-32768,
+			"height":10,
+			"chars":["租"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/black_box.png",
 			"ascent":250,
 			"height":2000,
 			"chars":["鄜"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/red_box_20.png",
+			"file":"projecteden/font/red_box_20.png",
 			"ascent":250,
 			"height":2000,
 			"chars":["滍"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/images/storegallery/cart_tooltip.png",
+			"file":"projecteden/font/images/storegallery/cart_tooltip.png",
 			"ascent":1,
 			"height":40,
 			"chars":["醋"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/game_menu.png",
+			"file":"projecteden/font/gui/game_menu.png",
 			"ascent":79,
-			"height":80,
+			"height":127,
 			"chars":["簏"]
 		},
 
@@ -521,8 +367,8 @@
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/emojis/custom/dev.png",
-			"height":9,
-			"ascent":8,
+			"height":11,
+			"ascent":9,
 			"chars":[""]
 		},
 		{
@@ -1423,7 +1269,7 @@
 			"type":"bitmap",
 			"file":"projecteden/font/emojis/twemoji/birthday.png",
 			"purchasable": true,
-			"height":7,
+			"height":12,
 			"ascent":7,
 			"chars":["🎂"]
 		},
@@ -1439,7 +1285,7 @@
 			"type":"bitmap",
 			"file":"projecteden/font/emojis/twemoji/globe.png",
 			"purchasable": true,
-			"height":7,
+			"height":12,
 			"ascent":7,
 			"chars":["🌎"]
 		},
@@ -1463,7 +1309,7 @@
 			"type":"bitmap",
 			"file":"projecteden/font/emojis/twemoji/grass_block.png",
 			"purchasable": true,
-			"height":7,
+			"height":12,
 			"ascent":7,
 			"chars":["鹅"]
 		},
@@ -1485,247 +1331,247 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_00.png",
+			"file":"projecteden/font/compass/compass_00.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄀"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_01.png",
+			"file":"projecteden/font/compass/compass_01.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄁"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_02.png",
+			"file":"projecteden/font/compass/compass_02.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄂"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_03.png",
+			"file":"projecteden/font/compass/compass_03.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄃"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_04.png",
+			"file":"projecteden/font/compass/compass_04.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄄"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_05.png",
+			"file":"projecteden/font/compass/compass_05.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄅"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_06.png",
+			"file":"projecteden/font/compass/compass_06.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄆"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_07.png",
+			"file":"projecteden/font/compass/compass_07.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄇"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_08.png",
+			"file":"projecteden/font/compass/compass_08.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄈"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_09.png",
+			"file":"projecteden/font/compass/compass_09.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄉"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_10.png",
+			"file":"projecteden/font/compass/compass_10.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄊"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_11.png",
+			"file":"projecteden/font/compass/compass_11.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄋"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_12.png",
+			"file":"projecteden/font/compass/compass_12.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄌"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_13.png",
+			"file":"projecteden/font/compass/compass_13.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄍"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_14.png",
+			"file":"projecteden/font/compass/compass_14.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄎"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_15.png",
+			"file":"projecteden/font/compass/compass_15.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄏"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_16.png",
+			"file":"projecteden/font/compass/compass_16.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄐"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_17.png",
+			"file":"projecteden/font/compass/compass_17.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄑"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_18.png",
+			"file":"projecteden/font/compass/compass_18.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄒"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_19.png",
+			"file":"projecteden/font/compass/compass_19.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄓"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_20.png",
+			"file":"projecteden/font/compass/compass_20.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄔"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_21.png",
+			"file":"projecteden/font/compass/compass_21.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄕"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_22.png",
+			"file":"projecteden/font/compass/compass_22.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄖"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_23.png",
+			"file":"projecteden/font/compass/compass_23.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄗"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_24.png",
+			"file":"projecteden/font/compass/compass_24.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄘"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_25.png",
+			"file":"projecteden/font/compass/compass_25.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄙"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_26.png",
+			"file":"projecteden/font/compass/compass_26.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄚"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_27.png",
+			"file":"projecteden/font/compass/compass_27.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄿"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_28.png",
+			"file":"projecteden/font/compass/compass_28.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄛"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_29.png",
+			"file":"projecteden/font/compass/compass_29.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄝"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_30.png",
+			"file":"projecteden/font/compass/compass_30.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄞"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_31.png",
+			"file":"projecteden/font/compass/compass_31.png",
 			"ascent":11,
 			"height":16,
 			"chars":["鄟"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/compass/compass_empty.png",
+			"file":"projecteden/font/compass/compass_empty.png",
 			"ascent":11,
 			"height":16,
 			"chars":["邿"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/smelting_recipe.png",
+			"file":"projecteden/font/gui/smelting_recipe.png",
 			"ascent":13,
-			"height":73,
+			"height":128,
 			"chars":["糯"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/crafting_recipe.png",
+			"file":"projecteden/font/gui/crafting_recipe.png",
 			"ascent":13,
-			"height":73,
+			"height":128,
 			"chars":["魁"]
 		},
 		{
@@ -1737,37 +1583,37 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/type_discord.png",
+			"file":"projecteden/font/type_discord.png",
 			"ascent": 7,
 			"height": 8,
 			"chars":["求"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/images/gamelobby/menu/seperator.png",
+			"file":"projecteden/font/images/gamelobby/menu/seperator.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["敷"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/spawner_customizer/edit_entity.png",
+			"file":"projecteden/font/gui/spawner_customizer/edit_entity.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["棼"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/decoration_buy_prompt.png",
+			"file":"projecteden/font/gui/decoration_buy_prompt.png",
 			"ascent":19,
-			"height":79,
+			"height":128,
 			"chars":["埤"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/confirmation.png",
+			"file":"projecteden/font/gui/confirmation.png",
 			"ascent":19,
-			"height":79,
+			"height":128,
 			"chars":["禧"]
 		},
 		{
@@ -1779,30 +1625,30 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/minigames/domination/point_a.png",
+			"file":"projecteden/font/minigames/domination/point_a.png",
 			"ascent":27,
 			"height":50,
 			"chars":["麈"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/minigames/domination/point_b.png",
+			"file":"projecteden/font/minigames/domination/point_b.png",
 			"ascent":27,
 			"height":50,
 			"chars":["鹘"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/minigames/domination/point_c.png",
+			"file":"projecteden/font/minigames/domination/point_c.png",
 			"ascent":27,
 			"height":50,
 			"chars":["犟"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/ui/gui/enchanted_book_splitter.png",
+			"file":"projecteden/font/gui/enchanted_book_splitter.png",
 			"ascent":19,
-			"height":133,
+			"height":256,
 			"chars":["千"]
 		}
 	]

@@ -1,5 +1,5 @@
 {
-	"parent": "projecteden/items/skins/_template/bow_pulling_0",
+	"parent": "minecraft:item/bow",
 	"textures": {
 		"layer0": "projecteden/items/skins/mythril/bow_pulling_0"
 	}
