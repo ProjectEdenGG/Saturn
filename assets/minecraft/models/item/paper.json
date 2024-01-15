@@ -164,6 +164,27 @@
 		{"predicate": {"custom_model_data": 1525}, "model": "projecteden/ui/gui/profile/button_friends_modify_add"},
 		{"predicate": {"custom_model_data": 1526}, "model": "projecteden/ui/gui/profile/button_friends_modify_remove"},
 
+		{"predicate": {"custom_model_data": 1527}, "model": "projecteden/ui/gui/profile/v2/icon_friends_list"},
+		{"predicate": {"custom_model_data": 1528}, "model": "projecteden/ui/gui/profile/v2/icon_friends_list_error"},
+		{"predicate": {"custom_model_data": 1529}, "model": "projecteden/ui/gui/profile/v2/icon_friend_modify_add"},
+		{"predicate": {"custom_model_data": 1530}, "model": "projecteden/ui/gui/profile/v2/icon_friend_modify_remove"},
+		{"predicate": {"custom_model_data": 1531}, "model": "projecteden/ui/gui/profile/v2/icon_party"},
+
+
+		{"predicate": {"custom_model_data": 1540}, "model": "projecteden/ui/gui/profile/v2/rank_template"},
+		{"predicate": {"custom_model_data": 1541}, "model": "projecteden/ui/gui/profile/v2/rank_guest"},
+		{"predicate": {"custom_model_data": 1542}, "model": "projecteden/ui/gui/profile/v2/rank_member"},
+		{"predicate": {"custom_model_data": 1543}, "model": "projecteden/ui/gui/profile/v2/rank_trusted"},
+		{"predicate": {"custom_model_data": 1544}, "model": "projecteden/ui/gui/profile/v2/rank_elite"},
+		{"predicate": {"custom_model_data": 1545}, "model": "projecteden/ui/gui/profile/v2/rank_veteran"},
+		{"predicate": {"custom_model_data": 1546}, "model": "projecteden/ui/gui/profile/v2/rank_noble"},
+		{"predicate": {"custom_model_data": 1547}, "model": "projecteden/ui/gui/profile/v2/rank_builder"},
+		{"predicate": {"custom_model_data": 1548}, "model": "projecteden/ui/gui/profile/v2/rank_architect"},
+		{"predicate": {"custom_model_data": 1549}, "model": "projecteden/ui/gui/profile/v2/rank_moderator"},
+		{"predicate": {"custom_model_data": 1550}, "model": "projecteden/ui/gui/profile/v2/rank_operator"},
+		{"predicate": {"custom_model_data": 1551}, "model": "projecteden/ui/gui/profile/v2/rank_admin"},
+		{"predicate": {"custom_model_data": 1552}, "model": "projecteden/ui/gui/profile/v2/rank_owner"},
+
 		{"predicate": {"custom_model_data": 1700}, "model": "projecteden/ui/gui/gamelobby/arenas/blank"},
 		{"predicate": {"custom_model_data": 1701}, "model": "projecteden/ui/gui/gamelobby/arenas/abandonedmines"},
 		{"predicate": {"custom_model_data": 1702}, "model": "projecteden/ui/gui/gamelobby/arenas/acropora"},
