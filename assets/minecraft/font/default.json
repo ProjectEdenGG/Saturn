@@ -113,10 +113,45 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/profile_self_v2.png",
+			"file":"projecteden/font/gui/profile/profile_self.png",
 			"ascent":19,
 			"height":256,
 			"chars":["升"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/profile_self_v2.png",
+			"ascent":19,
+			"height":256,
+			"chars":["砗"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_helmet.png",
+			"ascent":19,
+			"height":256,
+			"chars":["委"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_chestplate.png",
+			"ascent":19,
+			"height":256,
+			"chars":["晕"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_leggings.png",
+			"ascent":19,
+			"height":256,
+			"chars":["鸱"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_boots.png",
+			"ascent":19,
+			"height":256,
+			"chars":["粞"]
 		},
 		{
 			"type":"bitmap",

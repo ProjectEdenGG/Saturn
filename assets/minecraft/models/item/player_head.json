@@ -3,6 +3,7 @@
 	"overrides":[
 		{"predicate":{"custom_model_data":1},"model":"projecteden/costumes/hat/misc/large_player_head"},
 		{"predicate":{"custom_model_data":2},"model":"projecteden/ui/gui/player_head"},
-		{"predicate":{"custom_model_data":3},"model":"projecteden/items/massive_player_head"}
+		{"predicate":{"custom_model_data":3},"model":"projecteden/items/massive_player_head"},
+		{"predicate":{"custom_model_data":4},"model":"projecteden/ui/gui/profile/v2/player_head"}
 	]
 }

@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 16],
 	"textures": {
-		"particle": "projecteden/ui/gui/filler_item",
-		"layer0": "projecteden/ui/gui/profile/v2/rank_unknown"
+		"layer0": "projecteden/ui/gui/profile/v2/rank_unknown",
+		"particle": "projecteden/ui/gui/filler_item"
 	},
 	"elements": [
 		{
@@ -18,8 +18,8 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"translation": [25.75, 0, 0],
-			"scale": [1.4, 1.4, 1.4]
+			"translation": [32, 0, 0],
+			"scale": [1.6, 1.6, 1.6]
 		}
 	}
 }
