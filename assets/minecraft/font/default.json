@@ -155,6 +155,20 @@
 		},
 		{
 			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_cosmetic_hat.png",
+			"ascent":19,
+			"height":256,
+			"chars":["疕"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_cosmetic_hand.png",
+			"ascent":19,
+			"height":256,
+			"chars":["楂"]
+		},
+		{
+			"type":"bitmap",
 			"file":"projecteden/font/space_split.png",
 			"ascent":-32768,
 			"height":-1,

@@ -171,6 +171,7 @@
 		{"predicate": {"custom_model_data": 1531}, "model": "projecteden/ui/gui/profile/v2/icon_party"},
 		{"predicate": {"custom_model_data": 1532}, "model": "projecteden/ui/gui/profile/v2/icon_party_modify_add"},
 		{"predicate": {"custom_model_data": 1533}, "model": "projecteden/ui/gui/profile/v2/icon_party_modify_remove"},
+		{"predicate": {"custom_model_data": 1534}, "model": "projecteden/ui/gui/profile/v2/icon_homes"},
 
 		{"predicate": {"custom_model_data": 1540}, "model": "projecteden/ui/gui/profile/v2/rank_template"},
 		{"predicate": {"custom_model_data": 1541}, "model": "projecteden/ui/gui/profile/v2/rank_guest"},
