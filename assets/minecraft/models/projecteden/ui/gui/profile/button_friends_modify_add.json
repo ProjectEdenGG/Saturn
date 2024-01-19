@@ -1,6 +1,0 @@
-{
-	"parent": "projecteden/ui/gui/profile/button_template_single",
-	"textures": {
-		"layer0": "projecteden/ui/gui/profile/button_friends_modify_add"
-	}
-}

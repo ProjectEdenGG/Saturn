@@ -1,0 +1,7 @@
+{
+	"parent": "projecteden/ui/gui/profile/rank_template",
+	"textures": {
+		"layer0": "projecteden/ui/gui/profile/rank_noble"
+	}
+
+}

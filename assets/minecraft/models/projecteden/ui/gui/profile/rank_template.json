@@ -1,0 +1,25 @@
+{
+	"texture_size": [64, 16],
+	"textures": {
+		"layer0": "projecteden/ui/gui/profile/rank_unknown",
+		"particle": "projecteden/ui/gui/filler_item"
+	},
+	"elements": [
+		{
+			"name": "dyeable",
+			"from": [-16, 1.75, 8],
+			"to": [32, 13.75, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 8, 8]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [32, 0, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
