@@ -160,6 +160,9 @@
 		{"predicate": {"custom_model_data": 1532}, "model": "projecteden/ui/gui/profile/icon_party_modify_add"},
 		{"predicate": {"custom_model_data": 1533}, "model": "projecteden/ui/gui/profile/icon_party_modify_remove"},
 		{"predicate": {"custom_model_data": 1534}, "model": "projecteden/ui/gui/profile/icon_homes"},
+		{"predicate": {"custom_model_data": 1535}, "model": "projecteden/ui/gui/profile/icon_trusts"},
+		{"predicate": {"custom_model_data": 1536}, "model": "projecteden/ui/gui/profile/icon_social_media"},
+		{"predicate": {"custom_model_data": 1537}, "model": "projecteden/ui/gui/profile/icon_social_media_link"},
 
 		{"predicate": {"custom_model_data": 1540}, "model": "projecteden/ui/gui/profile/rank_template"},
 		{"predicate": {"custom_model_data": 1541}, "model": "projecteden/ui/gui/profile/rank_guest"},

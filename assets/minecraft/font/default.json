@@ -120,13 +120,6 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/profile_self_v2.png",
-			"ascent":19,
-			"height":256,
-			"chars":["砗"]
-		},
-		{
-			"type":"bitmap",
 			"file":"projecteden/font/gui/profile/icon_helmet.png",
 			"ascent":19,
 			"height":256,
