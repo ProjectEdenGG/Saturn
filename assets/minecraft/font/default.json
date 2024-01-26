@@ -41,6 +41,32 @@
 			]
 		},
 		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/ranks.png",
+			"ascent": -25,
+			"height": 7,
+			"chars": [
+				"笞",
+				"砫",
+				"鼫",
+				"廒",
+				"婪",
+				"愆",
+				"棽",
+				"所",
+				"砗",
+				"超",
+				"笸",
+				"棘",
+				"爷",
+				"\u0000",
+				"\u0000",
+				"\u0000",
+				"\u0000",
+				"\u0000"
+			]
+		},
+		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/scroll/background.png",
 			"ascent":19,
