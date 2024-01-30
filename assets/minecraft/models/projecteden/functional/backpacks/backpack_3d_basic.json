@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/functional/backpacks/backpack_3d_template",
+	"textures": {
+		"1": "projecteden/functional/backpacks/backpack_3d_copper"
+	}
+}

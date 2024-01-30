@@ -1320,6 +1320,12 @@
 		{"predicate": {"custom_model_data": 10107}, "model": "projecteden/ui/gui/rotate_right"},
 		{"predicate": {"custom_model_data": 10108}, "model": "projecteden/ui/gui/rotate_left"},
 
-		{"predicate": {"custom_model_data": 10300}, "model": "projecteden/decoration/electronics/star_projector"}
+		{"predicate": {"custom_model_data": 10300}, "model": "projecteden/decoration/electronics/star_projector"},
+
+		{"predicate": {"custom_model_data": 11000}, "model": "projecteden/functional/backpacks/backpack_3d_basic"},
+		{"predicate": {"custom_model_data": 11001}, "model": "projecteden/functional/backpacks/backpack_3d_iron"},
+		{"predicate": {"custom_model_data": 11002}, "model": "projecteden/functional/backpacks/backpack_3d_gold"},
+		{"predicate": {"custom_model_data": 11003}, "model": "projecteden/functional/backpacks/backpack_3d_diamond"},
+		{"predicate": {"custom_model_data": 11004}, "model": "projecteden/functional/backpacks/backpack_3d_netherite"}
 	]
 }

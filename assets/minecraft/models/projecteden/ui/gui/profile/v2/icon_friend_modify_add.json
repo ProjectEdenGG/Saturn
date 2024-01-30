@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "projecteden/ui/gui/profile/v2/icon_friend_modify_add"
-	}
-
-}

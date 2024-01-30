@@ -41,6 +41,32 @@
 			]
 		},
 		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/ranks.png",
+			"ascent": -25,
+			"height": 7,
+			"chars": [
+				"笞",
+				"砫",
+				"鼫",
+				"廒",
+				"婪",
+				"愆",
+				"棽",
+				"所",
+				"砗",
+				"超",
+				"笸",
+				"棘",
+				"爷",
+				"\u0000",
+				"\u0000",
+				"\u0000",
+				"\u0000",
+				"\u0000"
+			]
+		},
+		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/scroll/background.png",
 			"ascent":19,
@@ -113,10 +139,52 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/profile_self_v2.png",
+			"file":"projecteden/font/gui/profile/profile_self.png",
 			"ascent":19,
 			"height":256,
 			"chars":["升"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_helmet.png",
+			"ascent":19,
+			"height":256,
+			"chars":["委"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_chestplate.png",
+			"ascent":19,
+			"height":256,
+			"chars":["晕"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_leggings.png",
+			"ascent":19,
+			"height":256,
+			"chars":["鸱"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_boots.png",
+			"ascent":19,
+			"height":256,
+			"chars":["粞"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_cosmetic_hat.png",
+			"ascent":19,
+			"height":256,
+			"chars":["疕"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icon_cosmetic_hand.png",
+			"ascent":19,
+			"height":256,
+			"chars":["楂"]
 		},
 		{
 			"type":"bitmap",
