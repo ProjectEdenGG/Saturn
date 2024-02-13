@@ -1535,6 +1535,7 @@
 		{"predicate": {"custom_model_data": 30016}, "model": "projecteden/decoration/music/acoustic_guitar_classic_wall"},
 		{"predicate": {"custom_model_data": 30017}, "model": "projecteden/decoration/music/violin_wall"},
 
+		{"predicate": {"custom_model_data": 30999}, "model": "projecteden/items/decoration/catalog_master"},
 		{"predicate": {"custom_model_data": 31000}, "model": "projecteden/items/decoration/catalog_all"},
 		{"predicate": {"custom_model_data": 31001}, "model": "projecteden/items/decoration/catalog_general"},
 		{"predicate": {"custom_model_data": 31002}, "model": "projecteden/items/decoration/catalog_spooky"},
@@ -1542,6 +1543,7 @@
 		{"predicate": {"custom_model_data": 31004}, "model": "projecteden/items/decoration/catalog_music"},
 		{"predicate": {"custom_model_data": 31005}, "model": "projecteden/items/decoration/catalog_pride"},
 		{"predicate": {"custom_model_data": 31006}, "model": "projecteden/items/decoration/catalog_art"},
+		{"predicate": {"custom_model_data": 31007}, "model": "projecteden/items/decoration/catalog_outdoors"},
 
 
 		{"predicate": {"custom_model_data": 31100}, "model": "projecteden/decoration/art/paintings/vanilla/1x1/friend"},
