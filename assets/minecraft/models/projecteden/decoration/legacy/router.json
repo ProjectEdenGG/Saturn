@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"0": "projecteden/vanilla/block/anvil",
-		"1": "projecteden/decoration/dyeable/wool",
+		"1": "projecteden/vanilla/block/red_wool",
 		"2": "projecteden/vanilla/block/stone",
 		"particle": "projecteden/vanilla/block/anvil"
 	},
@@ -63,12 +63,12 @@
 			"from": [2.1, 0.1, 6],
 			"to": [13.9, 1.9, 11.9],
 			"faces": {
-				"north": {"uv": [0, 0, 11.8, 1.8], "texture": "#1", "tintindex": 0},
-				"east": {"uv": [0, 0, 5.9, 1.8], "texture": "#1", "tintindex": 0},
-				"south": {"uv": [0, 0, 11.8, 1.8], "texture": "#1", "tintindex": 0},
-				"west": {"uv": [0, 0, 5.9, 1.8], "texture": "#1", "tintindex": 0},
-				"up": {"uv": [0, 0, 11.8, 5.9], "texture": "#1", "tintindex": 0},
-				"down": {"uv": [0, 0, 11.8, 5.9], "texture": "#1", "tintindex": 0}
+				"north": {"uv": [0, 0, 11.8, 1.8], "texture": "#1"},
+				"east": {"uv": [0, 0, 5.9, 1.8], "texture": "#1"},
+				"south": {"uv": [0, 0, 11.8, 1.8], "texture": "#1"},
+				"west": {"uv": [0, 0, 5.9, 1.8], "texture": "#1"},
+				"up": {"uv": [0, 0, 11.8, 5.9], "texture": "#1"},
+				"down": {"uv": [0, 0, 11.8, 5.9], "texture": "#1"}
 			}
 		},
 		{
