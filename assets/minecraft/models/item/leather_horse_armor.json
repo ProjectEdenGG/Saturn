@@ -1244,6 +1244,7 @@
 
 		{"predicate": {"custom_model_data": 5900}, "model": "projecteden/decoration/furniture/cabinets/cabinet_hood"},
 		{"predicate": {"custom_model_data": 5901}, "model": "projecteden/decoration/furniture/cabinets/cabinet_wooden_corner"},
+		{"predicate": {"custom_model_data": 5902}, "model": "projecteden/decoration/furniture/cabinets/cabinet_wooden_corner_short"},
 
 		{"predicate": {"custom_model_data": 6000}, "model": "projecteden/decoration/furniture/cabinets/steel_handle/cabinet_wooden"},
 		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/removed"},
