@@ -63,7 +63,7 @@
 
 		{"predicate": {"custom_model_data": 450}, "model": "projecteden/decoration/furniture/chairs/bench"},
 		{"predicate": {"custom_model_data": 451}, "model": "projecteden/decoration/furniture/chairs/adirondack"},
-		{"predicate": {"custom_model_data": 452}, "model": "projecteden/decoration/furniture/chairs/beach"},
+		{"predicate": {"custom_model_data": 452}, "model": "projecteden/decoration/furniture/chairs/chair_wooden_beach"},
 
 		{"predicate": {"custom_model_data": 500}, "model": "projecteden/decoration/furniture/chairs/stool_basic"},
 		{"predicate": {"custom_model_data": 501}, "model": "projecteden/decoration/furniture/chairs/stool_wooden_cushioned"},
