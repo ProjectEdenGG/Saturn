@@ -2,7 +2,7 @@
 	"textures": {
 		"0": "projecteden/ghoulcraft/white_concrete",
 		"1": "projecteden/ghoulcraft/orange_wool",
-		"2": "projecteden/decoration/hazard",
+		"2": "projecteden/decoration/hazard_legacy",
 		"3": "projecteden/ghoulcraft/sea_lantern",
 		"particle": "projecteden/ghoulcraft/white_concrete"
 	},
