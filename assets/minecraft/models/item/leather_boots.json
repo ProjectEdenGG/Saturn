@@ -5,9 +5,9 @@
 		"layer1": "minecraft:item/leather_boots_overlay"
 	},
 
-	"comment1": "=========================================",
+	"comment1": "==========================================",
 	"comment2": "==== Use java project to update files ====",
-	"comment3": "=========================================",
+	"comment3": "==========================================",
 
 	"overrides": [
 		{"predicate": {"trim_type": 0.1}, "model": "minecraft:item/leather_boots_quartz_trim"},
@@ -20,20 +20,35 @@
 		{"predicate": {"trim_type": 0.8}, "model": "minecraft:item/leather_boots_diamond_trim"},
 		{"predicate": {"trim_type": 0.9}, "model": "minecraft:item/leather_boots_lapis_trim"},
 		{"predicate": {"trim_type": 1.0}, "model": "minecraft:item/leather_boots_amethyst_trim"},
-		{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/armor/wither/boots"},
-		{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/armor/warden/boots"},
-		{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/armor/berserker/boots"},
-		{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/armor/brown_berserk/boots"},
-		{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/armor/copper/boots"},
-		{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/armor/damascus/boots"},
-		{"predicate": {"custom_model_data": 7}, "model": "projecteden/items/armor/druid/boots"},
-		{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/armor/hellfire/boots"},
-		{"predicate": {"custom_model_data": 9}, "model": "projecteden/items/armor/jarl/boots"},
-		{"predicate": {"custom_model_data": 10}, "model": "projecteden/items/armor/mythril/boots"},
-		{"predicate": {"custom_model_data": 11}, "model": "projecteden/items/armor/tank/boots"},
-		{"predicate": {"custom_model_data": 12}, "model": "projecteden/items/armor/thor/boots"},
-		{"predicate": {"custom_model_data": 13}, "model": "projecteden/items/armor/wizard/boots"},
-		{"predicate": {"custom_model_data": 14}, "model": "projecteden/items/armor/wolf/boots"},
-		{"predicate": {"custom_model_data": 15}, "model": "projecteden/items/armor/fishing/boots"}
+			{"predicate": {"custom_model_data": 1}, "model": "projecteden/items/armor/wither/boots"}
+,
+			{"predicate": {"custom_model_data": 2}, "model": "projecteden/items/armor/warden/boots"}
+,
+			{"predicate": {"custom_model_data": 3}, "model": "projecteden/items/armor/berserker/boots"}
+,
+			{"predicate": {"custom_model_data": 4}, "model": "projecteden/items/armor/brown_berserk/boots"}
+,
+			{"predicate": {"custom_model_data": 5}, "model": "projecteden/items/armor/copper/boots"}
+,
+			{"predicate": {"custom_model_data": 6}, "model": "projecteden/items/armor/damascus/boots"}
+,
+			{"predicate": {"custom_model_data": 7}, "model": "projecteden/items/armor/druid/boots"}
+,
+			{"predicate": {"custom_model_data": 8}, "model": "projecteden/items/armor/hellfire/boots"}
+,
+			{"predicate": {"custom_model_data": 9}, "model": "projecteden/items/armor/jarl/boots"}
+,
+			{"predicate": {"custom_model_data": 10}, "model": "projecteden/items/armor/mythril/boots"}
+,
+			{"predicate": {"custom_model_data": 11}, "model": "projecteden/items/armor/tank/boots"}
+,
+			{"predicate": {"custom_model_data": 12}, "model": "projecteden/items/armor/thor/boots"}
+,
+			{"predicate": {"custom_model_data": 13}, "model": "projecteden/items/armor/wizard/boots"}
+,
+			{"predicate": {"custom_model_data": 14}, "model": "projecteden/items/armor/wolf/boots"}
+,
+			{"predicate": {"custom_model_data": 15}, "model": "projecteden/items/armor/fishing/boots"}
+
 	]
 }

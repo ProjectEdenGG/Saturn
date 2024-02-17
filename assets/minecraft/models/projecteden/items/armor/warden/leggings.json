@@ -1,6 +1,6 @@
-{
-	"parent": "projecteden/items/armor/template_armor",
-	"textures": {
-		"0": "projecteden/items/armor/warden/leggings"
+	{
+		"parent": "projecteden/items/armor/template_armor",
+		"textures": {
+			"0": "projecteden/items/armor/warden/leggings"
+		}
 	}
-}
