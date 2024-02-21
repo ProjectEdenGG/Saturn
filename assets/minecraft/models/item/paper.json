@@ -164,6 +164,9 @@
 		{"predicate": {"custom_model_data": 1536}, "model": "projecteden/ui/gui/profile/icon_social_media"},
 		{"predicate": {"custom_model_data": 1537}, "model": "projecteden/ui/gui/profile/icon_social_media_link"},
 
+		{"predicate": {"custom_model_data": 1550}, "model": "projecteden/ui/gui/boosts/personal"},
+		{"predicate": {"custom_model_data": 1551}, "model": "projecteden/ui/gui/boosts/global"},
+
 		{"predicate": {"custom_model_data": 1700}, "model": "projecteden/ui/gui/gamelobby/arenas/blank"},
 		{"predicate": {"custom_model_data": 1701}, "model": "projecteden/ui/gui/gamelobby/arenas/abandonedmines"},
 		{"predicate": {"custom_model_data": 1702}, "model": "projecteden/ui/gui/gamelobby/arenas/acropora"},
