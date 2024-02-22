@@ -1130,6 +1130,8 @@
 
 		{"predicate": {"custom_model_data": 12000}, "model": "projecteden/events/bearfair21/ferriswheel_cart"},
 
+		{"predicate": {"custom_model_data": 12100}, "model": "projecteden/events/vote/pinata_llama"},
+
 		{"predicate": {"custom_model_data": 13000}, "model": "projecteden/ui/crates/wither/all/all_0"},
 		{"predicate": {"custom_model_data": 13001}, "model": "projecteden/ui/crates/wither/all/all_animated"},
 		{"predicate": {"custom_model_data": 13002}, "model": "projecteden/ui/crates/wither/all/all_10"},
