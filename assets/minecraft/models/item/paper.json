@@ -902,6 +902,8 @@
 		{"predicate": {"custom_model_data": 8022}, "model": "projecteden/decoration/flags/pride/transmasc"},
 		{"predicate": {"custom_model_data": 8023}, "model": "projecteden/decoration/flags/pride/queer"},
 
+		{"predicate": {"custom_model_data": 8024}, "model": "projecteden/decoration/flags/server"},
+
 		{"predicate": {"custom_model_data": 8050}, "model": "projecteden/decoration/flags/bunting/pride/ace"},
 		{"predicate": {"custom_model_data": 8051}, "model": "projecteden/decoration/flags/bunting/pride/agender"},
 		{"predicate": {"custom_model_data": 8052}, "model": "projecteden/decoration/flags/bunting/pride/aro"},
