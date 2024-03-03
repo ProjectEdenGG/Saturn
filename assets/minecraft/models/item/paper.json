@@ -609,6 +609,9 @@
 		{"predicate": {"custom_model_data": 6235}, "model": "projecteden/decoration/water_mill/millstone"},
 		{"predicate": {"custom_model_data": 6236}, "model": "projecteden/decoration/trophy_gold"},
 		{"predicate": {"custom_model_data": 6237}, "model": "projecteden/decoration/trash_bag"},
+		{"predicate": {"custom_model_data": 6238}, "model": "projecteden/decoration/cardboard_box_small"},
+		{"predicate": {"custom_model_data": 6239}, "model": "projecteden/decoration/cardboard_box_medium"},
+		{"predicate": {"custom_model_data": 6240}, "model": "projecteden/decoration/cardboard_box_large"},
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak_roots"},
@@ -801,6 +804,7 @@
 		{"predicate": {"custom_model_data": 6810}, "model": "projecteden/decoration/electronics/wires"},
 		{"predicate": {"custom_model_data": 6811}, "model": "projecteden/decoration/electronics/register_black"},
 		{"predicate": {"custom_model_data": 6812}, "model": "projecteden/decoration/music/studiolight_standing"},
+		{"predicate": {"custom_model_data": 6813}, "model": "projecteden/decoration/electronics/flat_screen_tv"},
 
 		{"predicate": {"custom_model_data": 6900}, "model": "projecteden/decoration/balloons/group_1"},
 		{"predicate": {"custom_model_data": 6901}, "model": "projecteden/decoration/balloons/group_2"},
