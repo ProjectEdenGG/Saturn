@@ -104,7 +104,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"fixed": {
-			"translation": [-32, -32, -2],
+			"translation": [-32, 0, -2],
 			"scale": [2, 2, 2]
 		}
 	}
