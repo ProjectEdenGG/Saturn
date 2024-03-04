@@ -51,6 +51,11 @@
 		{"predicate": {"custom_model_data": 113}, "model": "projecteden/decoration/electronics/rotary_phone"},
 		{"predicate": {"custom_model_data": 114}, "model": "projecteden/decoration/electronics/laptop"},
 		{"predicate": {"custom_model_data": 115}, "model": "projecteden/decoration/electronics/router"},
+		{"predicate": {"custom_model_data": 116}, "model": "projecteden/decoration/curtains_2x3_closed"},
+		{"predicate": {"custom_model_data": 117}, "model": "projecteden/decoration/curtains_3x3_closed"},
+		{"predicate": {"custom_model_data": 118}, "model": "projecteden/decoration/curtains_3x2_closed"},
+		{"predicate": {"custom_model_data": 119}, "model": "projecteden/decoration/curtains_2x2_closed"},
+		{"predicate": {"custom_model_data": 120}, "model": "projecteden/decoration/curtains_1x2_closed"},
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
