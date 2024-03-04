@@ -20,11 +20,11 @@
 		},
 		{
 			"name": "dyeable",
-			"from": [-16, -1, 8],
-			"to": [32, 29, 8],
+			"from": [-16, 0, 8],
+			"to": [32, 32, 8],
 			"faces": {
-				"north": {"uv": [0, 5.75, 6, 9.5], "texture": "#0", "tintindex": 0},
-				"south": {"uv": [0, 5.75, 6, 9.5], "texture": "#0", "tintindex": 0}
+				"north": {"uv": [0, 6, 6, 10], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 6, 6, 10], "texture": "#0", "tintindex": 0}
 			}
 		},
 		{
@@ -70,13 +70,14 @@
 		},
 		"gui": {
 			"rotation": [30, -30, 0],
-			"scale": [0.3, 0.3, 0.3]
+			"translation": [0, -2.5, 0],
+			"scale": [0.37, 0.37, 0.37]
 		},
 		"head": {
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"fixed": {
-			"translation": [-32, -32, -2],
+			"translation": [-32, 0, -2],
 			"scale": [2, 2, 2]
 		}
 	},
