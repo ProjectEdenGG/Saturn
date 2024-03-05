@@ -92,29 +92,13 @@
          { "name": "custom/ambient/misc/millstone" }
       ]
    },
-   "custom.ambient.windchimes.metal_1": {
+   "custom.ambient.windchimes.metal": {
       "sounds": [
-         { "name": "custom/ambient/windchimes/metal_1" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_2": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_2" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_3": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_3" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_4": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_4" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_5": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_5" }
+        { "name": "custom/ambient/windchimes/metal_1" },
+        { "name": "custom/ambient/windchimes/metal_2" },
+        { "name": "custom/ambient/windchimes/metal_3" },
+        { "name": "custom/ambient/windchimes/metal_4" },
+        { "name": "custom/ambient/windchimes/metal_5" }
       ]
    },
    "custom.explosion.explosion_1": {
