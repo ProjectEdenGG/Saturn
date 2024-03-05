@@ -550,8 +550,7 @@
      "sounds": [
          { "name": "custom/decoration/paint_1" },
          { "name": "custom/decoration/paint_2" },
-         { "name": "custom/decoration/paint_3" },
-         { "name": "custom/decoration/paint_4" }
+         { "name": "custom/decoration/paint_3" }
      ]
   }
 } 
