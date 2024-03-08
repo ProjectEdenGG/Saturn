@@ -1426,7 +1426,7 @@
 		{"predicate": {"custom_model_data": 22340}, "model": "projecteden/costumes/hat/misc/trapper_hat"},
 		{"predicate": {"custom_model_data": 22341}, "model": "projecteden/costumes/hat/misc/turtle"},
 		{"predicate": {"custom_model_data": 22342}, "model": "projecteden/costumes/hat/misc/vr"},
-		{"predicate": {"custom_model_data": 22343}, "model": "projecteden/costumes/hat/misc/kasa"},
+		{"predicate": {"custom_model_data": 22343}, "model": "projecteden/costumes/hat/misc/bamboo_hat"},
 
 		{"predicate": {"custom_model_data": 22400}, "model": "projecteden/costumes/hat/antlers/black"},
 		{"predicate": {"custom_model_data": 22401}, "model": "projecteden/costumes/hat/antlers/brown"},
