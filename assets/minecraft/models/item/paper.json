@@ -612,6 +612,9 @@
 		{"predicate": {"custom_model_data": 6238}, "model": "projecteden/decoration/cardboard_box_small"},
 		{"predicate": {"custom_model_data": 6239}, "model": "projecteden/decoration/cardboard_box_medium"},
 		{"predicate": {"custom_model_data": 6240}, "model": "projecteden/decoration/cardboard_box_large"},
+		{"predicate": {"custom_model_data": 6241}, "model": "projecteden/decoration/paper_lantern_single"},
+		{"predicate": {"custom_model_data": 6242}, "model": "projecteden/decoration/paper_lantern_double"},
+		{"predicate": {"custom_model_data": 6243}, "model": "projecteden/decoration/paper_lantern_triple"},
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak_roots"},
