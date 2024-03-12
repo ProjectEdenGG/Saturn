@@ -234,29 +234,13 @@
          { "name": "custom/ambient/misc/millstone" }
       ]
    },
-   "custom.ambient.windchimes.metal_1": {
+   "custom.ambient.windchimes.metal": {
       "sounds": [
-         { "name": "custom/ambient/windchimes/metal_1" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_2": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_2" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_3": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_3" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_4": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_4" }
-      ]
-   },
-   "custom.ambient.windchimes.metal_5": {
-      "sounds": [
-         { "name": "custom/ambient/windchimes/metal_5" }
+        { "name": "custom/ambient/windchimes/metal_1" },
+        { "name": "custom/ambient/windchimes/metal_2" },
+        { "name": "custom/ambient/windchimes/metal_3" },
+        { "name": "custom/ambient/windchimes/metal_4" },
+        { "name": "custom/ambient/windchimes/metal_5" }
       ]
    },
    "custom.explosion.explosion_1": {
@@ -279,7 +263,182 @@
          { "name": "custom/explosion/explosion_4" }
       ]
    },
-   "custom.ambient.birds.bird_1": {
+   "custom.train.chug": {
+      "subtitle": "Train chugs",
+      "sounds": [
+         { "name": "custom/train/chug" }
+      ]
+   },
+   "custom.train.whistle": {
+      "subtitle": "Train whistles",
+      "sounds": [
+         { "name": "custom/train/whistle" }
+      ]
+   },
+   "custom.misc.party_horn": {
+      "subtitle": "Party Horn blows",
+      "sounds": [
+         { "name": "custom/misc/party_horn_1" },
+         { "name": "custom/misc/party_horn_2" }
+      ]
+   },
+   "custom.misc.you_got_mail": {
+      "subtitle": "You got mail!",
+      "sounds": [
+         { "name": "custom/misc/you_got_mail" }
+      ]
+   },
+   "custom.misc.flashbang": {
+      "subtitle": "Flashbang!",
+      "sounds": [
+         { "name": "custom/misc/flashbang" }
+      ]
+   },
+   "custom.misc.stone": {
+      "sounds": [
+         { "name": "custom/misc/stone" }
+      ]
+   },
+   "custom.noteblock.marimba": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         { "name": "custom/noteblock/marimba" }
+      ]
+   },
+   "custom.noteblock.trumpet": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         { "name": "custom/noteblock/trumpet" }
+      ]
+   },
+   "custom.noteblock.buzz": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         { "name": "custom/noteblock/buzz" }
+      ]
+   },
+   "custom.noteblock.kalimba": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         { "name": "custom/noteblock/kalimba" }
+      ]
+   },
+   "custom.noteblock.koto": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         { "name": "custom/noteblock/koto" }
+      ]
+   },
+   "custom.noteblock.taiko": {
+      "subtitle": "Note Block plays",
+      "sounds": [
+         { "name": "custom/noteblock/taiko" }
+      ]
+   },
+   "custom.minigames.sabotage.alarm": {
+      "subtitle": "Alarm blares",
+      "sounds": [
+         { "name": "custom/minigames/sabotage/alarm" }
+      ]
+   },
+   "custom.crates.gemcrafter.infuse": {
+      "subtitle": "Gem infuses",
+      "sounds": [
+         { "name": "custom/crates/gemcrafter/infuse" }
+      ]
+   },
+   "custom.crates.weeklywakka.burp": {
+      "subtitle": "Wakka Burps",
+      "sounds": [
+         { "name": "custom/misc/burp" }
+      ]
+   },
+   "custom.misc.burp": {
+      "sounds": [
+         { "name": "custom/misc/burp" }
+      ]
+   },
+   "custom.misc.bonk": {
+      "sounds": [
+         { "name": "custom/misc/bonk" }
+      ]
+   },
+   "custom.misc.heartbeat": {
+      "subtitle": "Heart beats",
+      "sounds": [
+         { "name": "mob/warden/heartbeat_1" },
+         { "name": "mob/warden/heartbeat_2" },
+         { "name": "mob/warden/heartbeat_3" },
+         { "name": "mob/warden/heartbeat_4" }
+      ]
+   },
+   "custom.misc.blood": {
+      "subtitle": "Blood gushing",
+      "sounds": [
+         { "name": "block/honeyblock/slide1" },
+         { "name": "block/honeyblock/slide2" },
+         { "name": "block/honeyblock/slide3" },
+         { "name": "block/honeyblock/slide4" }
+      ]
+  },
+   "custom.instrument.drum_kit": {
+      "subtitle": "Drum Kit plays",
+      "sounds": [
+         { "name": "custom/instrument/drum_kit/kick" },
+         { "name": "custom/instrument/drum_kit/snare" },
+         { "name": "custom/instrument/drum_kit/hihat_1" },
+         { "name": "custom/instrument/drum_kit/hihat_2" },
+         { "name": "custom/instrument/drum_kit/cymbal_ride" },
+         { "name": "custom/instrument/drum_kit/cymbal_crash" },
+         { "name": "custom/instrument/drum_kit/tom" }
+      ]
+  },
+  "custom.instrument.bongos": {
+    "subtitle": "Bongos play",
+     "sounds": [
+         { "name": "custom/instrument/bongos" }
+     ]
+  },
+  "custom.instrument.harp": {
+    "subtitle": "Harp plays",
+     "sounds": [
+         { "name": "custom/instrument/harp" }
+     ]
+  },
+  "custom.instrument.grand_piano": {
+    "subtitle": "Grand Piano plays",
+     "sounds": [
+         { "name": "custom/instrument/grand_piano" }
+     ]
+  },
+  "custom.decoration.paint": {
+    "subtitle": "Painting decoration",
+     "sounds": [
+         { "name": "custom/decoration/paint_1" },
+         { "name": "custom/decoration/paint_2" },
+         { "name": "custom/decoration/paint_3" }
+     ]
+  },
+  "custom.decoration.curtain.use": {
+    "subtitle": "Adjusting curtains",
+     "sounds": [
+         { "name": "custom/decoration/curtain_1" },
+         { "name": "custom/decoration/curtain_2" }
+     ]
+  },
+  "custom.decoration.trash_can.open": {
+    "subtitle": "Opening trash can",
+     "sounds": [
+         { "name": "custom/decoration/trash_can_open" }
+     ]
+  },
+  "custom.decoration.trash_can.close": {
+    "subtitle": "Closing trash can",
+     "sounds": [
+         { "name": "custom/decoration/trash_can_close" }
+     ]
+  },
+  "custom.ambient.birds.bird_1": {
       "sounds": [
          { "name": "custom/ambient/birds/bird_1" }
       ]
@@ -543,148 +702,5 @@
       "sounds": [
          { "name": "custom/ambient/birds/wren_1" }
       ]
-   },
-   "custom.train.chug": {
-      "subtitle": "Train chugs",
-      "sounds": [
-         { "name": "custom/train/chug" }
-      ]
-   },
-   "custom.train.whistle": {
-      "subtitle": "Train whistles",
-      "sounds": [
-         { "name": "custom/train/whistle" }
-      ]
-   },
-   "custom.misc.party_horn": {
-      "subtitle": "Party Horn blows",
-      "sounds": [
-         { "name": "custom/misc/party_horn_1" },
-         { "name": "custom/misc/party_horn_2" }
-      ]
-   },
-   "custom.misc.you_got_mail": {
-      "subtitle": "You got mail!",
-      "sounds": [
-         { "name": "custom/misc/you_got_mail" }
-      ]
-   },
-   "custom.misc.flashbang": {
-      "subtitle": "Flashbang!",
-      "sounds": [
-         { "name": "custom/misc/flashbang" }
-      ]
-   },
-   "custom.misc.stone": {
-      "sounds": [
-         { "name": "custom/misc/stone" }
-      ]
-   },
-   "custom.noteblock.marimba": {
-      "subtitle": "Note Block plays",
-      "sounds": [
-         { "name": "custom/noteblock/marimba" }
-      ]
-   },
-   "custom.noteblock.trumpet": {
-      "subtitle": "Note Block plays",
-      "sounds": [
-         { "name": "custom/noteblock/trumpet" }
-      ]
-   },
-   "custom.noteblock.buzz": {
-      "subtitle": "Note Block plays",
-      "sounds": [
-         { "name": "custom/noteblock/buzz" }
-      ]
-   },
-   "custom.noteblock.kalimba": {
-      "subtitle": "Note Block plays",
-      "sounds": [
-         { "name": "custom/noteblock/kalimba" }
-      ]
-   },
-   "custom.noteblock.koto": {
-      "subtitle": "Note Block plays",
-      "sounds": [
-         { "name": "custom/noteblock/koto" }
-      ]
-   },
-   "custom.noteblock.taiko": {
-      "subtitle": "Note Block plays",
-      "sounds": [
-         { "name": "custom/noteblock/taiko" }
-      ]
-   },
-   "custom.minigames.sabotage.alarm": {
-      "subtitle": "Alarm blares",
-      "sounds": [
-         { "name": "custom/minigames/sabotage/alarm" }
-      ]
-   },
-   "custom.crates.gemcrafter.infuse": {
-      "subtitle": "Gem infuses",
-      "sounds": [
-         { "name": "custom/crates/gemcrafter/infuse" }
-      ]
-   },
-   "custom.crates.weeklywakka.burp": {
-      "subtitle": "Wakka Burps",
-      "sounds": [
-         { "name": "custom/crates/weeklywakka/burp" }
-      ]
-   },
-   "custom.misc.bonk": {
-      "sounds": [
-         { "name": "custom/misc/bonk" }
-      ]
-   },
-   "custom.misc.halloween.heartbeat": {
-      "subtitle": "Island heart beats",
-      "sounds": [
-         { "name": "mob/warden/heartbeat_1" },
-         { "name": "mob/warden/heartbeat_2" },
-         { "name": "mob/warden/heartbeat_3" },
-         { "name": "mob/warden/heartbeat_4" }
-      ]
-   },
-   "custom.misc.halloween.blood": {
-      "subtitle": "Blood gushing",
-      "sounds": [
-         { "name": "block/honeyblock/slide1" },
-         { "name": "block/honeyblock/slide2" },
-         { "name": "block/honeyblock/slide3" },
-         { "name": "block/honeyblock/slide4" }
-      ]
-  },
-   "custom.instrument.drum_kit": {
-      "subtitle": "Drum Kit plays",
-      "sounds": [
-         { "name": "custom/instrument/drum_kit/kick" },
-         { "name": "custom/instrument/drum_kit/snare" },
-         { "name": "custom/instrument/drum_kit/hihat_1" },
-         { "name": "custom/instrument/drum_kit/hihat_2" },
-         { "name": "custom/instrument/drum_kit/cymbal_ride" },
-         { "name": "custom/instrument/drum_kit/cymbal_crash" },
-         { "name": "custom/instrument/drum_kit/tom" }
-      ]
-  },
-  "custom.instrument.bongos": {
-    "subtitle": "Bongos play",
-     "sounds": [
-         { "name": "custom/instrument/bongos" }
-     ]
-  },
-  "custom.instrument.harp": {
-    "subtitle": "Harp plays",
-     "sounds": [
-         { "name": "custom/instrument/harp" }
-     ]
-  },
-  "custom.instrument.grand_piano": {
-    "subtitle": "Grand Piano plays",
-     "sounds": [
-         { "name": "custom/instrument/grand_piano" }
-     ]
-  }
+   }
 } 

@@ -164,6 +164,9 @@
 		{"predicate": {"custom_model_data": 1536}, "model": "projecteden/ui/gui/profile/icon_social_media"},
 		{"predicate": {"custom_model_data": 1537}, "model": "projecteden/ui/gui/profile/icon_social_media_link"},
 
+		{"predicate": {"custom_model_data": 1550}, "model": "projecteden/ui/gui/boosts/personal"},
+		{"predicate": {"custom_model_data": 1551}, "model": "projecteden/ui/gui/boosts/global"},
+
 		{"predicate": {"custom_model_data": 1700}, "model": "projecteden/ui/gui/gamelobby/arenas/blank"},
 		{"predicate": {"custom_model_data": 1701}, "model": "projecteden/ui/gui/gamelobby/arenas/abandonedmines"},
 		{"predicate": {"custom_model_data": 1702}, "model": "projecteden/ui/gui/gamelobby/arenas/acropora"},
@@ -575,8 +578,8 @@
 		{"predicate": {"custom_model_data": 6204}, "model": "projecteden/decoration/inkwell"},
 		{"predicate": {"custom_model_data": 6205}, "model": "projecteden/decoration/postbox"},	
 		{"predicate": {"custom_model_data": 6206}, "model": "projecteden/decoration/wheel"},
-		{"predicate": {"custom_model_data": 6207}, "model": "projecteden/decoration/bistrosign"},
-		{"predicate": {"custom_model_data": 6208}, "model": "projecteden/decoration/bistrosign1"},
+		{"predicate": {"custom_model_data": 6207}, "model": "projecteden/decoration/cafe_sign"},
+		{"predicate": {"custom_model_data": 6208}, "model": "projecteden/decoration/cafe_sign_tall"},
 		{"predicate": {"custom_model_data": 6209}, "model": "projecteden/decoration/legacy/blockade"},
 		{"predicate": {"custom_model_data": 6210}, "model": "projecteden/decoration/legacy/blockade_lights"},
 		{"predicate": {"custom_model_data": 6211}, "model": "projecteden/decoration/legacy/trafficcone"},
@@ -606,6 +609,12 @@
 		{"predicate": {"custom_model_data": 6235}, "model": "projecteden/decoration/water_mill/millstone"},
 		{"predicate": {"custom_model_data": 6236}, "model": "projecteden/decoration/trophy_gold"},
 		{"predicate": {"custom_model_data": 6237}, "model": "projecteden/decoration/trash_bag"},
+		{"predicate": {"custom_model_data": 6238}, "model": "projecteden/decoration/cardboard_box_small"},
+		{"predicate": {"custom_model_data": 6239}, "model": "projecteden/decoration/cardboard_box_medium"},
+		{"predicate": {"custom_model_data": 6240}, "model": "projecteden/decoration/cardboard_box_large"},
+		{"predicate": {"custom_model_data": 6241}, "model": "projecteden/decoration/paper_lantern_single"},
+		{"predicate": {"custom_model_data": 6242}, "model": "projecteden/decoration/paper_lantern_double"},
+		{"predicate": {"custom_model_data": 6243}, "model": "projecteden/decoration/paper_lantern_triple"},
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak_roots"},
@@ -798,6 +807,7 @@
 		{"predicate": {"custom_model_data": 6810}, "model": "projecteden/decoration/electronics/wires"},
 		{"predicate": {"custom_model_data": 6811}, "model": "projecteden/decoration/electronics/register_black"},
 		{"predicate": {"custom_model_data": 6812}, "model": "projecteden/decoration/music/studiolight_standing"},
+		{"predicate": {"custom_model_data": 6813}, "model": "projecteden/decoration/electronics/flat_screen_tv"},
 
 		{"predicate": {"custom_model_data": 6900}, "model": "projecteden/decoration/balloons/group_1"},
 		{"predicate": {"custom_model_data": 6901}, "model": "projecteden/decoration/balloons/group_2"},
@@ -898,6 +908,8 @@
 		{"predicate": {"custom_model_data": 8021}, "model": "projecteden/decoration/flags/pride/transfem"},
 		{"predicate": {"custom_model_data": 8022}, "model": "projecteden/decoration/flags/pride/transmasc"},
 		{"predicate": {"custom_model_data": 8023}, "model": "projecteden/decoration/flags/pride/queer"},
+
+		{"predicate": {"custom_model_data": 8024}, "model": "projecteden/decoration/flags/server"},
 
 		{"predicate": {"custom_model_data": 8050}, "model": "projecteden/decoration/flags/bunting/pride/ace"},
 		{"predicate": {"custom_model_data": 8051}, "model": "projecteden/decoration/flags/bunting/pride/agender"},
@@ -1047,6 +1059,8 @@
 		{"predicate": {"custom_model_data": 8397}, "model": "projecteden/decoration/signs/avontyre/unique/decoration"},
 		{"predicate": {"custom_model_data": 8398}, "model": "projecteden/decoration/signs/avontyre/unique/crates_minigames"},
 
+		{"predicate": {"custom_model_data": 8410}, "model": "projecteden/decoration/signs/minigames/exchange"},
+
 		{"predicate": {"custom_model_data": 8500}, "model": "projecteden/misc/invisibarrier"},
 		{"predicate": {"custom_model_data": 8501}, "model": "projecteden/misc/max_size"},
 
@@ -1124,6 +1138,8 @@
 		{"predicate": {"custom_model_data": 11205}, "model": "projecteden/events/pugmas21/terrain/6"},
 
 		{"predicate": {"custom_model_data": 12000}, "model": "projecteden/events/bearfair21/ferriswheel_cart"},
+
+		{"predicate": {"custom_model_data": 12100}, "model": "projecteden/events/vote/pinata_llama"},
 
 		{"predicate": {"custom_model_data": 13000}, "model": "projecteden/ui/crates/wither/all/all_0"},
 		{"predicate": {"custom_model_data": 13001}, "model": "projecteden/ui/crates/wither/all/all_animated"},
@@ -1423,6 +1439,7 @@
 		{"predicate": {"custom_model_data": 22340}, "model": "projecteden/costumes/hat/misc/trapper_hat"},
 		{"predicate": {"custom_model_data": 22341}, "model": "projecteden/costumes/hat/misc/turtle"},
 		{"predicate": {"custom_model_data": 22342}, "model": "projecteden/costumes/hat/misc/vr"},
+		{"predicate": {"custom_model_data": 22343}, "model": "projecteden/costumes/hat/misc/bamboo_hat"},
 
 		{"predicate": {"custom_model_data": 22400}, "model": "projecteden/costumes/hat/antlers/black"},
 		{"predicate": {"custom_model_data": 22401}, "model": "projecteden/costumes/hat/antlers/brown"},

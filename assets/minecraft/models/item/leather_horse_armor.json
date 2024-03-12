@@ -51,6 +51,14 @@
 		{"predicate": {"custom_model_data": 113}, "model": "projecteden/decoration/electronics/rotary_phone"},
 		{"predicate": {"custom_model_data": 114}, "model": "projecteden/decoration/electronics/laptop"},
 		{"predicate": {"custom_model_data": 115}, "model": "projecteden/decoration/electronics/router"},
+		{"predicate": {"custom_model_data": 116}, "model": "projecteden/decoration/curtains_2x3_closed"},
+		{"predicate": {"custom_model_data": 117}, "model": "projecteden/decoration/curtains_3x3_closed"},
+		{"predicate": {"custom_model_data": 118}, "model": "projecteden/decoration/curtains_3x2_closed"},
+		{"predicate": {"custom_model_data": 119}, "model": "projecteden/decoration/curtains_2x2_closed"},
+		{"predicate": {"custom_model_data": 120}, "model": "projecteden/decoration/curtains_1x2_closed"},
+
+		{"predicate": {"custom_model_data": 121}, "model": "projecteden/decoration/curtains_2x3"},
+		{"predicate": {"custom_model_data": 122}, "model": "projecteden/decoration/curtains_2x3_closed"},
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
@@ -1294,6 +1302,7 @@
 		{"predicate": {"custom_model_data": 9015}, "model": "projecteden/decoration/music/drum_throne"},
 		{"predicate": {"custom_model_data": 9016}, "model": "projecteden/decoration/music/acoustic_guitar_wall"},
 		{"predicate": {"custom_model_data": 9017}, "model": "projecteden/decoration/music/electric_guitar_wall"},
+		{"predicate": {"custom_model_data": 9018}, "model": "projecteden/decoration/music/electric_guitar_item"},
 
 		{"predicate": {"custom_model_data": 9050}, "model": "projecteden/decoration/construction/traffic_cone_big"},
 		{"predicate": {"custom_model_data": 9051}, "model": "projecteden/decoration/construction/traffic_cone_small"},
@@ -1334,6 +1343,9 @@
 		{"predicate": {"custom_model_data": 11001}, "model": "projecteden/functional/backpacks/backpack_3d_iron"},
 		{"predicate": {"custom_model_data": 11002}, "model": "projecteden/functional/backpacks/backpack_3d_gold"},
 		{"predicate": {"custom_model_data": 11003}, "model": "projecteden/functional/backpacks/backpack_3d_diamond"},
-		{"predicate": {"custom_model_data": 11004}, "model": "projecteden/functional/backpacks/backpack_3d_netherite"}
+		{"predicate": {"custom_model_data": 11004}, "model": "projecteden/functional/backpacks/backpack_3d_netherite"},
+
+		{"predicate": {"custom_model_data": 15000}, "model": "projecteden/minigames/checkers/piece"},
+		{"predicate": {"custom_model_data": 15001}, "model": "projecteden/minigames/checkers/piece_king"}
 	]
 }
