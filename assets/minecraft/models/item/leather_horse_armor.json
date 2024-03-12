@@ -1304,7 +1304,6 @@
 		{"predicate": {"custom_model_data": 9017}, "model": "projecteden/decoration/music/electric_guitar_wall"},
 		{"predicate": {"custom_model_data": 9018}, "model": "projecteden/decoration/music/electric_guitar_item"},
 
-		{"predicate": {"custom_model_data": 9050}, "model": "projecteden/decoration/construction/traffic_cone_big"},
 		{"predicate": {"custom_model_data": 9051}, "model": "projecteden/decoration/construction/traffic_cone_small"},
 		{"predicate": {"custom_model_data": 9052}, "model": "projecteden/decoration/construction/traffic_cone_tube"},
 		{"predicate": {"custom_model_data": 9053}, "model": "projecteden/decoration/construction/traffic_cone_barrel"},
