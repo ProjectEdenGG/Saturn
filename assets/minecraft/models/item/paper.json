@@ -817,12 +817,12 @@
 		{"predicate": {"custom_model_data": 7001}, "model": "projecteden/decoration/entity/penguin_baby"},
 		{"predicate": {"custom_model_data": 7002}, "model": "projecteden/decoration/entity/rabbit_giant"},
 
-		{"predicate": {"custom_model_data": 7100}, "model": "projecteden/decoration/gravestones/1"},
-		{"predicate": {"custom_model_data": 7101}, "model": "projecteden/decoration/gravestones/2"},
-		{"predicate": {"custom_model_data": 7102}, "model": "projecteden/decoration/gravestones/3"},
-		{"predicate": {"custom_model_data": 7103}, "model": "projecteden/decoration/gravestones/4"},
-		{"predicate": {"custom_model_data": 7104}, "model": "projecteden/decoration/gravestones/5"},
-		{"predicate": {"custom_model_data": 7105}, "model": "projecteden/decoration/gravestones/6"},
+		{"predicate": {"custom_model_data": 7100}, "model": "projecteden/decoration/gravestones/cross"},
+		{"predicate": {"custom_model_data": 7101}, "model": "projecteden/decoration/gravestones/small"},
+		{"predicate": {"custom_model_data": 7102}, "model": "projecteden/decoration/gravestones/stack"},
+		{"predicate": {"custom_model_data": 7103}, "model": "projecteden/decoration/gravestones/plaque"},
+		{"predicate": {"custom_model_data": 7104}, "model": "projecteden/decoration/gravestones/tall"},
+		{"predicate": {"custom_model_data": 7105}, "model": "projecteden/decoration/gravestones/flowerbed"},
 
 		{"predicate": {"custom_model_data": 7200}, "model": "projecteden/decoration/weaponracks/weaponrack_1"},
 		{"predicate": {"custom_model_data": 7201}, "model": "projecteden/decoration/weaponracks/weaponrack_2"},
