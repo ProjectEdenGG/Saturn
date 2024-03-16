@@ -908,8 +908,8 @@
 		{"predicate": {"custom_model_data": 8021}, "model": "projecteden/decoration/flags/pride/transfem"},
 		{"predicate": {"custom_model_data": 8022}, "model": "projecteden/decoration/flags/pride/transmasc"},
 		{"predicate": {"custom_model_data": 8023}, "model": "projecteden/decoration/flags/pride/queer"},
-
 		{"predicate": {"custom_model_data": 8024}, "model": "projecteden/decoration/flags/server"},
+		{"predicate": {"custom_model_data": 8025}, "model": "projecteden/decoration/flags/pride/pride"},
 
 		{"predicate": {"custom_model_data": 8050}, "model": "projecteden/decoration/flags/bunting/pride/ace"},
 		{"predicate": {"custom_model_data": 8051}, "model": "projecteden/decoration/flags/bunting/pride/agender"},
@@ -935,6 +935,7 @@
 		{"predicate": {"custom_model_data": 8071}, "model": "projecteden/decoration/flags/bunting/pride/transfem"},
 		{"predicate": {"custom_model_data": 8072}, "model": "projecteden/decoration/flags/bunting/pride/transmasc"},
 		{"predicate": {"custom_model_data": 8073}, "model": "projecteden/decoration/flags/bunting/pride/queer"},
+		{"predicate": {"custom_model_data": 8074}, "model": "projecteden/decoration/flags/bunting/pride/pride"},
 
 		{"predicate": {"custom_model_data": 8100}, "model": "projecteden/decoration/flags/banners/logo_standing"},
 		{"predicate": {"custom_model_data": 8101}, "model": "projecteden/decoration/flags/banners/logo_hanging"},
