@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "projecteden/decoration/plushies/player/template_display",
 	"textures": {
 		"0": "projecteden/decoration/plushies/player/template_alex_key",
