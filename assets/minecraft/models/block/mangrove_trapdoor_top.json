@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/template_orientable_trapdoor_bottom",
 	"textures": {
 		"particle": "block/mangrove_trapdoor",

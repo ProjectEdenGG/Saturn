@@ -43,8 +43,8 @@
 			"from": [-16, 0, 8],
 			"to": [32, 32, 8],
 			"faces": {
-				"north": {"uv": [0, 6, 6, 10], "texture": "#0", "tintindex": 0},
-				"south": {"uv": [0, 6, 6, 10], "texture": "#0", "tintindex": 0}
+				"north": {"uv": [0, 6.125, 6, 10.125], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 6.125, 6, 10.125], "texture": "#0", "tintindex": 0}
 			}
 		},
 		{

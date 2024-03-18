@@ -1,7 +1,8 @@
 {
+	"texture_size": [512, 128],
 	"textures": {
-		"0": "projecteden/decoration/flags/pride_pennant1",
-		"particle": "projecteden/decoration/flags/pride_pennant1"
+		"0": "projecteden/decoration/flags/gay",
+		"particle": "projecteden/decoration/flags/gay"
 	},
 	"elements": [
 		{
@@ -9,12 +10,8 @@
 			"to": [16, 16, 15.8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 23.8]},
 			"faces": {
-				"north": {"uv": [0, 0, 15.25, 4.08125], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 15.25, 4.08125], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+				"north": {"uv": [0, 0, 14.875, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 14.875, 16], "texture": "#0"}
 			}
 		}
 	],
