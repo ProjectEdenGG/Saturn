@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "block/snail_tiny",
-		"particle": "block/snail_tiny"
+		"0": "projecteden/costumes/snail_tiny",
+		"particle": "projecteden/costumes/snail_tiny"
 	},
 	"elements": [
 		{
