@@ -132,6 +132,7 @@
 		{"predicate": {"custom_model_data": 905}, "model": "projecteden/decoration/furniture/appliances/fridge_mini_magnets"},
 		{"predicate": {"custom_model_data": 906}, "model": "projecteden/decoration/furniture/appliances/slushie_machine"},
 		{"predicate": {"custom_model_data": 907}, "model": "projecteden/decoration/furniture/toilet_modern"},
+		{"predicate": {"custom_model_data": 908}, "model": "projecteden/decoration/fireplace_wooden_plain"},
 
 		{"predicate": {"custom_model_data": 1999}, "model": "projecteden/ui/gui/filler_item_dyeable"},
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
