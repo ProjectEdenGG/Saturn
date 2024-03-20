@@ -617,6 +617,7 @@
 		{"predicate": {"custom_model_data": 6243}, "model": "projecteden/decoration/paper_lantern_triple"},
 		{"predicate": {"custom_model_data": 6244}, "model": "projecteden/decoration/fireplace_dark_plain_soul"},
 		{"predicate": {"custom_model_data": 6245}, "model": "projecteden/decoration/fireplace_white_plain_soul"},
+		{"predicate": {"custom_model_data": 6246}, "model": "projecteden/decoration/fireplace_brown_plain_soul"},
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak_roots"},
@@ -797,6 +798,7 @@
 		{"predicate": {"custom_model_data": 6732}, "model": "projecteden/decoration/christmas/toy_train"},
 		{"predicate": {"custom_model_data": 6733}, "model": "projecteden/decoration/christmas/fireplace_dark_xmas_soul"},
 		{"predicate": {"custom_model_data": 6734}, "model": "projecteden/decoration/christmas/fireplace_white_xmas_soul"},
+		{"predicate": {"custom_model_data": 6735}, "model": "projecteden/decoration/christmas/fireplace_brown_xmas_soul"},
 
 		{"predicate": {"custom_model_data": 6800}, "model": "projecteden/decoration/electronics/griffin_setup"},
 		{"predicate": {"custom_model_data": 6801}, "model": "projecteden/decoration/electronics/cable"},

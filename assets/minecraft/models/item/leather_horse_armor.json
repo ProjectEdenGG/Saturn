@@ -134,8 +134,8 @@
 		{"predicate": {"custom_model_data": 907}, "model": "projecteden/decoration/furniture/toilet_modern"},
 		{"predicate": {"custom_model_data": 908}, "model": "projecteden/decoration/fireplace_wooden_plain"},
 		{"predicate": {"custom_model_data": 909}, "model": "projecteden/decoration/fireplace_wooden_plain_soul"},
-		{"predicate": {"custom_model_data": 910}, "model": "projecteden/decoration/fireplace_wooden_xmas"},
-		{"predicate": {"custom_model_data": 911}, "model": "projecteden/decoration/fireplace_wooden_xmas_soul"},
+		{"predicate": {"custom_model_data": 910}, "model": "projecteden/decoration/christmas/fireplace_wooden_xmas"},
+		{"predicate": {"custom_model_data": 911}, "model": "projecteden/decoration/christmas/fireplace_wooden_xmas_soul"},
 
 		{"predicate": {"custom_model_data": 1999}, "model": "projecteden/ui/gui/filler_item_dyeable"},
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
