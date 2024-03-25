@@ -2,7 +2,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "projecteden/decoration/fireplace_light",
-		"1": "projecteden/vanilla/block/fire_0",
+		"1": "projecteden/vanilla/block/soul_fire_0",
 		"2": "projecteden/decoration/fireplace_shared"
 	},
 	"elements": [

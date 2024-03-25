@@ -132,6 +132,10 @@
 		{"predicate": {"custom_model_data": 905}, "model": "projecteden/decoration/furniture/appliances/fridge_mini_magnets"},
 		{"predicate": {"custom_model_data": 906}, "model": "projecteden/decoration/furniture/appliances/slushie_machine"},
 		{"predicate": {"custom_model_data": 907}, "model": "projecteden/decoration/furniture/toilet_modern"},
+		{"predicate": {"custom_model_data": 908}, "model": "projecteden/decoration/fireplace_wooden_plain"},
+		{"predicate": {"custom_model_data": 909}, "model": "projecteden/decoration/fireplace_wooden_plain_soul"},
+		{"predicate": {"custom_model_data": 910}, "model": "projecteden/decoration/christmas/fireplace_wooden_xmas"},
+		{"predicate": {"custom_model_data": 911}, "model": "projecteden/decoration/christmas/fireplace_wooden_xmas_soul"},
 
 		{"predicate": {"custom_model_data": 1999}, "model": "projecteden/ui/gui/filler_item_dyeable"},
 		{"predicate": {"custom_model_data": 2000}, "model": "projecteden/ui/numbers/0"},
@@ -1165,7 +1169,7 @@
 		{"predicate": {"custom_model_data": 4027}, "model": "projecteden/costumes/hat/misc/straw"},
 		{"predicate": {"custom_model_data": 4028}, "model": "projecteden/costumes/hat/misc/traffic_cone"},
 
-		{"predicate": {"custom_model_data": 4997}, "model": "projecteden/items/decoration/master_paintbrush"},
+		{"predicate": {"custom_model_data": 4997}, "model": "projecteden/items/decoration/paintbrush_creative"},
 		{"predicate": {"custom_model_data": 4998}, "model": "projecteden/items/decoration/counter_wooden"},
 		{"predicate": {"custom_model_data": 4999}, "model": "projecteden/items/decoration/paintbrush"},
 
