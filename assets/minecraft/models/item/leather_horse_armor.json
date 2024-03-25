@@ -1169,7 +1169,7 @@
 		{"predicate": {"custom_model_data": 4027}, "model": "projecteden/costumes/hat/misc/straw"},
 		{"predicate": {"custom_model_data": 4028}, "model": "projecteden/costumes/hat/misc/traffic_cone"},
 
-		{"predicate": {"custom_model_data": 4997}, "model": "projecteden/items/decoration/master_paintbrush"},
+		{"predicate": {"custom_model_data": 4997}, "model": "projecteden/items/decoration/paintbrush_creative"},
 		{"predicate": {"custom_model_data": 4998}, "model": "projecteden/items/decoration/counter_wooden"},
 		{"predicate": {"custom_model_data": 4999}, "model": "projecteden/items/decoration/paintbrush"},
 
