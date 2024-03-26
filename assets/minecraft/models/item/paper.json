@@ -1338,6 +1338,8 @@
 		{"predicate": {"custom_model_data": 20406}, "model": "projecteden/blocks/lanterns/paper/dark_oak_paper_lantern"},
 		{"predicate": {"custom_model_data": 20407}, "model": "projecteden/blocks/lanterns/crimson_lantern"},
 		{"predicate": {"custom_model_data": 20408}, "model": "projecteden/blocks/lanterns/warped_lantern"},
+		{"predicate": {"custom_model_data": 20409}, "model": "projecteden/blocks/lanterns/paper/cherry_paper_lantern"},
+		{"predicate": {"custom_model_data": 20410}, "model": "projecteden/blocks/lanterns/paper/bamboo_paper_lantern"},
 
 		{"predicate": {"custom_model_data": 20450}, "model": "block/note_block"},
 
