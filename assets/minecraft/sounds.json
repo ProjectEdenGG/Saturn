@@ -5,12 +5,12 @@
 	},
 	"custom.block.wood.step":{
 		"sounds":[
-			"step/wood1",
-			"step/wood2",
-			"step/wood3",
-			"step/wood4",
-			"step/wood5",
-			"step/wood6"
+			{ "name": "step/wood1" },
+			{ "name": "step/wood2" },
+			{ "name": "step/wood3" },
+			{ "name": "step/wood4" },
+			{ "name": "step/wood5" },
+			{ "name": "step/wood6" }
 		],
 		"replace":true,
 		"subtitle":"subtitles.block.generic.footsteps"
@@ -21,10 +21,10 @@
 	},
 	"custom.block.wood.break":{
 		"sounds":[
-			"dig/wood1",
-			"dig/wood2",
-			"dig/wood3",
-			"dig/wood4"
+			{ "name": "dig/wood1" },
+			{ "name": "dig/wood2" },
+			{ "name": "dig/wood3" },
+			{ "name": "dig/wood4" }
 		],
 		"subtitle":"subtitles.block.generic.break"
 	},
@@ -34,10 +34,10 @@
 	},
 	"custom.block.wood.place":{
 		"sounds":[
-			"dig/wood1",
-			"dig/wood2",
-			"dig/wood3",
-			"dig/wood4"
+			{ "name": "dig/wood1" },
+			{ "name": "dig/wood2" },
+			{ "name": "dig/wood3" },
+			{ "name": "dig/wood4" }
 		],
 		"subtitle":"subtitles.block.generic.place"
 	},
@@ -47,12 +47,12 @@
 	},
 	"custom.block.wood.hit":{
 		"sounds":[
-			"step/wood1",
-			"step/wood2",
-			"step/wood3",
-			"step/wood4",
-			"step/wood5",
-			"step/wood6"
+			{ "name": "step/wood1" },
+			{ "name": "step/wood2" },
+			{ "name": "step/wood3" },
+			{ "name": "step/wood4" },
+			{ "name": "step/wood5" },
+			{ "name": "step/wood6" }
 		],
 		"subtitle":"subtitles.block.generic.hit"
 	},
@@ -62,12 +62,12 @@
 	},
 	"custom.block.wood.fall":{
 		"sounds":[
-			"step/wood1",
-			"step/wood2",
-			"step/wood3",
-			"step/wood4",
-			"step/wood5",
-			"step/wood6"
+			{ "name": "step/wood1" },
+			{ "name": "step/wood2" },
+			{ "name": "step/wood3" },
+			{ "name": "step/wood4" },
+			{ "name": "step/wood5" },
+			{ "name": "step/wood6" }
 		]
 	},
 	"block.stone.step":{
@@ -76,12 +76,12 @@
 	},
 	"custom.block.stone.step":{
 		"sounds":[
-			"step/stone1",
-			"step/stone2",
-			"step/stone3",
-			"step/stone4",
-			"step/stone5",
-			"step/stone6"
+			{ "name": "step/stone1" },
+			{ "name": "step/stone2" },
+			{ "name": "step/stone3" },
+			{ "name": "step/stone4" },
+			{ "name": "step/stone5" },
+			{ "name": "step/stone6" }
 		],
 		"replace":true,
 		"subtitle":"subtitles.block.generic.footsteps"
@@ -92,10 +92,10 @@
 	},
 	"custom.block.stone.break":{
 		"sounds":[
-			"dig/stone1",
-			"dig/stone2",
-			"dig/stone3",
-			"dig/stone4"
+			{ "name": "dig/stone1" },
+			{ "name": "dig/stone2" },
+			{ "name": "dig/stone3" },
+			{ "name": "dig/stone4" }
 		],
 		"subtitle":"subtitles.block.generic.break"
 	},
@@ -105,10 +105,10 @@
 	},
 	"custom.block.stone.place":{
 		"sounds":[
-			"dig/stone1",
-			"dig/stone2",
-			"dig/stone3",
-			"dig/stone4"
+			{ "name": "dig/stone1" },
+			{ "name": "dig/stone2" },
+			{ "name": "dig/stone3" },
+			{ "name": "dig/stone4" }
 		],
 		"subtitle":"subtitles.block.generic.place"
 	},
@@ -118,12 +118,12 @@
 	},
 	"custom.block.stone.hit":{
 		"sounds":[
-			"step/stone1",
-			"step/stone2",
-			"step/stone3",
-			"step/stone4",
-			"step/stone5",
-			"step/stone6"
+			{ "name": "step/stone1" },
+			{ "name": "step/stone2" },
+			{ "name": "step/stone3" },
+			{ "name": "step/stone4" },
+			{ "name": "step/stone5" },
+			{ "name": "step/stone6" }
 		],
 		"subtitle":"subtitles.block.generic.hit"
 	},
@@ -133,12 +133,12 @@
 	},
 	"custom.block.stone.fall":{
 		"sounds":[
-			"step/stone1",
-			"step/stone2",
-			"step/stone3",
-			"step/stone4",
-			"step/stone5",
-			"step/stone6"
+			{ "name": "step/stone1" },
+			{ "name": "step/stone2" },
+			{ "name": "step/stone3" },
+			{ "name": "step/stone4" },
+			{ "name": "step/stone5" },
+			{ "name": "step/stone6" }
 		]
 	},
 	"block.chest.locked": {
@@ -213,13 +213,13 @@
 	},
 	"custom.weather.thunder": {
 		"sounds":[
-			{ "name": "custom/ambient/weather/thunder_distant_1"},
-			{ "name": "custom/ambient/weather/thunder_distant_2"},
-			{ "name": "custom/ambient/weather/thunder_distant_3"},
-			{ "name": "custom/ambient/weather/thunder_distant_4"},
-			{ "name": "custom/ambient/weather/thunder_distant_5"},
-			{ "name": "custom/ambient/weather/thunder_distant_6"},
-			{ "name": "custom/ambient/weather/thunder_distant_7"}
+			{ "name": "custom/ambient/weather/thunder_distant_1" },
+			{ "name": "custom/ambient/weather/thunder_distant_2" },
+			{ "name": "custom/ambient/weather/thunder_distant_3" },
+			{ "name": "custom/ambient/weather/thunder_distant_4" },
+			{ "name": "custom/ambient/weather/thunder_distant_5" },
+			{ "name": "custom/ambient/weather/thunder_distant_6" },
+			{ "name": "custom/ambient/weather/thunder_distant_7" }
 		]
 	},
 	"custom.ambient.misc.watermill": {
