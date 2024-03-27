@@ -1,10 +1,9 @@
 {
-	"credit": "mr_ch0c0late",
 	"ambientocclusion": false,
 	"render_type": "minecraft:cutout",
 	"textures": {
 		"dirt": "block/flower_pot_soil",
-		"particle": "#flowerpot",
+		"particle": "block/custom_flower_pot",
 		"flowerpot": "block/custom_flower_pot"
 	},
 	"elements": [
@@ -12,7 +11,7 @@
 			"from": [6, 0, 6],
 			"to": [10, 4, 10],
 			"faces": {
-				"up": {"uv": [12, 4, 16, 8], "texture": "#dirt"},
+				"up": {"uv": [6, 2, 8, 4], "texture": "#dirt"},
 				"down": {"uv": [7, 5, 11, 9], "texture": "#flowerpot", "cullface": "down"}
 			}
 		},

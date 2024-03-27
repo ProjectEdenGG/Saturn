@@ -1,8 +1,8 @@
 {
-	"credit": "mr_ch0c0late",
 	"ambientocclusion": false,
+	"render_type": "minecraft:cutout",
 	"textures": {
-		"particle": "#flowerpot",
+		"particle": "block/custom_flower_pot",
 		"flowerpot": "block/custom_flower_pot",
 		"dirt": "block/flower_pot_soil",
 		"bamboo": "block/bamboo_stalk",
@@ -49,7 +49,7 @@
 				"east": {"uv": [5, 12, 1, 10], "texture": "#flowerpot"},
 				"south": {"uv": [5, 12, 1, 10], "texture": "#flowerpot"},
 				"west": {"uv": [5, 12, 1, 10], "texture": "#flowerpot"},
-				"up": {"uv": [4, 4, 8, 8], "texture": "#dirt"}
+				"up": {"uv": [2, 2, 4, 4], "texture": "#dirt"}
 			}
 		}
 	]
