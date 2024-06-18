@@ -66,6 +66,7 @@
 		{"predicate": {"custom_model_data": 128}, "model": "projecteden/decoration/books/book_stack_1"},
 		{"predicate": {"custom_model_data": 129}, "model": "projecteden/decoration/books/book_stack_2"},
 		{"predicate": {"custom_model_data": 130}, "model": "projecteden/decoration/books/book_stack_3"},
+		{"predicate": {"custom_model_data": 131}, "model": "projecteden/decoration/well"},
 
 		{"predicate": {"custom_model_data": 200}, "model": "projecteden/decoration/plushies/mob/axolotl"},
 		{"predicate": {"custom_model_data": 201}, "model": "projecteden/decoration/plushies/mob/creeper"},
@@ -1168,6 +1169,7 @@
 		{"predicate": {"custom_model_data": 4026}, "model": "projecteden/costumes/hat/misc/santa_hat_with_beard"},
 		{"predicate": {"custom_model_data": 4027}, "model": "projecteden/costumes/hat/misc/straw"},
 		{"predicate": {"custom_model_data": 4028}, "model": "projecteden/costumes/hat/misc/traffic_cone"},
+		{"predicate": {"custom_model_data": 4029}, "model": "projecteden/costumes/hat/misc/party_hat"},
 
 		{"predicate": {"custom_model_data": 4997}, "model": "projecteden/items/decoration/paintbrush_creative"},
 		{"predicate": {"custom_model_data": 4998}, "model": "projecteden/items/decoration/counter_wooden"},
