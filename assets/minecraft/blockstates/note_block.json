@@ -1,0 +1,20 @@
+{
+	"variants":{
+		"instrument=xylophone,note=1,powered=false":[{"model":"projecteden/blocks/shulker/red"}],
+		"instrument=xylophone,note=2,powered=false":[{"model":"projecteden/blocks/shulker/orange"}],
+		"instrument=xylophone,note=3,powered=false":[{"model":"projecteden/blocks/shulker/yellow"}],
+		"instrument=xylophone,note=4,powered=false":[{"model":"projecteden/blocks/shulker/lime"}],
+		"instrument=xylophone,note=5,powered=false":[{"model":"projecteden/blocks/shulker/green"}],
+		"instrument=xylophone,note=6,powered=false":[{"model":"projecteden/blocks/shulker/cyan"}],
+		"instrument=xylophone,note=7,powered=false":[{"model":"projecteden/blocks/shulker/light_blue"}],
+		"instrument=xylophone,note=8,powered=false":[{"model":"projecteden/blocks/shulker/blue"}],
+		"instrument=xylophone,note=9,powered=false":[{"model":"projecteden/blocks/shulker/purple"}],
+		"instrument=xylophone,note=10,powered=false":[{"model":"projecteden/blocks/shulker/magenta"}],
+		"instrument=xylophone,note=11,powered=false":[{"model":"projecteden/blocks/shulker/pink"}],
+		"instrument=xylophone,note=12,powered=false":[{"model":"projecteden/blocks/shulker/brown"}],
+		"instrument=xylophone,note=13,powered=false":[{"model":"projecteden/blocks/shulker/black"}],
+		"instrument=xylophone,note=14,powered=false":[{"model":"projecteden/blocks/shulker/gray"}],
+		"instrument=xylophone,note=15,powered=false":[{"model":"projecteden/blocks/shulker/light_gray"}],
+		"instrument=xylophone,note=16,powered=false":[{"model":"projecteden/blocks/shulker/white"}]
+	}
+}
