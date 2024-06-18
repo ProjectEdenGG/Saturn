@@ -101,28 +101,43 @@
 			"height":-533,
 			"chars":["柱"]
 		},
-		
+
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/pugmas_advent_1.png",
+			"file":"projecteden/font/gui/pugmas/pugmas_advent_open.png",
+			"ascent":19,
+			"height":128,
+			"chars":["岔"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/pugmas/pugmas21_advent_1.png",
 			"ascent":19,
 			"height":256,
 			"chars":["盆"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/pugmas_advent_2.png",
+			"file":"projecteden/font/gui/pugmas/pugmas21_advent_2.png",
 			"ascent":19,
 			"height":256,
 			"chars":["鉊"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/pugmas_advent_open.png",
+			"file":"projecteden/font/gui/pugmas/pugmas24_advent_1.png",
 			"ascent":19,
-			"height":128,
-			"chars":["岔"]
+			"height":256,
+			"chars":["丫"]
 		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/pugmas/pugmas24_advent_2.png",
+			"ascent":19,
+			"height":256,
+			"chars":["勹"]
+		},
+
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/dye_station/dye_station.png",
