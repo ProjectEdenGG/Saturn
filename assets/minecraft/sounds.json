@@ -92,6 +92,18 @@
 			{ "name": "custom/ambient/misc/millstone" }
 		]
 	},
+	"custom.ambient.misc.ground_rumble": {
+		"subtitle": "Ground rumbling",
+		"sounds": [
+			{ "name": "custom/ambient/misc/ground_rumble" }
+		]
+	},
+	"custom.ambient.misc.geyser": {
+		"subtitle": "Geyser erupting",
+		"sounds": [
+			{ "name": "custom/ambient/misc/geyser" }
+		]
+	},
 	"custom.ambient.windchimes.metal": {
 		"sounds": [
 			{ "name": "custom/ambient/windchimes/metal_1" },
