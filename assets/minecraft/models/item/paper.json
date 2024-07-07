@@ -618,6 +618,7 @@
 		{"predicate": {"custom_model_data": 6244}, "model": "projecteden/decoration/fireplace_dark_plain_soul"},
 		{"predicate": {"custom_model_data": 6245}, "model": "projecteden/decoration/fireplace_white_plain_soul"},
 		{"predicate": {"custom_model_data": 6246}, "model": "projecteden/decoration/fireplace_brown_plain_soul"},
+		{"predicate": {"custom_model_data": 6247}, "model": "projecteden/decoration/wind_mill_arm"},
 
 		{"predicate": {"custom_model_data": 6300}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak"},
 		{"predicate": {"custom_model_data": 6301}, "model": "projecteden/decoration/furniture/chairs/stumps/stump_oak_roots"},
