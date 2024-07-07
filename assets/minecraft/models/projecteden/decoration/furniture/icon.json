@@ -1,5 +1,5 @@
 {
-	"parent": "projecteden/decoration/furniture/tables/1x1",
+	"parent": "projecteden/decoration/furniture/tables/wooden_1x1",
 	"textures": {
 		"1": "projecteden/decoration/dyeable/wooden_set_1_oak"
 	}
