@@ -1389,7 +1389,6 @@
 		{"predicate": {"custom_model_data": 21123}, "model": "projecteden/blocks/flora/bluebell_item"},
 		{"predicate": {"custom_model_data": 21124}, "model": "projecteden/blocks/flora/purple_hibiscus_item"},
 
-		{"predicate": {"custom_model_data": 22000}, "model": "projecteden/costumes/hand/misc/pirate_hook"},
 		{"predicate": {"custom_model_data": 22001}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_steve"},
 		{"predicate": {"custom_model_data": 22002}, "model": "projecteden/costumes/hand/misc/rainbow_bracelet_alex"},
 		{"predicate": {"custom_model_data": 22003}, "model": "projecteden/costumes/hand/misc/flower_bracelet_steve"},
