@@ -329,7 +329,7 @@
 		{"predicate": {"custom_model_data": 2070}, "model": "projecteden/blocks/rocks/pebbles_0"},
 		{"predicate": {"custom_model_data": 2071}, "model": "projecteden/blocks/rocks/pebbles_1"},
 		{"predicate": {"custom_model_data": 2072}, "model": "projecteden/blocks/rocks/pebbles_2"},
-		{"predicate": {"custom_model_data": 2073}, "model": "projecteden/items/decoration/magic_metal"},
+		{"predicate": {"custom_model_data": 2073}, "model": "projecteden/items/decoration/magic_mineral"},
 
 		{"predicate": {"custom_model_data": 2100}, "model": "projecteden/items/electronics/motherboard"},
 		{"predicate": {"custom_model_data": 2101}, "model": "projecteden/items/electronics/controller_unit"},

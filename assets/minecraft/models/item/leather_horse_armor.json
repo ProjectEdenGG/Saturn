@@ -34,7 +34,7 @@
 		{"predicate": {"custom_model_data": 34}, "model": "projecteden/decoration/potions/filled/groups/16"},
 		{"predicate": {"custom_model_data": 35}, "model": "projecteden/decoration/potions/filled/groups/17"},
 		{"predicate": {"custom_model_data": 36}, "model": "projecteden/decoration/potions/filled/groups/18"},
-		{"predicate": {"custom_model_data": 37}, "model": "projecteden/ui/gui/dye_station/button_metal"},
+		{"predicate": {"custom_model_data": 37}, "model": "projecteden/ui/gui/dye_station/button_mineral"},
 
 		{"predicate": {"custom_model_data": 100}, "model": "projecteden/decoration/trash_can"},
 		{"predicate": {"custom_model_data": 101}, "model": "projecteden/decoration/umbrella"},
