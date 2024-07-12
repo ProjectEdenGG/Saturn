@@ -1147,6 +1147,7 @@
 		{"predicate": {"custom_model_data": 11205}, "model": "projecteden/events/pugmas21/terrain/6"},
 
 		{"predicate": {"custom_model_data": 12000}, "model": "projecteden/events/bearfair21/ferriswheel_cart"},
+		{"predicate": {"custom_model_data": 12001}, "model": "projecteden/events/rides/ferris_wheel_cart"},
 
 		{"predicate": {"custom_model_data": 12100}, "model": "projecteden/events/vote/pinata_llama"},
 
