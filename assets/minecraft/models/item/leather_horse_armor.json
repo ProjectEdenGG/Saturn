@@ -1353,6 +1353,7 @@
 		{"predicate": {"custom_model_data": 10106}, "model": "projecteden/ui/gui/voucher"},
 		{"predicate": {"custom_model_data": 10107}, "model": "projecteden/ui/gui/rotate_right"},
 		{"predicate": {"custom_model_data": 10108}, "model": "projecteden/ui/gui/rotate_left"},
+		{"predicate": {"custom_model_data": 10109}, "model": "projecteden/ui/gui/trashcan"},
 
 		{"predicate": {"custom_model_data": 10300}, "model": "projecteden/decoration/electronics/star_projector"},
 
