@@ -1363,6 +1363,8 @@
 		{"predicate": {"custom_model_data": 11004}, "model": "projecteden/functional/backpacks/backpack_3d_netherite"},
 
 		{"predicate": {"custom_model_data": 15000}, "model": "projecteden/minigames/checkers/piece"},
-		{"predicate": {"custom_model_data": 15001}, "model": "projecteden/minigames/checkers/piece_king"}
+		{"predicate": {"custom_model_data": 15001}, "model": "projecteden/minigames/checkers/piece_king"},
+
+		{"predicate": {"custom_model_data": 16000}, "model": "projecteden/items/paintbrush_events"}
 	]
 }
