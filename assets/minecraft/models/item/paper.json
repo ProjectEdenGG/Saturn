@@ -1148,6 +1148,10 @@
 
 		{"predicate": {"custom_model_data": 12000}, "model": "projecteden/events/bearfair21/ferriswheel_cart"},
 		{"predicate": {"custom_model_data": 12001}, "model": "projecteden/events/rides/ferris_wheel_cart"},
+		{"predicate": {"custom_model_data": 12002}, "model": "projecteden/events/vulan24/water_lantern"},
+		{"predicate": {"custom_model_data": 12003}, "model": "projecteden/events/vulan24/water_lantern_without_board"},
+		{"predicate": {"custom_model_data": 12004}, "model": "projecteden/events/vulan24/water_lantern_big"},
+		{"predicate": {"custom_model_data": 12005}, "model": "projecteden/events/vulan24/water_lantern_big_without_board"},
 
 		{"predicate": {"custom_model_data": 12100}, "model": "projecteden/events/vote/pinata_llama"},
 
