@@ -57,8 +57,8 @@
 			"translation": [0, 3.75, 0]
 		},
 		"head": {
-			"translation": [0, 5.5, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0, 15.25, 0],
+			"scale": [2.5, 2.5, 2.5]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
