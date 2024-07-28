@@ -6,6 +6,13 @@
 	"overrides": [
 		{"predicate": {"cast": 1}, "model": "item/fishing_rod_cast"},
 
+		{"predicate": {"custom_model_data": 100}, "model": "projecteden/events/pugmas24/fishing_rod_wood"},
+		{"predicate": {"custom_model_data": 100, "cast": 1}, "model": "projecteden/events/pugmas24/fishing_rod_wood_cast"},
+		{"predicate": {"custom_model_data": 101}, "model": "projecteden/events/pugmas24/fishing_rod_reinforced"},
+		{"predicate": {"custom_model_data": 101, "cast": 1}, "model": "projecteden/events/pugmas24/fishing_rod_reinforced_cast"},
+		{"predicate": {"custom_model_data": 102}, "model": "projecteden/events/pugmas24/fishing_rod_golden"},
+		{"predicate": {"custom_model_data": 102, "cast": 1}, "model": "projecteden/events/pugmas24/fishing_rod_golden_cast"},
+
 		{"predicate": {"custom_model_data": 1000}, "model": "projecteden/items/skins/adamantite/fishing_rod"},
 		{"predicate": {"custom_model_data": 1000, "cast": 1}, "model": "projecteden/items/skins/adamantite/fishing_rod_cast"},
 
