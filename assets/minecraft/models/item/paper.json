@@ -586,7 +586,7 @@
 		{"predicate": {"custom_model_data": 6211}, "model": "projecteden/decoration/legacy/trafficcone"},
 		{"predicate": {"custom_model_data": 6212}, "model": "projecteden/decoration/saw_half"},
 		{"predicate": {"custom_model_data": 6213}, "model": "projecteden/decoration/saw_full"},
-		{"predicate": {"custom_model_data": 6214}, "model": "projecteden/decoration/exclamation"},
+		{"predicate": {"custom_model_data": 6214}, "model": "projecteden/events/exclamation"},
 		{"predicate": {"custom_model_data": 6215}, "model": "projecteden/decoration/fireplace_dark_plain"},
 		{"predicate": {"custom_model_data": 6216}, "model": "projecteden/decoration/fireplace_brown_plain"},
 		{"predicate": {"custom_model_data": 6217}, "model": "projecteden/decoration/fireplace_white_plain"},
