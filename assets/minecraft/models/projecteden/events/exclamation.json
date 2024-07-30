@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"alert": "projecteden/blocks/alert"
+		"alert": "projecteden/events/alert"
 	},
 	"elements": [
 		{
@@ -75,7 +75,7 @@
 			"scale": [1.6, 1.6, 1.6]
 		},
 		"head": {
-			"translation": [0, -29.25, 0],
+			"translation": [0, 14, 0],
 			"scale": [2, 2, 2]
 		},
 		"fixed": {
