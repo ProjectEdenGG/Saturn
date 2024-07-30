@@ -1366,6 +1366,7 @@
 		{"predicate": {"custom_model_data": 15000}, "model": "projecteden/minigames/checkers/piece"},
 		{"predicate": {"custom_model_data": 15001}, "model": "projecteden/minigames/checkers/piece_king"},
 
-		{"predicate": {"custom_model_data": 16000}, "model": "projecteden/items/paintbrush_events"}
+		{"predicate": {"custom_model_data": 16000}, "model": "projecteden/items/paintbrush_events"},
+		{"predicate": {"custom_model_data": 16001}, "model": "projecteden/events/exclamation"}
 	]
 }
