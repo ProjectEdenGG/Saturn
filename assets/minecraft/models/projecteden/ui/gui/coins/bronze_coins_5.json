@@ -1,6 +1,6 @@
 {
 	"parent": "projecteden/ui/gui/coins/template_coin",
 	"textures": {
-		"layer0": "projecteden/ui/gui/coins/gold_coins_5"
+		"layer0": "projecteden/ui/gui/coins/bronze_coins_5"
 	}
 }
