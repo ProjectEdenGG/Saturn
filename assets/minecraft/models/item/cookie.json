@@ -124,6 +124,8 @@
 		{"predicate": {"custom_model_data": 176}, "model": "projecteden/items/food/candy/wrapped/15"},
 		{"predicate": {"custom_model_data": 177}, "model": "projecteden/items/food/candy/wrapped/16"},
 
+		{"predicate": {"custom_model_data": 500}, "model": "projecteden/events/items/heart_crystal"},
+
 		{"predicate": {"custom_model_data": 10000}, "model": "minecraft:item/beetroot_soup"},
 		{"predicate": {"custom_model_data": 10001}, "model": "minecraft:item/mushroom_stew"},
 		{"predicate": {"custom_model_data": 10002}, "model": "minecraft:item/rabbit_stew"}

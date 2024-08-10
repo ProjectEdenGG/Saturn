@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/events/items/template_item",
+	"textures": {
+		"layer0": "projecteden/events/items/compass"
+	}
+}
