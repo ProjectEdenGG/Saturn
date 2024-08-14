@@ -16,6 +16,7 @@
 ,	{"predicate": {"custom_model_data": 10}, "model": "projecteden/decoration/plushies/player/standing/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 11}, "model": "projecteden/decoration/plushies/player/standing/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 12}, "model": "projecteden/decoration/plushies/player/standing/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 13}, "model": "projecteden/decoration/plushies/player/standing/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 10001}, "model": "projecteden/decoration/plushies/player/walking/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 10002}, "model": "projecteden/decoration/plushies/player/walking/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 10003}, "model": "projecteden/decoration/plushies/player/walking/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -28,6 +29,7 @@
 ,	{"predicate": {"custom_model_data": 10010}, "model": "projecteden/decoration/plushies/player/walking/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 10011}, "model": "projecteden/decoration/plushies/player/walking/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 10012}, "model": "projecteden/decoration/plushies/player/walking/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 10013}, "model": "projecteden/decoration/plushies/player/walking/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 20001}, "model": "projecteden/decoration/plushies/player/t_pose/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 20002}, "model": "projecteden/decoration/plushies/player/t_pose/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 20003}, "model": "projecteden/decoration/plushies/player/t_pose/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -40,6 +42,7 @@
 ,	{"predicate": {"custom_model_data": 20010}, "model": "projecteden/decoration/plushies/player/t_pose/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 20011}, "model": "projecteden/decoration/plushies/player/t_pose/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 20012}, "model": "projecteden/decoration/plushies/player/t_pose/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 20013}, "model": "projecteden/decoration/plushies/player/t_pose/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 30001}, "model": "projecteden/decoration/plushies/player/handstand/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 30002}, "model": "projecteden/decoration/plushies/player/handstand/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 30003}, "model": "projecteden/decoration/plushies/player/handstand/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -52,6 +55,7 @@
 ,	{"predicate": {"custom_model_data": 30010}, "model": "projecteden/decoration/plushies/player/handstand/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 30011}, "model": "projecteden/decoration/plushies/player/handstand/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 30012}, "model": "projecteden/decoration/plushies/player/handstand/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 30013}, "model": "projecteden/decoration/plushies/player/handstand/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 40001}, "model": "projecteden/decoration/plushies/player/sitting/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 40002}, "model": "projecteden/decoration/plushies/player/sitting/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 40003}, "model": "projecteden/decoration/plushies/player/sitting/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -64,6 +68,7 @@
 ,	{"predicate": {"custom_model_data": 40010}, "model": "projecteden/decoration/plushies/player/sitting/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 40011}, "model": "projecteden/decoration/plushies/player/sitting/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 40012}, "model": "projecteden/decoration/plushies/player/sitting/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 40013}, "model": "projecteden/decoration/plushies/player/sitting/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 50001}, "model": "projecteden/decoration/plushies/player/dabbing/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 50002}, "model": "projecteden/decoration/plushies/player/dabbing/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 50003}, "model": "projecteden/decoration/plushies/player/dabbing/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -76,6 +81,7 @@
 ,	{"predicate": {"custom_model_data": 50010}, "model": "projecteden/decoration/plushies/player/dabbing/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 50011}, "model": "projecteden/decoration/plushies/player/dabbing/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 50012}, "model": "projecteden/decoration/plushies/player/dabbing/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 50013}, "model": "projecteden/decoration/plushies/player/dabbing/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 60001}, "model": "projecteden/decoration/plushies/player/riding_minecart/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 60002}, "model": "projecteden/decoration/plushies/player/riding_minecart/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 60003}, "model": "projecteden/decoration/plushies/player/riding_minecart/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -88,6 +94,7 @@
 ,	{"predicate": {"custom_model_data": 60010}, "model": "projecteden/decoration/plushies/player/riding_minecart/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 60011}, "model": "projecteden/decoration/plushies/player/riding_minecart/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 60012}, "model": "projecteden/decoration/plushies/player/riding_minecart/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 60013}, "model": "projecteden/decoration/plushies/player/riding_minecart/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 70001}, "model": "projecteden/decoration/plushies/player/holding_globe/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 70002}, "model": "projecteden/decoration/plushies/player/holding_globe/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 70003}, "model": "projecteden/decoration/plushies/player/holding_globe/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -100,6 +107,7 @@
 ,	{"predicate": {"custom_model_data": 70010}, "model": "projecteden/decoration/plushies/player/holding_globe/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 70011}, "model": "projecteden/decoration/plushies/player/holding_globe/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 70012}, "model": "projecteden/decoration/plushies/player/holding_globe/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 70013}, "model": "projecteden/decoration/plushies/player/holding_globe/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 80001}, "model": "projecteden/decoration/plushies/player/waving/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 80002}, "model": "projecteden/decoration/plushies/player/waving/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 80003}, "model": "projecteden/decoration/plushies/player/waving/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -112,6 +120,7 @@
 ,	{"predicate": {"custom_model_data": 80010}, "model": "projecteden/decoration/plushies/player/waving/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 80011}, "model": "projecteden/decoration/plushies/player/waving/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 80012}, "model": "projecteden/decoration/plushies/player/waving/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 80013}, "model": "projecteden/decoration/plushies/player/waving/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 90001}, "model": "projecteden/decoration/plushies/player/funko_pop/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 90002}, "model": "projecteden/decoration/plushies/player/funko_pop/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 90003}, "model": "projecteden/decoration/plushies/player/funko_pop/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -124,6 +133,7 @@
 ,	{"predicate": {"custom_model_data": 90010}, "model": "projecteden/decoration/plushies/player/funko_pop/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"}
 ,	{"predicate": {"custom_model_data": 90011}, "model": "projecteden/decoration/plushies/player/funko_pop/1d70383f-21ba-4b8b-a0b4-6c327fbdade1"}
 ,	{"predicate": {"custom_model_data": 90012}, "model": "projecteden/decoration/plushies/player/funko_pop/1450eb3c-f1ec-4061-98b3-7857dad8f00d"}
+,	{"predicate": {"custom_model_data": 90013}, "model": "projecteden/decoration/plushies/player/funko_pop/4f06f692-0b42-4706-9193-bcc716ce5936"}
 ,	{"predicate": {"custom_model_data": 100001}, "model": "minecraft:item/barrier"}
 ,	{"predicate": {"custom_model_data": 100002}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/e9e07315-d32c-4df7-bd05-acfe51108234"}
 ,	{"predicate": {"custom_model_data": 100003}, "model": "projecteden/decoration/plushies/player/funko_pop_admin/a4274d94-10f2-4663-af3b-a842c7ec729c"}
@@ -136,6 +146,7 @@
 ,	{"predicate": {"custom_model_data": 100010}, "model": "minecraft:item/barrier"}
 ,	{"predicate": {"custom_model_data": 100011}, "model": "minecraft:item/barrier"}
 ,	{"predicate": {"custom_model_data": 100012}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 100013}, "model": "minecraft:item/barrier"}
 ,	{"predicate": {"custom_model_data": 110001}, "model": "projecteden/decoration/plushies/player/funko_pop_owner/86d7e0e2-c95e-4f22-8f99-a6e83b398307"}
 ,	{"predicate": {"custom_model_data": 110002}, "model": "minecraft:item/barrier"}
 ,	{"predicate": {"custom_model_data": 110003}, "model": "minecraft:item/barrier"}
@@ -148,6 +159,7 @@
 ,	{"predicate": {"custom_model_data": 110010}, "model": "minecraft:item/barrier"}
 ,	{"predicate": {"custom_model_data": 110011}, "model": "minecraft:item/barrier"}
 ,	{"predicate": {"custom_model_data": 110012}, "model": "minecraft:item/barrier"}
+,	{"predicate": {"custom_model_data": 110013}, "model": "minecraft:item/barrier"}
 
 		]
 	}
