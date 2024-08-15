@@ -152,6 +152,12 @@
 			{ "name": "custom/misc/party_horn_2" }
 		]
 	},
+	"custom.misc.party_hooray": {
+		"subtitle": "Hooray!",
+		"sounds": [
+			{ "name": "custom/misc/party_hooray" }
+		]
+	},
 	"custom.misc.you_got_mail": {
 		"subtitle": "You got mail!",
 		"sounds": [
