@@ -1135,17 +1135,21 @@
 		{"predicate": {"custom_model_data": 11017}, "model": "projecteden/events/pugmas21/train/17"},
 		{"predicate": {"custom_model_data": 11018}, "model": "projecteden/events/pugmas21/train/18"},
 		{"predicate": {"custom_model_data": 11019}, "model": "projecteden/events/pugmas21/train/rail"},
+		{"predicate": {"custom_model_data": 11020}, "model": "projecteden/events/pugmas21/train/3_pugmas24"},
+
 		{"predicate": {"custom_model_data": 11031}, "model": "projecteden/events/pugmas21/hot_air_balloon/1/1"},
 		{"predicate": {"custom_model_data": 11032}, "model": "projecteden/events/pugmas21/hot_air_balloon/1/2"},
 		{"predicate": {"custom_model_data": 11033}, "model": "projecteden/events/pugmas21/hot_air_balloon/1/3"},
 		{"predicate": {"custom_model_data": 11034}, "model": "projecteden/events/pugmas21/hot_air_balloon/1/4"},
 		{"predicate": {"custom_model_data": 11035}, "model": "projecteden/events/pugmas21/hot_air_balloon/1/5"},
+
 		{"predicate": {"custom_model_data": 11200}, "model": "projecteden/events/pugmas21/terrain/1"},
 		{"predicate": {"custom_model_data": 11201}, "model": "projecteden/events/pugmas21/terrain/2"},
 		{"predicate": {"custom_model_data": 11202}, "model": "projecteden/events/pugmas21/terrain/3"},
 		{"predicate": {"custom_model_data": 11203}, "model": "projecteden/events/pugmas21/terrain/4"},
 		{"predicate": {"custom_model_data": 11204}, "model": "projecteden/events/pugmas21/terrain/5"},
 		{"predicate": {"custom_model_data": 11205}, "model": "projecteden/events/pugmas21/terrain/6"},
+
 
 		{"predicate": {"custom_model_data": 11210}, "model": "projecteden/events/items/template_item"},
 		{"predicate": {"custom_model_data": 11211}, "model": "projecteden/events/items/discount_card"},
