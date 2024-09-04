@@ -1740,6 +1740,55 @@
 			"ascent":19,
 			"height":256,
 			"chars":["千"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/decoration.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["策"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/seat.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["谣"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/playable.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["麒"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/craftable.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["殷"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/toggleable.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["腈"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/interactable.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["晖"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/addition.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["香"]
 		}
 	]
 }
