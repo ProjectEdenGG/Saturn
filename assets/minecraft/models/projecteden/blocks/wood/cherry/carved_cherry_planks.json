@@ -1,1 +1,1 @@
-{"parent":"block/cube_column","textures":{"side":"projecteden/blocks/wood/cherry/carved_cherry_planks","end":"projecteden/blocks/wood/cherry/carved_cherry_planks_top","particle":"projecteden/blocks/wood/cherry/carved_cherry_planks"}}
+{"parent":"projecteden/blocks/template/cube_column","textures":{"side":"projecteden/blocks/wood/cherry/carved_cherry_planks","end":"projecteden/blocks/wood/cherry/carved_cherry_planks_top","particle":"projecteden/blocks/wood/cherry/carved_cherry_planks"}}

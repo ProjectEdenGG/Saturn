@@ -1,1 +1,1 @@
-{"parent":"block/cube_all","textures":{"all":"projecteden/blocks/concrete/bricks/red"}}
+{"parent":"projecteden/blocks/template/cube_all","textures":{"all":"projecteden/blocks/concrete/bricks/red"}}

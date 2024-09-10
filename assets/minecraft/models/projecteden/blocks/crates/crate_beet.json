@@ -1,4 +1,4 @@
-{"parent":"block/cube_column",
+{"parent":"projecteden/blocks/template/cube_column",
 	"textures":{
 		"particle":"projecteden/blocks/crates/crate_beet_side",
 		"side":"projecteden/blocks/crates/crate_beet_side",

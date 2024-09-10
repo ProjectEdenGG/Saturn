@@ -1,1 +1,1 @@
-{"parent":"block/cube_column","textures":{"side":"projecteden/blocks/stones/stone/chiseled_stone_side","end":"projecteden/blocks/stones/stone/chiseled_stone_top","particle":"projecteden/blocks/stones/stone/chiseled_stone_side"}}
+{"parent":"projecteden/blocks/template/cube_column","textures":{"side":"projecteden/blocks/stones/stone/chiseled_stone_side","end":"projecteden/blocks/stones/stone/chiseled_stone_top","particle":"projecteden/blocks/stones/stone/chiseled_stone_side"}}

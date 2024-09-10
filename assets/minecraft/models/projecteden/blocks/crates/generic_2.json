@@ -1,4 +1,4 @@
-{"parent":"block/cube_all",
+{"parent":"projecteden/blocks/template/cube_all",
 	"textures":{"all":"projecteden/blocks/crates/generic_2"},
 	"display":{
 		"thirdperson_lefthand":{
