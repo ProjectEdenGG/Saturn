@@ -1,1 +1,1 @@
-{"parent":"block/cube_column","textures":{"side":"projecteden/blocks/lanterns/paper/dark_oak_paper_lantern_side","end":"projecteden/blocks/lanterns/paper/dark_oak_paper_lantern_top","particle":"projecteden/blocks/lanterns/paper/dark_oak_paper_lantern_side"}}
+{"parent":"projecteden/blocks/template/cube_column","textures":{"side":"projecteden/blocks/lanterns/paper/dark_oak_paper_lantern_side","end":"projecteden/blocks/lanterns/paper/dark_oak_paper_lantern_top","particle":"projecteden/blocks/lanterns/paper/dark_oak_paper_lantern_side"}}

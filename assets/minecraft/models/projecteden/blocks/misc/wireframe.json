@@ -1,1 +1,1 @@
-{"parent":"block/cube_all","textures":{"all":"projecteden/blocks/misc/wireframe"}}
+{"parent":"projecteden/blocks/template/cube_all","textures":{"all":"projecteden/blocks/misc/wireframe"}}

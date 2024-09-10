@@ -1,1 +1,1 @@
-{"parent":"block/cube_column","textures":{"side":"projecteden/blocks/wood/crimson/carved_crimson_planks","end":"projecteden/blocks/wood/crimson/carved_crimson_planks_top","particle":"projecteden/blocks/wood/crimson/carved_crimson_planks"}}
+{"parent":"projecteden/blocks/template/cube_column","textures":{"side":"projecteden/blocks/wood/crimson/carved_crimson_planks","end":"projecteden/blocks/wood/crimson/carved_crimson_planks_top","particle":"projecteden/blocks/wood/crimson/carved_crimson_planks"}}

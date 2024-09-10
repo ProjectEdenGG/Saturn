@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/cube_all","textures":{"all":"projecteden/blocks/terracotta/shingles/pink"}}
+{"parent":"projecteden/blocks/template/cube_all","textures":{"all":"projecteden/blocks/terracotta/shingles/pink"}}

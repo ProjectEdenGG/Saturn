@@ -1,5 +1,5 @@
 {
-	"parent": "block/cube_column",
+	"parent": "projecteden/blocks/template/cube_column",
 	"textures": {
 		"particle": "projecteden/blocks/stones/deepslate/deepslate_pillar_side",
 		"side": "projecteden/blocks/stones/deepslate/deepslate_pillar_side",

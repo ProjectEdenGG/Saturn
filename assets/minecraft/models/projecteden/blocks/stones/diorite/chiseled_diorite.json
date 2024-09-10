@@ -1,1 +1,1 @@
-{"parent":"block/cube_column","textures":{"side":"projecteden/blocks/stones/diorite/chiseled_diorite_side","end":"projecteden/blocks/stones/diorite/chiseled_diorite_top","particle":"projecteden/blocks/stones/diorite/chiseled_diorite_side"}}
+{"parent":"projecteden/blocks/template/cube_column","textures":{"side":"projecteden/blocks/stones/diorite/chiseled_diorite_side","end":"projecteden/blocks/stones/diorite/chiseled_diorite_top","particle":"projecteden/blocks/stones/diorite/chiseled_diorite_side"}}

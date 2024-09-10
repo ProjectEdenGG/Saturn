@@ -1,1 +1,1 @@
-{"parent":"block/cube_column","textures":{"side":"projecteden/blocks/stones/granite/chiseled_granite_side","end":"projecteden/blocks/stones/granite/chiseled_granite_top","particle":"projecteden/blocks/stones/granite/chiseled_granite_side"}}
+{"parent":"projecteden/blocks/template/cube_column","textures":{"side":"projecteden/blocks/stones/granite/chiseled_granite_side","end":"projecteden/blocks/stones/granite/chiseled_granite_top","particle":"projecteden/blocks/stones/granite/chiseled_granite_side"}}

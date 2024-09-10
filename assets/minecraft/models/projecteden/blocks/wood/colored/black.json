@@ -1,1 +1,1 @@
-{"parent":"block/cube_all","textures":{"all":"projecteden/blocks/wood/colored/black"}}
+{"parent":"projecteden/blocks/template/cube_all","textures":{"all":"projecteden/blocks/wood/colored/black"}}
