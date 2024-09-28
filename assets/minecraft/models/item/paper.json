@@ -465,6 +465,7 @@
 		{"predicate": {"custom_model_data": 5906}, "model": "projecteden/functional/tool_modification_table"},
 		{"predicate": {"custom_model_data": 5907}, "model": "projecteden/functional/enchanted_book_splitter"},
 		{"predicate": {"custom_model_data": 5908}, "model": "projecteden/items/detector"},
+		{"predicate": {"custom_model_data": 5909}, "model": "projecteden/functional/glue"},
 
 		{"predicate": {"custom_model_data": 6000}, "model": "projecteden/decoration/furniture/cabinets/face/handle_1"},
 		{"predicate": {"custom_model_data": 6001}, "model": "projecteden/decoration/furniture/cabinets/face/handle_2"},
