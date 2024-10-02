@@ -1075,6 +1075,13 @@
 		{"predicate": {"custom_model_data": 8500}, "model": "projecteden/misc/invisibarrier"},
 		{"predicate": {"custom_model_data": 8501}, "model": "projecteden/misc/max_size"},
 
+		{"predicate": {"custom_model_data": 8600}, "model": "projecteden/decoration/edible/roast_chicken_stage0"},
+		{"predicate": {"custom_model_data": 8601}, "model": "projecteden/decoration/edible/roast_chicken_stage1"},
+		{"predicate": {"custom_model_data": 8602}, "model": "projecteden/decoration/edible/roast_chicken_stage2"},
+		{"predicate": {"custom_model_data": 8603}, "model": "projecteden/decoration/edible/roast_chicken_stage3"},
+		{"predicate": {"custom_model_data": 8604}, "model": "projecteden/decoration/edible/roast_chicken_stage4"},
+		{"predicate": {"custom_model_data": 8605}, "model": "projecteden/decoration/edible/roast_chicken_serving"},
+
 		{"predicate": {"custom_model_data": 9000}, "model": "projecteden/items/gems/sapphire"},
 		{"predicate": {"custom_model_data": 9001}, "model": "projecteden/items/gems/alexandrite"},
 		{"predicate": {"custom_model_data": 9002}, "model": "projecteden/items/gems/amber"},
