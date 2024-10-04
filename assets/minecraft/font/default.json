@@ -1796,6 +1796,13 @@
 			"ascent": 7,
 			"height": 9,
 			"chars": ["鼬"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/edible.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["诐"]
 		}
 	]
 }
