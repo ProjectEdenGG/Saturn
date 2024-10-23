@@ -1175,6 +1175,8 @@
 		{"predicate": {"custom_model_data": 4029}, "model": "projecteden/costumes/hat/misc/party_hat"},
 		{"predicate": {"custom_model_data": 4030}, "model": "projecteden/costumes/hand/misc/pirate_hook"},
 
+		{"predicate": {"custom_model_data": 4100}, "model": "projecteden/costumes/back/adventure_pack"},
+
 		{"predicate": {"custom_model_data": 4997}, "model": "projecteden/items/decoration/paintbrush_creative"},
 		{"predicate": {"custom_model_data": 4998}, "model": "projecteden/items/decoration/counter_wooden"},
 		{"predicate": {"custom_model_data": 4999}, "model": "projecteden/items/decoration/paintbrush"},
