@@ -151,6 +151,7 @@
 		{"predicate": {"custom_model_data": 1509}, "model": "projecteden/ui/gui/filler_item"},
 		{"predicate": {"custom_model_data": 1510}, "model": "projecteden/ui/event_token"},
 		{"predicate": {"custom_model_data": 1511}, "model": "projecteden/ui/gui/chat_games"},
+		{"predicate": {"custom_model_data": 1512}, "model": "projecteden/ui/gui/gear"},
 
 		{"predicate": {"custom_model_data": 1527}, "model": "projecteden/ui/gui/profile/icon_friends_list"},
 		{"predicate": {"custom_model_data": 1528}, "model": "projecteden/ui/gui/profile/icon_friends_list_error"},
@@ -426,8 +427,8 @@
 		{"predicate": {"custom_model_data": 4210}, "model": "projecteden/events/train/crossing_cane_green"},
 		{"predicate": {"custom_model_data": 4211}, "model": "projecteden/events/pugmas21/pathway_cane_red"},
 		{"predicate": {"custom_model_data": 4212}, "model": "projecteden/events/pugmas21/pathway_cane_green"},
-		{"predicate": {"custom_model_data": 4213}, "model": "projecteden/events/pugmas21/present_advent"},
-		{"predicate": {"custom_model_data": 4214}, "model": "projecteden/events/pugmas21/present_advent_opened"},
+		{"predicate": {"custom_model_data": 4213}, "model": "projecteden/events/christmas/present_advent_today"},
+		{"predicate": {"custom_model_data": 4214}, "model": "projecteden/events/christmas/present_advent_opened"},
 		{"predicate": {"custom_model_data": 4215}, "model": "projecteden/events/pugmas21/present_outlined"},
 		{"predicate": {"custom_model_data": 4216}, "model": "projecteden/events/pugmas21/present_colored"},
 		{"predicate": {"custom_model_data": 4217}, "model": "projecteden/events/pugmas21/present_opened"},
