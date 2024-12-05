@@ -1309,7 +1309,7 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/emojis/twemoji/x.png",
+			"file":"projecteden/font/emojis/twemoji/white_x.png",
 			"purchasable": true,
 			"height":7,
 			"ascent":7,
