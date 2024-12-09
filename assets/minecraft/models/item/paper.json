@@ -306,6 +306,12 @@
 		{"predicate": {"custom_model_data": 1835}, "model": "projecteden/ui/gui/gamelobby/arenas/library"},
 		{"predicate": {"custom_model_data": 1836}, "model": "projecteden/ui/gui/gamelobby/arenas/ecological"},
 		{"predicate": {"custom_model_data": 1837}, "model": "projecteden/ui/gui/gamelobby/arenas/venice"},
+		{"predicate": {"custom_model_data": 1838}, "model": "projecteden/ui/gui/gamelobby/arenas/dragonsdemise"},
+		{"predicate": {"custom_model_data": 1839}, "model": "projecteden/ui/gui/gamelobby/arenas/fraziervalley"},
+		{"predicate": {"custom_model_data": 1840}, "model": "projecteden/ui/gui/gamelobby/arenas/geodeclash"},
+		{"predicate": {"custom_model_data": 1841}, "model": "projecteden/ui/gui/gamelobby/arenas/ravensnestestateremastered"},
+		{"predicate": {"custom_model_data": 1842}, "model": "projecteden/ui/gui/gamelobby/arenas/thecube"},
+		{"predicate": {"custom_model_data": 1843}, "model": "projecteden/ui/gui/gamelobby/arenas/village2"},
 
 		{"predicate": {"custom_model_data": 2050}, "model": "projecteden/items/envelope_1"},
 		{"predicate": {"custom_model_data": 2051}, "model": "projecteden/items/envelope_2"},
