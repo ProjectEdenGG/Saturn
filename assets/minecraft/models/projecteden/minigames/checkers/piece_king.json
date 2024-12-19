@@ -443,7 +443,8 @@
 			"scale": [0.77, 0.77, 0.77]
 		},
 		"head": {
-			"translation": [0, 9.5, 0]
+			"translation": [0, -4.75, 0],
+			"scale": [1.5, 1.5, 1.5]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
