@@ -586,7 +586,7 @@
 		{"predicate": {"custom_model_data": 6202}, "model": "projecteden/decoration/icicle_large"},
 		{"predicate": {"custom_model_data": 6203}, "model": "projecteden/decoration/icicle_multi"},
 		{"predicate": {"custom_model_data": 6204}, "model": "projecteden/decoration/inkwell"},
-		{"predicate": {"custom_model_data": 6205}, "model": "projecteden/decoration/postbox"},	
+		{"predicate": {"custom_model_data": 6205}, "model": "projecteden/decoration/postbox"},
 		{"predicate": {"custom_model_data": 6206}, "model": "projecteden/decoration/wheel"},
 		{"predicate": {"custom_model_data": 6207}, "model": "projecteden/decoration/cafe_sign"},
 		{"predicate": {"custom_model_data": 6208}, "model": "projecteden/decoration/cafe_sign_tall"},
