@@ -1356,6 +1356,8 @@
 		{"predicate": {"custom_model_data": 10107}, "model": "projecteden/ui/gui/rotate_right"},
 		{"predicate": {"custom_model_data": 10108}, "model": "projecteden/ui/gui/rotate_left"},
 		{"predicate": {"custom_model_data": 10109}, "model": "projecteden/ui/gui/trashcan"},
+		{"predicate": {"custom_model_data": 10110}, "model": "projecteden/ui/gui/up"},
+		{"predicate": {"custom_model_data": 10111}, "model": "projecteden/ui/gui/down"},
 
 		{"predicate": {"custom_model_data": 10300}, "model": "projecteden/decoration/electronics/star_projector"},
 

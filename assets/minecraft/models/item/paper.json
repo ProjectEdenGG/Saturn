@@ -164,6 +164,10 @@
 		{"predicate": {"custom_model_data": 1535}, "model": "projecteden/ui/gui/profile/icon_trusts"},
 		{"predicate": {"custom_model_data": 1536}, "model": "projecteden/ui/gui/profile/icon_social_media"},
 		{"predicate": {"custom_model_data": 1537}, "model": "projecteden/ui/gui/profile/icon_social_media_link"},
+		{"predicate": {"custom_model_data": 1538}, "model": "projecteden/ui/gui/profile/icon_friend_requests_received"},
+		{"predicate": {"custom_model_data": 1539}, "model": "projecteden/ui/gui/profile/icon_friend_requests_sent"},
+		{"predicate": {"custom_model_data": 1540}, "model": "projecteden/ui/gui/profile/icon_status"},
+		{"predicate": {"custom_model_data": 1541}, "model": "projecteden/ui/gui/profile/icon_about"},
 
 		{"predicate": {"custom_model_data": 1550}, "model": "projecteden/ui/gui/boosts/personal"},
 		{"predicate": {"custom_model_data": 1551}, "model": "projecteden/ui/gui/boosts/global"},
