@@ -182,6 +182,27 @@
 		},
 		{
 			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/profile_texture_shine.png",
+			"ascent":19,
+			"height":256,
+			"chars":["疱"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/profile_texture_stripes_vertical.png",
+			"ascent":19,
+			"height":256,
+			"chars":["祯"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/profile_texture_split.png",
+			"ascent":19,
+			"height":256,
+			"chars":["臭"]
+		},
+		{
+			"type":"bitmap",
 			"file":"projecteden/font/gui/profile/icon_helmet.png",
 			"ascent":19,
 			"height":256,
