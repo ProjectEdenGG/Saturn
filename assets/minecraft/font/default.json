@@ -161,17 +161,24 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/profile_self.png",
+			"file":"projecteden/font/gui/profile/profile_base.png",
 			"ascent":19,
 			"height":256,
 			"chars":["升"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/profile_self_bg.png",
+			"file":"projecteden/font/gui/profile/profile_background.png",
 			"ascent":19,
 			"height":256,
 			"chars":["顼"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/profile_texture_dots.png",
+			"ascent":19,
+			"height":256,
+			"chars":["夤"]
 		},
 		{
 			"type":"bitmap",
