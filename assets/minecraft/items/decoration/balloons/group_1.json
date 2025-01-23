@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 6900,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/balloons/group_1",
+		"tints": []
+	}
+}

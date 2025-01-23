@@ -1,0 +1,9 @@
+{
+	"old_base_material": "map",
+	"old_custom_model_data": 30,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/icon",
+		"tints": []
+	}
+}

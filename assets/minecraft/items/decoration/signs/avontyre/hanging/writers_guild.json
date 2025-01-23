@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 8377,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/signs/avontyre/hanging/writers_guild",
+		"tints": []
+	}
+}

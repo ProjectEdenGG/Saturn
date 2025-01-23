@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20014,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/blocks/wood/crimson/carved_crimson_planks",
+		"tints": []
+	}
+}

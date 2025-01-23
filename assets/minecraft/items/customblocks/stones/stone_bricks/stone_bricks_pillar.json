@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20361,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/blocks/stones/stone_bricks/stone_bricks_pillar",
+		"tints": []
+	}
+}

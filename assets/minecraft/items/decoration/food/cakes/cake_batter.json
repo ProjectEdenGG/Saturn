@@ -1,0 +1,9 @@
+{
+	"old_base_material": "leather_horse_armor",
+	"old_custom_model_data": 802,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/food/cakes/cake_batter",
+		"tints": []
+	}
+}

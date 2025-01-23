@@ -1,0 +1,9 @@
+{
+	"old_base_material": "leather_horse_armor",
+	"old_custom_model_data": 4022,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/costumes/exclusive/hat/knight",
+		"tints": []
+	}
+}

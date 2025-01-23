@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 6602,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/portal/portal_blue_2x2",
+		"tints": []
+	}
+}

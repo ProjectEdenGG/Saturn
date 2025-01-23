@@ -1,0 +1,9 @@
+{
+	"old_base_material": "lapis_lazuli",
+	"old_custom_model_data": 30009,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/plushies/player/handstand/9c27c601-0d86-4ff0-9e65-974c65734798",
+		"tints": []
+	}
+}

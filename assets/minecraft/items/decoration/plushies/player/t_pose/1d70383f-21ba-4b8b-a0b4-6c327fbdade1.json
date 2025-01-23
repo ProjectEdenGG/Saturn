@@ -1,0 +1,9 @@
+{
+	"old_base_material": "lapis_lazuli",
+	"old_custom_model_data": 20011,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/plushies/player/t_pose/1d70383f-21ba-4b8b-a0b4-6c327fbdade1",
+		"tints": []
+	}
+}

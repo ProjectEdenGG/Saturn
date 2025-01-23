@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 22323,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/costumes/hat/misc/flower_crown",
+		"tints": []
+	}
+}

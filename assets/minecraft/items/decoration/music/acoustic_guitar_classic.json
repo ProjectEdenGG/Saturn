@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 30009,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/music/acoustic_guitar_classic",
+		"tints": []
+	}
+}

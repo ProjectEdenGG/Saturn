@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 25211,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/coins/silver_coins_2",
+		"tints": []
+	}
+}

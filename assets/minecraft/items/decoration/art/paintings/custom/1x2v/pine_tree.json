@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 7503,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/art/paintings/custom/1x2v/pine_tree",
+		"tints": []
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "fishing_rod",
+	"old_custom_model_data": 1005,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/vines/fishing_rod_cast",
+		"tints": []
+	}
+}

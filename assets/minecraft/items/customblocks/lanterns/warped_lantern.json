@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20408,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/blocks/lanterns/warped_lantern",
+		"tints": []
+	}
+}

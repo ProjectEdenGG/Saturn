@@ -1,0 +1,9 @@
+{
+	"old_base_material": "leather_horse_armor",
+	"old_custom_model_data": 5026,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/furniture/cabinets/steel_handle/stone_counter/bar",
+		"tints": []
+	}
+}

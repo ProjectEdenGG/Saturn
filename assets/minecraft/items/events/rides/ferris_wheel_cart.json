@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 12001,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/events/rides/ferris_wheel_cart",
+		"tints": []
+	}
+}

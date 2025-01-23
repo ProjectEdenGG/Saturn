@@ -1,0 +1,9 @@
+{
+	"old_base_material": "fishing_rod",
+	"old_custom_model_data": 1000,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/adamantite/fishing_rod",
+		"tints": []
+	}
+}

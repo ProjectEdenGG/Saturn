@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 6706,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/christmas/iciclelight_right",
+		"tints": []
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 11034,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/events/pugmas21/hot_air_balloon/1/4",
+		"tints": []
+	}
+}

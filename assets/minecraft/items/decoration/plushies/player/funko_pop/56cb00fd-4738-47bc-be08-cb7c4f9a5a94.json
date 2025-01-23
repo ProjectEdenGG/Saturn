@@ -1,0 +1,9 @@
+{
+	"old_base_material": "lapis_lazuli",
+	"old_custom_model_data": 90007,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/plushies/player/funko_pop/56cb00fd-4738-47bc-be08-cb7c4f9a5a94",
+		"tints": []
+	}
+}

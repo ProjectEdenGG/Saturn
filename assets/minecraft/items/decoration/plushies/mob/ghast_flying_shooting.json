@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 6465,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/plushies/mob/ghast_flying_shooting",
+		"tints": []
+	}
+}

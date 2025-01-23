@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 31225,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/art/paintings/vanilla/3x4h/reserved",
+		"tints": []
+	}
+}

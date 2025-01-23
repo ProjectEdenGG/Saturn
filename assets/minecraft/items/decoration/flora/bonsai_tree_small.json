@@ -1,0 +1,9 @@
+{
+	"old_base_material": "leather_horse_armor",
+	"old_custom_model_data": 708,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/flora/bonsai_tree_small",
+		"tints": []
+	}
+}

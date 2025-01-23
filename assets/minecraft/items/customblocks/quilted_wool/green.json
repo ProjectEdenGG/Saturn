@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20305,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/blocks/quilted_wool/green",
+		"tints": []
+	}
+}

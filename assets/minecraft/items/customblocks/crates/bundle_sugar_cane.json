@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20063,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/blocks/crates/bundle_sugar_cane",
+		"tints": []
+	}
+}

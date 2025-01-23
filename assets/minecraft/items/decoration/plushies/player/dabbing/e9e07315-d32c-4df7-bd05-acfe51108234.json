@@ -1,0 +1,9 @@
+{
+	"old_base_material": "lapis_lazuli",
+	"old_custom_model_data": 50002,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/plushies/player/dabbing/e9e07315-d32c-4df7-bd05-acfe51108234",
+		"tints": []
+	}
+}

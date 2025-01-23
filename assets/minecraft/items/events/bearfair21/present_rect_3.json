@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 4131,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/events/bearfair21/present_rect_3",
+		"tints": []
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 26000,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/dailyrewards/dailyrewards_1",
+		"tints": []
+	}
+}

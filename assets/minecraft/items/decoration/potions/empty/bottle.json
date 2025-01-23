@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 6110,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/potions/empty/bottle",
+		"tints": []
+	}
+}

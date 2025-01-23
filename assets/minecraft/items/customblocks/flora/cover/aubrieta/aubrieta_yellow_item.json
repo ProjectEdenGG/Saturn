@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 21111,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_yellow_item",
+		"tints": []
+	}
+}
