@@ -860,6 +860,9 @@
 		{"predicate": {"custom_model_data": 7402}, "model": "projecteden/minigames/minigolf/wedge"},
 		{"predicate": {"custom_model_data": 7403}, "model": "projecteden/minigames/minigolf/whistle"},
 
+		{"predicate": {"custom_model_data": 7410}, "model": "projecteden/minigames/blockparty/light_base"},
+		{"predicate": {"custom_model_data": 7411}, "model": "projecteden/minigames/blockparty/light_yoke"},
+
 		{"predicate": {"custom_model_data": 7500}, "model": "projecteden/decoration/art/paintings/custom/1x2v/cherry_forest"},
 		{"predicate": {"custom_model_data": 7501}, "model": "projecteden/decoration/art/paintings/custom/1x2v/end_island"},
 		{"predicate": {"custom_model_data": 7502}, "model": "projecteden/decoration/art/paintings/custom/1x2v/lost_enderman"},

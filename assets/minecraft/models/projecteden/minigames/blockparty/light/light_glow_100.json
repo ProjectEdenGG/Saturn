@@ -1,0 +1,62 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "projecteden/minigames/blockparty/light_glow",
+		"particle": "projecteden/minigames/blockparty/light_glow"
+	},
+	"elements": [
+		{
+			"from": [4, -12, 4],
+			"to": [12, 32, 12],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, -16, 8]},
+			"faces": {
+				"north": {"uv": [0.25, 16, 0, 0], "rotation": 180, "texture": "#0", "tintindex": 1},
+				"east": {"uv": [0.25, 16, 0, 0], "rotation": 180, "texture": "#0", "tintindex": 1},
+				"south": {"uv": [0.25, 0, 0, 16], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [0, 0, 0.25, 16], "texture": "#0", "tintindex": 1}
+			}
+		},
+		{
+			"from": [12, -12, 4],
+			"to": [4, 32, 12],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, -16, 8]},
+			"faces": {
+				"north": {"uv": [0.25, 16, 0, 0], "rotation": 180, "texture": "#0", "tintindex": 1},
+				"east": {"uv": [0.25, 16, 0, 0], "rotation": 180, "texture": "#0", "tintindex": 1},
+				"south": {"uv": [0.25, 0, 0, 16], "texture": "#0", "tintindex": 1},
+				"west": {"uv": [0, 0, 0.25, 16], "texture": "#0", "tintindex": 1}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [-6, 19, 0],
+			"scale": [2, 2, 3.44]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -161, 0],
+			"translation": [8.75, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -161, 0],
+			"translation": [8.75, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 65.75, 0],
+			"scale": [2, 4, 2]
+		},
+		"gui": {
+			"rotation": [-90, 0, 0],
+			"scale": [1.17, 1, 0.33]
+		},
+		"head": {
+			"rotation": [-91, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -80],
+			"scale": [2, 4, 2]
+		}
+	}
+}
