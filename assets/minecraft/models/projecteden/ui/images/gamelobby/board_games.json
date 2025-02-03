@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "projecteden/ui/images/gamelobby/block_party",
+		"0": "projecteden/ui/images/gamelobby/board_games",
 		"1": "projecteden/vanilla/block/spruce_planks",
 		"3": "projecteden/colors",
 		"particle": "projecteden/vanilla/block/spruce_planks"
