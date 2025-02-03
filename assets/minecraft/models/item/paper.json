@@ -100,7 +100,7 @@
 		{"predicate": {"custom_model_data": 1412}, "model": "projecteden/ui/images/gamelobby/quake"},
 		{"predicate": {"custom_model_data": 1413}, "model": "projecteden/ui/images/gamelobby/one_in_the_quiver"},
 		{"predicate": {"custom_model_data": 1414}, "model": "projecteden/ui/images/gamelobby/archery"},
-		{"predicate": {"custom_model_data": 1415}, "model": "projecteden/ui/images/gamelobby/battleship"},
+		{"predicate": {"custom_model_data": 1415}, "model": "projecteden/ui/images/gamelobby/board_games"},
 		{"predicate": {"custom_model_data": 1416}, "model": "projecteden/ui/images/gamelobby/gold_rush"},
 		{"predicate": {"custom_model_data": 1417}, "model": "projecteden/ui/images/gamelobby/free_for_all"},
 		{"predicate": {"custom_model_data": 1418}, "model": "projecteden/ui/images/gamelobby/xrun"},
