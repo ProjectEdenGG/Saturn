@@ -142,6 +142,7 @@
 		{"predicate": {"custom_model_data": 1456}, "model": "projecteden/ui/images/gamelobby/menu/battleship"},
 		{"predicate": {"custom_model_data": 1457}, "model": "projecteden/ui/images/gamelobby/menu/tictactoe"},
 		{"predicate": {"custom_model_data": 1458}, "model": "projecteden/ui/images/gamelobby/block_party"},
+		{"predicate": {"custom_model_data": 1459}, "model": "projecteden/ui/images/gamelobby/menu/checkers"},
 
 		{"predicate": {"custom_model_data": 1500}, "model": "projecteden/ui/click_me"},
 		{"predicate": {"custom_model_data": 1501}, "model": "projecteden/items/armor/outline/helmet"},
