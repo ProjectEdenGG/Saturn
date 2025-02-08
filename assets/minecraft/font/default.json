@@ -203,11 +203,32 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/images/test.png",
+			"file":"projecteden/font/gui/profile/images/template.png",
 			"ascent":63,
 			"height":256,
 			"chars":["糖"]
 		},
+		{
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/images/cats.png",
+            "ascent":63,
+            "height":256,
+            "chars":["诅"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/images/birthday.png",
+            "ascent":63,
+            "height":256,
+            "chars":["孟"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/images/bees.png",
+            "ascent":63,
+            "height":256,
+            "chars":["脒"]
+        },
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/profile/icons/icon_helmet.png",
