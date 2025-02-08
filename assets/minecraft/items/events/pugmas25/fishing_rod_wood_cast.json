@@ -1,9 +1,9 @@
 {
 	"old_base_material": "fishing_rod",
-	"old_custom_model_data": 102,
+	"old_custom_model_data": 100,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/events/pugmas24/fishing_rod_golden_cast",
+		"model": "projecteden/events/pugmas25/fishing_rod_wood_cast",
 		"tints": []
 	}
 }

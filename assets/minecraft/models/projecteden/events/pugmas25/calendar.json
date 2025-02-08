@@ -1,8 +1,8 @@
 {
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "projecteden/events/pugmas24/calendar",
-		"particle": "projecteden/events/pugmas24/calendar"
+		"0": "projecteden/events/pugmas25/calendar",
+		"particle": "projecteden/events/pugmas25/calendar"
 	},
 	"elements": [
 		{
