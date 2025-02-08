@@ -5,13 +5,19 @@ import com.google.gson.JsonParser;
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
 public class CustomMaterialGenerator {
@@ -21,57 +27,65 @@ public class CustomMaterialGenerator {
     @Test
     @SneakyThrows
     public void generate() {
+        // Fetch and parse the CustomMaterial enum from GitHub
+        List<CustomMaterialParser.CustomMaterialEntry> customMaterials = CustomMaterialParser.fetchAndParse();
+
         try (Stream<Path> paths = Files.walk(Paths.get(ITEMS_DIR))) {
             final String[] currentFolder = {null}; // To track the current top-level folder
-
-            paths.filter(Files::isRegularFile) // Only regular files
-                    .filter(path -> path.toString().endsWith(".json")) // Only JSON files
+            paths.filter(Files::isRegularFile)
+                    .filter(path -> path.toString().endsWith(".json"))
                     .forEach(path -> {
-                        // Get the relative path from the base path
-                        Path relativePath = Paths.get(ITEMS_DIR).relativize(path);
-                        String relativePathStr = relativePath.toString().replace("\\", "/"); // Normalize to forward slashes
-
-                        // Split the path into parts
-                        String[] parts = relativePathStr.split("/", 2); // Split into top-level folder and the rest
-
-                        // Update and print the folder comment if it's a new folder
-                        if (currentFolder[0] == null || !currentFolder[0].equals(parts[0])) {
-                            currentFolder[0] = parts[0];
-                            System.out.println("// " + currentFolder[0]); // Print folder comment
-                        }
-
-                        // Generate the enum name
-                        String filePath = relativePathStr.substring(0, relativePathStr.lastIndexOf('.')); // Full path without extension
-                        String withoutFirstFolder = parts[1]; // Exclude the first folder in the name
-                        String enumName = withoutFirstFolder.replace("/", "_").replace(".json", "").toUpperCase(); // Replace slashes and convert to uppercase
-
-                        // Read the JSON file and extract old_base_material
-                        String oldBaseMaterialValue = "";
                         try {
+                            // Get the relative path from the base path
+                            Path relativePath = Paths.get(ITEMS_DIR).relativize(path);
+                            String relativePathStr = relativePath.toString().replace("\\", "/").replace(".json", ""); // Normalize to forward slashes
+
+                            // Split the path into parts
+                            String[] parts = relativePathStr.split("/", 2); // Split into top-level folder and the rest
+
+                            // Update and print the folder comment if it's a new folder
+                            if (currentFolder[0] == null || !currentFolder[0].equals(parts[0])) {
+                                currentFolder[0] = parts[0];
+                                System.out.println("// " + currentFolder[0]); // Print folder comment
+                            }
+
+                            // Read the JSON file and extract old_base_material and old_custom_model_data
                             String jsonContent = Files.readString(path);
                             JsonObject jsonObject = JsonParser.parseString(jsonContent).getAsJsonObject();
-                            if (jsonObject.has("old_base_material")) {
-                                oldBaseMaterialValue = jsonObject.get("old_base_material").getAsString();
+
+                            String oldBaseMaterial = jsonObject.has("old_base_material") ? jsonObject.get("old_base_material").getAsString().toUpperCase() : null;
+                            int oldCustomModelData = jsonObject.has("old_custom_model_data") ? jsonObject.get("old_custom_model_data").getAsInt() : -1;
+
+                            // Find the matching enum name
+                            String enumName = null;
+                            for (CustomMaterialParser.CustomMaterialEntry entry : customMaterials) {
+                                if (entry.getMaterial().equals(oldBaseMaterial) && entry.getCustomModelData() == oldCustomModelData) {
+                                    enumName = entry.getEnumName();
+                                    break;
+                                }
                             }
+
+                            if (enumName == null) {
+                                // Generate the enum name if no match is found
+                                String withoutFirstFolder = parts[1]; // Exclude the first folder in the name
+                                enumName = withoutFirstFolder.replace("/", "_").replace(".json", "").toUpperCase(); // Replace slashes and convert to uppercase
+                            }
+
+                            // Adjust the constructor parameter based on old_base_material
+                            String constructorValue;
+                            if ("PAPER".equals(oldBaseMaterial)) {
+                                constructorValue = String.format("\"%s\"", relativePathStr);
+                            } else if ("LEATHER_HORSE_ARMOR".equals(oldBaseMaterial)) {
+                                constructorValue = String.format("\"%s\", true", relativePathStr);
+                            } else {
+                                constructorValue = String.format("\"%s\", Material.%s", relativePathStr, oldBaseMaterial);
+                            }
+
+                            System.out.printf(" %s(%s),%n", enumName, constructorValue);
                         } catch (IOException e) {
                             System.err.println("Error reading JSON file: " + path);
-                            return;
                         }
-
-                        // Adjust the constructor parameter based on old_base_material
-                        String constructorValue;
-                        if ("paper".equals(oldBaseMaterialValue)) {
-                            constructorValue = String.format("\"%s\"", filePath);
-                        } else if ("leather_horse_armor".equals(oldBaseMaterialValue)) {
-                            constructorValue = String.format("\"%s\", true", filePath);
-                        } else {
-                            constructorValue = String.format("\"%s\", Material.%s", filePath, oldBaseMaterialValue.toUpperCase());
-                        }
-
-                        System.out.printf("    %s(%s),%n", enumName, constructorValue);
                     });
-        } catch (IOException e) {
-            e.printStackTrace();
         }
     }
 
@@ -209,5 +223,54 @@ public class CustomMaterialGenerator {
 
         return Integer.parseInt(value);
     }
+
+    public static class CustomMaterialParser {
+
+        private static final String CUSTOM_MATERIAL_URL = "https://raw.githubusercontent.com/ProjectEdenGG/Nexus/master/src/main/java/gg/projecteden/nexus/features/resourcepack/models/CustomMaterial.java";
+
+        public static List<CustomMaterialEntry> fetchAndParse() throws IOException {
+            List<CustomMaterialEntry> entries = new ArrayList<>();
+            URL url = new URL(CUSTOM_MATERIAL_URL);
+            try (BufferedReader reader = new BufferedReader(new InputStreamReader(url.openStream()))) {
+                String line;
+                Pattern pattern = Pattern.compile("(\\w+)\\(Material\\.(\\w+),\\s*(\\d+)(?:,\\s*true)?\\)");
+                while ((line = reader.readLine()) != null) {
+                    Matcher matcher = pattern.matcher(line);
+                    if (matcher.find()) {
+                        String enumName = matcher.group(1);
+                        String material = matcher.group(2);
+                        int customModelData = Integer.parseInt(matcher.group(3));
+                        entries.add(new CustomMaterialEntry(enumName, material, customModelData));
+                    }
+                }
+            }
+            return entries;
+        }
+
+        public static class CustomMaterialEntry {
+            private final String enumName;
+            private final String material;
+            private final int customModelData;
+
+            public CustomMaterialEntry(String enumName, String material, int customModelData) {
+                this.enumName = enumName;
+                this.material = material;
+                this.customModelData = customModelData;
+            }
+
+            public String getEnumName() {
+                return enumName;
+            }
+
+            public String getMaterial() {
+                return material;
+            }
+
+            public int getCustomModelData() {
+                return customModelData;
+            }
+        }
+    }
+
 
 }
