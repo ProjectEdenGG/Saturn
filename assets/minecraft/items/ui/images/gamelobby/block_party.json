@@ -1,9 +1,9 @@
 {
 	"old_base_material": "paper",
-	"old_custom_model_data": 1449,
+	"old_custom_model_data": 1458,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/ui/images/gamelobby/tictactoe",
+		"model": "projecteden/ui/images/gamelobby/block_party",
 		"tints": []
 	}
 }
