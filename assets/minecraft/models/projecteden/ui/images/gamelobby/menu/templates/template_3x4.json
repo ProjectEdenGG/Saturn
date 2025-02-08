@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"particle": "projecteden/vanilla/block/spruce_planks"
+	},
+	"elements": [
+		{
+			"from": [-4, 0, 0],
+			"to": [20, 18, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 12], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.75, 4.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.75, 4.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [5.25, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [5.25, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [26.5, -20.5, 0],
+			"scale": [3, 3, 3]
+		},
+		"head": {
+			"translation": [0, 10.5, 0.75]
+		},
+		"fixed": {
+			"translation": [0, 0, 6.75]
+		}
+	}
+}
