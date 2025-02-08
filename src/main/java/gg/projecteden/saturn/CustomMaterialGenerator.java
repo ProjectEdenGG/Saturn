@@ -23,10 +23,18 @@ import java.util.stream.Stream;
 public class CustomMaterialGenerator {
 
     private static final String ITEMS_DIR = "assets/minecraft/items";
+    private static final String[] additions = {
+            "NULL(\"misc/null\", Material.PAPER),",
+            "NOTE_BLOCK(\"customblocks/misc/note_block\"),",
+            "TRIPWIRE(\"customblocks/misc/tripwire\"),"
+    };
 
     @Test
     @SneakyThrows
     public void generate() {
+        for (String addition : additions)
+            System.out.println(addition);
+
         // Fetch and parse the CustomMaterial enum from GitHub
         List<CustomMaterialParser.CustomMaterialEntry> customMaterials = CustomMaterialParser.fetchAndParse();
 
@@ -73,7 +81,7 @@ public class CustomMaterialGenerator {
 
                             // Adjust the constructor parameter based on old_base_material
                             String constructorValue;
-                            if ("PAPER".equals(oldBaseMaterial)) {
+                            if ("PAPER".equals(oldBaseMaterial) || oldBaseMaterial == null) {
                                 constructorValue = String.format("\"%s\"", relativePathStr);
                             } else if ("LEATHER_HORSE_ARMOR".equals(oldBaseMaterial)) {
                                 constructorValue = String.format("\"%s\", true", relativePathStr);
