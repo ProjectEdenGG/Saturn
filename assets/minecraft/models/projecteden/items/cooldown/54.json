@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "projecteden/items/cooldown/template",
 	"textures": {
 		"layer0": "projecteden/items/cooldown/54"
 	}
