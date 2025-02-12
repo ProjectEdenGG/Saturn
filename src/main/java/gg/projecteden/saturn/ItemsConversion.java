@@ -125,23 +125,5 @@ public class ItemsConversion {
 		}
 	}
 
-	private JsonArray getDefaultTintsArray() {
-		JsonArray tintsArray = new JsonArray();
-
-		JsonObject tintObject = new JsonObject();
-		tintObject.addProperty("type", "minecraft:dye");
-
-		JsonArray defaultArray = new JsonArray();
-		defaultArray.add(new JsonPrimitive(0.627));
-		defaultArray.add(new JsonPrimitive(0.396));
-		defaultArray.add(new JsonPrimitive(0.250));
-
-		tintObject.add("default", defaultArray);
-
-		tintsArray.add(tintObject);
-
-		return tintsArray;
-	}
-
 
 }
