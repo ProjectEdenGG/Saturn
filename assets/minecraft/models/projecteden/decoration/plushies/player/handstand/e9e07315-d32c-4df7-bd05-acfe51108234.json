@@ -1,6 +1,6 @@
-	{
-		"parent": "decoration/plushies/player/handstand/template_alex",
-		"textures": {
-			"0": "projecteden/decoration/plushies/player/players/e9e07315-d32c-4df7-bd05-acfe51108234"
-		}
+{
+	"parent": "projecteden/decoration/plushies/player/handstand/template_alex",
+	"textures": {
+		"0": "projecteden/decoration/plushies/player/players/e9e07315-d32c-4df7-bd05-acfe51108234"
 	}
+}

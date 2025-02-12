@@ -1,6 +1,6 @@
-	{
-		"parent": "decoration/plushies/player/riding_minecart/template_steve",
-		"textures": {
-			"0": "projecteden/decoration/plushies/player/players/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"
-		}
+{
+	"parent": "projecteden/decoration/plushies/player/riding_minecart/template_steve",
+	"textures": {
+		"0": "projecteden/decoration/plushies/player/players/88f9f7f6-7703-49bf-ad83-a4dec7e8022c"
 	}
+}

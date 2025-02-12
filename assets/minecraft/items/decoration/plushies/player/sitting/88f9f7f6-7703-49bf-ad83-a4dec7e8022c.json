@@ -1,7 +1,7 @@
-	{
-		"model": {
-			"type": "minecraft:model",
-			"model": "decoration/plushies/player/sitting/88f9f7f6-7703-49bf-ad83-a4dec7e8022c",
-			"tints": []
-		}
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "decoration/plushies/player/sitting/88f9f7f6-7703-49bf-ad83-a4dec7e8022c",
+		"tints": []
 	}
+}
