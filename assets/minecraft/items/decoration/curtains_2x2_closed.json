@@ -4,6 +4,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/curtains_2x2_closed",
-		"tints": []
+		"tints": [{"type": "minecraft:dye", "default": [0.627,0.396,0.250]}]
 	}
 }

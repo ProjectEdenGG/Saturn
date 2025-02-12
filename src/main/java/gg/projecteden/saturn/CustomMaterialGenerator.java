@@ -79,6 +79,13 @@ public class CustomMaterialGenerator {
                                 enumName = withoutFirstFolder.replace("/", "_").replace(".json", "").toUpperCase(); // Replace slashes and convert to uppercase
                             }
 
+                            // skip things that end in UUIDS
+                            if (enumName.matches("^.*[A-Z]+.*([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12})$"))
+                                return;
+
+                            if (enumName.startsWith("8BIT"))
+                                enumName = enumName.replace("8BIT", "EIGHT_BIT");
+
                             // Adjust the constructor parameter based on old_base_material
                             String constructorValue;
                             if ("PAPER".equals(oldBaseMaterial) || oldBaseMaterial == null) {

@@ -1,4 +1,5 @@
 {
+  "old_base_material": "leather_horse_armor",
   "model": {
     "type": "minecraft:range_dispatch",
     "property": "minecraft:custom_model_data",

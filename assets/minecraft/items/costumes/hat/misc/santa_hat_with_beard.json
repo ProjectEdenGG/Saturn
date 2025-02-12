@@ -4,6 +4,6 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "projecteden/costumes/hat/misc/santa_hat_with_beard",
-		"tints": []
+		"tints": [{"type": "minecraft:dye", "default": [0.627,0.396,0.250]}]
 	}
 }

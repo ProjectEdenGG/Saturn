@@ -1,4 +1,5 @@
 {
+  "old_base_material": "clock",
   "model": {
     "type": "minecraft:select",
     "property": "minecraft:context_dimension",
