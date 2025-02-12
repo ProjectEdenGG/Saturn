@@ -1,9 +1,7 @@
-{
-	"old_base_material": "lapis_lazuli",
-	"old_custom_model_data": 80004,
-	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/decoration/plushies/player/waving/d1de9ca8-78f6-4aae-87a1-8c112f675f12",
-		"tints": []
+	{
+		"model": {
+			"type": "minecraft:model",
+			"model": "decoration/plushies/player/waving/d1de9ca8-78f6-4aae-87a1-8c112f675f12",
+			"tints": []
+		}
 	}
-}

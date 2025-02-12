@@ -1,9 +1,7 @@
-{
-	"old_base_material": "lapis_lazuli",
-	"old_custom_model_data": 70012,
-	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/decoration/plushies/player/holding_globe/1450eb3c-f1ec-4061-98b3-7857dad8f00d",
-		"tints": []
+	{
+		"model": {
+			"type": "minecraft:model",
+			"model": "decoration/plushies/player/holding_globe/1450eb3c-f1ec-4061-98b3-7857dad8f00d",
+			"tints": []
+		}
 	}
-}
