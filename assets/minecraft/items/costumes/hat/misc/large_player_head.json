@@ -2,8 +2,11 @@
 	"old_base_material": "player_head",
 	"old_custom_model_data": 1,
 	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/costumes/hat/misc/large_player_head",
-		"tints": []
-	}
+      "type": "minecraft:special",
+      "base": "projecteden/costumes/hat/misc/large_player_head",
+      "model": {
+        "type": "minecraft:head",
+        "kind": "player"
+      }
+    }
 }
