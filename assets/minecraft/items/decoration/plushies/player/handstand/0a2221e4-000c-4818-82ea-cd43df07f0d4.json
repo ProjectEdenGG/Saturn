@@ -1,7 +1,7 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "decoration/plushies/player/handstand/0a2221e4-000c-4818-82ea-cd43df07f0d4",
+		"model": "projecteden/decoration/plushies/player/handstand/0a2221e4-000c-4818-82ea-cd43df07f0d4",
 		"tints": []
 	}
 }
