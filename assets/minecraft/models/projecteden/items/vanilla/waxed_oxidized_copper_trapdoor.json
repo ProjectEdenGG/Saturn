@@ -1,0 +1,7 @@
+{
+	"parent": "projecteden/items/vanilla/waxed_copper_trapdoor",
+	"textures": {
+		"ends": "projecteden/items/vanilla/waxed_oxidized_copper_trapdoor",
+		"sides": "projecteden/items/vanilla/waxed_oxidized_copper_trapdoor_side"
+	}
+}
