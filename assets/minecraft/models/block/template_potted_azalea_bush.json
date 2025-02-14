@@ -4,7 +4,7 @@
 		"particle": "#flowerpot",
 		"flowerpot": "block/custom_flower_pot",
 		"dirt": "block/moss_block",
-		"azalea_plant": "block/potted_azalea_bush_plant"
+		"azalea_plant": "block/potted/potted_azalea_bush_plant"
 	},
 	"elements": [
 		{
