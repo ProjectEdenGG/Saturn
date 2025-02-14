@@ -1,0 +1,8 @@
+{
+	"parent": "projecteden/customblocks/template/cube_column",
+	"textures": {
+		"particle": "projecteden/customblocks/stones/blackstone/blackstone_pillar_side",
+		"side": "projecteden/customblocks/stones/blackstone/blackstone_pillar_side",
+		"end": "projecteden/customblocks/stones/blackstone/blackstone_pillar_top"
+	}
+}

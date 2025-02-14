@@ -1,0 +1,7 @@
+{"parent":"projecteden/customblocks/template/cube_column",
+	"textures":{
+		"particle":"projecteden/customblocks/crates/crate_potato_side",
+		"side":"projecteden/customblocks/crates/crate_potato_side",
+		"end":"projecteden/customblocks/crates/crate_potato_top"
+	}
+}

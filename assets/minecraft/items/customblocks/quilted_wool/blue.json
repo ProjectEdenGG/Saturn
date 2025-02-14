@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20308,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/quilted_wool/blue",
+		"model": "projecteden/customblocks/quilted_wool/blue",
 		"tints": []
 	}
 }

@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20152,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/wood/colored/orange",
+		"model": "projecteden/customblocks/wood/colored/orange",
 		"tints": []
 	}
 }

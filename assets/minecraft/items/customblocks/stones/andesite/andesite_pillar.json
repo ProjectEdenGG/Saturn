@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20354,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/stones/andesite/andesite_pillar",
+		"model": "projecteden/customblocks/stones/andesite/andesite_pillar",
 		"tints": []
 	}
 }

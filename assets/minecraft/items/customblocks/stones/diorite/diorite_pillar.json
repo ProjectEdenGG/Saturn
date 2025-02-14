@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20357,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/stones/diorite/diorite_pillar",
+		"model": "projecteden/customblocks/stones/diorite/diorite_pillar",
 		"tints": []
 	}
 }

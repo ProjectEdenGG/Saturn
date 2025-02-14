@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20062,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/crates/bundle_stick",
+		"model": "projecteden/customblocks/crates/bundle_stick",
 		"tints": []
 	}
 }

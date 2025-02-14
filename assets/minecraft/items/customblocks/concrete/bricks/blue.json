@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20258,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/concrete/bricks/blue",
+		"model": "projecteden/customblocks/concrete/bricks/blue",
 		"tints": []
 	}
 }

@@ -3,7 +3,7 @@
 	"old_custom_model_data": 11,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/shulker/pink",
+		"model": "projecteden/customblocks/shulker/pink",
 		"tints": []
 	}
 }

@@ -1,0 +1,7 @@
+{"parent":"projecteden/customblocks/template/cube_column_horizontal",
+	"textures":{
+		"particle":"projecteden/customblocks/crates/bundle_bamboo_side",
+		"side":"projecteden/customblocks/crates/bundle_bamboo_side",
+		"end":"projecteden/customblocks/crates/bundle_bamboo_top"
+	}
+}

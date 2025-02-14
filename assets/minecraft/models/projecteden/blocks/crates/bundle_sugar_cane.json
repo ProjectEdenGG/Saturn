@@ -1,7 +1,0 @@
-{"parent":"projecteden/blocks/template/cube_column",
-	"textures":{
-		"particle":"projecteden/blocks/crates/bundle_sugar_cane_side",
-		"side":"projecteden/blocks/crates/bundle_sugar_cane_side",
-		"end":"projecteden/blocks/crates/bundle_sugar_cane_top"
-	}
-}

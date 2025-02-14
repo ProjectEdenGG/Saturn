@@ -3,7 +3,7 @@
 	"old_custom_model_data": 40,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/neon/white",
+		"model": "projecteden/customblocks/neon/white",
 		"tints": []
 	}
 }

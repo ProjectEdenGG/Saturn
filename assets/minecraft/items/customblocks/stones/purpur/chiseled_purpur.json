@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20364,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/stones/purpur/chiseled_purpur",
+		"model": "projecteden/customblocks/stones/purpur/chiseled_purpur",
 		"tints": []
 	}
 }

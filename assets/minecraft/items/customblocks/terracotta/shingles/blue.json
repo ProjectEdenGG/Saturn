@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20208,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/terracotta/shingles/blue",
+		"model": "projecteden/customblocks/terracotta/shingles/blue",
 		"tints": []
 	}
 }

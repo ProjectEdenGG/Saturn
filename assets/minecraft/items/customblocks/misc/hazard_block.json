@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20121,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/misc/hazard_block",
+		"model": "projecteden/customblocks/misc/hazard_block",
 		"tints": []
 	}
 }

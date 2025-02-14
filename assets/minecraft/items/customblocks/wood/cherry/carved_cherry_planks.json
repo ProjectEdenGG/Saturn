@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20020,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/wood/cherry/carved_cherry_planks",
+		"model": "projecteden/customblocks/wood/cherry/carved_cherry_planks",
 		"tints": []
 	}
 }

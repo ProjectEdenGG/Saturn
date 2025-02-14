@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20410,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/lanterns/paper/bamboo_paper_lantern",
+		"model": "projecteden/customblocks/lanterns/paper/bamboo_paper_lantern",
 		"tints": []
 	}
 }

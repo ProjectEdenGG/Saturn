@@ -3,7 +3,7 @@
 	"old_custom_model_data": 21105,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/rocks/rocks_item",
+		"model": "projecteden/customblocks/rocks/rocks_item",
 		"tints": []
 	}
 }

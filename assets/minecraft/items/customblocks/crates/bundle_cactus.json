@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20061,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/crates/bundle_cactus",
+		"model": "projecteden/customblocks/crates/bundle_cactus",
 		"tints": []
 	}
 }

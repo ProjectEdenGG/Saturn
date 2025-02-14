@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20261,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/concrete/bricks/pink",
+		"model": "projecteden/customblocks/concrete/bricks/pink",
 		"tints": []
 	}
 }

@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20011,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/wood/dark_oak/vertical_dark_oak_planks",
+		"model": "projecteden/customblocks/wood/dark_oak/vertical_dark_oak_planks",
 		"tints": []
 	}
 }

@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20362,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/stones/deepslate/deepslate_pillar",
+		"model": "projecteden/customblocks/stones/deepslate/deepslate_pillar",
 		"tints": []
 	}
 }

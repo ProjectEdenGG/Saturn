@@ -3,7 +3,7 @@
 	"old_custom_model_data": 21118,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/flora/cover/fungus_cover_item",
+		"model": "projecteden/customblocks/flora/cover/fungus_cover_item",
 		"tints": []
 	}
 }

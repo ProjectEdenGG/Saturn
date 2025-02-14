@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20363,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/stones/blackstone/blackstone_pillar",
+		"model": "projecteden/customblocks/stones/blackstone/blackstone_pillar",
 		"tints": []
 	}
 }

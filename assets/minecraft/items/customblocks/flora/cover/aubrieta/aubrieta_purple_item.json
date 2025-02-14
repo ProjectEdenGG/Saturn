@@ -3,7 +3,7 @@
 	"old_custom_model_data": 21114,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/blocks/flora/cover/aubrieta/aubrieta_purple_item",
+		"model": "projecteden/customblocks/flora/cover/aubrieta/aubrieta_purple_item",
 		"tints": []
 	}
 }
