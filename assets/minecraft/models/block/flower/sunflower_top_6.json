@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"4": "block/flower/sunflower_back_6",
-		"9": "block/flower/sunflower_front_6",
-		"14": "block/flower/sunflower_top_6",
-		"particle": "block/flower/sunflower_front"
+		"4": "block/sunflower_back_6",
+		"9": "block/sunflower_front_6",
+		"14": "block/sunflower_top_6",
+		"particle": "block/sunflower_front"
 	},
 	"elements": [
 		{

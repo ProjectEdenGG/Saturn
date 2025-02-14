@@ -1,13 +1,13 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"5": "block/flower/sunflower_front_7",
-		"6": "block/flower/sunflower_back_4",
-		"7": "block/flower/sunflower_back_2",
-		"8": "block/flower/sunflower_front_11",
-		"9": "block/flower/sunflower_front_12",
-		"13": "block/flower/sunflower_top_5",
-		"particle": "block/flower/sunflower_back_4"
+		"5": "block/sunflower_front_7",
+		"6": "block/sunflower_back_4",
+		"7": "block/sunflower_back_2",
+		"8": "block/sunflower_front_11",
+		"9": "block/sunflower_front_12",
+		"13": "block/sunflower_top_5",
+		"particle": "block/sunflower_back_4"
 	},
 	"elements": [
 		{
