@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      { "model": "block/flower/crimson_fungus_0"}
+      { "model": "variant/crimson_fungus_0"}
     ]
   }
 }

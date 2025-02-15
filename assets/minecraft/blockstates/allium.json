@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/flower/allium" },
-			{ "model": "block/flower/allium_2" },
-			{ "model": "block/flower/allium_3" },
-			{ "model": "block/flower/allium_4" },
-			{ "model": "block/flower/allium_5" },
-			{ "model": "block/flower/allium_6" }
+			{ "model": "variant/allium" },
+			{ "model": "variant/allium_2" },
+			{ "model": "variant/allium_3" },
+			{ "model": "variant/allium_4" },
+			{ "model": "variant/allium_5" },
+			{ "model": "variant/allium_6" }
 		]
 	}
 }

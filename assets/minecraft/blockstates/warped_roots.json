@@ -1,10 +1,10 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/flower/warped_roots_1" },
-			{ "model": "block/flower/warped_roots_2" },
-			{ "model": "block/flower/warped_roots_3" },
-			{ "model": "block/flower/warped_roots_4" }
+			{ "model": "variant/warped_roots_1" },
+			{ "model": "variant/warped_roots_2" },
+			{ "model": "variant/warped_roots_3" },
+			{ "model": "variant/warped_roots_4" }
 		]
 	}
 }

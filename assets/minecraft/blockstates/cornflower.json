@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/flower/cornflower" },
-			{ "model": "block/flower/cornflower_2" },
-			{ "model": "block/flower/cornflower_3" },
-			{ "model": "block/flower/cornflower_4" },
-			{ "model": "block/flower/cornflower_5" },
-			{ "model": "block/flower/cornflower_6" }
+			{ "model": "variant/cornflower" },
+			{ "model": "variant/cornflower_2" },
+			{ "model": "variant/cornflower_3" },
+			{ "model": "variant/cornflower_4" },
+			{ "model": "variant/cornflower_5" },
+			{ "model": "variant/cornflower_6" }
 		]
 	}
 }

@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/flower/pink_tulip" },
-			{ "model": "block/flower/pink_tulip_2" },
-			{ "model": "block/flower/pink_tulip_3" },
-			{ "model": "block/flower/pink_tulip_4" },
-			{ "model": "block/flower/pink_tulip_5" },
-			{ "model": "block/flower/pink_tulip_6" }
+			{ "model": "variant/pink_tulip" },
+			{ "model": "variant/pink_tulip_2" },
+			{ "model": "variant/pink_tulip_3" },
+			{ "model": "variant/pink_tulip_4" },
+			{ "model": "variant/pink_tulip_5" },
+			{ "model": "variant/pink_tulip_6" }
 		]
 	}
 }

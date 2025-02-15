@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/flower/poppy" },
-			{ "model": "block/flower/poppy_2" },
-			{ "model": "block/flower/poppy_3" },
-			{ "model": "block/flower/poppy_4" },
-			{ "model": "block/flower/poppy_5" },
-			{ "model": "block/flower/poppy_6" }
+			{ "model": "variant/poppy" },
+			{ "model": "variant/poppy_2" },
+			{ "model": "variant/poppy_3" },
+			{ "model": "variant/poppy_4" },
+			{ "model": "variant/poppy_5" },
+			{ "model": "variant/poppy_6" }
 		]
 	}
 }

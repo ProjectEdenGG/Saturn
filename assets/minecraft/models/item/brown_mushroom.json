@@ -1,3 +1,3 @@
 {
-	"parent": "minecraft:block/flower/brown_mushroom_0"
+	"parent": "variant/brown_mushroom_0"
 }

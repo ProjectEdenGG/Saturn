@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/flower/azure_bluet" },
-			{ "model": "block/flower/azure_bluet_2" },
-			{ "model": "block/flower/azure_bluet_3" },
-			{ "model": "block/flower/azure_bluet_4" },
-			{ "model": "block/flower/azure_bluet_5" },
-			{ "model": "block/flower/azure_bluet_6" }
+			{ "model": "variant/azure_bluet" },
+			{ "model": "variant/azure_bluet_2" },
+			{ "model": "variant/azure_bluet_3" },
+			{ "model": "variant/azure_bluet_4" },
+			{ "model": "variant/azure_bluet_5" },
+			{ "model": "variant/azure_bluet_6" }
 		]
 	}
 }
