@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"dirt": "block/potted/flower_pot_soil",
+		"dirt": "block/flower_pot_soil",
 		"particle": "block/custom_flower_pot",
 		"flowerpot": "block/custom_flower_pot"
 	},
