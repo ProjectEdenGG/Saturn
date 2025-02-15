@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      { "model": "block/warped_fungus/plant/0"}
+      { "model": "block/flower/warped_fungus_0"}
     ]
   }
 }
