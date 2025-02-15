@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"plant": "block/potted/potted_cactus",
+		"plant": "block/potted_cactus",
 		"particle": "#flowerpot",
 		"flowerpot": "block/custom_flower_pot"
 	},

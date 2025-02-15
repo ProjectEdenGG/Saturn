@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/flower_pot_cross_custom",
+  "parent": "block/potted/flower_pot_cross_custom",
   "textures": {
-    "plant": "minecraft:block/dead_bush",
-    "dirt": "minecraft:block/sand"
+    "plant": "block/dead_bush",
+    "dirt": "block/sand"
   }
 }

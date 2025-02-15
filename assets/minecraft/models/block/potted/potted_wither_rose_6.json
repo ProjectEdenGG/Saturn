@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/flower_pot_cross_custom",
+  "parent": "block/potted/flower_pot_cross_custom",
   "textures": {
-    "plant": "minecraft:block/wither_rose_6",
-    "dirt": "minecraft:block/soul_sand"
+    "plant": "block/wither_rose_6",
+    "dirt": "block/soul_sand"
   }
 }

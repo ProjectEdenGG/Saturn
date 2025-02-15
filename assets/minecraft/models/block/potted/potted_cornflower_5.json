@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/flower_pot_cross_plains",
+  "parent": "block/potted/flower_pot_cross_plains",
   "textures": {
-    "plant": "minecraft:block/cornflower_5"
+    "plant": "block/cornflower_5"
   }
 }

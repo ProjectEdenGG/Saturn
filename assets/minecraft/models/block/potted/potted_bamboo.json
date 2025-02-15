@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
-	"render_type": "minecraft:cutout",
+	"render_type": "cutout",
 	"textures": {
 		"particle": "block/custom_flower_pot",
 		"flowerpot": "block/custom_flower_pot",
-		"dirt": "block/flower_pot_soil",
+		"dirt": "block/potted/flower_pot_soil",
 		"bamboo": "block/bamboo_stalk",
 		"leaf": "block/bamboo_singleleaf"
 	},

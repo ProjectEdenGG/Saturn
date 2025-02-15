@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/flower_pot_cross_taiga",
+  "parent": "block/potted/flower_pot_cross_taiga",
   "textures": {
-    "plant": "minecraft:block/spruce_sapling"
+    "plant": "block/spruce_sapling"
   }
 }

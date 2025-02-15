@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/template_potted_azalea_bush",
+  "parent": "block/potted/template_potted_azalea_bush",
   "textures": {
-    "top": "minecraft:block/potted/potted_flowering_azalea_bush_top_3",
-    "side": "minecraft:block/potted/potted_flowering_azalea_bush_side_3"
+    "top": "block/potted_flowering_azalea_bush_top_3",
+    "side": "block/potted_flowering_azalea_bush_side_3"
   }
 }
