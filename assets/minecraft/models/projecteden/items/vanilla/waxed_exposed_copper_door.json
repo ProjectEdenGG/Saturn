@@ -1,0 +1,7 @@
+{
+	"parent": "item/door",
+	"textures": {
+		"top": "projecteden/items/vanilla/waxed_exposed_copper_door_top",
+		"bottom": "projecteden/items/vanilla/waxed_exposed_copper_door_bottom"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 8398,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/signs/avontyre/unique/crates_minigames",
+		"tints": []
+	}
+}

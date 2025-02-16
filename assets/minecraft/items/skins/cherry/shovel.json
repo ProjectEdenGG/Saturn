@@ -1,0 +1,9 @@
+{
+	"old_base_material": "wooden_shovel",
+	"old_custom_model_data": 1008,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/cherry/shovel",
+		"tints": []
+	}
+}

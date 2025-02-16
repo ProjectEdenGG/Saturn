@@ -1,0 +1,7 @@
+{
+  "parent": "block/potted/flower_pot_cross_custom",
+  "textures": {
+    "plant": "block/warped_roots_4_pot",
+    "dirt": "block/warped_nylium"
+  }
+}

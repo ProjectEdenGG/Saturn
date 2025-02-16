@@ -1,0 +1,7 @@
+{
+	"parent": "projecteden/customblocks/flora/templates/cross_tall",
+	"textures": {
+		"cross_top": "projecteden/customblocks/flora/purple_hibiscus_top",
+		"cross_bottom": "projecteden/customblocks/flora/purple_hibiscus_bottom"
+	}
+}

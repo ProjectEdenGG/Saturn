@@ -1,0 +1,7 @@
+{
+	"parent": "projecteden/customblocks/flora/templates/cross_tall_waterlogged",
+	"textures": {
+		"cross_top": "projecteden/customblocks/flora/cattail_top",
+		"cross_bottom": "projecteden/customblocks/flora/cattail_bottom"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 21122,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/flora/mountain_laurel_item",
+		"tints": []
+	}
+}

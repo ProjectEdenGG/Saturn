@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 8151,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/flags/bunting/phrases/happy_new_year",
+		"tints": []
+	}
+}

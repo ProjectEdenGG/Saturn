@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      { "model": "block/red_mushroom/plant/0"}
+      { "model": "variant/red_mushroom_0"}
     ]
   }
 }

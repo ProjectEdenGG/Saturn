@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20404,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/lanterns/paper/jungle_paper_lantern",
+		"tints": []
+	}
+}

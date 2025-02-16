@@ -1,0 +1,9 @@
+{
+	"old_base_material": "leather_horse_armor",
+	"old_custom_model_data": 9000,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/music/large_woodgrain_speaker",
+		"tints": [{"type": "minecraft:dye", "default": [0.627,0.396,0.250]}]
+	}
+}

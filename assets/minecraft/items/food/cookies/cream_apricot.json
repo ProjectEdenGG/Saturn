@@ -1,0 +1,9 @@
+{
+	"old_base_material": "cookie",
+	"old_custom_model_data": 6,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/food/cookies/cream_apricot",
+		"tints": []
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 10003,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/crate_keys/wakka",
+		"tints": []
+	}
+}

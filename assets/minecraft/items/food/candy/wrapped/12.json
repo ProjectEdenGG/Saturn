@@ -1,0 +1,9 @@
+{
+	"old_base_material": "cookie",
+	"old_custom_model_data": 173,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/food/candy/wrapped/12",
+		"tints": []
+	}
+}

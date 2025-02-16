@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "projecteden/events/pugmas24/fishing_rod_golden_cast"
-	}
-}

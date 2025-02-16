@@ -1,0 +1,9 @@
+{
+	"old_base_material": "gold_ingot",
+	"old_custom_model_data": 6,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/trophies/vulan24",
+		"tints": []
+	}
+}

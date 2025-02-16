@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 13000,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/crates/wither/all/all_0",
+		"tints": []
+	}
+}

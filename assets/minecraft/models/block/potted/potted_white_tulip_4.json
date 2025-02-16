@@ -1,0 +1,6 @@
+{
+  "parent": "block/potted/flower_pot_cross_plains",
+  "textures": {
+    "plant": "block/white_tulip_4"
+  }
+}

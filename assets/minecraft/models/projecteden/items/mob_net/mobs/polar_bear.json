@@ -1,6 +1,6 @@
-	{
-		"parent": "projecteden/items/mob_net/mob_net_closed",
-		"textures": {
-			"2": "projecteden/items/mob_net/mobs/polar_bear"
-		}
+{
+	"parent": "projecteden/items/mob_net/mob_net_closed",
+	"textures": {
+		"2": "projecteden/items/mob_net/mobs/polar_bear"
 	}
+}

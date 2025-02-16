@@ -1,7 +1,7 @@
-	{
-		"parent": "projecteden/decoration/plushies/player/waving/template_steve",
-		"textures": {
-			"0": "projecteden/decoration/plushies/player/players/4f06f692-0b42-4706-9193-bcc716ce5936",
-			"1": "projecteden/decoration/plushies/player/players/waving/4f06f692-0b42-4706-9193-bcc716ce5936"
-		}
+{
+	"parent": "projecteden/decoration/plushies/player/waving/template_steve",
+	"textures": {
+		"0": "projecteden/decoration/plushies/player/players/4f06f692-0b42-4706-9193-bcc716ce5936",
+		"1": "projecteden/decoration/plushies/player/players/waving/4f06f692-0b42-4706-9193-bcc716ce5936"
 	}
+}

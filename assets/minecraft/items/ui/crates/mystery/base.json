@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 13026,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/crates/mystery/base",
+		"tints": []
+	}
+}

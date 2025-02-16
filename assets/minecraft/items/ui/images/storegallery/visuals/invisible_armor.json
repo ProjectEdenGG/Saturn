@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 1083,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/images/storegallery/visuals/invisible_armor",
+		"tints": []
+	}
+}

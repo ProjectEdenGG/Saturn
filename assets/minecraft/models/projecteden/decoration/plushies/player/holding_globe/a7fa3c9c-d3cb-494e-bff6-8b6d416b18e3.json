@@ -1,6 +1,6 @@
-	{
-		"parent": "projecteden/decoration/plushies/player/holding_globe/template_alex",
-		"textures": {
-			"0": "projecteden/decoration/plushies/player/players/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"
-		}
+{
+	"parent": "projecteden/decoration/plushies/player/holding_globe/template_alex",
+	"textures": {
+		"0": "projecteden/decoration/plushies/player/players/a7fa3c9c-d3cb-494e-bff6-8b6d416b18e3"
 	}
+}

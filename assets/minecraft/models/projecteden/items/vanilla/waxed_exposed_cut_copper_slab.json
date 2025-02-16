@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "projecteden/items/vanilla/waxed_exposed_cut_copper",
+    "top": "projecteden/items/vanilla/waxed_exposed_cut_copper",
+    "side": "projecteden/items/vanilla/waxed_exposed_copper_double1"
+  }
+}

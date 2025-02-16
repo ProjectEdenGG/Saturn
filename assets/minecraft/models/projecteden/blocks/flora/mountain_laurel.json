@@ -1,7 +1,0 @@
-{
-	"parent": "projecteden/blocks/flora/templates/cross_tall",
-	"textures": {
-		"cross_top": "projecteden/blocks/flora/mountain_laurel_top",
-		"cross_bottom": "projecteden/blocks/flora/mountain_laurel_bottom"
-	}
-}

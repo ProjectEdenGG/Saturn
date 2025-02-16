@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/red_tulip" },
-			{ "model": "block/red_tulip_2" },
-			{ "model": "block/red_tulip_3" },
-			{ "model": "block/red_tulip_4" },
-			{ "model": "block/red_tulip_5" },
-			{ "model": "block/red_tulip_6" }
+			{ "model": "variant/red_tulip" },
+			{ "model": "variant/red_tulip_2" },
+			{ "model": "variant/red_tulip_3" },
+			{ "model": "variant/red_tulip_4" },
+			{ "model": "variant/red_tulip_5" },
+			{ "model": "variant/red_tulip_6" }
 		]
 	}
 }

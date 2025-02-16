@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/blue_orchid" },
-			{ "model": "block/blue_orchid_2" },
-			{ "model": "block/blue_orchid_3" },
-			{ "model": "block/blue_orchid_4" },
-			{ "model": "block/blue_orchid_5" },
-			{ "model": "block/blue_orchid_6" }
+			{ "model": "variant/blue_orchid" },
+			{ "model": "variant/blue_orchid_2" },
+			{ "model": "variant/blue_orchid_3" },
+			{ "model": "variant/blue_orchid_4" },
+			{ "model": "variant/blue_orchid_5" },
+			{ "model": "variant/blue_orchid_6" }
 		]
 	}
 }

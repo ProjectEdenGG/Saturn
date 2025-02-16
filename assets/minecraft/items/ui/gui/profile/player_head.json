@@ -1,0 +1,12 @@
+{
+	"old_base_material": "player_head",
+	"old_custom_model_data": 4,
+	"model": {
+      "type": "minecraft:special",
+      "base": "projecteden/ui/gui/profile/player_head",
+      "model": {
+        "type": "minecraft:head",
+        "kind": "player"
+      }
+    }
+}

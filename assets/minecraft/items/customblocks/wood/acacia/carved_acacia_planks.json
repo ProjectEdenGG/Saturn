@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20010,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/wood/acacia/carved_acacia_planks",
+		"tints": []
+	}
+}
