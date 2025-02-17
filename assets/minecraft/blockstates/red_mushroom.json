@@ -1,7 +1,7 @@
 {
   "variants": {
     "": [
-      { "model": "variant/red_mushroom_0"}
+      { "model": "block/variant/red_mushroom_0"}
     ]
   }
 }

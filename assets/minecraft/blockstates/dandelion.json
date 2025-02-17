@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "variant/dandelion" },
-			{ "model": "variant/dandelion_2" },
-			{ "model": "variant/dandelion_3" },
-			{ "model": "variant/dandelion_4" },
-			{ "model": "variant/dandelion_5" },
-			{ "model": "variant/dandelion_6" }
+			{ "model": "block/variant/dandelion" },
+			{ "model": "block/variant/dandelion_2" },
+			{ "model": "block/variant/dandelion_3" },
+			{ "model": "block/variant/dandelion_4" },
+			{ "model": "block/variant/dandelion_5" },
+			{ "model": "block/variant/dandelion_6" }
 		]
 	}
 }

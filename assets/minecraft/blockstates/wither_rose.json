@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "variant/wither_rose" },
-			{ "model": "variant/wither_rose_2" },
-			{ "model": "variant/wither_rose_3" },
-			{ "model": "variant/wither_rose_4" },
-			{ "model": "variant/wither_rose_5" },
-			{ "model": "variant/wither_rose_6" }
+			{ "model": "block/variant/wither_rose" },
+			{ "model": "block/variant/wither_rose_2" },
+			{ "model": "block/variant/wither_rose_3" },
+			{ "model": "block/variant/wither_rose_4" },
+			{ "model": "block/variant/wither_rose_5" },
+			{ "model": "block/variant/wither_rose_6" }
 		]
 	}
 }

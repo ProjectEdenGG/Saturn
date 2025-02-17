@@ -1,12 +1,12 @@
 {
 	"variants": {
 		"": [
-			{ "model": "variant/lily_of_the_valley" },
-			{ "model": "variant/lily_of_the_valley_2" },
-			{ "model": "variant/lily_of_the_valley_3" },
-			{ "model": "variant/lily_of_the_valley_4" },
-			{ "model": "variant/lily_of_the_valley_5" },
-			{ "model": "variant/lily_of_the_valley_6" }
+			{ "model": "block/variant/lily_of_the_valley" },
+			{ "model": "block/variant/lily_of_the_valley_2" },
+			{ "model": "block/variant/lily_of_the_valley_3" },
+			{ "model": "block/variant/lily_of_the_valley_4" },
+			{ "model": "block/variant/lily_of_the_valley_5" },
+			{ "model": "block/variant/lily_of_the_valley_6" }
 		]
 	}
 }

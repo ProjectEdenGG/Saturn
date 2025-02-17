@@ -1,11 +1,11 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"5": "variant/sunflower_bottom_6",
-		"14": "variant/sunflower_front_11",
-		"15": "variant/sunflower_front_12",
-		"16": "variant/sunflower_back_2",
-		"particle": "variant/sunflower_back_2"
+		"9": "block/variant/sunflower_bottom",
+		"14": "block/variant/sunflower_front_11",
+		"15": "block/variant/sunflower_front_12",
+		"16": "block/variant/sunflower_back_2",
+		"particle": "block/variant/sunflower_back_2"
 	},
 	"elements": [
 		{
@@ -14,12 +14,12 @@
 			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"east": {"uv": [0, 0, 0, 0], "texture": "#5"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"west": {"uv": [0, 0, 0, 0], "texture": "#5"},
-				"up": {"uv": [0, 0, 0, 0], "texture": "#5"},
-				"down": {"uv": [0, 0, 0, 0], "texture": "#5"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#9"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#9"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#9"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#9"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#9"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#9"}
 			}
 		},
 		{
@@ -28,17 +28,17 @@
 			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
-				"north": {"uv": [0, 0, 0, 0], "texture": "#5"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"south": {"uv": [0, 0, 0, 0], "texture": "#5"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#5"},
-				"up": {"uv": [0, 0, 0, 0], "texture": "#5"},
-				"down": {"uv": [0, 0, 0, 0], "texture": "#5"}
+				"north": {"uv": [0, 0, 0, 0], "texture": "#9"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#9"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#9"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#9"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#9"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#9"}
 			}
 		},
 		{
-			"from": [14, 4, 7],
-			"to": [14, 8, 11],
+			"from": [14, 5, 7],
+			"to": [14, 9, 11],
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 6], "texture": "#missing"},
