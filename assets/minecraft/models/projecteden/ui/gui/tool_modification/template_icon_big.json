@@ -5,7 +5,7 @@
 			"to": [16, 16, 0],
 			"color": 0,
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#skin"}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#skin"}
 			}
 		}
 	],
