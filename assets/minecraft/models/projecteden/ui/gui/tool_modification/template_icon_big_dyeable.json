@@ -1,0 +1,26 @@
+{
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"color": 0,
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#skin", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0, 1],
+			"to": [16, 16, 1],
+			"color": 0,
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#overlay"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"scale": [3.25, 3.25, 3.25]
+		}
+	}
+}

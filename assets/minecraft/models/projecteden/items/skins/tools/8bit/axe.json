@@ -1,10 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/copper/axe.json
-		"layer0": "projecteden/items/skins/tools/copper/axe"
-========
 		"layer0": "projecteden/items/skins/tools/8bit/axe"
->>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/8bit/axe.json
 	}
 }

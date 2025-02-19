@@ -1,10 +1,6 @@
 {
 	"parent": "projecteden/ui/gui/tool_modification/template_icon_big",
 	"textures": {
-<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/amethyst/big/crossbow.json
-		"skin": "projecteden/items/skins/tools/amethyst/crossbow_standby"
-========
 		"skin": "projecteden/items/skins/tools/cherry/crossbow_standby"
->>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/cherry/big/crossbow.json
 	}
 }

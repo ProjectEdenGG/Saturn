@@ -1,10 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/amethyst/axe.json
-		"layer0": "projecteden/items/skins/tools/amethyst/axe"
-========
 		"layer0": "projecteden/items/skins/tools/vines/axe"
->>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/vines/axe.json
 	}
 }

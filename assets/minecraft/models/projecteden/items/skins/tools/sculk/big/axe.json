@@ -1,10 +1,6 @@
 {
   "parent": "projecteden/ui/gui/tool_modification/template_icon_big",
   "textures": {
-<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/mythril/big/axe.json
-    "skin": "projecteden/items/skins/tools/mythril/axe"
-========
     "skin": "projecteden/items/skins/tools/sculk/axe"
->>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/sculk/big/axe.json
   }
 }
