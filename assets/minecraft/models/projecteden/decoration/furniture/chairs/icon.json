@@ -1,6 +1,0 @@
-{
-	"parent": "projecteden/decoration/furniture/chairs/chair_basic",
-	"textures": {
-		"1": "projecteden/decoration/dyeable/wooden_set_1_oak"
-	}
-}
