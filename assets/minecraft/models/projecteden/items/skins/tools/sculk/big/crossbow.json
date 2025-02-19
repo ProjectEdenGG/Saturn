@@ -1,0 +1,10 @@
+{
+	"parent": "projecteden/ui/gui/tool_modification/template_icon_big",
+	"textures": {
+<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/copper/big/crossbow.json
+		"skin": "projecteden/items/skins/tools/copper/crossbow_standby"
+========
+		"skin": "projecteden/items/skins/tools/sculk/crossbow_standby"
+>>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/sculk/big/crossbow.json
+	}
+}

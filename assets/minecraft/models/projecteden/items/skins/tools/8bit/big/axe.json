@@ -1,0 +1,10 @@
+{
+  "parent": "projecteden/ui/gui/tool_modification/template_icon_big",
+  "textures": {
+<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/copper/big/axe.json
+    "skin": "projecteden/items/skins/tools/copper/axe"
+========
+    "skin": "projecteden/items/skins/tools/8bit/axe"
+>>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/8bit/big/axe.json
+  }
+}

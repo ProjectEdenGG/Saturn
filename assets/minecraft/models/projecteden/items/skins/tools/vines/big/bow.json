@@ -1,6 +1,10 @@
 {
 	"parent": "projecteden/ui/gui/tool_modification/template_icon_big",
 	"textures": {
+<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/copper/big/bow.json
+		"skin": "projecteden/items/skins/tools/copper/bow"
+========
 		"skin": "projecteden/items/skins/tools/vines/bow"
+>>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/vines/big/bow.json
 	}
 }

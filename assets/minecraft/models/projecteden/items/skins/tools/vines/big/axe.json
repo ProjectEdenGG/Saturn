@@ -1,0 +1,10 @@
+{
+  "parent": "projecteden/ui/gui/tool_modification/template_icon_big",
+  "textures": {
+<<<<<<<< HEAD:assets/minecraft/models/projecteden/items/skins/tools/amethyst/big/axe.json
+    "skin": "projecteden/items/skins/tools/amethyst/axe"
+========
+    "skin": "projecteden/items/skins/tools/vines/axe"
+>>>>>>>> 61e1030e (refactor a bit into skins/tools/armor):assets/minecraft/models/projecteden/items/skins/tools/vines/big/axe.json
+  }
+}
