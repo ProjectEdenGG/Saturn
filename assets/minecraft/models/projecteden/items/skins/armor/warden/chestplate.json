@@ -1,0 +1,6 @@
+	{
+		"parent": "projecteden/items/skins/armor/template_armor",
+		"textures": {
+			"0": "projecteden/items/skins/armor/warden/chestplate"
+		}
+	}

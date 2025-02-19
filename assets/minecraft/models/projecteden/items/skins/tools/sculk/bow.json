@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "projecteden/items/skins/tools/sculk/bow"
+	}
+}

@@ -1,9 +1,0 @@
-{
-	"old_base_material": "leather_helmet",
-	"old_custom_model_data": 9,
-	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/items/armor/jarl/helmet",
-		"tints": []
-	}
-}

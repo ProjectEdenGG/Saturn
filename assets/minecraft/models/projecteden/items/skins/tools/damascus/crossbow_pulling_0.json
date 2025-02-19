@@ -1,0 +1,6 @@
+{
+	"parent": "item/crossbow",
+	"textures": {
+		"layer0": "projecteden/items/skins/tools/damascus/crossbow_pulling_0"
+	}
+}

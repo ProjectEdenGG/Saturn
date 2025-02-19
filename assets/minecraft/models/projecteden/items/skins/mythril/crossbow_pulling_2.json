@@ -1,6 +1,0 @@
-{
-	"parent": "item/crossbow",
-	"textures": {
-		"layer0": "projecteden/items/skins/mythril/crossbow_pulling_2"
-	}
-}
