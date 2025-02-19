@@ -1805,6 +1805,13 @@
 			"chars":["千"]
 		},
 		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/tool_modification_table.png",
+			"ascent":19,
+			"height":128,
+			"chars":["犁"]
+		},
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/decoration/decoration.png",
 			"ascent": 7,

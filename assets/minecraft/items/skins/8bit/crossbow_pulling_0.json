@@ -1,9 +1,0 @@
-{
-	"old_base_material": "crossbow",
-	"old_custom_model_data": 1010,
-	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/items/skins/8bit/crossbow_pulling_0",
-		"tints": []
-	}
-}

@@ -1,0 +1,26 @@
+{
+  "old_base_material": "crossbow",
+  "old_custom_model_data": 1008,
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:using_item",
+    "on_false": {
+      "type": "minecraft:select",
+      "property": "minecraft:charge_type",
+      "cases": [
+        {"model": {"type": "minecraft:model", "model": "projecteden/items/skins/sculk/crossbow_arrow"}, "when": "arrow"},
+        {"model": {"type": "minecraft:model", "model": "projecteden/items/skins/sculk/crossbow_firework"}, "when": "rocket"}
+      ],
+      "fallback": {"type": "minecraft:model", "model": "projecteden/items/skins/sculk/crossbow_standby"}
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:crossbow/pull",
+      "entries": [
+        {"model": {"type": "minecraft:model", "model": "projecteden/items/skins/sculk/crossbow_pulling_1"}, "threshold": 0.58},
+        {"model": {"type": "minecraft:model", "model": "projecteden/items/skins/sculk/crossbow_pulling_2"}, "threshold": 1.0}
+      ],
+      "fallback": {"type": "minecraft:model","model": "projecteden/items/skins/sculk/crossbow_pulling_0"}
+    }
+  }
+}
