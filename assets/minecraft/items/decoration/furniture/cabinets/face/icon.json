@@ -3,7 +3,7 @@
 	"old_custom_model_data": 4,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/decoration/furniture/cabinets/face/icon",
+		"model": "projecteden/decoration/furniture/cabinets/face/spruce_3",
 		"tints": []
 	}
 }

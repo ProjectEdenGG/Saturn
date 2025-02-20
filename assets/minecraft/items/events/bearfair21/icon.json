@@ -3,7 +3,7 @@
 	"old_custom_model_data": 5,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/events/bearfair21/icon",
+		"model": "projecteden/events/bearfair21/ferriswheel_cart",
 		"tints": []
 	}
 }

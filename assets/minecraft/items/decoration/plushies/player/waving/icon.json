@@ -3,7 +3,7 @@
 	"old_custom_model_data": 20,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/decoration/plushies/player/waving/icon",
+		"model": "projecteden/decoration/plushies/player/waving/template_steve",
 		"tints": []
 	}
 }

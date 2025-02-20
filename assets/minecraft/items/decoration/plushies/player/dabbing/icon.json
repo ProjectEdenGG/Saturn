@@ -3,7 +3,7 @@
 	"old_custom_model_data": 14,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/decoration/plushies/player/dabbing/icon",
+		"model": "projecteden/decoration/plushies/player/dabbing/template_steve",
 		"tints": []
 	}
 }
