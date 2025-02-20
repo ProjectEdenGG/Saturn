@@ -1,7 +1,8 @@
 {
+    "ambientocclusion": false,
 	"textures": {
-		"0": "block/lily_pad",
-		"particle": "block/lily_pad"
+		"0": "block/variant/lily_pad",
+		"particle": "block/variant/lily_pad"
 	},
 	"elements": [
 		{
