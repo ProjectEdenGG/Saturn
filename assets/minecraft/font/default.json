@@ -215,6 +215,13 @@
             "height":256,
             "chars":["癃"]
         },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/textures/zebra.png",
+            "ascent":19,
+            "height":256,
+            "chars":["硅"]
+        },
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/profile/images/template.png",
@@ -454,6 +461,13 @@
 			"chars":["簏"]
 		},
 
+        {
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/seedling.png",
+			"height":9,
+			"ascent":8,
+			"chars":["🌱"]
+		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/emojis/custom/logo.png",
