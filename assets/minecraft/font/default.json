@@ -201,9 +201,9 @@
 			"height":256,
 			"chars":["臭"]
 		},
-		{
+        {
             "type":"bitmap",
-            "file":"projecteden/font/gui/profile/textures/circuit.png",
+            "file":"projecteden/font/gui/profile/textures/gingham.png",
             "ascent":19,
             "height":256,
             "chars":["糊"]
