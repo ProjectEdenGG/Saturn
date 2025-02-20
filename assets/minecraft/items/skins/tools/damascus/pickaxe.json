@@ -1,9 +1,0 @@
-{
-	"old_base_material": "wooden_pickaxe",
-	"old_custom_model_data": 1002,
-	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/items/skins/tools/damascus/pickaxe",
-		"tints": []
-	}
-}

@@ -19,7 +19,7 @@ import static java.nio.file.StandardOpenOption.TRUNCATE_EXISTING;
 public class Armor {
 	final List<String> SLOTS = List.of("boots", "chestplate", "helmet", "leggings");
 	final List<String> ORDER = List.of(
-			"wither", "warden", "berserker", "brown_berserk", "copper", "damascus", "druid", "hellfire", "jarl",
+			"wither", "warden", "berserker", "brown_berserk", "copper", "cobalt", "druid", "hellfire", "jarl",
 			"mythril", "tank", "thor", "wizard", "wolf", "fishing"
 	);
 
