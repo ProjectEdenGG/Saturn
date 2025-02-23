@@ -1,0 +1,6 @@
+	{
+		"parent": "projecteden/ui/gui/tool_modification/template_icon_big",
+		"textures": {
+			"skin": "projecteden/items/skins/armor/wizard/leggings"
+		}
+	}

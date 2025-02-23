@@ -1,0 +1,6 @@
+{
+  "parent": "projecteden/events/items/giant_clock/template",
+  "textures": {
+    "layer0": "minecraft:item/clock_42"
+  }
+}

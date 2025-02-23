@@ -1,0 +1,9 @@
+{
+	"old_base_material": "note_block",
+	"old_custom_model_data": 30,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/neon/cyan",
+		"tints": []
+	}
+}

@@ -15,5 +15,19 @@
   	"effect.minecraft.unluck": "§f求",
 	"container.inventory": "",
 	"multiplayer.unsecureserver.toast.title": "",
-	"multiplayer.unsecureserver.toast": ""
+	"multiplayer.unsecureserver.toast": "",
+	"enchantment.nexus.auto_repair": "Auto Repair",
+	"enchantment.nexus.beheading": "Beheading",
+	"enchantment.nexus.column_quake": "Column Quake",
+	"enchantment.nexus.disarming": "Disarming",
+	"enchantment.nexus.energizing": "Energizing",
+	"enchantment.nexus.firework": "Firework",
+	"enchantment.nexus.glowing": "Glowing",
+	"enchantment.nexus.ice_aspect": "Ice Aspect",
+	"enchantment.nexus.magnet": "Magnet",
+	"enchantment.nexus.soulbound": "Soulbound",
+	"enchantment.nexus.thor": "Thor",
+	"enchantment.nexus.tunneling": "Tunneling",
+	"enchantment.nexus.vampire": "Vampire",
+	"enchantment.nexus.vein_miner": "Vein Miner"
 }

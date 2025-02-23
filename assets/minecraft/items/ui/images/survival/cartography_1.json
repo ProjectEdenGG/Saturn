@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 1335,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/images/survival/cartography_1",
+		"tints": []
+	}
+}

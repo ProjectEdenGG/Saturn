@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld_mace",
+	"textures": {
+		"layer0": "projecteden/items/skins/tools/8bit/mace"
+	}
+}

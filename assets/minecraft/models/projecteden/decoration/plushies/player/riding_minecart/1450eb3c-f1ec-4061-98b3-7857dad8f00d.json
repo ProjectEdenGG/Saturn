@@ -1,6 +1,6 @@
-	{
-		"parent": "projecteden/decoration/plushies/player/riding_minecart/template_alex",
-		"textures": {
-			"0": "projecteden/decoration/plushies/player/players/1450eb3c-f1ec-4061-98b3-7857dad8f00d"
-		}
+{
+	"parent": "projecteden/decoration/plushies/player/riding_minecart/template_alex",
+	"textures": {
+		"0": "projecteden/decoration/plushies/player/players/1450eb3c-f1ec-4061-98b3-7857dad8f00d"
 	}
+}

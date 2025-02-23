@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 11211,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/events/items/discount_card",
+		"tints": []
+	}
+}

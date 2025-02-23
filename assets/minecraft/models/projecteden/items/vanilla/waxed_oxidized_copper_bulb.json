@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/copper_block",
+  "textures": {
+    "all": "projecteden/items/vanilla/waxed_oxidized_copper_bulb"
+  }
+}

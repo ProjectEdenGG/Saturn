@@ -1,11 +1,11 @@
 {"parent":"block/cube",
 	"textures":{
 		"particle": "block/note_block",
-		"up":"projecteden/blocks/presents/16_0",
-		"down":"projecteden/blocks/presents/16_2",
-		"north":"projecteden/blocks/presents/16_1",
-		"south":"projecteden/blocks/presents/16_1",
-		"east":"projecteden/blocks/presents/16_1",
-		"west":"projecteden/blocks/presents/16_1"
+		"up":"projecteden/customblocks/presents/16_0",
+		"down":"projecteden/customblocks/presents/16_2",
+		"north":"projecteden/customblocks/presents/16_1",
+		"south":"projecteden/customblocks/presents/16_1",
+		"east":"projecteden/customblocks/presents/16_1",
+		"west":"projecteden/customblocks/presents/16_1"
 	}
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "projecteden/items/skins/tools/sculk/pickaxe"
+	}
+}

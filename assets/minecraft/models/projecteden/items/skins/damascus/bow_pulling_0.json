@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:item/bow",
-	"textures": {
-		"layer0": "projecteden/items/skins/damascus/bow_pulling_0"
-	}
-}

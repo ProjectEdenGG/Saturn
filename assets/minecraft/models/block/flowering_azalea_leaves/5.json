@@ -1,5 +1,5 @@
 {
-  "parent": "projecteden/blocks/template/cube_all",
+  "parent": "projecteden/customblocks/template/cube_all",
   "textures": {
     "all": "minecraft:block/flowering_azalea_leaves/5"
   }

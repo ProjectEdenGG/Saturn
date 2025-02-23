@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 6452,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/plushies/mob/cat_white_hanging",
+		"tints": []
+	}
+}

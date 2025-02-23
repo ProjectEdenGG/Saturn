@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 1333,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/images/survival/chalkboard_anatomy_1",
+		"tints": []
+	}
+}

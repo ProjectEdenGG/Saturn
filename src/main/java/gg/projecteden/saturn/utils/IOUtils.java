@@ -21,6 +21,7 @@ public class IOUtils {
 			writer.write(String.join(System.lineSeparator(), outputs));
 		});
 	}
+
 	private static void write(String fileName, List<StandardOpenOption> openOptions, UncheckedConsumer<BufferedWriter> consumer) {
 		try {
 			final Path path = Paths.get(fileName);

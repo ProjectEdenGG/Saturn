@@ -1,0 +1,10 @@
+{"parent":"projecteden/customblocks/template/cube_all",
+	"textures":{"all":"projecteden/customblocks/crates/generic_1"},
+	"display":{
+		"thirdperson_lefthand":{
+			"rotation":[64,0,0],
+			"translation":[-6,4,-1],
+			"scale":[0.75,0.75,0.75]
+		}
+	}
+}

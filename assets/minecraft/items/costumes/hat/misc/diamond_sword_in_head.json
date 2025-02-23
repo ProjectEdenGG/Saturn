@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 22310,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/costumes/hat/misc/diamond_sword_in_head",
+		"tints": []
+	}
+}

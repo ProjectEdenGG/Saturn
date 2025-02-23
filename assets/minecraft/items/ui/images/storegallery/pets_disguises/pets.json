@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 1060,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/images/storegallery/pets_disguises/pets",
+		"tints": []
+	}
+}

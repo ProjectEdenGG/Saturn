@@ -1,0 +1,6 @@
+{
+  "parent": "block/potted/flower_pot_cross_forest",
+  "textures": {
+    "plant": "block/dark_oak_sapling"
+  }
+}

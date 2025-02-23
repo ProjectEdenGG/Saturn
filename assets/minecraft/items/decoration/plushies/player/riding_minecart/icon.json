@@ -1,0 +1,9 @@
+{
+	"old_base_material": "map",
+	"old_custom_model_data": 18,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/plushies/player/riding_minecart/template_steve",
+		"tints": []
+	}
+}

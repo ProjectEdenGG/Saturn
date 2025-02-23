@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 25223,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/coins/bronze_coins_4",
+		"tints": []
+	}
+}

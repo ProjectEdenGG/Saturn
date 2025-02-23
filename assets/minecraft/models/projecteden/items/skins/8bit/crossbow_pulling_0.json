@@ -1,6 +1,0 @@
-{
-	"parent": "item/crossbow",
-	"textures": {
-		"layer0": "projecteden/items/skins/8bit/crossbow_pulling_0"
-	}
-}

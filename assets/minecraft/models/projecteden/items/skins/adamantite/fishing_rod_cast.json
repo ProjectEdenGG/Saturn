@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "projecteden/items/skins/adamantite/fishing_rod_cast"
-	}
-}

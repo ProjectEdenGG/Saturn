@@ -1,0 +1,9 @@
+{
+	"old_base_material": "bee_spawn_egg",
+	"old_custom_model_data": 1,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/mob_net/mobs/bee",
+		"tints": []
+	}
+}

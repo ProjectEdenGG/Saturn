@@ -1,0 +1,18 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {"threshold": 0, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/shrink_0", "tints": []}},
+      {"threshold": 1, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/shrink_1", "tints": []}},
+      {"threshold": 2, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/shrink_2", "tints": []}},
+      {"threshold": 3, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/shrink_3", "tints": []}},
+      {"threshold": 4, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/shrink_4", "tints": []}},
+      {"threshold": 10, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/growth_0", "tints": []}},
+      {"threshold": 11, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/growth_1", "tints": []}},
+      {"threshold": 12, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/growth_2", "tints": []}},
+      {"threshold": 13, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/growth_3", "tints": []}},
+      {"threshold": 14, "model": {"type": "minecraft:model", "model": "projecteden/functional/proportionator/growth_4", "tints": []}}
+    ]
+  }
+}

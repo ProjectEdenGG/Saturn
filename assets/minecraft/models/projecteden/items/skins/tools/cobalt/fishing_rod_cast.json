@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "projecteden/items/skins/tools/cobalt/fishing_rod_cast"
+	}
+}

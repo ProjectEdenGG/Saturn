@@ -161,49 +161,133 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/profile_self.png",
+			"file":"projecteden/font/gui/profile/base.png",
 			"ascent":19,
 			"height":256,
 			"chars":["升"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/icon_helmet.png",
+			"file":"projecteden/font/gui/profile/background.png",
+			"ascent":19,
+			"height":256,
+			"chars":["顼"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/textures/dots.png",
+			"ascent":19,
+			"height":256,
+			"chars":["夤"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/textures/shine.png",
+			"ascent":19,
+			"height":256,
+			"chars":["疱"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/textures/stripes_vertical.png",
+			"ascent":19,
+			"height":256,
+			"chars":["祯"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/textures/split.png",
+			"ascent":19,
+			"height":256,
+			"chars":["臭"]
+		},
+		{
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/textures/circuit.png",
+            "ascent":19,
+            "height":256,
+            "chars":["糊"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/textures/gingham.png",
+            "ascent":19,
+            "height":256,
+            "chars":["癃"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/textures/zebra.png",
+            "ascent":19,
+            "height":256,
+            "chars":["硅"]
+        },
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/images/template.png",
+			"ascent":63,
+			"height":256,
+			"chars":["糖"]
+		},
+		{
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/images/cats.png",
+            "ascent":63,
+            "height":256,
+            "chars":["诅"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/images/birthday.png",
+            "ascent":63,
+            "height":256,
+            "chars":["孟"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/profile/images/bees.png",
+            "ascent":63,
+            "height":256,
+            "chars":["脒"]
+        },
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/profile/icons/icon_helmet.png",
 			"ascent":19,
 			"height":256,
 			"chars":["委"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/icon_chestplate.png",
+			"file":"projecteden/font/gui/profile/icons/icon_chestplate.png",
 			"ascent":19,
 			"height":256,
 			"chars":["晕"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/icon_leggings.png",
+			"file":"projecteden/font/gui/profile/icons/icon_leggings.png",
 			"ascent":19,
 			"height":256,
 			"chars":["鸱"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/icon_boots.png",
+			"file":"projecteden/font/gui/profile/icons/icon_boots.png",
 			"ascent":19,
 			"height":256,
 			"chars":["粞"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/icon_cosmetic_hat.png",
+			"file":"projecteden/font/gui/profile/icons/icon_cosmetic_hat.png",
 			"ascent":19,
 			"height":256,
 			"chars":["疕"]
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/profile/icon_cosmetic_hand.png",
+			"file":"projecteden/font/gui/profile/icons/icon_cosmetic_hand.png",
 			"ascent":19,
 			"height":256,
 			"chars":["楂"]
@@ -377,6 +461,13 @@
 			"chars":["簏"]
 		},
 
+        {
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/seedling.png",
+			"height":9,
+			"ascent":8,
+			"chars":["🌱"]
+		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/emojis/custom/logo.png",
@@ -494,7 +585,7 @@
 			"file":"projecteden/font/emojis/custom/presence_offline.png",
 			"name": "&#747f8dOffline",
 			"discordId": "1007078277921394720",
-			"modelId": 25000,
+			"modelId": "ui/gui/presence/offline",
 			"height":8,
 			"ascent":8,
 			"chars":["汉"]
@@ -504,7 +595,7 @@
 			"file":"projecteden/font/emojis/custom/presence_active.png",
 			"name": "&#3ba55dActive",
 			"discordId": "896466289508356106",
-			"modelId": 25001,
+			"modelId": "ui/gui/presence/active",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -514,7 +605,7 @@
 			"file":"projecteden/font/emojis/custom/presence_afk.png",
 			"name": "&#faa81aAFK",
 			"discordId": "896466289466429521",
-			"modelId": 25002,
+			"modelId": "ui/gui/presence/afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -524,7 +615,7 @@
 			"file":"projecteden/font/emojis/custom/presence_dnd.png",
 			"name": "&#ed4245DND",
 			"discordId": "896466289479020585",
-			"modelId": 25003,
+			"modelId": "ui/gui/presence/dnd",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -534,7 +625,7 @@
 			"file":"projecteden/font/emojis/custom/presence_dnd_afk.png",
 			"name": "&#ed4245DND &#faa81aAFK",
 			"discordId": "896466289487396944",
-			"modelId": 25004,
+			"modelId": "ui/gui/presence/dnd_afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -544,7 +635,7 @@
 			"file":"projecteden/font/emojis/custom/presence_live.png",
 			"name": "&#573895Live",
 			"discordId": "896466289449635920",
-			"modelId": 25005,
+			"modelId": "ui/gui/presence/presence_live",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -554,7 +645,7 @@
 			"file":"projecteden/font/emojis/custom/presence_live_afk.png",
 			"name": "&#573895Live &#faa81aAFK",
 			"discordId": "896466289487400991",
-			"modelId": 25006,
+			"modelId": "ui/gui/presence/live_afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -564,7 +655,7 @@
 			"file":"projecteden/font/emojis/custom/presence_live_dnd.png",
 			"name": "&#573895Live &#ed4245DND",
 			"discordId": "896466289525129237",
-			"modelId": 25007,
+			"modelId": "ui/gui/presence/live_dnd",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -574,7 +665,7 @@
 			"file":"projecteden/font/emojis/custom/presence_live_dnd_afk.png",
 			"name": "&#573895Live &#ed4245DND &#faa81aAFK",
 			"discordId": "896466289470636034",
-			"modelId": 25008,
+			"modelId": "ui/gui/presence/live_dnd_afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -584,7 +675,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished.png",
 			"name": "&#747f8dVanished",
 			"discordId": "896466289466429511",
-			"modelId": 25009,
+			"modelId": "ui/gui/presence/vanished",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -594,7 +685,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished_afk.png",
 			"name": "&#747f8dVanished &#faa81aAFK",
 			"discordId": "896466289512579072",
-			"modelId": 25010,
+			"modelId": "ui/gui/presence/vanished_afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -604,7 +695,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished_dnd.png",
 			"name": "&#747f8dVanished &#ed4245DND",
 			"discordId": "896466289462247545",
-			"modelId": 25011,
+			"modelId": "ui/gui/presence/vanished_dnd",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -614,7 +705,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished_dnd_afk.png",
 			"name": "&#747f8dVanished &#ed4245DND &#faa81aAFK",
 			"discordId": "896466289495777391",
-			"modelId": 25012,
+			"modelId": "ui/gui/presence/vanished_dnd_afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -624,7 +715,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished_dnd_live.png",
 			"name": "&#747f8dVanished &#ed4245DND &#573895Live",
 			"discordId": "896466289546125402",
-			"modelId": 25013,
+			"modelId": "ui/gui/presence/vanished_dnd_live",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -634,7 +725,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished_dnd_live_afk.png",
 			"name": "&#747f8dVanished &#ed4245DND &#573895Live &#faa81aAFK",
 			"discordId": "896466289508356107",
-			"modelId": 25014,
+			"modelId": "ui/gui/presence/vanished_dnd_live_afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -644,7 +735,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished_live.png",
 			"name": "&#747f8dVanished &#573895Live",
 			"discordId": "896466289491578920",
-			"modelId": 25015,
+			"modelId": "ui/gui/presence/vanished_live",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -654,7 +745,7 @@
 			"file":"projecteden/font/emojis/custom/presence_vanished_live_afk.png",
 			"name": "&#747f8dVanished &#573895Live &#faa81aAFK",
 			"discordId": "896466289177034753",
-			"modelId": 25016,
+			"modelId": "ui/gui/presence/vanished_live_afk",
 			"height":8,
 			"ascent":8,
 			"chars":[""]
@@ -1309,7 +1400,7 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/emojis/twemoji/x.png",
+			"file":"projecteden/font/emojis/twemoji/white_x.png",
 			"purchasable": true,
 			"height":7,
 			"ascent":7,
@@ -1740,6 +1831,13 @@
 			"ascent":19,
 			"height":256,
 			"chars":["千"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/tool_modification_table.png",
+			"ascent":19,
+			"height":128,
+			"chars":["犁"]
 		},
 		{
 			"type": "bitmap",

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 6805,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/legacy/laptop",
+		"tints": []
+	}
+}

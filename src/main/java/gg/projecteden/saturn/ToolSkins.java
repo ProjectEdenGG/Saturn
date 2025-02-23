@@ -9,7 +9,7 @@ import java.util.List;
 public class ToolSkins {
 
 	private static final List<String> SKINS = List.of(
-			"adamantite", "copper", "damascus", "hellfire", "mythril", "vines", "amythest", "sculk", "cherry",
+			"adamantite", "copper", "cobalt", "hellfire", "mythril", "vines", "amythest", "sculk", "cherry",
 			"mechanical", "8bit"
 	);
 

@@ -1,10 +1,10 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/potted_warped_fungus" },
-			{ "model": "block/potted_warped_fungus_2" },
-			{ "model": "block/potted_warped_fungus_3" },
-			{ "model": "block/potted_warped_fungus_4" }
+			{ "model": "block/potted/potted_warped_fungus" },
+			{ "model": "block/potted/potted_warped_fungus_2" },
+			{ "model": "block/potted/potted_warped_fungus_3" },
+			{ "model": "block/potted/potted_warped_fungus_4" }
 		]
 	}
 }

@@ -1,6 +1,6 @@
-	{
-		"parent": "projecteden/decoration/plushies/player/standing/template_steve",
-		"textures": {
-			"0": "projecteden/decoration/plushies/player/players/0a2221e4-000c-4818-82ea-cd43df07f0d4"
-		}
+{
+	"parent": "projecteden/decoration/plushies/player/standing/template_steve",
+	"textures": {
+		"0": "projecteden/decoration/plushies/player/players/0a2221e4-000c-4818-82ea-cd43df07f0d4"
 	}
+}

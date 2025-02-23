@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 21121,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/flora/orange_gladiolus_item",
+		"tints": []
+	}
+}

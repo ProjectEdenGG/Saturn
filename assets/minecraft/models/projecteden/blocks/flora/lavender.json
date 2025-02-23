@@ -1,6 +1,0 @@
-{
-	"parent": "projecteden/blocks/flora/templates/cross",
-	"textures": {
-		"cross": "projecteden/blocks/flora/lavender"
-	}
-}

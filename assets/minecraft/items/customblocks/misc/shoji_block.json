@@ -1,0 +1,9 @@
+{
+	"old_base_material": "paper",
+	"old_custom_model_data": 20122,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/misc/shoji_block",
+		"tints": []
+	}
+}
