@@ -239,6 +239,11 @@
 			{ "name": "custom/misc/bonk" }
 		]
 	},
+	"custom.misc.shrek": {
+		"sounds": [
+			{ "name": "custom/misc/shrek" }
+		]
+	},
 	"custom.misc.heartbeat": {
 		"subtitle": "Heart beats",
 		"sounds": [
