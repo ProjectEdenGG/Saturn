@@ -1,11 +1,22 @@
 @echo off
 setlocal enabledelayedexpansion
 
+echo [INFO] Starting optimization process...
+
+REM --all Support
+if "%1"=="--all" (
+    echo [INFO] Running on all files recursively...
+    for /r %%i in (*.png) do (
+        set /a index+=1
+        echo [DEBUG] File index !index!: %%~i
+        call :process_file "%%~i"
+    )
+    goto :done
+)
+
 REM Temporary file for storing file list
 set "tempFile=%TEMP%\filelist.txt"
 del "%tempFile%" >nul 2>&1
-
-echo [INFO] Starting optimization process...
 
 REM Generate the file list
 (
