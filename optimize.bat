@@ -11,7 +11,7 @@ if "%1"=="--all" (
         echo [DEBUG] File index !index!: %%~i
         call :process_file "%%~i"
     )
-    goto :done
+    goto :eof
 )
 
 REM Temporary file for storing file list
