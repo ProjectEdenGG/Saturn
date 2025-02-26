@@ -14,7 +14,7 @@ public class Armor {
 	final List<String> SLOTS = List.of("boots", "chestplate", "helmet", "leggings");
 	final List<String> ORDER = List.of(
 			"wither", "warden", "berserker", "brown_berserk", "copper", "cobalt", "druid", "hellfire", "jarl",
-			"mythril", "tank", "thor", "wizard", "wolf", "fishing"
+			"mythril", "tank", "thor", "wizard", "wolf", "fishing", "8bit"
 	);
 
 	final String MODEL_TEMPLATE = """
