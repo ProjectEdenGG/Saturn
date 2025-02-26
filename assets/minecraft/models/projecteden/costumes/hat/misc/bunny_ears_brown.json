@@ -2,6 +2,7 @@
 	"textures": {
 		"particle": "projecteden/costumes/bunny_ears_brown"
 	},
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [9, 0, 7],
@@ -49,6 +50,10 @@
 		},
 		"ground": {
 			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [15, -152, 0],
+			"translation": [0, 2.75, 0]
 		},
 		"head": {
 			"translation": [0, 14.5, 0]
