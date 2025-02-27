@@ -6,49 +6,72 @@ import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.List;
-
-import static java.nio.file.StandardOpenOption.CREATE;
-import static java.nio.file.StandardOpenOption.TRUNCATE_EXISTING;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class Armor {
 	final List<String> SLOTS = List.of("boots", "chestplate", "helmet", "leggings");
 	final List<String> ORDER = List.of(
 			"wither", "warden", "berserker", "brown_berserk", "copper", "cobalt", "druid", "hellfire", "jarl",
-			"mythril", "tank", "thor", "wizard", "wolf", "fishing"
+			"mythril", "tank", "thor", "wizard", "wolf", "fishing", "8bit"
 	);
 
 	final String MODEL_TEMPLATE = """
-		{
-			"parent": "projecteden/items/armor/template_armor",
-			"textures": {
-				"0": "projecteden/items/armor/%s/%s"
-			}
+	{
+		"parent": "projecteden/items/skins/armor/template_armor",
+		"textures": {
+			"0": "projecteden/items/skins/armor/%s/%s"
 		}
+	}
 	""";
 
-	final String OVERRIDE_TEMPLATE = """
-		{"predicate": {"custom_model_data": %s}, "model": "projecteden/items/armor/%s/%s"}
+	final String BIG_MODEL_TEMPLATE = """
+	{
+		"parent": "projecteden/ui/gui/tool_modification/template_icon_big",
+		"textures": {
+			"skin": "projecteden/items/skins/armor/%s/%s"
+		}
+	}
 	""";
 
-	private static final Path MODELS_PATH = Paths.get("src/main/resources/armor/templates/models");
-	private static final File TEXTURES_FOLDER = Paths.get("assets/minecraft/textures/projecteden/items/armor").toFile();
+	final String ITEM_TEMPLATE = """
+	{
+		"old_base_material": "leather_%s",
+		"old_custom_model_data": %d,
+		"model": {
+			"type": "minecraft:model",
+			"model": "projecteden/items/skins/armor/%s/%s",
+			"tints": []
+		}
+	}
+	""";
 
-	private static final String ITEM_MODEL_OUTPUT_PATH = "assets/minecraft/models/item/leather_%s.json";
-	private static final File LAYER_OUTPUT_FOLDER = Paths.get("assets/minecraft/textures/models/armor").toFile();
-	private static final String MODEL_OUTPUT_PATH = "assets/minecraft/models/projecteden/items/armor/%s/%s.json";
+	final String BIG_ITEM_TEMPLATE = """
+	{
+		"model": {
+			"type": "minecraft:model",
+			"model": "projecteden/items/skins/armor/%s/big/%s",
+			"tints": []
+		}
+	}
+	""";
+
+	private static final File TEXTURES_FOLDER = Paths.get("assets/minecraft/textures/projecteden/items/skins/armor").toFile();
+
+	private static final File LAYER_1_OUTPUT_FOLDER = Paths.get("assets/minecraft/textures/entity/equipment/humanoid").toFile();
+	private static final File LAYER_2_OUTPUT_FOLDER = Paths.get("assets/minecraft/textures/entity/equipment/humanoid_leggings").toFile();
+
+	private static final String MODEL_OUTPUT_PATH = "assets/minecraft/models/projecteden/items/skins/armor/%s/%s.json";
+	private static final String BIG_MODEL_OUTPUT_PATH = "assets/minecraft/models/projecteden/items/skins/armor/%s/big/%s.json";
+	private static final String ITEM_OUTPUT_PATH = "assets/minecraft/items/skins/armor/%s/%s.json";
+	private static final String BIG_ITEM_OUTPUT_PATH = "assets/minecraft/items/skins/armor/%s/big/%s.json";
 
 	@Test
 	@SneakyThrows
 	void run() {
 		generateLeatherLayers();
-		createModelFiles();
-		createOverrides();
+		createItemAndModelFiles();
 		printEnumValues();
 	}
 
@@ -66,35 +89,29 @@ public class Armor {
 				graphics.drawImage(image, 0, 32 * index++, null);
 			}
 
-			ImageUtils.write(combined, LAYER_OUTPUT_FOLDER, "leather_" + layerFile);
+			File output = layer == 1 ? LAYER_1_OUTPUT_FOLDER : LAYER_2_OUTPUT_FOLDER;
+			ImageUtils.write(combined, output, "leather.png");
 		}
 	}
 
-	private void createModelFiles() {
-		for (var type : ORDER)
-			for (var slot : SLOTS)
-				IOUtils.fileWrite(MODEL_OUTPUT_PATH.formatted(type, slot), (writer, outputs) ->
-						outputs.add(MODEL_TEMPLATE.formatted(type, slot)));
-	}
-
-	private void createOverrides() throws IOException {
-		for (var slot : SLOTS) {
-			var modelId = 1;
-			var overrides = new ArrayList<String>();
-			for (var type : ORDER)
-				overrides.add(OVERRIDE_TEMPLATE.formatted(modelId++, type, slot));
-			final String template = Files.readString(MODELS_PATH.resolve("leather_" + slot + ".json")).replace("__OVERRIDES__", String.join(",\n\t\t", overrides));
-			final Path path = Paths.get(ITEM_MODEL_OUTPUT_PATH.formatted(slot));
-			path.toFile().getParentFile().mkdirs();
-			Files.write(path, template.getBytes(), CREATE, TRUNCATE_EXISTING);
+	private void createItemAndModelFiles() {
+		var index = new AtomicInteger(1);
+		for (var type : ORDER) {
+			for (var slot : SLOTS) {
+				IOUtils.fileWrite(MODEL_OUTPUT_PATH.formatted(type, slot), (writer, outputs) -> outputs.add(MODEL_TEMPLATE.formatted(type, slot)));
+				IOUtils.fileWrite(BIG_MODEL_OUTPUT_PATH.formatted(type, slot), (writer, outputs) -> outputs.add(BIG_MODEL_TEMPLATE.formatted(type, slot)));
+				IOUtils.fileWrite(ITEM_OUTPUT_PATH.formatted(type, slot), (writer, outputs) -> outputs.add(ITEM_TEMPLATE.formatted(slot, index.get(), type, slot)));
+				IOUtils.fileWrite(BIG_ITEM_OUTPUT_PATH.formatted(type, slot), (writer, outputs) -> outputs.add(BIG_ITEM_TEMPLATE.formatted(type, slot)));
+			}
+			index.getAndIncrement();
 		}
 	}
 
 	private void printEnumValues() {
-		var modelId = 1;
-		System.out.println("CustomArmorType enum:");
+		System.out.println("public enum CustomArmorType {");
 		for (var type : ORDER)
-			System.out.printf("\t%s(%d),%n", type.toUpperCase(), modelId++);
+			System.out.printf("\t%s(\"skins/armor/%s\"),%n", type.toUpperCase(), type.toLowerCase());
+		System.out.println("\t;");
 	}
 
 }

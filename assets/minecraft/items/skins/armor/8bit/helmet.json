@@ -1,0 +1,9 @@
+{
+	"old_base_material": "leather_helmet",
+	"old_custom_model_data": 16,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/armor/8bit/helmet",
+		"tints": []
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"old_base_material": "leather_leggings",
+	"old_custom_model_data": 16,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/armor/8bit/leggings",
+		"tints": []
+	}
+}
