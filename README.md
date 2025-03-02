@@ -7,4 +7,3 @@ To install locally, use our Fabric mod [Titan](https://github.com/ProjectEdenGG/
 [<img src="https://discordapp.com/api/guilds/132680070480396288/widget.png?style=banner3">](https://discord.projecteden.gg)
 
 or @wakka
-.
