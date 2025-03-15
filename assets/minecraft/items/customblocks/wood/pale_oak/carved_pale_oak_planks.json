@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/wood/pale_oak/carved_pale_oak_planks",
+		"tints": []
+	}
+}
