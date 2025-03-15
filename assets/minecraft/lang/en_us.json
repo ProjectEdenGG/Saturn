@@ -23,7 +23,7 @@
 	"enchantment.nexus.energizing": "Energizing",
 	"enchantment.nexus.firework": "Firework",
 	"enchantment.nexus.glowing": "Glowing",
-	"enchantment.nexus.ice_aspect": "Ice Aspect",
+	"enchantment.nexus.frost_aspect": "Frost Aspect",
 	"enchantment.nexus.magnet": "Magnet",
 	"enchantment.nexus.soulbound": "Soulbound",
 	"enchantment.nexus.thor": "Thor",
@@ -33,5 +33,8 @@
 	"enchantment.nexus.gears": "Gears",
 	"enchantment.nexus.graceful_step": "Graceful Step",
 	"enchantment.nexus.orbseeker": "Orbseeker",
-	"enchantment.nexus.bounty": "Bounty"
+	"enchantment.nexus.bounty": "Bounty",
+	"enchantment.nexus.midas_carrots": "Midas' Carrots",
+	"enchantment.nexus.plough": "Plough",
+	"enchantment.nexus.demeter": "Demeter"
 }
