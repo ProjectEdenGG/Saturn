@@ -117,7 +117,7 @@
 		"instrument=bass,note=16,powered=false":[{"model":"projecteden/customblocks/template/16"}],
 		"instrument=bass,note=17,powered=false":[{"model":"projecteden/customblocks/template/17"}],
 		"instrument=bass,note=18,powered=false":[{"model":"projecteden/customblocks/template/18"}],
-		"instrument=bass,note=19,powered=false":[{"model":"projecteden/customblocks/template/19"}],
+		"instrument=bass,note=19,powered=false":[{"model":"projecteden/customblocks/misc/flowering_moss_block"}],
 		"instrument=bass,note=20,powered=false":[{"model":"projecteden/customblocks/misc/wireframe"}],
 		"instrument=bass,note=21,powered=false":[{"model":"projecteden/customblocks/misc/hazard_block"}],
 		"instrument=bass,note=22,powered=false":[{"model":"projecteden/customblocks/misc/shoji_block"}],
