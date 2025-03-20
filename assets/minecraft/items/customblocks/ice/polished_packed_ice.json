@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/ice/polished_packed_ice",
+		"tints": []
+	}
+}

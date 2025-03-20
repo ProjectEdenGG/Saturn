@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/customblocks/ice/chiseled_snow_bricks",
+		"tints": []
+	}
+}
