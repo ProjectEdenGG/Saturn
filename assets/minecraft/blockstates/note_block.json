@@ -31,7 +31,7 @@
 		"instrument=banjo,note=4,powered=true":[{"model":"projecteden/customblocks/ice/packed_ice_bricks"}],
 		"instrument=banjo,note=5,powered=true":[{"model":"projecteden/customblocks/ice/polished_packed_ice"}],
 		"instrument=banjo,note=6,powered=true":[{"model":"projecteden/customblocks/ice/chiseled_packed_ice_bricks"}],
-		"instrument=banjo,note=7,powered=true":[{"model":"projecteden/customblocks/misc/untextured"}],
+		"instrument=banjo,note=7,powered=true":[{"model":"projecteden/customblocks/ice/permafrost"}],
 		"instrument=banjo,note=8,powered=true":[{"model":"projecteden/customblocks/misc/untextured"}],
 		"instrument=banjo,note=9,powered=true":[{"model":"projecteden/customblocks/misc/untextured"}],
 		"instrument=banjo,note=10,powered=true":[{"model":"projecteden/customblocks/misc/untextured"}],
