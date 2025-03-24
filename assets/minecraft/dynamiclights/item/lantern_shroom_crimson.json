@@ -1,0 +1,9 @@
+{
+	"match": {
+		"items": "minecraft:paper",
+		"components": {
+		  "item_model": "customblocks/lanterns/crimson_lantern"
+		}
+	},
+	"luminance": 10
+}

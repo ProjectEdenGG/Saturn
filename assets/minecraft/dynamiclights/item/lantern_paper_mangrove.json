@@ -1,0 +1,9 @@
+{
+	"match": {
+		"items": "minecraft:paper",
+		"components": {
+		  "item_model": "customblocks/lanterns/paper/mangrove_paper_lantern"
+		}
+	},
+	"luminance": 10
+}

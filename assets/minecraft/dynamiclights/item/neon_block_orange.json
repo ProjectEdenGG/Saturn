@@ -1,0 +1,9 @@
+{
+	"match": {
+		"items": "minecraft:paper",
+		"components": {
+		  "item_model": "customblocks/neon/orange"
+		}
+	},
+	"luminance": 10
+}
