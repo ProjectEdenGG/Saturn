@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/profile/coupon/zebra",
+		"tints": []
+	}
+}
