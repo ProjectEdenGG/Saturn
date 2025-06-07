@@ -1943,6 +1943,13 @@
 			"ascent":12,
 			"height":256,
 			"chars":["皂"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/gui/blank_1.png",
+			"ascent":19,
+			"height":128,
+			"chars":["启"]
 		}
 	]
 }
