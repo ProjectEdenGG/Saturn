@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+
 	"parent": "projecteden/ui/crates/vote/template",
 	"texture_size": [64, 64],
 	"textures": {
