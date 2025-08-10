@@ -1948,8 +1948,43 @@
 			"type":"bitmap",
 			"file":"projecteden/font/gui/blank_1.png",
 			"ascent":19,
-			"height":128,
+			"height":256,
 			"chars":["启"]
-		}
+		},
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/blank_2.png",
+            "ascent":19,
+            "height":256,
+            "chars":["婆"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/blank_3.png",
+            "ascent":19,
+            "height":256,
+            "chars":["扌"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/blank_4.png",
+            "ascent":19,
+            "height":256,
+            "chars":["汀"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/blank_5.png",
+            "ascent":19,
+            "height":256,
+            "chars":["洌"]
+        },
+        {
+            "type":"bitmap",
+            "file":"projecteden/font/gui/blank_6.png",
+            "ascent":19,
+            "height":256,
+            "chars":["渌"]
+        }
 	]
 }
