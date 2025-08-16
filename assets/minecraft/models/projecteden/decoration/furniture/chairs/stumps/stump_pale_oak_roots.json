@@ -1,0 +1,7 @@
+{
+	"parent": "projecteden/decoration/furniture/chairs/stumps/template_stump_roots",
+	"textures": {
+		"0": "block/pale_oak_log",
+		"1": "block/pale_oak_log_top"
+	}
+}
