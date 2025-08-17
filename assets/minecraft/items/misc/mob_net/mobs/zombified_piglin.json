@@ -5,6 +5,5 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/mob_net/mobs/zombified_piglin",
 		"tints": []
-	},
-	"oversized_in_gui": true
+	}
 }

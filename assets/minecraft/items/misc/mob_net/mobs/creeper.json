@@ -5,6 +5,5 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/mob_net/mobs/creeper",
 		"tints": []
-	},
-	"oversized_in_gui": true
+	}
 }
