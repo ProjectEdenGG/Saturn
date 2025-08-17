@@ -1,7 +1,8 @@
 {
-  "model": {
+	"model": {
 		"type": "minecraft:model",
 		"model": "projecteden/events/air_balloon/template_1",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

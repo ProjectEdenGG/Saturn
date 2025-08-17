@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/christmas/fireplace_white_xmas",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

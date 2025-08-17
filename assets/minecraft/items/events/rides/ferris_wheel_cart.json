@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/events/rides/ferris_wheel_cart",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

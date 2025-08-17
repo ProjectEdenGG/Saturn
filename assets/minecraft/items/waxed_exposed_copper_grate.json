@@ -1,6 +1,7 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "projecteden/items/vanilla/waxed_exposed_copper_grate"
-  }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/vanilla/waxed_exposed_copper_grate"
+	},
+	"oversized_in_gui": true
 }

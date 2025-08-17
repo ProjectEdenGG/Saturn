@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/costumes/hat/misc/walrus",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/gui/profile/coupon/cats",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

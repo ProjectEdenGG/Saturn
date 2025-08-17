@@ -1,6 +1,7 @@
 {
-    "model": {
-        "type": "minecraft:model",
-        "model": "projecteden/items/skins/tools/sculk/big/shovel"
-    }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/tools/sculk/big/shovel"
+	},
+	"oversized_in_gui": true
 }

@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/plushies/mob/axolotl_wild_hanging",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

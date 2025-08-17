@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/customblocks/stones/andesite/andesite_bricks",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

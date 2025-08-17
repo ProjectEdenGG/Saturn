@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/costumes/hat/misc/bunny_ears_black",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -1,6 +1,7 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "projecteden/items/vanilla/waxed_weathered_cut_copper"
-  }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/vanilla/waxed_weathered_cut_copper"
+	},
+	"oversized_in_gui": true
 }

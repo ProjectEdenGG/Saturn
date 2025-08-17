@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/skins/armor/wolf/big/chestplate",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

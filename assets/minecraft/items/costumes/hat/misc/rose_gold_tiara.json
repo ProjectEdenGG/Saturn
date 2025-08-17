@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/costumes/hat/misc/rose_gold_tiara",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

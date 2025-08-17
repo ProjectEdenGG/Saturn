@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/skins/armor/tank/big/helmet",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

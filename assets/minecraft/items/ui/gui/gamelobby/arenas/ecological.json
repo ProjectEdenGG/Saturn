@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/gui/gamelobby/arenas/ecological",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

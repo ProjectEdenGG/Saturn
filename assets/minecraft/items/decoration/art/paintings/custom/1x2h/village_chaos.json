@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/art/paintings/custom/1x2h/village_chaos",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

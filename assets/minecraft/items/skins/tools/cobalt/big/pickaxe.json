@@ -1,6 +1,7 @@
 {
-    "model": {
-        "type": "minecraft:model",
-        "model": "projecteden/items/skins/tools/cobalt/big/pickaxe"
-    }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/tools/cobalt/big/pickaxe"
+	},
+	"oversized_in_gui": true
 }

@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/wither_fragment",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

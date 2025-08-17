@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/decoration/counter_stone",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

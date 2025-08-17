@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/kitchenware/jars/skull",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/events/bearfair21/present_cube_2",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

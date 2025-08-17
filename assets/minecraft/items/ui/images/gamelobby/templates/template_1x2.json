@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/images/gamelobby/templates/template_1x2",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/paper_lantern_triple",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

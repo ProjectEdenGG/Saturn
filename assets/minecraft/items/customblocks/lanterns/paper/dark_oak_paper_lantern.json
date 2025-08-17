@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/customblocks/lanterns/paper/dark_oak_paper_lantern",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

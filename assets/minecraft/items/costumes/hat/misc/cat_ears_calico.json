@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/costumes/hat/misc/cat_ears_calico",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

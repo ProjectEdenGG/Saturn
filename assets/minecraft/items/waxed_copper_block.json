@@ -1,6 +1,7 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "projecteden/items/vanilla/waxed_copper_block"
-  }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/vanilla/waxed_copper_block"
+	},
+	"oversized_in_gui": true
 }

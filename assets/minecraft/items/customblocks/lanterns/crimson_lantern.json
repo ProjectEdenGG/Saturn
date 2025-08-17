@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/customblocks/lanterns/crimson_lantern",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

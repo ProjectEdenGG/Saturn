@@ -1,7 +1,8 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "projecteden/functional/invis_item_frame",
-    "tints": []
-  }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/functional/invis_item_frame",
+		"tints": []
+	},
+	"oversized_in_gui": true
 }

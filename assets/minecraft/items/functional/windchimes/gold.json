@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/functional/windchimes/gold",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

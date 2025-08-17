@@ -1,6 +1,7 @@
 {
-    "model": {
-        "type": "minecraft:model",
-        "model": "projecteden/items/skins/tools/8bit/big/axe"
-    }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/tools/8bit/big/axe"
+	},
+	"oversized_in_gui": true
 }

@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/costumes/hat/misc/bunny_ears_spotted",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

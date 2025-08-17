@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/signs/avontyre/base/masonry",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/images/storegallery/info/your_perks",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

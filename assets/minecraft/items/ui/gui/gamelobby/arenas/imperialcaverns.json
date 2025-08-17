@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/gui/gamelobby/arenas/imperialcaverns",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

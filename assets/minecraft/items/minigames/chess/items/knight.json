@@ -1,6 +1,7 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "projecteden/minigames/chess/items/knight"
-  }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/minigames/chess/items/knight"
+	},
+	"oversized_in_gui": true
 }

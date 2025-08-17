@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/plushies/player/dabbing/86d7e0e2-c95e-4f22-8f99-a6e83b398307",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "minecraft:item/note_block",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

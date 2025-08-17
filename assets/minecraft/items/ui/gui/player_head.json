@@ -1,12 +1,13 @@
 {
 	"old_base_material": "player_head",
 	"old_custom_model_data": 2,
-    "model": {
-      "type": "minecraft:special",
-      "base": "projecteden/ui/gui/player_head",
-      "model": {
-        "type": "minecraft:head",
-        "kind": "player"
-      }
-    }
+	"model": {
+		"type": "minecraft:special",
+		"base": "projecteden/ui/gui/player_head",
+		"model": {
+			"type": "minecraft:head",
+			"kind": "player"
+		}
+	},
+	"oversized_in_gui": true
 }

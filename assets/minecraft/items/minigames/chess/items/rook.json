@@ -1,6 +1,7 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "projecteden/minigames/chess/items/rook"
-  }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/minigames/chess/items/rook"
+	},
+	"oversized_in_gui": true
 }

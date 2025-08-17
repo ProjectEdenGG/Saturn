@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/gui/info",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

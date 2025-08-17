@@ -1,6 +1,7 @@
 {
-    "model": {
-        "type": "minecraft:model",
-        "model": "projecteden/items/skins/tools/cherry/big/fishing_rod"
-    }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/tools/cherry/big/fishing_rod"
+	},
+	"oversized_in_gui": true
 }

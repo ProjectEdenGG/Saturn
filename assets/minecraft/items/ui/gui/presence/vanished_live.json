@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/gui/presence/vanished_live",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

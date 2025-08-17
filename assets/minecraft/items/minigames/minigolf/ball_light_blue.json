@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/minigames/minigolf/ball_light_blue",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

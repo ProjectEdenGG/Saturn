@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/gui/coins/platinum_coins_5",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

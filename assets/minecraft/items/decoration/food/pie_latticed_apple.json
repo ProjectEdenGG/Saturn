@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/food/pie_latticed_apple",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

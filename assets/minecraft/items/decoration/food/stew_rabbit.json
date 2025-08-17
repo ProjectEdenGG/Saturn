@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/food/stew_rabbit",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

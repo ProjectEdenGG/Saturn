@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/furniture/chairs/stumps/stump_mangrove_roots",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

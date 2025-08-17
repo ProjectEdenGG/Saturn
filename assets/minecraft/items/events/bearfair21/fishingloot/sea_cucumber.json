@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/events/bearfair21/fishingloot/sea_cucumber",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

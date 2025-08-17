@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/flags/medieval/4",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

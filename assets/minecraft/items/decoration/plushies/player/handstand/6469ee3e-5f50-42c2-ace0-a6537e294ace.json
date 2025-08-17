@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/plushies/player/handstand/6469ee3e-5f50-42c2-ace0-a6537e294ace",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

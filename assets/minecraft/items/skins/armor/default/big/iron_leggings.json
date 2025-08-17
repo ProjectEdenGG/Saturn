@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/skins/armor/default/big/iron_leggings",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

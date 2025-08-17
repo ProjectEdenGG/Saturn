@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/customblocks/rocks/pebbles_1",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

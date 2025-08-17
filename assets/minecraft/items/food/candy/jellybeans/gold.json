@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/food/candy/jellybeans/gold",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

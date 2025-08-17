@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/customblocks/rocks/rocks_item",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

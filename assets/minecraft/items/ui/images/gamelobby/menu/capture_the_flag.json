@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/ui/images/gamelobby/menu/capture_the_flag",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

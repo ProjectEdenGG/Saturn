@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/skins/armor/8bit/big/leggings",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

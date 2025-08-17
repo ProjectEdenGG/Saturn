@@ -3,5 +3,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/items/skins/armor/default/big/netherite_boots",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

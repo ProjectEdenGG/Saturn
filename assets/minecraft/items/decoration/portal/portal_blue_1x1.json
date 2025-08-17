@@ -5,5 +5,6 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/portal/portal_blue_1x1",
 		"tints": []
-	}
+	},
+	"oversized_in_gui": true
 }

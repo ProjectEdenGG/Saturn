@@ -1,6 +1,7 @@
 {
-    "model": {
-        "type": "minecraft:model",
-        "model": "projecteden/items/skins/tools/default/big/stone_pickaxe"
-    }
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/tools/default/big/stone_pickaxe"
+	},
+	"oversized_in_gui": true
 }
