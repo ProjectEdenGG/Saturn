@@ -3,6 +3,5 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/plushies/player/funko_pop/1d70383f-21ba-4b8b-a0b4-6c327fbdade1",
 		"tints": []
-	},
-	"oversized_in_gui": true
+	}
 }

@@ -3,6 +3,5 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/plushies/player/t_pose/79f66fc9-a975-4043-8b6d-b4823182de62",
 		"tints": []
-	},
-	"oversized_in_gui": true
+	}
 }

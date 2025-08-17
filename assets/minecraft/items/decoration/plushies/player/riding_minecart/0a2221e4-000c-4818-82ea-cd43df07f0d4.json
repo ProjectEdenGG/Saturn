@@ -3,6 +3,5 @@
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/plushies/player/riding_minecart/0a2221e4-000c-4818-82ea-cd43df07f0d4",
 		"tints": []
-	},
-	"oversized_in_gui": true
+	}
 }
