@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "minecraft:8bit" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "minecraft:8bit" }
+		]
+	}
+}

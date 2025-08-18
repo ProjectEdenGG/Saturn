@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "minecraft:fishing" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "minecraft:fishing" }
+		]
+	}
+}

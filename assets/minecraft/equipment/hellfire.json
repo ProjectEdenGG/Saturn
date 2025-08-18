@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "minecraft:hellfire" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "minecraft:hellfire" }
+		]
+	}
+}

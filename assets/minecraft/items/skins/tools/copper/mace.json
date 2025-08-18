@@ -1,8 +1,0 @@
-{
-	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/items/skins/tools/copper/mace",
-		"tints": []
-	},
-	"oversized_in_gui": true
-}
