@@ -5,8 +5,7 @@
 		"type": "minecraft:special",
 		"base": "projecteden/decoration/player_head_block",
 		"model": {
-			"type": "minecraft:head",
-			"kind": "player"
+			"type": "minecraft:player_head"
 		}
 	},
 	"oversized_in_gui": true

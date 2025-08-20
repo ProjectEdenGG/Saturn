@@ -5,8 +5,7 @@
 		"type": "minecraft:special",
 		"base": "projecteden/costumes/hat/misc/large_player_head",
 		"model": {
-			"type": "minecraft:head",
-			"kind": "player"
+			"type": "minecraft:player_head"
 		}
 	},
 	"oversized_in_gui": true

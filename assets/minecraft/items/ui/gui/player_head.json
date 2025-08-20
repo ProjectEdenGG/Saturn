@@ -5,8 +5,7 @@
 		"type": "minecraft:special",
 		"base": "projecteden/ui/gui/player_head",
 		"model": {
-			"type": "minecraft:head",
-			"kind": "player"
+			"type": "minecraft:player_head"
 		}
 	},
 	"oversized_in_gui": true
