@@ -6,5 +6,6 @@
 		"model": "projecteden/costumes/hand/misc/flower_bracelet_alex",
 		"tints": []
 	},
-	"oversized_in_gui": true
+	"oversized_in_gui": true,
+	"hand_animation_on_swap": false
 }

@@ -6,5 +6,6 @@
 		"model": "projecteden/costumes/hand/misc/snail_tiny",
 		"tints": []
 	},
-	"oversized_in_gui": true
+	"oversized_in_gui": true,
+	"hand_animation_on_swap": false
 }
