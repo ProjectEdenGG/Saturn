@@ -1,6 +1,6 @@
 {
-	"parent": "projecteden/items/skins/armor/template_armor",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"0": "projecteden/items/skins/armor/wizard/boots"
+		"layer0": "projecteden/items/skins/armor/wizard/boots"
 	}
 }
