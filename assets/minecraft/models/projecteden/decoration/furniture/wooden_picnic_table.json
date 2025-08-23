@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "projecteden/decoration/dyeable/wooden_set_1_oak",
-		"particle": "projecteden/decoration/dyeable/wooden_set_1_oak"
+		"0": "projecteden/decoration/dyeable/wooden_set_1",
+		"particle": "projecteden/decoration/dyeable/wooden_set_1"
 	},
 	"elements": [
 		{
@@ -293,28 +293,38 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0.15, 0.15, 0.15]
+			"translation": [0, 0.75, 0],
+			"scale": [0.16016, 0.16016, 0.16016]
 		},
 		"thirdperson_lefthand": {
-			"scale": [0.15, 0.15, 0.15]
+			"translation": [0, 0.75, 0],
+			"scale": [0.16016, 0.16016, 0.16016]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 145, 0],
+			"rotation": [-8.5, 0, -5.5],
 			"translation": [0, 2.5, 0],
-			"scale": [0.25, 0.25, 0.25]
+			"scale": [0.19336, 0.19336, 0.19336]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 145, 0],
+			"rotation": [-8.5, 0, -5.5],
 			"translation": [0, 2.5, 0],
-			"scale": [0.25, 0.25, 0.25]
+			"scale": [0.19336, 0.19336, 0.19336]
 		},
 		"ground": {
-			"scale": [0.25, 0.25, 0.25]
+			"translation": [0, 2.25, 0],
+			"scale": [0.21289, 0.21289, 0.21289]
+		},
+		"gui": {
+			"rotation": [32.25, -19, 0],
+			"scale": [0.24609, 0.24609, 0.24609]
+		},
+		"head": {
+			"translation": [0, 0, 0.25]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [-32, 33, -16],
-			"scale": [2, 2, 2]
+			"translation": [0, 0, -14],
+			"scale": [1.8125, 1.8125, 1.8125]
 		}
 	},
 	"groups": [
