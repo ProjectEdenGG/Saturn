@@ -1,5 +1,5 @@
 {
-	"parent": "projecteden/decoration/tv_flat_screen/template",
+	"parent": "projecteden/decoration/electronics/tv_flat_screen/template",
 	"elements": [
 		{
 			"name": "screen",
