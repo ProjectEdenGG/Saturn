@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/electronics/tv_flat_screen/bee_movie",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
