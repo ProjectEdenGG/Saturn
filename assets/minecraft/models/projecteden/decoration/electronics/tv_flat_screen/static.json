@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"parent": "projecteden/decoration/electronics/tv_flat_screen/template",
 	"texture_size": [96, 96],
 	"textures": {
@@ -10,7 +11,7 @@
 			"from": [-16, 0, 8],
 			"to": [32, 32, 9],
 			"faces": {
-				"north": {"uv": [0, 0, 11.5, 7.5], "texture": "#1"},
+				"north": {"uv": [0, 0, 12, 8], "texture": "#1"},
 				"east": {"uv": [7.83333, 0, 8, 5.33333], "texture": "#0"},
 				"south": {"uv": [0, 0, 0.16667, 0.16667], "texture": "#0"},
 				"west": {"uv": [0, 0, 0.16667, 5.33333], "texture": "#0"},
