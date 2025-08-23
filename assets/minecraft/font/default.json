@@ -1876,7 +1876,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "projecteden/font/decoration/toggleable.png",
+			"file": "projecteden/font/decoration/cyclable.png",
 			"ascent": 7,
 			"height": 9,
 			"chars": ["腈"]
