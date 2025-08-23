@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "block/texture",
-		"particle": "block/texture"
+		"0": "projecteden/decoration/jerrycan",
+		"particle": "projecteden/decoration/jerrycan"
 	},
 	"elements": [
 		{
