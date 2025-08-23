@@ -2,7 +2,16 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/electronics/arcade_machine",
-		"tints": []
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": [
+					0.627,
+					0.396,
+					0.250
+				]
+			}
+		]
 	},
 	"oversized_in_gui": true
 }
