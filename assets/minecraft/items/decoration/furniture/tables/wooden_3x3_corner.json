@@ -1,7 +1,7 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/decoration/furniture/tables/wooden_1x3_corner",
+		"model": "projecteden/decoration/furniture/tables/wooden_3x3_corner",
 		"tints": [
 			{
 				"type": "minecraft:dye",
