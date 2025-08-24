@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/misc/giant_fire",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
