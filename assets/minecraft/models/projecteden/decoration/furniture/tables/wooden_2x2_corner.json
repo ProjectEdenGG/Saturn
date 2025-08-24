@@ -299,11 +299,13 @@
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
-			"translation": [4.75, 0, 0.5],
+			"rotation": [0, 90, 0],
+			"translation": [-4.5, 0, -5.25],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"translation": [-1.75, 0, 0.5],
+			"rotation": [0, 180, 0],
+			"translation": [1, 0, 1.25],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
