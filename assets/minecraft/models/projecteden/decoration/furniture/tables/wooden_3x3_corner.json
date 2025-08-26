@@ -342,23 +342,23 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [68, 0, 0],
-			"translation": [-0.5, -4.25, -1.25],
+			"rotation": [68, 90, 0],
+			"translation": [-6, 6.5, -5.25],
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [68, 0, 0],
-			"translation": [0.5, -4.25, -1.25],
+			"rotation": [68, -180, 0],
+			"translation": [-6, 6.75, -5.25],
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -180, 0],
-			"translation": [1, 0, 1.25],
+			"rotation": [0, 90, 0],
+			"translation": [-3.5, 0, 1],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -180, 0],
-			"translation": [1, 0, 1.25],
+			"translation": [-3.5, 0, 1],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
