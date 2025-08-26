@@ -1,0 +1,6 @@
+{
+    "parent": "projecteden/decoration/mcmmo/trophy/template/mace",
+	"textures": {
+		"2": "projecteden/decoration/mcmmo/trophy_bronze"
+	}
+}
