@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/survival/mcmmoreset/trophy/bronze/alchemy",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}

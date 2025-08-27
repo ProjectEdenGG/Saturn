@@ -1,0 +1,6 @@
+{
+    "parent": "projecteden/survival/mcmmoreset/trophy/template/unarmed",
+	"textures": {
+		"2": "projecteden/survival/mcmmoreset/trophy_gold"
+	}
+}

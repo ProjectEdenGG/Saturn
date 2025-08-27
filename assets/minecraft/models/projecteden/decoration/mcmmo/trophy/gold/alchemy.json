@@ -1,6 +1,0 @@
-{
-    "parent": "projecteden/decoration/mcmmo/trophy/template/alchemy",
-	"textures": {
-		"2": "projecteden/decoration/mcmmo/trophy_gold"
-	}
-}

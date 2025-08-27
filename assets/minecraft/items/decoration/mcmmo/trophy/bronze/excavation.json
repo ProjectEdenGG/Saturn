@@ -1,8 +1,0 @@
-{
-	"model": {
-		"type": "minecraft:model",
-		"model": "projecteden/decoration/mcmmo/trophy/bronze/excavation",
-		"tints": []
-	},
-	"oversized_in_gui": true
-}

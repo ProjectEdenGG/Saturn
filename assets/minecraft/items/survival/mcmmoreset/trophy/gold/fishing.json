@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/survival/mcmmoreset/trophy/gold/fishing",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
