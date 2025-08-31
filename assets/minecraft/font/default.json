@@ -1375,6 +1375,14 @@
 		},
 		{
 			"type":"bitmap",
+			"file":"projecteden/font/emojis/twemoji/gear_white.png",
+			"purchasable": false,
+			"height":7,
+			"ascent":7,
+			"chars":["糖"]
+		},
+		{
+			"type":"bitmap",
 			"file":"projecteden/font/emojis/twemoji/golf.png",
 			"purchasable": true,
 			"height":7,
