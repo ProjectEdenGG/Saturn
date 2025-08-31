@@ -1,6 +1,6 @@
-	{
-		"parent": "projecteden/decoration/plushies/player/funko_pop_admin/template_steve",
-		"textures": {
-			"0": "projecteden/decoration/plushies/player/players/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"
-		}
+{
+	"parent": "projecteden/decoration/plushies/player/funko_pop_admin/template_steve",
+	"textures": {
+		"0": "projecteden/decoration/plushies/player/players/56cb00fd-4738-47bc-be08-cb7c4f9a5a94"
 	}
+}
