@@ -9,9 +9,9 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"minecraft:projecteden/font/profile_title.png",
+			"file":"minecraft:projecteden/font/daydream_font.png",
 			"ascent":9,
-			"height":18,
+			"height":26,
 			"chars":["abcdefghijklmnopqrstuvwxyz0123456789_&'"]
 		},
 		{
