@@ -11,7 +11,7 @@
 			"type":"bitmap",
 			"file":"minecraft:projecteden/font/font_type/daydream.png",
 			"ascent":9,
-			"height":26,
+			"height":29,
 			"chars":["abcdefghijklmnopqrstuvwxyz0123456789_&'"]
 		},
 		{
