@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/profile/icon_font",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
