@@ -9,10 +9,10 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"minecraft:projecteden/font/font_type/daydream.png",
+			"file":"minecraft:projecteden/font/font_type/digital.png",
 			"ascent":9,
-			"height":26,
-			"chars":["abcdefghijklmnopqrstuvwxyz0123456789_&'"]
+			"height":11,
+			"chars":["abcdefghijklmnopqrstuvwxyz0123456789_"]
 		},
 		{
 			"type":"bitmap",

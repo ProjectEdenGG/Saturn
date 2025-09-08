@@ -9,7 +9,7 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"minecraft:projecteden/font/blocky_font.png",
+			"file":"minecraft:projecteden/font/font_type/blocky.png",
 			"ascent":9,
 			"height":18,
 			"chars":["abcdefghijklmnopqrstuvwxyz0123456789_&'"]
