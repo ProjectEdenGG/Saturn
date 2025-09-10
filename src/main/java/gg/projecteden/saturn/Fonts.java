@@ -14,7 +14,7 @@ import java.util.List;
 
 public class Fonts {
 	//
-	private static final String FONT_FILE_NAME = "digital";
+	private static final String FONT_FILE_NAME = "cottontail";
 	private static final String FONT_FOLDER_BRANDING = "E:/workspace/branding/saturn/font/";
 	//
 
