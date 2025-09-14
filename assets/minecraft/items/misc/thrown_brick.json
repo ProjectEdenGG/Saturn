@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/misc/thrown_brick",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
