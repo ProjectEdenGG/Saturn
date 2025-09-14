@@ -1912,6 +1912,13 @@
 			"chars": ["香"]
 		},
 		{
+            "type": "bitmap",
+            "file": "projecteden/font/decoration/exclusive.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": ["爟"]
+        },
+		{
 			"type": "bitmap",
 			"file": "projecteden/font/decoration/tool.png",
 			"ascent": 7,
