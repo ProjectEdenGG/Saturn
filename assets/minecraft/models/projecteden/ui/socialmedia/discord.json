@@ -715,8 +715,8 @@
 			"translation": [0, -1, 0]
 		},
 		"head": {
-			"translation": [0, -11, 8.75],
-			"scale": [1.21, 1.21, 1.21]
+			"translation": [0, -2.75, 0],
+			"scale": [1.01859, 1.01859, 1.01859]
 		},
 		"fixed": {
 			"translation": [0, -1.5, 12],
