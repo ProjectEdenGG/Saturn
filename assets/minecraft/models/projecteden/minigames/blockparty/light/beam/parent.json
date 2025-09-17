@@ -1,0 +1,38 @@
+{
+    "texture_size": [128, 128],
+    "textures": {
+      "0": "projecteden/minigames/blockparty/beam",
+      "particle": "projecteden/minigames/blockparty/beam"
+    },
+    "display": {
+      "thirdperson_lefthand": {
+        "rotation": [-90, 0, 0],
+        "translation": [-6, 19, 0],
+        "scale": [2, 2, 3.44]
+      },
+      "firstperson_righthand": {
+        "rotation": [0, -161, 0],
+        "translation": [8.75, 0, 0]
+      },
+      "firstperson_lefthand": {
+        "rotation": [0, -161, 0],
+        "translation": [8.75, 0, 0]
+      },
+      "ground": {
+        "translation": [0, 65.75, 0],
+        "scale": [1, 4, 1]
+      },
+      "gui": {
+        "rotation": [-90, 0, 0],
+        "scale": [1.17, 1, 0.33]
+      },
+      "head": {
+        "rotation": [-91, 0, 0]
+      },
+      "fixed": {
+        "rotation": [-90, 0, 0],
+        "translation": [0, 0, -80],
+        "scale": [2, 4, 2]
+      }
+    }
+}
