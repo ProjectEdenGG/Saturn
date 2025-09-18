@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "projecteden/minigames/blockparty/studio_light",
