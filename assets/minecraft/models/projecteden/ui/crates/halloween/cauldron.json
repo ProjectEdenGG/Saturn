@@ -223,6 +223,7 @@
 		{
 			"from": [0, 18.05, 0],
 			"to": [16, 18.05, 16],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 7, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 0], "texture": "#missing"},
@@ -314,5 +315,11 @@
 				"south": {"uv": [5, 4.5, 6, 5.5], "texture": "#0", "tintindex": 0}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
 }
