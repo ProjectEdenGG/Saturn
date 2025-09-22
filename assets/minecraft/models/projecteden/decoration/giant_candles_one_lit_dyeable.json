@@ -1,0 +1,122 @@
+{
+	"format_version": "1.21.6",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "projecteden/decoration/dyeable/giant_candles_lit_dyeable",
+		"1": "projecteden/misc/flame",
+		"particle": "projecteden/decoration/dyeable/giant_candles_lit_dyeable"
+	},
+	"elements": [
+		{
+			"name": "dyeable",
+			"from": [4, 0, 4],
+			"to": [12, 15.75, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 8], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 0, 4, 8], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 4, 8], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 4, 8], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [4, 8.5, 0, 12.5], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "dyeable",
+			"from": [3.75, 10, 3.75],
+			"to": [12.25, 16, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 5, 9, 8], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [4.5, 5, 9, 8], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [4.5, 5, 9, 8], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [4.5, 5, 9, 8], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [9, 4.5, 4.5, 0], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "dyeable",
+			"from": [7.428, 16, 8.10159],
+			"to": [8.478, 18, 8.10159],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8.103, 17, 8.10159]},
+			"faces": {
+				"north": {"uv": [15.5, 0, 16, 0.5], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [15.5, 0, 16, 0.5], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "dyeable",
+			"from": [7.428, 16, 7.88192],
+			"to": [8.478, 18, 7.88192],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.103, 17, 7.88192]},
+			"faces": {
+				"north": {"uv": [15.5, 0, 16, 0.5], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [15.5, 0, 16, 0.5], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "dyeable",
+			"from": [7.73483, 16, 7.89017],
+			"to": [8.48483, 18, 7.89017],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.10983, 17, 7.89017]},
+			"faces": {
+				"north": {"uv": [15.5, 15, 16, 16], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [15.5, 15, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "flame",
+			"from": [5.97193, 18, 7.98799],
+			"to": [10.02193, 23, 7.98799],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.99693, 20.5, 7.98799]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "flame",
+			"from": [5.97193, 18, 7.98799],
+			"to": [10.02193, 23, 7.98799],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.99693, 20.5, 7.98799]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.25, -1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.25, -1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 22.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 22.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [22.5, 45, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"translation": [0, 13, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
