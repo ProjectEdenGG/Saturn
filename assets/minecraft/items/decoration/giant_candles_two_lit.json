@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/giant_candles_two_lit",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
