@@ -1974,6 +1974,13 @@
 			"height":256,
 			"chars":["皂"]
 		},
+        {
+          "type":"bitmap",
+          "file":"projecteden/font/gui/crates/halloween.png",
+          "ascent":12,
+          "height":256,
+          "chars":["灿"]
+        },
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/blank_1.png",
