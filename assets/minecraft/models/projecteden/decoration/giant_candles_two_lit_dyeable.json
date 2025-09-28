@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "projecteden/decoration/dyeable/giant_candles_lit_dyeable",
 		"1": "projecteden/misc/flame",
+		"2": "projecteden/misc/flame_offset_2",
 		"particle": "projecteden/decoration/dyeable/giant_candles_lit_dyeable"
 	},
 	"elements": [
@@ -111,8 +112,8 @@
 			"to": [13.02193, 18, 4.98799],
 			"rotation": {"angle": -45, "axis": "y", "origin": [10.99693, 15.5, 4.98799]},
 			"faces": {
-				"north": {"uv": [0, 0, 8, 8], "texture": "#1"},
-				"south": {"uv": [0, 0, 8, 8], "texture": "#1"}
+				"north": {"uv": [0, 0, 8, 8], "texture": "#2"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#2"}
 			}
 		},
 		{
@@ -121,8 +122,8 @@
 			"to": [13.02193, 18, 4.98799],
 			"rotation": {"angle": 45, "axis": "y", "origin": [10.99693, 15.5, 4.98799]},
 			"faces": {
-				"north": {"uv": [0, 0, 8, 8], "texture": "#1"},
-				"south": {"uv": [0, 0, 8, 8], "texture": "#1"}
+				"north": {"uv": [0, 0, 8, 8], "texture": "#2"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#2"}
 			}
 		},
 		{
