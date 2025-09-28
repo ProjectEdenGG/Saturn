@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/decoration/art/graffiti/pride",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
