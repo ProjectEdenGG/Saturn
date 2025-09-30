@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/costumes/hat/armor/bone",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}

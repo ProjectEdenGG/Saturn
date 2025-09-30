@@ -1,0 +1,10 @@
+{
+	"old_base_material": "leather_boots",
+	"old_custom_model_data": 16,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/armor/bone/boots",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}

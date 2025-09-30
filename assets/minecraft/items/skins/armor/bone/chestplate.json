@@ -1,0 +1,10 @@
+{
+	"old_base_material": "leather_chestplate",
+	"old_custom_model_data": 16,
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/skins/armor/bone/chestplate",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
