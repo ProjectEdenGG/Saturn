@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/events/halloween25/spirit_halloween_left",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
