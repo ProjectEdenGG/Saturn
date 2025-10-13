@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/costumes/hat/misc/seuss",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
