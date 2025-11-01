@@ -1,5 +1,5 @@
 {
-	"parent": "projecteden/decoration/plushies/player/standing/template_alex",
+	"parent": "projecteden/decoration/plushies/player/standing/template_steve",
 	"textures": {
 		"0": "projecteden/decoration/plushies/player/players/1450eb3c-f1ec-4061-98b3-7857dad8f00d"
 	}
