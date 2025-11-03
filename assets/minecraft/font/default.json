@@ -1766,6 +1766,20 @@
 		},
 		{
 			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/white_box_rounded.png",
+			"height":11,
+			"ascent":9,
+			"chars":["爅"]
+		},
+		{
+			"type":"bitmap",
+			"file":"projecteden/font/emojis/custom/white_box_rounded.png",
+			"height":7,
+			"ascent":7,
+			"chars":["焯"]
+		},
+		{
+			"type":"bitmap",
 			"file":"projecteden/font/gui/smelting_recipe.png",
 			"ascent":13,
 			"height":128,
