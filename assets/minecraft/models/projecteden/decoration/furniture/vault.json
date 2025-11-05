@@ -1,8 +1,9 @@
 {
+	"format_version": "1.21.6",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/texture",
-		"particle": "block/texture"
+		"0": "projecteden/decoration/furniture/vault",
+		"particle": "projecteden/decoration/furniture/vault"
 	},
 	"elements": [
 		{
