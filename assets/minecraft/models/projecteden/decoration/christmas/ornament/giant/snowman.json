@@ -1,0 +1,10 @@
+{
+    "parent": "projecteden/decoration/christmas/ornament/snowman",
+	"display": {
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -20],
+			"scale": [4, 4, 4]
+		}
+	}
+}
