@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"5": "projecteden/decoration/christmas/present_bow",
-		"6": "projecteden/decoration/christmas/presents_2",
+		"6": "projecteden/events/pugmas25/presents_2",
 		"particle": "projecteden/decoration/christmas/present_bow"
 	},
 	"elements": [
