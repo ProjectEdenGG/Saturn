@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"texture_size": [64, 64],
 	"textures": {
-		"5": "projecteden/decoration/christmas/present_bow",
+		"5": "projecteden/events/pugmas25/present_bow",
 		"6": "projecteden/events/pugmas25/presents_2",
-		"particle": "projecteden/decoration/christmas/present_bow"
+		"particle": "projecteden/events/pugmas25/present_bow"
 	},
 	"elements": [
 		{
