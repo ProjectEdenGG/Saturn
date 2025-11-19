@@ -139,14 +139,14 @@
 		},
         {
             "type":"bitmap",
-            "file":"projecteden/font/gui/pugmas/pugmas24_advent_1.png",
+            "file":"projecteden/font/gui/pugmas/pugmas25_advent_1.png",
             "ascent":19,
             "height":256,
             "chars":["辉"]
         },
         {
             "type":"bitmap",
-            "file":"projecteden/font/gui/pugmas/pugmas24_advent_2.png",
+            "file":"projecteden/font/gui/pugmas/pugmas25_advent_2.png",
             "ascent":19,
             "height":256,
             "chars":["煓"]
