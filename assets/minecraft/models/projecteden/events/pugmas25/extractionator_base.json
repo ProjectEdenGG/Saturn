@@ -3,6 +3,7 @@
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "projecteden/events/pugmas25/extractinator",
+		"1": "projecteden/vanilla/block/blast_furnace_front_on",
 		"particle": "projecteden/events/pugmas25/extractinator"
 	},
 	"elements": [
@@ -17,6 +18,30 @@
 				"west": {"uv": [7.75, 1.75, 8.875, 2.375], "texture": "#0"},
 				"up": {"uv": [7.75, 1.75, 6.625, 0.625], "texture": "#0"},
 				"down": {"uv": [8.875, 0.625, 7.75, 1.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 4, 0.975],
+			"to": [13, 7, 0.975],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.75, 6.5005, 7.725]},
+			"faces": {
+				"north": {"uv": [6, 8, 7, 11], "texture": "#1"}
+			}
+		},
+		{
+			"from": [10, 4, 0.975],
+			"to": [11, 7, 0.975],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.75, 6.5005, 7.725]},
+			"faces": {
+				"north": {"uv": [8, 8, 9, 11], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 4, 0.975],
+			"to": [9, 7, 0.975],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.75, 6.5005, 7.725]},
+			"faces": {
+				"north": {"uv": [10, 8, 11, 11], "texture": "#1"}
 			}
 		},
 		{
@@ -114,13 +139,13 @@
 			"name": "base",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5]
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		},
 		{
 			"name": "chimney",
 			"origin": [-4, 10, 6],
 			"color": 0,
-			"children": [6]
+			"children": [9]
 		}
 	]
 }
