@@ -1,0 +1,8 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "projecteden/events/fishing/mud_flounder",
+        "tints": []
+    },
+    "oversized_in_gui": true
+}

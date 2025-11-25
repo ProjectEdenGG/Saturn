@@ -1,0 +1,8 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "projecteden/events/fishing/illager_ghostfish",
+        "tints": []
+    },
+    "oversized_in_gui": true
+}

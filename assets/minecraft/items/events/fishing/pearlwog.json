@@ -1,0 +1,8 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "projecteden/events/fishing/pearlwog",
+        "tints": []
+    },
+    "oversized_in_gui": true
+}

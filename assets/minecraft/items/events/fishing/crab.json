@@ -1,0 +1,8 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "projecteden/events/fishing/crab",
+        "tints": []
+    },
+    "oversized_in_gui": true
+}

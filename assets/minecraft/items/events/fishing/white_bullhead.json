@@ -1,0 +1,8 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "projecteden/events/fishing/white_bullhead",
+        "tints": []
+    },
+    "oversized_in_gui": true
+}

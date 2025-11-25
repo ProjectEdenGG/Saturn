@@ -1,0 +1,8 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "projecteden/events/fishing/congo_tiger_fish",
+        "tints": []
+    },
+    "oversized_in_gui": true
+}
