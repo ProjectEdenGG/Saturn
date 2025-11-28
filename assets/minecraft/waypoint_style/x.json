@@ -2,8 +2,8 @@
     "near_distance": 8,
     "far_distance": 64,
     "sprites": [
-      "minecraft:x",
-      "minecraft:x_small",
-      "minecraft:x_tiny"
+      "minecraft:x_0",
+      "minecraft:x_1",
+      "minecraft:x_2"
     ]
 }
