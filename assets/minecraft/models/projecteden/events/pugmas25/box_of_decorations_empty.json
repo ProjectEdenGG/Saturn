@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "projecteden/events/pugmas25/box_of_decorations_empty"
+    }
+}
