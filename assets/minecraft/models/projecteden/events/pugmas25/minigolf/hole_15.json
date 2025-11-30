@@ -1,0 +1,6 @@
+{
+    "parent": "projecteden/events/pugmas25/minigolf/hole_1",
+    "textures": {
+        "layer0": "projecteden/events/pugmas25/minigolf/hole_15"
+    }
+}

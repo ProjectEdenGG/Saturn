@@ -1,0 +1,14 @@
+{
+	"format_version": "1.21.6",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "projecteden/events/pugmas25/minigolf/hole_1"
+	},
+	"gui_light": "front",
+	"display": {
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [1.8, 1.8, 1.8]
+		}
+	}
+}
