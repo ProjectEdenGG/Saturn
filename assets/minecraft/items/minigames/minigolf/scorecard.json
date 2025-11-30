@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/minigames/minigolf/scorecard",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
