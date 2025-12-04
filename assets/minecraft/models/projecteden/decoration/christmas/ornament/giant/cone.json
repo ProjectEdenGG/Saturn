@@ -5,6 +5,11 @@
 			"rotation": [90, 0, 0],
 			"translation": [0, 0, -28],
 			"scale": [4, 4, 4]
+		},
+        "gui": {
+			"rotation": [30, 135, 0],
+			"translation": [0, 1.75, 0],
+			"scale": [0.92, 0.92, 0.92]
 		}
 	}
 }
