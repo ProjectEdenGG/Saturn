@@ -2011,9 +2011,9 @@
         },
 		{
 			"type":"bitmap",
-			"file":"projecteden/font/gui/dark_book.png",
+			"file":"gui/book.png",
 			"ascent":20,
-			"height":350,
+			"height":370,
 			"chars":["艋"]
 		},
 		{
