@@ -1,9 +1,9 @@
 {
-	"old_base_material": "leather_boots",
+	"old_base_material": "leather_chestplate",
 	"old_custom_model_data": 2,
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/items/skins/armor/warden/boots",
+		"model": "projecteden/items/skins/armor/sculk/chestplate",
 		"tints": []
 	},
 	"oversized_in_gui": true

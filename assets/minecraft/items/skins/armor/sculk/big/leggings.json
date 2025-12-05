@@ -1,7 +1,7 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "projecteden/items/skins/armor/warden/big/helmet",
+		"model": "projecteden/items/skins/armor/sculk/big/leggings",
 		"tints": []
 	},
 	"oversized_in_gui": true
