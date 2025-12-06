@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "projecteden/items/skins/armor/sculk/template"
+		"layer0": "projecteden/items/skins/tools/sculk/template"
 	}
 }
