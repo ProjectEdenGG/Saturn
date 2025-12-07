@@ -137,20 +137,20 @@
 			"height":256,
 			"chars":["勹"]
 		},
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/pugmas/pugmas25_advent_1.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["辉"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/pugmas/pugmas25_advent_2.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["煓"]
-	  },
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/pugmas/pugmas25_advent_1.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["辉"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/pugmas/pugmas25_advent_2.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["煓"]
+		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/dye_station/dye_station.png",
@@ -187,11 +187,11 @@
 			"chars":["顼"]
 		},
 		{
-		  "type": "bitmap",
-		  "file": "projecteden/font/gui/profile/testing.png",
-		  "ascent": 19,
-		  "height": 256,
-		  "chars": ["溺"]
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/testing.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["溺"]
 		},
 		{
 			"type":"bitmap",
@@ -222,54 +222,54 @@
 			"chars":["臭"]
 		},
 		{
-		  "type": "bitmap",
-		  "file": "projecteden/font/gui/profile/textures/circuit.png",
-		  "ascent": 19,
-		  "height": 256,
-		  "chars": ["糊"]
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/textures/circuit.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["糊"]
+			},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/textures/gingham.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["癃"]
 		},
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/profile/textures/gingham.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["癃"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/profile/textures/zebra.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["硅"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/profile/textures/hearts.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["臜"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/profile/images/cats.png",
-		"ascent": 63,
-		"height": 256,
-		"chars": ["诅"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/profile/images/birthday.png",
-		"ascent": 63,
-		"height": 256,
-		"chars": ["孟"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/profile/images/bees.png",
-		"ascent": 63,
-		"height": 256,
-		"chars": ["脒"]
-	  },
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/textures/zebra.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["硅"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/textures/hearts.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["臜"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/images/cats.png",
+			"ascent": 63,
+			"height": 256,
+			"chars": ["诅"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/images/birthday.png",
+			"ascent": 63,
+			"height": 256,
+			"chars": ["孟"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/profile/images/bees.png",
+			"ascent": 63,
+			"height": 256,
+			"chars": ["脒"]
+		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/profile/icons/icon_helmet.png",
@@ -480,7 +480,7 @@
 			"height":127,
 			"chars":["簏"]
 		},
-	  {
+		{
 			"type":"bitmap",
 			"file":"projecteden/font/emojis/custom/seedling.png",
 			"height":9,
@@ -1790,13 +1790,13 @@
 			"ascent":7,
 			"chars":["焯"]
 		},
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/emojis/custom/connect4.png",
-		"height": 7,
-		"ascent": 7,
-		"chars": ["耀"]
-	  },
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/emojis/custom/connect4.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["耀"]
+		},
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/smelting_recipe.png",
@@ -1945,11 +1945,11 @@
 			"chars": ["香"]
 		},
 		{
-		  "type": "bitmap",
-		  "file": "projecteden/font/decoration/exclusive.png",
-		  "ascent": 7,
-		  "height": 9,
-		  "chars": ["爟"]
+			"type": "bitmap",
+			"file": "projecteden/font/decoration/exclusive.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": ["爟"]
 		},
 		{
 			"type": "bitmap",
@@ -2007,13 +2007,13 @@
 			"height":256,
 			"chars":["皂"]
 		},
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/crates/halloween.png",
-		"ascent": 12,
-		"height": 256,
-		"chars": ["灿"]
-	  },
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/crates/halloween.png",
+			"ascent": 12,
+			"height": 256,
+			"chars": ["灿"]
+		},
 		{
 			"type":"bitmap",
 			"file":"gui/book.png",
@@ -2028,40 +2028,40 @@
 			"height":256,
 			"chars":["启"]
 		},
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/blank_2.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["婆"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/blank_3.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["扌"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/blank_4.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["汀"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/blank_5.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["洌"]
-	  },
-	  {
-		"type": "bitmap",
-		"file": "projecteden/font/gui/blank_6.png",
-		"ascent": 19,
-		"height": 256,
-		"chars": ["渌"]
-	  }
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/blank_2.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["婆"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/blank_3.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["扌"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/blank_4.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["汀"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/blank_5.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["洌"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/blank_6.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["渌"]
+		}
 	]
 }
