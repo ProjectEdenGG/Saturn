@@ -151,7 +151,6 @@
 		"height": 256,
 		"chars": ["煓"]
 	  },
-
 		{
 			"type":"bitmap",
 			"file":"projecteden/font/gui/dye_station/dye_station.png",
@@ -250,13 +249,13 @@
 		"height": 256,
 		"chars": ["臜"]
 	  },
-		{
-		  "type": "bitmap",
-		  "file": "projecteden/font/gui/profile/images/cats.png",
-		  "ascent": 63,
-		  "height": 256,
-		  "chars": ["诅"]
-		},
+	  {
+		"type": "bitmap",
+		"file": "projecteden/font/gui/profile/images/cats.png",
+		"ascent": 63,
+		"height": 256,
+		"chars": ["诅"]
+	  },
 	  {
 		"type": "bitmap",
 		"file": "projecteden/font/gui/profile/images/birthday.png",
