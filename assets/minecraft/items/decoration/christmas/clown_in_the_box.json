@@ -1,0 +1,8 @@
+{
+  "model": {
+	"type": "minecraft:model",
+	"model": "projecteden/decoration/christmas/clown_in_the_box",
+	"tints": []
+  },
+  "oversized_in_gui": true
+}
