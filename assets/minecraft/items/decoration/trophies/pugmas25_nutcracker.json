@@ -2,16 +2,7 @@
 	"model": {
 		"type": "minecraft:model",
 		"model": "projecteden/decoration/trophies/pugmas25_nutcracker",
-		"tints": [
-            {
-                "type": "minecraft:dye",
-                "default": [
-                    0.627,
-                    0.396,
-                    0.250
-                ]
-            }
-        ]
+		"tints": []
 	},
 	"oversized_in_gui": true
 }
