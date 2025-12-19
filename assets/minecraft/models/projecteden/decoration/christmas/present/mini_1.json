@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "projecteden/decoration/christmas/present/mini_1",
@@ -386,8 +387,9 @@
 			"scale": [0.63281, 0.63281, 0.63281]
 		},
 		"gui": {
-			"rotation": [21, 145, 0],
-			"scale": [0.82813, 0.82813, 0.82813]
+			"rotation": [28, 148, 0],
+			"translation": [0, -1.75, 0],
+			"scale": [0.575, 0.575, 0.575]
 		},
 		"head": {
 			"translation": [0, -14.25, 0],

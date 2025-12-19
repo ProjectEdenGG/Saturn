@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"texture_size": [128, 128],
 	"textures": {
 		"1": "projecteden/decoration/christmas/present/short_double_1",
@@ -387,7 +388,7 @@
 		},
 		"gui": {
 			"rotation": [28, 148, 0],
-			"translation": [0, -0.25, 0],
+			"translation": [0, -1.75, 0],
 			"scale": [0.47461, 0.47461, 0.47461]
 		},
 		"head": {
