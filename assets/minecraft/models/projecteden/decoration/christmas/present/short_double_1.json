@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "projecteden/decoration/christmas/present/short_1",
-		"particle": "projecteden/decoration/christmas/present/short_1"
+		"1": "projecteden/decoration/christmas/present/short_double_1",
+		"particle": "projecteden/decoration/christmas/present/short_double_1"
 	},
 	"elements": [
 		{
