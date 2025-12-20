@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/items/coupons/painting",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
