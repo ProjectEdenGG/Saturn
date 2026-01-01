@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"projecteden/vanilla/item/iron_axe"},"display":{"gui":{"rotation":[180,180,0]},"fixed":{"rotation":[89.5,90,0],"translation":[0,-1.75,-9.25],"scale":[2,2,2]}}}
