@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/profile/badge/monthly_third",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}

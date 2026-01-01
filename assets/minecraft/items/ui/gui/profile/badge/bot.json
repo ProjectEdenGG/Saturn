@@ -1,0 +1,8 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/profile/badge/bot",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}

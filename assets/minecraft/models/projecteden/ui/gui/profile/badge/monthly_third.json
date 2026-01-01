@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "projecteden/font/emojis/twemoji/third_place_medal"
+	}
+}
