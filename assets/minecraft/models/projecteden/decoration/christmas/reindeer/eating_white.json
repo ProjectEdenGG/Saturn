@@ -461,7 +461,7 @@
 				"south": {"uv": [4.5, 5.75, 5.5, 6], "rotation": 90, "texture": "#1"},
 				"west": {"uv": [5.5, 5.75, 6.5, 6.5], "rotation": 90, "texture": "#1"},
 				"up": {"uv": [4.5, 6.25, 5.25, 6.5], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [0, 0, 22.24, 5.12], "rotation": 270, "texture": "#1"}
+				"down": {"uv": [11.76, 12.88, 16, 16], "rotation": 270, "texture": "#1"}
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 				"south": {"uv": [4.5, 6, 5.5, 5.75], "rotation": 90, "texture": "#1"},
 				"west": {"uv": [5.5, 6.5, 6.5, 5.75], "rotation": 90, "texture": "#1"},
 				"up": {"uv": [5.25, 6.25, 4.5, 6.5], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [22.24, 0, 0, 5.12], "rotation": 270, "texture": "#1"}
+				"down": {"uv": [16, 12.13, 9.01, 16], "rotation": 270, "texture": "#1"}
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 				"north": {"uv": [2, 5.75, 2.75, 6.5], "texture": "#1"},
 				"east": {"uv": [1, 5.75, 2, 6.5], "texture": "#1"},
 				"south": {"uv": [2.75, 5.75, 3.5, 6.5], "texture": "#1"},
-				"west": {"uv": [0, 0, 12.8, 22.24], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [10.95, 12.76, 16, 16], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [0, 5.75, 1, 6.5], "rotation": 270, "texture": "#1"},
 				"down": {"uv": [0, 5.75, 1, 6.5], "rotation": 270, "texture": "#1"}
 			}
@@ -523,7 +523,7 @@
 				"north": {"uv": [2, 5.75, 2.25, 6.5], "rotation": 90, "texture": "#1"},
 				"east": {"uv": [1, 5.75, 2, 6], "texture": "#1"},
 				"south": {"uv": [2, 5.75, 2.25, 6.5], "rotation": 270, "texture": "#1"},
-				"west": {"uv": [0, 0, 12.8, 22.24], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [11.95, 13.01, 16, 16], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [0.75, 6.5, 1.75, 7.25], "rotation": 270, "texture": "#1"},
 				"down": {"uv": [0, 5.75, 1, 6.5], "rotation": 270, "texture": "#1"}
 			}
@@ -545,7 +545,7 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, -395, 0],
+			"rotation": [0, -35, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
@@ -571,17 +571,20 @@
 		{
 			"name": "Front Legs",
 			"origin": [17.81847, 8, 17.13281],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Left Leg",
 					"origin": [17.81847, 8, 13.13281],
+					"scope": 0,
 					"color": 0,
 					"children": [0, 1, 2]
 				},
 				{
 					"name": "Right Leg",
 					"origin": [17.81847, 8, 17.13281],
+					"scope": 0,
 					"color": 0,
 					"children": [3, 4, 5]
 				}
@@ -590,17 +593,20 @@
 		{
 			"name": "Back Legs",
 			"origin": [1.56847, 10.5, 10.63281],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Left Leg",
 					"origin": [5.44873, -2.23152, 7.63281],
+					"scope": 0,
 					"color": 0,
 					"children": [6, 7, 8, 9]
 				},
 				{
 					"name": "Right Leg",
 					"origin": [5.44873, -2.23152, 7.63281],
+					"scope": 0,
 					"color": 0,
 					"children": [10, 11, 12, 13]
 				}
@@ -609,38 +615,49 @@
 		{
 			"name": "Body",
 			"origin": [-0.29361, 12.57716, 8.13281],
+			"scope": 0,
 			"color": 0,
 			"children": [14, 15, 16]
 		},
 		{
 			"name": "Neck",
 			"origin": [11.98326, 13.88311, 8.13281],
+			"scope": 0,
 			"color": 0,
 			"children": [17, 18, 19, 20]
 		},
 		{
 			"name": "Head",
 			"origin": [13.67229, 24.33343, 8.14131],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				{
 					"name": "Antler Left",
 					"origin": [14.10162, 29.36087, 6.62676],
+					"scope": 0,
 					"color": 0,
 					"children": [21, 22, 23, 24, 25, 26, 27]
 				},
 				{
 					"name": "Antler Right",
 					"origin": [14.10162, 29.36087, 6.62676],
+					"scope": 0,
 					"color": 0,
 					"children": [28, 29, 30, 31, 32, 33, 34]
 				},
 				{
 					"name": "Ears",
 					"origin": [10.92837, 25.47, 7.88006],
+					"scope": 0,
 					"color": 0,
 					"children": [35, 36]
-				}, 37, 38, 39, 40]
+				},
+				37,
+				38,
+				39,
+				40
+			]
 		}
 	]
 }
