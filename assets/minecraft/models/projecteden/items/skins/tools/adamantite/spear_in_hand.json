@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "projecteden/items/skins/tools/adamantite/spear_in_hand"
+  }
+}
