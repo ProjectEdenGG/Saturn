@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "entity/minecart",
-		"particle": "entity/minecart"
+		"0": "projecteden/items/minecart",
+		"particle": "projecteden/items/minecart"
 	},
 	"elements": [
 		{

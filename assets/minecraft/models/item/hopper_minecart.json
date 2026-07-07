@@ -2,7 +2,7 @@
 	"textures": {
 		"2": "block/hopper_inside",
 		"3": "block/hopper_top",
-		"minecart": "entity/minecart",
+		"minecart": "projecteden/items/minecart",
 		"furnace_front": "block/hopper_outside",
 		"particle": "block/hopper_inside"
 	},
