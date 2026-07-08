@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"minecart": "entity/minecart",
+		"minecart": "projecteden/items/minecart",
 		"tnt_side": "block/tnt_side",
 		"tnt_top": "block/tnt_top"
 	},
