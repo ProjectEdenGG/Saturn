@@ -1,0 +1,7 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/ui/gui/tool_modification/stattrack_outline"
+	},
+	"oversized_in_gui": true
+}
