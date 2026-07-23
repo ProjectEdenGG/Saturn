@@ -1,0 +1,1 @@
+{"model":{"cases":[{"model":{"model":"projecteden/items/skins/tools/8bit/spear","type":"minecraft:model"},"when":["gui","ground","fixed","on_shelf"]}],"fallback":{"model":"projecteden/items/skins/tools/8bit/spear_in_hand","type":"minecraft:model"},"property":"minecraft:display_context","type":"minecraft:select"},"swap_animation_scale":1.95}

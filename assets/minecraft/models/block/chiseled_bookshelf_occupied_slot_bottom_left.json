@@ -1,0 +1,1 @@
+{"elements":[{"faces":{"north":{"cullface":"north","texture":"#book","uv":[1,9,5,15]},"west":{"texture":"#ends","uv":[0,10,3,16]}},"from":[11,1,0],"to":[15,7,6]}],"texture_size":[32,16],"textures":{"book":"block/chiseled_bookshelf_occupied","ends":"block/chiseled_bookshelf_book_ends"}}

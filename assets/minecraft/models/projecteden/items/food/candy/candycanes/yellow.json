@@ -1,0 +1,1 @@
+{"display":{"fixed":{"rotation":[-90,0,46],"scale":[1.75,1.75,1.75],"translation":[-0.25,-0.25,-15.25]},"head":{"rotation":[-108,-90.75,27],"scale":[0.5,0.5,0.5],"translation":[0.75,-5.75,-10.5]}},"gui_light":"front","parent":"minecraft:item/handheld","textures":{"layer0":"projecteden/items/food/candy/candycanes/yellow"}}
