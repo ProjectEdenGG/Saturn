@@ -1,8 +1,8 @@
 {
 
 	"textures": {
-		"2": "quiver_texture",
-		"particle": "quiver_texture"
+		"2": "projecteden/survival/mcmmoreset/quiver",
+		"particle": "projecteden/survival/mcmmoreset/quiver"
 	},
 	"elements": [
 		{
