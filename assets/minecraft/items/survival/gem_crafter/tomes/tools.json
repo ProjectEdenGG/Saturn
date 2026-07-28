@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "projecteden/survival/gem_crafter/tomes/tools",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": 16777215
+      },
+      {
+        "type": "minecraft:constant",
+        "value": 16777215
+      },
+      {
+        "type": "minecraft:constant",
+        "value": 16777215
+      }
+    ]
+  }
+}
