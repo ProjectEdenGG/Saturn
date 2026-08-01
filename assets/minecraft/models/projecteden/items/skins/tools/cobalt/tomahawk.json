@@ -1,0 +1,6 @@
+{
+	"parent": "projecteden/survival/mcmmoreset/skills/axes/tomahawk_skin_template",
+	"textures": {
+		"layer0": "projecteden/items/skins/tools/cobalt/axe"
+	}
+}

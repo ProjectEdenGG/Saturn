@@ -1,0 +1,9 @@
+
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "projecteden/survival/mcmmoreset/skills/axes/tomahawks/netherite",
+		"tints": []
+	},
+	"oversized_in_gui": true
+}
