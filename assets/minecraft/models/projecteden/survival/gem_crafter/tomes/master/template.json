@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "projecteden/survival/gem_crafter/tomes/cover",
+    "layer1": "projecteden/survival/gem_crafter/tomes/cover_outline"
+  }
+}

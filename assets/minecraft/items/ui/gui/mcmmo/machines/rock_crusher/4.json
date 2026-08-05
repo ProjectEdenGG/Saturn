@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "projecteden/ui/gui/mcmmo/machines/rock_crusher/4",
+    "tints": []
+  },
+  "oversized_in_gui": true
+}

@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "projecteden/ui/gui/mcmmo/machines/sieve/6",
+    "tints": []
+  },
+  "oversized_in_gui": true
+}

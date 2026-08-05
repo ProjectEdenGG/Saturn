@@ -1,6 +1,0 @@
-{
-  "parent": "projecteden/survival/gem_crafter/tomes/template",
-  "textures": {
-    "layer2": "projecteden/survival/gem_crafter/tomes/spears"
-  }
-}

@@ -1,0 +1,6 @@
+{
+  "parent": "projecteden/ui/gui/mcmmo/machines/rock_crusher/template",
+  "textures": {
+    "0": "projecteden/ui/gui/mcmmo/machines/rock_crusher/1"
+  }
+}
