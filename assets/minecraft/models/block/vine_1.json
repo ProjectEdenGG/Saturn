@@ -1,0 +1,1 @@
+{"ambientocclusion":false,"elements":[{"faces":{"north":{"texture":"#0","tintindex":0,"uv":[0,0,8,12]},"south":{"texture":"#0","tintindex":0,"uv":[0,0,8,12]}},"from":[0,-8,15.2],"shade":false,"to":[16,16,15.2]}],"textures":{"0":"block/vinecustom","particle":"block/vine"}}

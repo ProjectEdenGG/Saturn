@@ -1,0 +1,1 @@
+{"model":{"on_false":{"model":"projecteden/items/skins/tools/mythril/fishing_rod","type":"minecraft:model"},"on_true":{"model":"projecteden/items/skins/tools/mythril/fishing_rod_cast","type":"minecraft:model"},"property":"minecraft:fishing_rod/cast","type":"minecraft:condition"},"old_base_material":"fishing_rod","old_custom_model_data":1008,"oversized_in_gui":true}

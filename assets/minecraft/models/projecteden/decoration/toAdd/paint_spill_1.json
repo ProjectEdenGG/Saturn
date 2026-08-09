@@ -1,0 +1,1 @@
+{"elements":[{"faces":{"down":{"texture":"#0","uv":[16,0,0,16]},"east":{"texture":"#0","uv":[0,0,8,0]},"north":{"texture":"#0","uv":[0,0,8,0]},"south":{"texture":"#0","uv":[0,0,8,0]},"up":{"texture":"#0","uv":[16,16,0,0]},"west":{"texture":"#0","uv":[0,0,8,0]}},"from":[0,0,0],"to":[16,0,16]}],"texture_size":[32,32],"textures":{"0":"paint_spill_1","particle":"paint_spill_1"}}

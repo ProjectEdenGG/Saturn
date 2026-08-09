@@ -1,0 +1,1 @@
+{"ambientocclusion":false,"elements":[{"faces":{"up":{"cullface":"up","texture":"#edge","uv":[7,7,9,9]}},"from":[7,16,7],"to":[9,16,9]},{"faces":{"down":{"cullface":"down","texture":"#edge","uv":[7,7,9,9]}},"from":[7,0,7],"rotation":{"angle":0,"axis":"y","origin":[8,-8,8]},"to":[9,0,9]}],"textures":{"edge":"block/iron_bars","particle":"block/iron_bars"}}

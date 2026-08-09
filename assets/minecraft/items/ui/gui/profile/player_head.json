@@ -1,0 +1,1 @@
+{"model":{"base":"minecraft:item/template_skull","model":{"type":"minecraft:player_head"},"transformation":{"left_rotation":[1,0,0,0],"right_rotation":[0,0,0,1],"scale":[2.5,2.5,2.5],"translation":[0.5,-0.5,0.5]},"type":"minecraft:special"},"old_base_material":"player_head","old_custom_model_data":4,"oversized_in_gui":true}
