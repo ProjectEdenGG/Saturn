@@ -1,0 +1,6 @@
+{
+  "parent": "projecteden/survival/mcmmoreset/orb/orb_aura_0",
+  "textures": {
+    "0": "projecteden/survival/mcmmoreset/orb/orb_aura_14"
+  }
+}
