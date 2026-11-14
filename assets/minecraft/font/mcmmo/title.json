@@ -1,0 +1,14 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "mcmmo/font.ttf",
+      "size": 20,
+      "oversample": 2.0,
+      "shift": [
+        0,
+        8
+      ]
+    }
+  ]
+}

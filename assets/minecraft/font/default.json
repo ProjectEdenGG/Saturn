@@ -2066,6 +2066,27 @@
 			"ascent": 19,
 			"height": 256,
 			"chars": ["数"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/mcmmo/items.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["舡"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/mcmmo/items_and_enchants.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["舾"]
+		},
+		{
+			"type": "bitmap",
+			"file": "projecteden/font/gui/mcmmo/main.png",
+			"ascent": 19,
+			"height": 256,
+			"chars": ["舸"]
 		}
 	]
 }

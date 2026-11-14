@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "projecteden/survival/mcmmoreset/skills/mining/explosive_device/denied",
+    "tints": []
+  },
+  "oversized_in_gui": true
+}

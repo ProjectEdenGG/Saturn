@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/tnt",
+  "textures": {
+    "side": "projecteden/survival/mcmmoreset/explosive_device/denied/side",
+    "top": "projecteden/survival/mcmmoreset/explosive_device/denied/top",
+    "bottom": "projecteden/survival/mcmmoreset/explosive_device/denied/bottom"
+  },
+  "display": {
+    "fixed": {
+      "scale": [1, 1, 1]
+    }
+  }
+}

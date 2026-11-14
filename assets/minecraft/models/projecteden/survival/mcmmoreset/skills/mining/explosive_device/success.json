@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/tnt",
+  "textures": {
+    "side": "projecteden/survival/mcmmoreset/explosive_device/success/side",
+    "top": "projecteden/survival/mcmmoreset/explosive_device/success/top",
+    "bottom": "projecteden/survival/mcmmoreset/explosive_device/success/bottom"
+  },
+  "display": {
+    "fixed": {
+      "scale": [1, 1, 1]
+    }
+  }
+}
