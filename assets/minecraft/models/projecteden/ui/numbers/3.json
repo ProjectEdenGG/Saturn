@@ -1,0 +1,1 @@
+{"elements":[{"faces":{"up":{"texture":"#particle","tintindex":0,"uv":[8,0.5,10,3.5]}},"from":[5.25,0,3.5],"name":"center","to":[10.75,0,12.5]}],"parent":"projecteden/ui/numbers/template"}

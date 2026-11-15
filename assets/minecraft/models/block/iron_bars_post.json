@@ -1,0 +1,1 @@
+{"ambientocclusion":false,"elements":[{"faces":{"east":{"texture":"#bars","uv":[14,0,12,16]},"north":{"texture":"#bars","uv":[4,0,2,16]},"south":{"texture":"#bars","uv":[2,0,4,16]},"west":{"texture":"#bars","uv":[9,0,7,16]}},"from":[6.9688,0,6.9688],"to":[9.0313,16,9.0313]}],"textures":{"bars":"block/iron_bars","edge":"block/iron_bars","particle":"block/iron_bars"}}
