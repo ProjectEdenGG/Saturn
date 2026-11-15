@@ -1,0 +1,15 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/mcmmo/pixel.png",
+      "height": 1,
+      "ascent": -11,
+      "chars": ["\uE100"]
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:mcmmo/spacing"
+    }
+  ]
+}
