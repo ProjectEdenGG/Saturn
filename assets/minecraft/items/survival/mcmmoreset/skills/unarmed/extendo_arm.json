@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "projecteden/survival/mcmmoreset/skills/unarmed/extendo_arm",
+    "tints": []
+  },
+  "oversized_in_gui": true
+}

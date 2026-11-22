@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "projecteden/survival/mcmmoreset/poseidons_trident_held"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-180, 110, -135],
+      "translation": [0, 1, 0.5],
+      "scale": [1.5, 1.5, 1.5]
+    },
+    "firstperson_righthand": {
+      "rotation": [-25, 90, 45],
+      "translation": [3, -1, 2],
+      "scale": [1.1, 1.1, 1.1]
+    }
+  }
+}

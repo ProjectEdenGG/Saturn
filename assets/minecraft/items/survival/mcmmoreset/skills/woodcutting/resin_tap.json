@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "projecteden/survival/mcmmoreset/skills/woodcutting/resin_tap",
+    "tints": []
+  },
+  "oversized_in_gui": true
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 90]
+		}
+	},
+	"textures": {
+		"layer0": "projecteden/survival/mcmmoreset/tomahawk_template"
+	}
+}

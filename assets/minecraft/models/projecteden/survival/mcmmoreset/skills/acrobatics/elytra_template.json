@@ -4,5 +4,8 @@
 		"thirdperson_righthand": {
 			"rotation": [0, 0, 90]
 		}
+	},
+	"textures": {
+		"layer0": "projecteden/survival/mcmmoreset/elytra_template"
 	}
 }

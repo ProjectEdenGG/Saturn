@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:fishing_rod/cast",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "projecteden/survival/mcmmoreset/skills/unarmed/grappling_hook"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "projecteden/survival/mcmmoreset/skills/unarmed/grappling_hook_cast"
+    }
+  },
+  "oversized_in_gui": true
+}
