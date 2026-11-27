@@ -1,0 +1,1 @@
+{"display":{"firstperson_righthand":{"rotation":[-25,90,45],"scale":[1.1,1.1,1.1],"translation":[3,-1,2]},"thirdperson_righthand":{"rotation":[-180,110,-135],"scale":[1.5,1.5,1.5],"translation":[0,1,0.5]}},"parent":"minecraft:item/generated","textures":{"layer0":"projecteden/survival/mcmmoreset/poseidons_trident_held"}}

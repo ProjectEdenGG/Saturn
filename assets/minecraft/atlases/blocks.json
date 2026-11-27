@@ -1,0 +1,1 @@
+{"sources":[{"prefix":"projecteden/","source":"projecteden","type":"directory"},{"prefix":"entity/chest_boat/","source":"entity/chest_boat","type":"directory"},{"prefix":"entity/boat/","source":"entity/boat","type":"directory"},{"resource":"entity/chest/normal","type":"single"},{"resource":"entity/minecart","type":"single"},{"resource":"entity/trident","type":"single"}]}
